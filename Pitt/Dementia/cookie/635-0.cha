@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00090602-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|17||
+@Media:	635-0, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	picture and tell me everything that you see happening here . 1777_5357
+%mor:	verb|picture-Fin-Imp-S cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|10|ROOT 2|3|CC 3|1|CONJ 4|3|IOBJ 5|3|OBJ 6|9|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|XCOMP 10|9|ADVMOD 11|1|PUNCT
+%wor:	picture 1777_2118 and 2941_3041 tell 3061_3262 me 3302_3362 everything 3523_3964 that 3985_4085 you 4125_4225 see 4326_4486 happening 4547_5048 here 5109_5357 .
+*INV:	everything that you see going on . 6234_7638
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+%wor:	everything 6234_6574 that 6594_6694 you 6714_6815 see 6895_7055 going 7136_7457 on 7537_7638 .
+*PAR:	well , the kid's standin(g) on a tilted stool gettin(g) cookies . 15048_21456
+%mor:	intj|well cm|cm det|the-Def-Art noun|kid~part|s verb|stand-Part-Pres-S adp|on det|a-Ind-Art verb|tilt-Part-Past-S noun|stool verb|get-Ger-S noun|cookie-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|12|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|6|ADVCL 12|11|OBJ 13|6|PUNCT
+%wor:	well 15048_15328 , the 17291_17371 kid's 17491_17731 standin(g) 17751_18272 on 18272_18392 a 18412_18432 tilted 18532_18973 stool 19033_19394 gettin(g) 20675_20956 cookies 20956_21456 .
+*PAR:	the water's runnin(g) out o(f) the sink . 28169_30819
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 28169_29152 water's 29172_29574 runnin(g) 29634_29995 out 29995_30056 o(f) 30056_30136 the 30136_30236 sink 30357_30819 .
+*PAR:	the girl has two different shoes on . 41703_43813
+%mor:	det|the-Def-Art noun|girl verb|have-Fin-Ind-Pres-S3 num|two adj|different-S1 noun|shoe-Plur-Acc adp|on .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|6|NUMMOD 5|6|AMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+%wor:	the 41703_41803 girl 41863_42123 has 42203_42443 two 42523_42683 different 42723_43084 shoes 43124_43484 on 43624_43813 .
+*PAR:	the stool is tilted . 53393_54813
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%wor:	the 53393_53492 stool 53633_54053 is 54153_54233 tilted 54313_54813 .
+*PAR:	(..) the cookie jar is not a jar it's [/] &-uh it's [/] it's a &-uh tin [/] tin [/] <tin thing> [//] tin dish or whatever . 71659_73681
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art noun|jar pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tin noun|dish cconj|or pron|whatever-Int-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|DET 7|14|ROOT 8|12|NSUBJ 9|12|COP 10|12|DET 11|12|COMPOUND 12|7|ACL-RELCL 13|14|CC 14|12|CONJ 15|7|PUNCT
+%wor:	the 71659_71839 cookie 71839_72119 jar 72139_72199 is 72199_72239 not 72239_72299 a 72299_72319 jar 72379_72459 it's 72479_72580 uh 72580_72680 it's 72680_72760 it's 72760_72840 a 72840_72860 uh 72880_72920 tin 72920_72980 tin 72980_73040 tin 73040_73100 thing 73100_73200 tin 73200_73260 dish 73260_73360 or 73360_73460 whatever 73460_73681 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

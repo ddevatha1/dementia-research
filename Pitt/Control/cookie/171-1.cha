@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00090783-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|female|Control||Participant|30||
+@Media:	171-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 260_840
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 260_840 there's the picture .
+*PAR:	well let's see . [+ exc] 5186_5622
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%wor:	well 5186_5326 let's 5346_5467 see 5507_5622 .
+*PAR:	the boy is taking cookies out of the cookie jar . 5673_8550
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|OBJ 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	the 5673_5827 boy 5907_6188 is 6288_6408 taking 6508_6889 cookies 6929_7269 out 7329_7469 of 7489_7549 the 7549_7610 cookie 7690_8030 jar 8050_8550 .
+*PAR:	and the little girl is laughing . 9485_10593
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	and the little 9485_9833 girl 9833_9913 is 10053_10093 laughing 10093_10593 .
+*PAR:	and the boy is falling off the stool . 10714_12645
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 10714_10814 the 10814_10874 boy 10914_11134 is 11134_11254 falling 11355_11635 off 11635_11715 the 11715_11795 stool 12176_12645 .
+*PAR:	and the mother's washing dishes . 12757_14219
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|washing-Ger noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	and 12757_12837 the 12837_12897 mother's 12917_13217 washing 13257_13718 dishes 13738_14219 .
+*PAR:	and the water is running over . 16143_16463
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 16143_16363 the 16363_16463 water is running over .
+*PAR:	and (..) I don't know whether the wind is blowing or not &=laughs . [+ exc] 25109_26729
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S cconj|or part|not .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|12|ROOT 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|12|CC 12|10|CONJ 13|5|PUNCT
+%wor:	and 25109_25169 I 25169_25189 don't 25229_25369 know 25369_25489 whether 25509_25689 the 25729_25789 wind 25789_25889 is 25889_25929 blowing 25929_26129 or 26149_26189 not 26229_26729 .
+*INV:	okay . 31421_31538
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 31421_31538 .
+@End

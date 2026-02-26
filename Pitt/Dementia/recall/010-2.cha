@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/a-00089828-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|male|ProbableAD||Participant|26||
+@Media:	010-2, audio
+@G:	George_Immediate
+*INV:	can you tell me what you can remember of the story ? 898462_900338
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|of det|the-Def-Art noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	can 898462_898582 you 898582_898642 tell 898682_898822 me 898822_898882 what 898942_899082 you 899122_899322 can 899322_899382 remember 899382_899762 of 899782_899862 the 899862_899922 story 899983_900338 ?
+*PAR:	yes , there was a man by the name of George Melanie who had a granddaughter . 900803_905186
+%mor:	intj|yes cm|cm pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|man adp|by det|the-Def-Art noun|name adp|of propn|George propn|Melanie pron|who-Rel verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|granddaughter-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|16|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|CASE 11|9|NMOD 12|11|FLAT 13|14|NSUBJ 14|11|ACL-RELCL 15|16|DET 16|14|OBJ 17|4|PUNCT
+%wor:	yes 900803_901123 , there 901203_901363 was 901383_901463 a 901504_901524 man 901584_901784 by 901844_901984 the 902004_902084 name 902124_902324 of 902344_902444 George 902524_902864 Melanie 902924_903405 who 904125_904225 had 904305_904485 a 904566_904586 granddaughter 904686_905186 .
+*PAR:	and he took her to the city for a visit . 905366_907528
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|to det|the-Def-Art noun|city adp|for det|a-Ind-Art noun|visit .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%wor:	and 905366_905446 he 905466_905526 took 905626_905806 her 905826_905926 to 905986_906067 the 906127_906207 city 906307_906547 for 906967_907107 a 907167_907187 visit 907247_907528 .
+*PAR:	and (.) she became frightened with [/] with the turbulence in the city . 908868_916711
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|with det|the-Def-Art noun|turbulence adp|in det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+%wor:	and 908868_909128 she 911429_911549 became 911669_912069 frightened 912149_912709 with 913470_913690 with 914350_914530 the 914610_914730 turbulence 915391_915931 in 915991_916051 the 916111_916191 city 916311_916711 .
+*PAR:	and &-uh they returned back to the country . 917472_920568
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|return-Fin-Ind-Past-P3 adv|back adp|to det|the-Def-Art noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	and 917472_917792 uh 917832_917872 they 919032_919172 returned 919232_919713 back 919733_919953 to 920053_920113 the 920173_920253 country 920293_920568 .
+*PAR:	he took her back to the country . 920693_921934
+%mor:	pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adv|back adp|to det|the-Def-Art noun|country .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|ADVMOD 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	he 920693_920733 took 920793_920933 her 920953_921033 back 921073_921253 to 921313_921373 the 921413_921494 country 921534_921934 .
+*INV:	+< mhm . 922775_922777
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 922775_922777 .
+*PAR:	okay ? [+ exc] 922835_923314
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 922835_923314 ?
+*INV:	mhm . 923467_923594
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 923467_923594 .
+*PAR:	satisfactory ? [+ exc] 924157_924637
+%mor:	adj|satisfactory-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	satisfactory 924157_924637 ?
+*INV:	+< that's fine .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	are we finished &=laughs ? [+ exc] 926700_927400
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|finish-Part-Past-S ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|3|ROOT 4|3|PUNCT
+%wor:	are 926700_926760 we 926760_926820 finished 926900_927400 ?
+*INV:	just a minute . 929226_929684
+%mor:	adv|just det|a-Ind-Art noun|minute .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	just 929226_929303 a 929343_929363 minute 929423_929684 .
+*INV:	okey doke(y) alright . 930745_931806
+%mor:	intj|okey intj|dokey intj|alright .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+%wor:	okey 930745_930945 doke(y) 931065_931306 alright 931306_931806 .
+@End

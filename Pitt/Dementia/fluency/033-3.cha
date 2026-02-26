@@ -1,0 +1,179 @@
+@UTF8
+@PID:	11312/a-00089613-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|66;|male|MCI||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	033-3, audio
+@G:	foods
+*PAR:	limabean . 680_1160
+%mor:	propn|limabean .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	limabean 680_1160 .
+*PAR:	greenbean . 1600_2100
+%mor:	noun|greenbean .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	greenbean 1600_2100 .
+*PAR:	soybean . 2961_3460
+%mor:	noun|soybean .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	soybean 2961_3460 .
+*PAR:	corn . 4801_5301
+%mor:	noun|corn .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	corn 4801_5301 .
+*PAR:	apples . 6822_7322
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 6822_7322 .
+*PAR:	peaches . 7628_8122
+%mor:	noun|peach-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	peaches 7628_8122 .
+*PAR:	grapes . 8863_9363
+%mor:	noun|grape-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	grapes 8863_9363 .
+*PAR:	(.) cherries . 11804_12284
+%mor:	noun|cherry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cherries 11804_12284 .
+*PAR:	blueberries . 13185_13684
+%mor:	noun|blueberry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	blueberries 13185_13684 .
+*PAR:	raspberries . 14746_15206
+%mor:	noun|raspberry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	raspberries 14746_15206 .
+*PAR:	asparagus . 17191_17687
+%mor:	noun|asparagus .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	asparagus 17191_17687 .
+*PAR:	zucchini . 20278_20768
+%mor:	noun|zucchini .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zucchini 20278_20768 .
+*PAR:	sugar cane . 24708_25590
+%mor:	noun|sugar noun|cane .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	sugar 24708_25008 cane 25108_25590 .
+*PAR:	(.) molasses . 29514_29994
+%mor:	noun|molasses-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	molasses 29514_29994 .
+*PAR:	taffy . 32577_33076
+%mor:	noun|taffy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	taffy 32577_33076 .
+*PAR:	peaches . 35460_35958
+%mor:	noun|peach-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	peaches 35460_35958 .
+*PAR:	plums . 36861_37360
+%mor:	noun|plum-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	plums 36861_37360 .
+*PAR:	pears . 38203_38701
+%mor:	noun|pear-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pears 38203_38701 .
+*PAR:	(..) fish . 43466_43965
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 43466_43965 .
+*PAR:	meat . 45367_45847
+%mor:	noun|meat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	meat 45367_45847 .
+*PAR:	(.) oats . 51970_52452
+%mor:	noun|oat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oats 51970_52452 .
+*PAR:	wheat . 53213_53711
+%mor:	noun|wheat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	wheat 53213_53711 .
+*PAR:	barley . 54494_54992
+%mor:	noun|barley .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	barley 54494_54992 .
+*PAR:	rice . 55815_56315
+%mor:	noun|rice .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rice 55815_56315 .
+*PAR:	sugar . 57056_57537
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sugar 57056_57537 .
+@G:	S
+*INV:	begin with s@l . 64108_65389
+%mor:	verb|begin-Fin-Imp-S adp|with part|s .
+%gra:	1|3|ROOT 2|1|OBL 3|1|CASE 4|1|PUNCT
+%wor:	begin 64108_64409 with 64449_64629 s 64889_65389 .
+*PAR:	sat . 68214_68712
+%mor:	verb|sit-Fin-Ind-Past-S-irr .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sat 68214_68712 .
+*PAR:	set . 72577_73075
+%mor:	verb|set-Fin-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	set 72577_73075 .
+*PAR:	safety . 76359_76858
+%mor:	noun|safety .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	safety 76359_76858 .
+*PAR:	satisfy . 78941_79421
+%mor:	verb|satisfy-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	satisfy 78941_79421 .
+*PAR:	suggest . 81763_82263
+%mor:	verb|suggest-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	suggest 81763_82263 .
+*PAR:	share . 85567_86067
+%mor:	noun|share .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	share 85567_86067 .
+*PAR:	seize . 88190_88689
+%mor:	verb|seize-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	seize 88190_88689 .
+*PAR:	stop . 90352_90851
+%mor:	verb|stop-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	stop 90352_90851 .
+*PAR:	(.) sink . 99758_100238
+%mor:	verb|sink-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sink 99758_100238 .
+*PAR:	sunk . 101920_102420
+%mor:	verb|sink-Part-Past-S-irr .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sunk 101920_102420 .
+*PAR:	scrap . 104181_104663
+%mor:	noun|scrap .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	scrap 104181_104663 .
+*PAR:	steal . 106045_106543
+%mor:	noun|steal .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	steal 106045_106543 .
+*PAR:	safety . 113555_114054
+%mor:	noun|safety .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	safety 113555_114054 .
+*PAR:	shot . 115678_116158
+%mor:	noun|shot .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	shot 115678_116158 .
+*PAR:	scream . 118503_118984
+%mor:	verb|scream-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	scream 118503_118984 .
+*PAR:	scramble . 122333_122815
+%mor:	verb|scramble-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	scramble 122333_122815 .
+@End

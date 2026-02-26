@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00090336-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;00.|male|MCI||Participant|||
+@Media:	016-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	is take a look at this picture and tell me everything that you see going on . 410_3830
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|2|AUX 2|16|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|2|CONJ 10|9|IOBJ 11|9|OBJ 12|15|OBJ 13|14|NSUBJ 14|11|ACL-RELCL 15|14|XCOMP 16|15|COMPOUND-PRT 17|2|PUNCT
+%wor:	is 410_450 take 510_710 a 730_750 look 830_990 at 1030_1110 this 1130_1270 picture 1350_1711 and 1731_1791 tell 1831_2011 me 2031_2091 everything 2211_2591 that 2591_2671 you 2692_2812 see 2912_3132 going 3292_3572 on 3652_3830 .
+*INV:	everything that you see happening in this picture . 4493_6715
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+%wor:	everything 4493_4853 that 4873_4973 you 4994_5094 see 5194_5354 happening 5434_5894 in 5914_5974 this 5994_6155 picture 6215_6715 .
+*PAR:	well the little girl wants the cookie that the <guy's steal> [//] &+k kid is stealing from the cookie jar with the lid off . 7856_14202
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|girl verb|want-Fin-Ind-Pres-S3 det|the-Def-Art noun|cookie-Acc sconj|that det|the-Def-Art noun|kid aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S adp|from det|the-Def-Art noun|cookie noun|jar adp|with det|the-Def-Art noun|lid adp|off .
+%gra:	1|5|DISCOURSE 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|20|ROOT 6|7|DET 7|5|OBJ 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|AUX 12|7|ACL 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|19|CASE 18|19|DET 19|12|OBL 20|12|OBL 21|5|PUNCT
+%wor:	well 7856_8056 the 8076_8156 little 8216_8436 girl 8517_8797 wants 8897_9177 the 9237_9317 cookie 9417_9778 that 9878_10018 the 10078_10138 guy's 10218_10538 steal 10598_10939 kid 11099_11579 is 11619_11699 stealing 11739_12160 from 12220_12380 the 12420_12520 cookie 12580_12920 jar 13020_13241 with 13301_13481 the 13521_13601 lid 13721_13921 off 14061_14202 .
+*PAR:	and he's tripping [: tipping] [* p:w] off the stool . 14380_17185
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|off det|the-Def-Art noun|stool-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	and 14380_14460 he's 14460_14720 tipping 15522_16064 off 16144_16324 the 16405_16505 stool 16685_17185 .
+*PAR:	the water's overflowing in the sink . 17408_19512
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 17408_17467 water's 17527_17968 overflowing 18049_18871 in 18911_18991 the 19011_19111 sink 19292_19512 .
+*PAR:	&+w woman is drying dishes . [+ gram] 20696_23200
+%mor:	noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	woman 20696_21036 is 21116_21237 drying 21337_21858 dishes 22700_23200 .
+*PAR:	&-uh there's a hedge outside and all the letters are upside down . 24089_30885
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|hedge adv|outside cconj|and det|all-Def-Tot det|the-Def-Art noun|letter-Plur aux|be-Fin-Ind-Pres-P3 adj|upside-S1 adv|down .
+%gra:	1|2|EXPL 2|12|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|11|CC 7|9|DET-PREDET 8|9|DET 9|11|NSUBJ 10|11|COP 11|2|CONJ 12|11|ADVMOD 13|2|PUNCT
+%wor:	uh 24089_24149 there's 24750_25111 a 25232_25252 hedge 26254_26615 outside 26715_27457 and 27518_27658 all 28119_28199 the 28239_28340 letters 28440_28941 are 29022_29142 upside 29443_30084 down 30385_30885 .
+*PAR:	and &-uh there's a plate and a (.) cup on the kitchen cabinet . 31676_40791
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate cconj|and det|a-Ind-Art noun|cup adp|on det|the-Def-Art noun|kitchen noun|cabinet .
+%gra:	1|3|CC 2|3|EXPL 3|12|ROOT 4|5|DET 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|NMOD 13|3|PUNCT
+%wor:	and 31676_31836 uh 31976_32056 there's 33499_33779 a 33840_33860 plate 34200_34761 and 35422_35843 a 36264_36284 cup 37967_38288 on 39089_39229 the 39290_39390 kitchen 39770_40191 cabinet 40291_40791 .
+*PAR:	and a &-uh +... 41894_43056
+%mor:	cconj|and det|a-Ind-Art +...
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%wor:	and 41894_42055 a 42135_42155 uh 42556_43056 +...
+*PAR:	oh whatcha [: what do you] call that ? [+ exc] 43658_44700
+%mor:	intj|oh pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|that-Dem ?
+%gra:	1|5|DISCOURSE 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	oh 43658_43718 what 43718_43958 do 43958_43998 you 43998_44078 call 44159_44499 that 44499_44700 ?
+*PAR:	and &-uh the drapes &+a and a sash window . [+ gram] 45810_50993
+%mor:	cconj|and det|the-Def-Art noun|drape-Plur cconj|and det|a-Ind-Art noun|sash noun|window .
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|7|CC 5|7|DET 6|7|COMPOUND 7|3|CONJ 8|3|PUNCT
+%wor:	and 45810_46010 uh 46070_46150 the 46330_46430 drapes 46650_47291 and 47771_47971 a 48191_48211 sash 49072_49492 window 50493_50993 .
+*PAR:	and a window on the adjacent &-uh part of the building . [+ gram] 51494_56877
+%mor:	cconj|and det|a-Ind-Art noun|window adp|on det|the-Def-Art adj|adjacent-S1 noun|part adp|of det|the-Def-Art noun|building-Ger .
+%gra:	1|3|CC 2|3|DET 3|10|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|NMOD 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+%wor:	and 51494_51694 a 51894_51914 window 53675_54075 on 54196_54296 the 54336_54456 adjacent 54516_55276 uh 55577_55677 part 55757_56057 of 56097_56177 the 56217_56297 building 56377_56877 .
+*PAR:	&-uh there's a path through the lawn . 58220_61662
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|path adp|through det|the-Def-Art noun|lawn .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	uh 58220_58300 there's 58820_59040 a 59100_59120 path 59200_59601 through 59681_60041 the 60101_60241 lawn 61162_61662 .
+*PAR:	&-uh <she's stepping> [//] the woman is stepping in the water with slippers or &+sh &+sh sandals or somethin(g) . 64153_71993
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water adp|with noun|slipper-Plur cconj|or noun|sandal-Plur cconj|or pron|something-Ind-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|4|OBL 10|11|CC 11|9|CONJ 12|13|CC 13|9|CONJ 14|4|PUNCT
+%wor:	uh 64153_64485 she's 65146_65346 stepping 65386_65907 the 65967_66047 woman 66207_66507 is 66507_66567 stepping 66607_67068 in 67148_67228 the 67288_67388 water 67648_68029 with 68069_68249 slippers 68329_68930 or 69270_69370 sandals 70751_71372 or 71432_71492 somethin(g) 71552_71993 .
+*PAR:	&-uh (.) that [//] that's about it . [+ exc] 78351_79229
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	uh 78351_78433 that 78433_78555 that's 78596_78841 about 78841_79045 it 79106_79229 .
+@End

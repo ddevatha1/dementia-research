@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00090872-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|female|Control||Participant|28||
+@Media:	688-0, audio
+@G:	Cookie
+*INV:	look at that picture . 1911_2910
+%mor:	verb|look-Fin-Imp-S adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	look 1911_2031 at 2051_2131 that 2171_2351 picture 2411_2910 .
+*PAR:	mhm . [+ exc] 3130_3371
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 3130_3371 .
+*INV:	+< and tell me everything that you see going on in that picture , everything that's happening . 3583_7443
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|2|CC 2|17|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|14|PUNCT 14|4|APPOS 15|17|NSUBJ 16|17|AUX 17|14|ACL-RELCL 18|2|PUNCT
+%wor:	and 3583_3672 tell 3692_3892 me 3952_4032 everything 4132_4573 that 4593_4713 you 4733_4833 see 4913_5053 going 5113_5434 on 5494_5634 in 5674_5734 that 5774_5934 picture 5974_6314 , everything 6334_6695 that's 6755_6955 happening 7055_7443 .
+*PAR:	mhm a lot of things are happening . 8117_10898
+%mor:	intj|mhm det|a-Ind-Art noun|lot adp|of noun|thing-Plur aux|be-Fin-Ind-Pres-P3 verb|happen-Part-Pres-S .
+%gra:	1|7|DISCOURSE 2|3|DET 3|7|NSUBJ 4|5|CASE 5|3|NMOD 6|7|AUX 7|7|ROOT 8|7|PUNCT
+%wor:	mhm 8117_9377 a 9397_9417 lot 9517_9717 of 9737_9798 things 9858_10158 are 10218_10318 happening 10398_10898 .
+*PAR:	yes the &-uh water's going over . 12283_15683
+%mor:	intj|yes det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|over .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+%wor:	yes 12283_12623 the 13463_13583 uh 13904_14004 water's 14224_14644 going 14704_15064 over 15184_15683 .
+*PAR:	the water's overflowing . 16005_17525
+%mor:	det|the-Def-Art noun|water~part|s noun|overflow-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 16005_16085 water's 16605_16945 overflowing 17025_17525 .
+*PAR:	and &-uh the little boy is slipping off the stool while he's tryin(g) to steal some cookies . 19187_25290
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|slip-Part-Pres-S adp|off det|the-Def-Art noun|stool sconj|while pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|steal-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|17|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|6|ADVCL 14|15|MARK 15|13|XCOMP 16|17|DET 17|15|OBJ 18|6|PUNCT
+%wor:	and 19187_19487 uh 19547_19627 the 20408_20508 little 20528_20868 boy 21028_21268 is 21328_21388 slipping 21468_21908 off 21968_22089 the 22129_22249 stool 22329_22729 while 22829_23049 he's 23049_23189 tryin(g) 23269_23710 to 23710_24090 steal 24190_24470 some 24550_24730 cookies 24790_25290 .
+*PAR:	and the little girl is laughing at him and she's not happy in [//] one bit . 26056_30046
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at pron|he-Prs-Acc-S3 cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|happy-S1 num|one noun|bit .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|15|ROOT 7|8|CASE 8|6|OBL 9|13|CC 10|13|NSUBJ 11|13|COP 12|13|ADVMOD 13|6|CONJ 14|15|NUMMOD 15|13|OBL-UNMARKED 16|6|PUNCT
+%wor:	and 26056_26176 the 26316_26396 little 26476_26696 girl 26736_26997 is 27077_27177 laughing 27257_27777 at 27818_27958 him 27958_28078 and 28178_28278 she's 28318_28498 not 28538_28719 happy 28779_29059 in 29059_29119 one 29219_29499 bit 29780_30046 .
+*PAR:	and the lady is drying the dishes and looking out the window . 31362_36166
+%mor:	cconj|and det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|7|DET 7|5|OBJ 8|9|CC 9|5|CONJ 10|9|COMPOUND-PRT 11|12|DET 12|9|OBJ 13|5|PUNCT
+%wor:	and 31362_31542 the 31702_31802 lady 31882_32142 is 32222_32323 drying 32423_32783 the 32803_32883 dishes 32943_33544 and 34865_34946 looking 34986_35286 out 35386_35506 the 35546_35626 window 35666_36166 .
+*PAR:	it's beautiful out there . 36513_37333
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|beautiful-S1 adp|out adv|there .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%wor:	it's 36513_36647 beautiful 36687_37128 out 37228_37333 there .
+*PAR:	it must be June . 37508_38470
+%mor:	pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S propn|June .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	it 37508_37548 must 37589_37769 be 37809_37889 June 37989_38470 .
+*PAR:	I don't know but it [//] anyhow it looks like it's not winter &=laughs . 40110_42851
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S cconj|but adv|anyhow pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not noun|winter .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|8|CC 6|8|ADVMOD 7|8|EXPL 8|4|CONJ 9|13|MARK 10|13|NSUBJ 11|13|COP 12|13|ADVMOD 13|8|ADVCL 14|4|PUNCT
+%wor:	I 40110_40130 don't 40130_40290 know 40310_40490 but 40610_40730 it 40810_40890 anyhow 40990_41311 it 41331_41391 looks 41451_41651 like 41711_41931 it's 41951_42071 not 42131_42271 winter 42351_42851 .
+*PAR:	&=clears:throat and that's about all I can see . [+ exc] 48316_49813
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|8|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+%wor:	and that's 48316_48537 about 48557_48817 all 48877_49037 I 49157_49177 can 49217_49357 see 49477_49813 .
+*INV:	+< okay that's fine . 49779_50718
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 49779_49958 that's 49958_50158 fine 50218_50718 .
+@End

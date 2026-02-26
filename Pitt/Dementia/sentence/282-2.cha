@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/a-00091396-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;|female|ProbableAD||Participant|23||
+@Media:	282-2, audio
+*INV:	www .
+%exp:	rustling papers and possible tape recorder issue
+*PAR:	pencil . [+ exc] 11932_12432
+%mor:	noun|pencil .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pencil 11932_12432 .
+*INV:	(..) tree@q .
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	trees [//] a tree grows tall . 19038_21359
+%mor:	det|a-Ind-Art noun|tree verb|grow-Fin-Ind-Pres-S3 adj|tall-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	trees 19038_19298 a 19298_19318 tree 19318_19418 grows 20559_20799 tall 20859_21359 .
+*INV:	now I'll give you two words and still use those in a sentence for me . 25145_28590
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|will-Fin-S verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc cconj|and adv|still verb|use-Fin-Ind-Pres-S1 pron|that-Dem-P1 adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|4|IOBJ 6|7|NUMMOD 7|4|OBJ 8|10|CC 9|10|ADVMOD 10|4|CONJ 11|10|OBJ 12|14|CASE 13|14|DET 14|10|OBL 15|16|CASE 16|14|NMOD 17|4|PUNCT
+%wor:	now 25145_25325 I'll 25385_25486 give 25486_25666 you 25666_25766 two 25846_26046 words 26107_26387 and 26427_26527 still 26567_26788 use 26908_27048 those 27088_27328 in 27369_27429 a 27469_27489 sentence 27569_28010 for 28050_28210 me 28250_28590 .
+*INV:	child@q and hospital@q . 28931_30493
+%mor:	q|child cconj|and q|hospital .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	child@q 28931_29492 and 29792_29912 hospital@q 29993_30493 .
+*PAR:	child was admitted to the hospital . 32336_33958
+%mor:	noun|child aux|be-Fin-Ind-Past-S3-irr verb|admit-Part-Past-S adp|to det|the-Def-Art noun|hospital .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	child 32336_32697 was 32737_32837 admitted 32877_33218 to 33258_33318 the 33358_33418 hospital 33458_33958 .
+*INV:	(.) cold@q and winter@q . 42108_43830
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 42108_42929 and 43050_43190 winter@q 43330_43830 .
+*PAR:	it is cold in winter . 46954_48656
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|cold-S1 adp|in noun|winter .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	it 46954_47074 is 47134_47275 cold 47455_47915 in 47975_48055 winter 48156_48656 .
+*INV:	(.) now I'll give you three words and I still want you make up a sentence using all three words . 54420_58921
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|will-Fin-S verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc cconj|and pron|I-Prs-Nom-S1 adv|still verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 verb|make-Fin-S adp|up det|a-Ind-Art noun|sentence-Acc verb|use-Ger-S det|all-Def-Tot num|three noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|20|ROOT 5|4|IOBJ 6|7|NUMMOD 7|4|OBJ 8|11|CC 9|11|NSUBJ 10|11|ADVMOD 11|4|CONJ 12|11|OBJ 13|11|XCOMP 14|13|COMPOUND-PRT 15|16|DET 16|13|OBJ 17|13|ADVCL 18|20|DET 19|20|NUMMOD 20|17|OBJ 21|4|PUNCT
+%wor:	now 54420_54660 I'll 54660_54760 give 54820_54961 you 54961_55041 three 55121_55421 words 55501_55841 and 55881_55961 I 56061_56081 still 56161_56361 want 56402_56582 you 56602_56782 make 56822_57022 up 57022_57122 a 57162_57182 sentence 57242_57662 using 57742_57983 all 58043_58143 three 58263_58423 words 58463_58921 .
+*INV:	it doesn't matter what order you put them in . 58921_60885
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|matter-Inf-S det|what-Def-Int noun|order-Acc pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr pron|they-Prs-Acc-P3 adp|in .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|8|OBL 11|4|PUNCT
+%wor:	it doesn't 58921_59103 matter 59143_59383 what 59424_59564 order 59684_59944 you 60004_60084 put 60164_60324 them 60364_60504 in 60564_60885 .
+*INV:	chair@q doctor@q and sit@q . 61645_64408
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 61645_62186 doctor@q 62646_63267 and 63507_63687 sit@q 63908_64408 .
+*PAR:	the doctor sits in a chair . 65029_66610
+%mor:	det|the-Def-Art noun|doctor verb|sit-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	the 65029_65129 doctor 65189_65529 sits 65609_65830 in 65890_65950 a 65990_66010 chair 66110_66610 .
+*INV:	bureau@q open@q and drawer@q . 72797_75479
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 72797_73858 open@q 73918_74358 and 74678_74879 drawer@q 74979_75479 .
+*PAR:	the bureau drawer was open . 77062_78684
+%mor:	det|the-Def-Art noun|bureau noun|drawer aux|be-Fin-Ind-Past-S3-irr adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 77062_77162 bureau 77202_77523 drawer 77603_77864 was 77944_78084 open 78184_78684 .
+*INV:	mhm . 78897_78965
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 78897_78965 .
+@End

@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00090747-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;00.|female|Control||Participant|||
+@Media:	137-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	now I'd like you to look at this picture and tell me everything that you see going on . 670_6780
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|19|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|CC 12|4|CONJ 13|12|IOBJ 14|12|OBJ 15|18|OBJ 16|17|NSUBJ 17|14|ACL-RELCL 18|17|XCOMP 19|18|COMPOUND-PRT 20|4|PUNCT
+%wor:	now 670_770 I'd 1010_1070 like 1090_1331 you 1371_1511 to 1992_2132 look 2192_2373 at 2413_2493 this 2533_2693 picture 2773_3194 and 4957_5037 tell 5077_5298 me 5338_5418 everything 5478_5919 that 5959_6079 you 6119_6219 see 6299_6439 going 6480_6780 on .
+*INV:	everything that you see happening here . 7421_8703
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|ACL 6|5|ADVMOD 7|1|PUNCT
+%wor:	everything 7421_7742 that 7762_7842 you 7882_7962 see 8022_8182 happening 8243_8703 here .
+*PAR:	okay . [+ exc] 10086_10325
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 10086_10325 .
+*PAR:	little boy is crawling up to get in the cookie jar and is ready to fall off of that stool . 10743_16269
+%mor:	adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|crawl-Part-Pres-S adp|up part|to verb|get-Inf-S adp|in det|the-Def-Art noun|cookie noun|jar cconj|and aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S adp|off adp|of det|that-Def-Dem-Sing noun|stool .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|20|ROOT 5|4|COMPOUND-PRT 6|7|MARK 7|4|ADVCL 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|14|CC 13|14|COP 14|4|CONJ 15|16|MARK 16|14|XCOMP 17|20|CASE 18|20|CASE 19|20|DET 20|16|OBL 21|4|PUNCT
+%wor:	little 10743_10883 boy 10903_11103 is 11143_11183 crawling 11243_11604 up 11624_11704 to 11744_11824 get 11844_11904 in 11944_12004 the 12024_12084 cookie 12124_12445 jar 12485_12705 and 12745_12845 is 12905_12985 ready 13847_14127 to 14207_14287 fall 14447_14788 off 14988_15188 of 15248_15308 that 15328_15569 stool 15769_16269 .
+*PAR:	the little sister's hand waiting for her cookie . [+ gram] 17491_20393
+%mor:	det|the-Def-Art adj|little-S1 noun|sister~part|s noun|hand verb|wait-Ger-S adp|for pron|her-Prs-Gen-S3 noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NMOD-POSS 4|3|CASE 5|9|ROOT 6|5|ACL 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|5|PUNCT
+%wor:	the little 17491_17832 sister's 17892_18433 hand 18493_18793 waiting 19254_19574 for 19614_19714 her 19774_19894 cookie 20015_20393 .
+*PAR:	and mommy doesn't know anything about it . 21076_23059
+%mor:	cconj|and noun|mommy aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S pron|anything-Ind-S1 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|OBJ 7|8|CASE 8|6|NMOD 9|5|PUNCT
+%wor:	and 21076_21196 mommy 21236_21496 doesn't 21557_21857 know 21857_21957 anything 21997_22538 about 22598_22998 it 23018_23059 .
+*PAR:	in fact she's thinking about something else because the water's running out onto her feet . 23194_31121
+%mor:	adp|in noun|fact pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|think-Part-Pres-S adp|about pron|something-Ind-S1 adj|else-S1 sconj|because det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|onto pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|7|CASE 7|5|OBL 8|7|AMOD 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|AUX 13|5|ADVCL 14|13|COMPOUND-PRT 15|17|CASE 16|17|NMOD-POSS 17|13|OBL 18|5|PUNCT
+%wor:	in 23194_23234 fact 23254_23594 she's 24215_24615 thinking 24615_24975 about 25015_25236 something 25296_25656 else 25716_25876 because 25896_26237 the 26237_26337 water's 27558_27958 running 28599_28939 out 29340_29540 onto 29680_30020 her 30141_30321 feet 30621_31121 .
+*PAR:	and she doesn't seem to be aware of it . 32464_35025
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S adj|aware-S1 adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|8|MARK 7|8|COP 8|5|XCOMP 9|10|CASE 10|8|OBL 11|5|PUNCT
+%wor:	and 32464_32563 she 32703_32823 doesn't 32903_33244 seem 33304_33504 to 33564_33624 be 33664_33744 aware 33844_34225 of 34305_34445 it 34525_35025 .
+*PAR:	and <she's washing &+di well she's drying> [//] looks like she's drying dishes (.) but forgot to turn the faucet off . [+ gram] 36425_43870
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc cconj|but verb|forget-Fin-Ind-Past-S3-irr part|to verb|turn-Inf-S det|the-Def-Art noun|faucet-Acc adp|off .
+%gra:	1|2|CC 2|14|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|OBJ 8|9|CC 9|2|CONJ 10|11|MARK 11|9|XCOMP 12|13|DET 13|11|OBJ 14|11|COMPOUND-PRT 15|2|PUNCT
+%wor:	and 36425_36485 she's 36505_36685 washing 36765_37186 &+di 37186_37346 well 37547_37647 she's 37707_37887 drying 37948_38469 looks 39050_39831 like 39831_39991 she's 40031_40212 drying 40252_40613 dishes 40633_41053 but 41915_42015 forgot 42055_42356 to 42416_42476 turn 42516_42717 the 42737_42797 faucet 42837_43298 off 43378_43870 .
+*PAR:	is that right ? [+ exc] 44259_44821
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|right-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 44259_44300 that 44300_44460 right 44480_44821 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	is that everything ?
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing pron|everything-Tot-S1 ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR:	well then the [//] she's standing by the window where she can look out into the yard where there's grass and the end of the house . 50042_58329
+%mor:	intj|well adv|then pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|by det|the-Def-Art noun|window adv|where pron|she-Prs-Nom-S3 aux|can-Fin-S verb|look-Inf-S adv|out adp|into det|the-Def-Art noun|yard adv|where pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|grass cconj|and det|the-Def-Art noun|end adp|of det|the-Def-Art noun|house .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|26|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|ADVMOD 10|12|NSUBJ 11|12|AUX 12|8|ACL-RELCL 13|12|ADVMOD 14|16|CASE 15|16|DET 16|12|OBL 17|19|ADVMOD 18|19|EXPL 19|12|ADVCL 20|19|NSUBJ 21|23|CC 22|23|DET 23|20|CONJ 24|26|CASE 25|26|DET 26|23|NMOD 27|5|PUNCT
+%wor:	well 50042_50422 then 50482_50622 the 50642_50722 she's 51844_52004 standing 52024_52365 by 52385_52505 the 52545_52605 window 52665_52945 where 52985_53105 she 53166_53246 can 53306_53426 look 53466_53626 out 53706_53906 into 54007_54207 the 54267_54347 yard 54467_54948 where 55969_56109 there's 56129_56350 grass 56470_56990 and 57071_57151 the 57151_57251 end 57351_57511 of 57551_57591 the 57651_57731 house 57831_58329 .
+*PAR:	and there are cabinets , kitchen cabinets there . 60875_64120
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|cabinet-Plur cm|cm noun|kitchen noun|cabinet-Plur adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|3|NSUBJ 5|7|PUNCT 6|7|COMPOUND 7|4|CONJ 8|3|ADVMOD 9|3|PUNCT
+%wor:	and 60875_60996 there 61016_61116 are 61116_61176 cabinets 61256_61897 , kitchen 62537_62878 cabinets 62998_63599 there 63719_64120 .
+*INV:	okay that's .
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@End

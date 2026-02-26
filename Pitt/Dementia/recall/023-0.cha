@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/a-00089836-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|16||
+@Media:	023-0, audio
+@G:	George_Immediate
+*INV:	can you tell me everything that you can remember about that story ? 148760_151901
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|3|OBJ 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|12|CASE 11|12|DET 12|9|OBL 13|3|PUNCT
+%wor:	can 148760_148880 you 148920_149000 tell 149060_149240 me 149280_149360 everything 149660_150041 that 150041_150141 you 150181_150261 can 150321_150441 remember 150481_150942 about 151002_151282 that 151322_151482 story 151582_151901 ?
+*PAR:	well , he took his [/] his &-uh granddaughter , wouldn't it be +/? 155887_160063
+%mor:	intj|well cm|cm pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|granddaughter-Acc cm|cm aux|would-Fin-S~part|not pron|it-Prs-Nom-S3 aux|be-Inf-S +/?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|11|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|8|PUNCT 8|4|PARATAXIS 9|8|ADVMOD 10|11|NSUBJ 11|4|PARATAXIS 12|4|PUNCT
+%wor:	well 155887_156126 , he 156206_156286 took 156407_156607 his 156687_156847 his 157287_157668 uh 157848_158769 granddaughter 158769_159349 , wouldn't 159429_159650 it 159650_159730 be 159790_160063 +/?
+*INV:	okay . 160410_160671
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 160410_160671 .
+*PAR:	+, to see their former home . 164976_167540
+%mor:	part|to verb|see-Inf-S pron|their-Prs-Gen-P3 adj|former-S1 noun|home-Acc .
+%gra:	1|2|MARK 2|5|ROOT 3|5|NMOD-POSS 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%wor:	to 164976_165077 see 165258_165541 their 166429_166611 former 166712_167095 home 167176_167540 .
+*PAR:	I'm [//] &+s (..) and upon returning home +... 171386_180624
+%mor:	cconj|and sconj|upon verb|return-Part-Pres-S adv|home +...
+%gra:	1|3|CC 2|3|MARK 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	I'm 171386_171526 and 178980_179080 upon 179120_179481 returning 179561_180142 home 180222_180624 +...
+*PAR:	no , they don't have . [+ exc] 182747_183829
+%mor:	intj|no cm|cm pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	no 182747_182967 , they 183047_183227 don't 183227_183428 have 183428_183829 .
+*PAR:	(..) you see , I lost track &=laughs there &=laughs . [+ exc] 197787_199028
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 cm|cm pron|I-Prs-Nom-S1 verb|lose-Fin-Ind-Past-S1-irr noun|track-Acc adv|there .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|PUNCT 4|5|NSUBJ 5|2|PARATAXIS 6|5|OBJ 7|5|ADVMOD 8|2|PUNCT
+%wor:	you 197787_197847 see 197847_197927 , I 197927_197947 lost 198167_198588 track 198608_199028 there .
+*INV:	+< mhm , it's okay . 200550_201092
+%mor:	intj|mhm cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	mhm 200550_200611 , it's 200611_200691 okay 200691_201092 .
+*INV:	anything else that comes to mind ? 202659_204191
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|that-Rel verb|come-Fin-Ind-Pres-S3 adp|to noun|mind ?
+%gra:	1|6|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|6|CASE 6|4|OBL 7|1|PUNCT
+%wor:	anything 202659_203014 else 203094_203394 that 203414_203535 comes 203575_203815 to 203875_203935 mind 203995_204191 ?
+*INV:	can you remember anything else ? 204304_205749
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|4|AMOD 6|3|PUNCT
+%wor:	can 204304_204436 you 204476_204576 remember 204596_204997 anything 205057_205417 else 205517_205749 ?
+*PAR:	(...) no , only that &-uh he took her on this trip to the city +/. 208778_210003
+%mor:	intj|no cm|cm adv|only sconj|that pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|on det|this-Def-Dem-Sing noun|trip adp|to det|the-Def-Art noun|city +/.
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|MARK 5|6|NSUBJ 6|13|ROOT 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|6|PUNCT
+%wor:	no , only that uh he took her on this trip 208778_209062 to 209142_209202 the 209202_209423 city 209503_210003 +/.
+*INV:	mhm . 227582_227818
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 227582_227818 .
+*PAR:	+, to see their former home . 229262_230857
+%mor:	part|to verb|see-Inf-S pron|their-Prs-Gen-P3 adj|former-S1 noun|home-Acc .
+%gra:	1|2|MARK 2|5|ROOT 3|5|NMOD-POSS 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%wor:	to 229262_229342 see 229462_229622 their 229662_229822 former 229922_230362 home 230503_230857 .
+*PAR:	and she was (..) greatly pleased that she made the trip . 231063_240550
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|greatly adj|pleased-S1 sconj|that pron|she-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3-irr det|the-Def-Art noun|trip-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|10|ROOT 6|8|MARK 7|8|NSUBJ 8|5|CCOMP 9|10|DET 10|8|OBJ 11|5|PUNCT
+%wor:	and 231063_231223 she 231363_231503 was 231623_231883 greatly 237685_238065 pleased 238165_238745 that 239306_239526 she 239586_239706 made 239866_240106 the 240126_240206 trip 240266_240550 .
+*INV:	okay . 241346_241687
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 241346_241687 .
+*PAR:	(..) &-you_know I'll hafta learn this (.) game we're playing &=laughs . [+ exc] 250781_254346
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S part|hafta verb|learn-Inf-S det|this-Def-Dem-Sing noun|game-Acc pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|play-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|4|PUNCT
+%wor:	you_know 250781_251041 I'll 251101_251281 hafta 251281_251502 learn 251602_251842 this 251842_252143 game 253285_253605 we're 253625_253806 playing 253846_254346 .
+*INV:	&=laughs okay , that's fine thank you . 260617_261980
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|7|ROOT 6|5|PARATAXIS 7|6|OBJ 8|5|PUNCT
+%wor:	okay 260617_260878 , that's 261038_261218 fine 261318_261579 thank 261619_261839 you 261859_261980 .
+@End

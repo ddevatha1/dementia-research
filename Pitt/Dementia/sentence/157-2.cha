@@ -1,0 +1,136 @@
+@UTF8
+@PID:	11312/a-00091336-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@Media:	157-2, audio
+*INV:	pencil@q in a brief simple sentence . 140_2322
+%mor:	q|pencil adp|in det|a-Ind-Art adj|brief-S1 adj|simple-S1 noun|sentence .
+%gra:	1|6|FLAT 2|6|CASE 3|6|DET 4|6|AMOD 5|6|AMOD 6|1|NMOD 7|1|PUNCT
+%wor:	pencil@q 140_721 in 721_801 a 841_861 brief 941_1221 simple 1362_1722 sentence 1822_2322 .
+*PAR:	the pencil is dull . 3264_6308
+%mor:	det|the-Def-Art noun|pencil aux|be-Fin-Ind-Pres-S3 adj|dull-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 3264_3365 pencil 3565_4186 is 4927_5107 dull 5808_6308 .
+*INV:	(..) okay . 10876_10991
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 10876_10991 .
+*INV:	use the word tree@q in a brief simple sentence . 11337_14200
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|tree adp|in det|a-Ind-Art adj|brief-S1 adj|simple-S1 noun|sentence .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|9|CASE 6|9|DET 7|9|AMOD 8|9|AMOD 9|1|OBL 10|1|PUNCT
+%wor:	use 11337_11517 the 11557_11657 word 11697_11958 tree@q 12078_12559 in 12859_12939 a 12979_12999 brief 13059_13280 simple 13360_13660 sentence 13700_14200 .
+*PAR:	the tree is an oak . 15662_16943
+%mor:	det|the-Def-Art noun|tree aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|oak .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	the 15662_15742 tree 15822_16082 is 16122_16223 an 16263_16343 oak 16443_16943 .
+*INV:	pardon me ? 18304_18724
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	pardon 18304_18544 me 18544_18724 ?
+*PAR:	the tree is an oak ! [+ exc] 18864_20400
+%mor:	det|the-Def-Art noun|tree aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|oak !
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	the 18864_18944 tree 19024_19264 is 19424_19564 an 19705_19825 oak 19985_20400 !
+*INV:	+< okay . 20525_21025
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 20525_21025 .
+*INV:	okay , now I'm gonna give you (.) two words . 24828_28030
+%mor:	intj|okay cm|cm adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|7|PUNCT
+%wor:	okay 24828_25048 , now 25088_25248 I'm 25248_25308 gonna 25348_25528 give 25588_25808 you 25888_26008 two 27729_27869 words 27869_28030 .
+*INV:	and I want you to use both of the words in the same sentence without worrying about the order . 28490_33594
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|both-Def-Tot adp|of det|the-Def-Art noun|word-Plur adp|in det|the-Def-Art adj|same-S1 noun|sentence sconj|without verb|worry-Part-Pres-S adp|about det|the-Def-Art noun|order .
+%gra:	1|3|CC 2|3|NSUBJ 3|19|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|14|CASE 12|14|DET 13|14|AMOD 14|6|OBL 15|16|MARK 16|6|ADVCL 17|19|CASE 18|19|DET 19|16|OBL 20|3|PUNCT
+%wor:	and 28490_28590 I 28670_28690 want 28710_28870 you 28910_28990 to 28990_29050 use 29150_29331 both 29391_29611 of 29651_29711 the 29731_29811 words 29871_30171 in 30231_30311 the 30331_30431 same 30511_30792 sentence 30892_31552 without 31833_32173 worrying 32213_32533 about 32553_32813 the 32853_32933 order 33094_33594 .
+*INV:	child@q and hospital@q . 34515_36136
+%mor:	q|child cconj|and q|hospital .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	child@q 34515_35335 and 35375_35515 hospital@q 35636_36136 .
+*PAR:	the child's in the hospital . 37597_39438
+%mor:	det|the-Def-Art noun|child~part|s adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|6|NMOD-POSS 3|2|CASE 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 37597_38098 child's 38118_38578 in 38638_38718 the 38758_38938 hospital 38938_39438 .
+*INV:	okay . 39919_40419
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 39919_40419 .
+*INV:	(...) cold@q and winter@q . 47990_49492
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 47990_48691 and 48731_48871 winter@q 48992_49492 .
+*PAR:	coal@q or cold@q ? [+ exc] 51035_52636
+%mor:	q|coal cconj|or q|cold ?
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	coal@q 51035_51896 or 51936_52036 cold@q 52136_52636 ?
+*INV:	cold@q and winter@q . 53057_54819
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 53057_54039 and 54079_54199 winter@q 54319_54819 .
+*PAR:	+< cold , oh . [+ exc] 53999_54799
+%mor:	adj|cold-S1 cm|cm intj|oh .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%wor:	cold 53999_54199 , oh 54299_54799 .
+*PAR:	it was a cold winter . 56401_57542
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|cold-S1 noun|winter .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	it was 56401_56581 a 56621_56641 cold 56721_56902 winter 57042_57542 .
+*INV:	okay . 57682_58182
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 57682_58182 .
+*INV:	(...) chair@q doctor@q and sit@q . 67531_71154
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 67531_68172 doctor@q 68972_70173 and 70233_70433 sit@q 70654_71154 .
+*PAR:	sick@q ? [+ exc]
+%mor:	q|sick ?
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	is that the word ? [+ exc] 73357_74023
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|the-Def-Art noun|word ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	is 73357_73417 that 73417_73598 the 73658_73778 word 73798_74023 ?
+*INV:	+< sit@q .
+%mor:	q|sit .
+%gra:	1|1|FLAT 2|1|PUNCT
+*INV:	chair@q doctor@q and sit@q . 74179_77066
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 74179_74741 doctor@q 75303_76005 and 76225_76366 sit@q 76566_77066 .
+*INV:	sit@k . 77730_78230
+%mor:	verb|sit-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sit 77730_78230 .
+*PAR:	oh , sit@q ! [+ exc] 78893_79674
+%mor:	intj|oh cm|cm q|sit !
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|FLAT 4|3|PUNCT
+%wor:	oh 78893_79013 , sit@q 79174_79674 !
+*INV:	mhm . 79775_80000
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 79775_80000 .
+*PAR:	I didn't get to xxx . [+ exc] 80277_81200
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|get-Inf-S adp|to .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	I 80277_80297 didn't 80377_80578 get 80578_80718 to 80758_81200 .
+*PAR:	the [/] &+doc &+s the doctor (...) said “sit on the chair” . 81280_90696
+%mor:	det|the-Def-Art noun|doctor verb|say-Fin-Ind-Past-S3-irr verb|sit-Inf-S adp|on det|the-Def-Art noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	the 81280_81340 the 82482_82562 doctor 82662_83484 said 89114_89394 sit 89635_89835 on 89895_89995 the 90035_90096 chair 90196_90696 .
+*INV:	okay . 91218_91718
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 91218_91718 .
+*INV:	bureau@q open@q and drawer@q . 99471_103157
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 99471_101094 open@q 101174_102296 and 102336_102517 drawer@q 102657_103157 .
+*INV:	oh , the bureau drawer was open . 104942_106768
+%mor:	intj|oh cm|cm det|the-Def-Art noun|bureau noun|drawer aux|be-Fin-Ind-Past-S3-irr adj|open-S1 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|COMPOUND 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	oh 104942_105023 , the 105063_105143 bureau 105384_105686 drawer 105766_106007 was 106027_106188 open 106268_106768 .
+@End

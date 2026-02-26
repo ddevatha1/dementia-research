@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/a-00091272-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@Media:	010-4, audio
+*INV:	can you give me a word [//] sentence using the word pencil@q ? 20_2941
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|sentence-Acc verb|use-Ger-S det|the-Def-Art noun|word-Acc q|pencil ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|6|ACL 8|9|DET 9|7|OBJ 10|7|FLAT 11|3|PUNCT
+%wor:	can 20_220 you 220_280 give 280_380 me 380_420 a 420_440 word 480_700 sentence 1400_1781 using 1841_2061 the 2081_2161 word 2181_2381 pencil@q 2441_2941 ?
+*PAR:	I like to use a pencil . 4362_5588
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|use-Inf-S det|a-Ind-Art noun|pencil-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%wor:	I 4362_4382 like 4462_4642 to 4662_4762 use 4862_5002 a 5043_5063 pencil 5143_5588 .
+*INV:	uhhuh . 5588_6043
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 5588_6043 .
+*INV:	how (a)bout tree ? 6211_9245
+%mor:	adv|how adp|about noun|tree ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	how (a)bout 6211_8645 tree 8745_9245 ?
+*PAR:	&+tr tree@q . [+ exc] 11066_11566
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 11066_11566 .
+*INV:	can you &+u make a sentence up using the word tree@q ? 11967_14689
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|make-Inf-S det|a-Ind-Art noun|sentence-Acc adp|up verb|use-Ger-S det|the-Def-Art noun|word-Acc q|tree ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|ADVCL 8|9|DET 9|7|OBJ 10|7|FLAT 11|3|PUNCT
+%wor:	can 11967_12107 you 12207_12307 make 12507_12687 a 12708_12728 sentence 12828_13268 up 13288_13388 using 13508_13769 the 13769_13849 word 13909_14109 tree@q 14189_14689 ?
+*PAR:	he fell out of the tree . 15390_16528
+%mor:	pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|out adp|of det|the-Def-Art noun|tree .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|3|FIXED 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	he 15390_15450 fell 15551_15791 out 15791_15891 of 15951_16011 the 16051_16131 tree 16211_16528 .
+*INV:	mhm . 17753_18253
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 17753_18253 .
+*INV:	how (a)bout two words now ? 20636_22293
+%mor:	adv|how adp|about num|two noun|word-Plur adv|now ?
+%gra:	1|5|ROOT 2|4|CASE 3|4|NUMMOD 4|1|OBL 5|1|ADVMOD 6|1|PUNCT
+%wor:	how 20636_20736 (a)bout 20736_20997 two 21457_21657 words 21737_22098 now 22158_22293 ?
+*INV:	use both of them in one sentence . 22498_24260
+%mor:	verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in num|one noun|sentence .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|CASE 4|2|NMOD 5|7|CASE 6|7|NUMMOD 7|1|OBL 8|1|PUNCT
+%wor:	use 22498_22638 both 22718_22999 of 23019_23059 them 23099_23219 in 23259_23339 one 23499_23679 sentence 23760_24260 .
+*INV:	child@q hospital@q . 24514_25841
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 24514_24961 hospital@q 25341_25841 .
+*PAR:	they took the child to the hospital . 27383_28964
+%mor:	pron|they-Prs-Nom-P3 verb|take-Fin-Ind-Past-P3-irr det|the-Def-Art noun|child-Acc adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	they 27383_27503 took 27563_27703 the 27743_27803 child 27883_28163 to 28203_28263 the 28303_28404 hospital 28464_28964 .
+*INV:	+< mhm . 28947_29384
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 28947_29384 .
+*INV:	how (a)bout cold@q and winter@q ? 31605_33326
+%mor:	adv|how adp|about q|cold cconj|and q|winter ?
+%gra:	1|5|ROOT 2|3|CASE 3|1|FLAT 4|5|CC 5|3|FLAT 6|1|PUNCT
+%wor:	how 31605_31685 (a)bout 31685_31945 cold@q 32025_32586 and 32646_32766 winter@q 32826_33326 ?
+*PAR:	cold@q and winter@q . [+ exc] 34307_35387
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 34307_34707 and 34707_34847 winter@q 34887_35387 .
+*PAR:	cold@q and winter@q . [+ exc] 35727_36593
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 35727_36128 and 36148_36248 winter@q 36268_36593 .
+*PAR:	<it was cold> [/] &-uh &+i it was a cold winter day . 36593_39333
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|cold-S1 noun|winter noun|day .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	it 36593_36608 was 36608_36788 cold 36888_37248 uh 37328_37648 it 37829_37929 was 37949_38089 a 38129_38149 cold 38249_38509 winter 38569_38849 day 38929_39333 .
+*INV:	mhm . 39333_39689
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 39333_39689 .
+*INV:	it is today . 40030_40870
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 noun|today .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	it 40030_40130 is 40190_40290 today 40370_40870 .
+*INV:	how about three words now ? 43111_44852
+%mor:	adv|how adv|about num|three noun|word-Plur adv|now ?
+%gra:	1|4|ADVMOD 2|3|ADVMOD 3|4|NUMMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	how 43111_43251 about 43271_43491 three 43551_43832 words 43912_44272 now 44352_44852 ?
+*INV:	chair@q doctor@q and sit@q . 45852_48373
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 45852_46393 doctor@q 46773_47513 and 47573_47733 sit@q 47873_48373 .
+*PAR:	chair@q doctor@q and sit@q . [+ exc] 49474_50880
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 49474_49774 doctor@q 49834_50234 and 50254_50334 sit@q 50394_50880 .
+*PAR:	chair and +... [+ exc] 51015_51795
+%mor:	noun|chair cconj|and +...
+%gra:	1|2|ROOT 2|1|CC 3|1|PUNCT
+%wor:	chair 51015_51255 and 51295_51795 +...
+*PAR:	he sat in the chair the [/] the [/] the doctor &+w wanted him to sit in . 52255_55737
+%mor:	pron|he-Prs-Nom-S3 verb|sit-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|chair det|the-Def-Art noun|doctor verb|want-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 part|to verb|sit-Inf-S adp|in .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|DET 7|8|NSUBJ 8|2|PARATAXIS 9|8|OBJ 10|11|MARK 11|8|XCOMP 12|11|COMPOUND-PRT 13|2|PUNCT
+%wor:	he 52255_52335 sat 52455_52675 in 52735_52775 the 52795_52875 chair 52975_53295 the 53396_53476 the 53576_53656 the 53736_53836 doctor 53936_54316 wanted 54356_54716 him 54716_54836 to 54836_54876 sit 55076_55316 in 55356_55737 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I can't get any more than that &=laughs . [+ exc] 59651_61192
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|get-Inf-S det|any-Def-Ind adj|more-Cmp-S1 adp|than pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|OBL 9|4|PUNCT
+%wor:	I 59651_59671 can't 59731_59971 get 59991_60171 any 60191_60311 more 60391_60511 than 60511_60672 that 60692_61192 .
+*INV:	+< how about these words ? 63515_64875
+%mor:	adv|how adp|about det|this-Def-Dem-Plur noun|word-Plur ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	how 63515_63574 about 63634_63954 these 64014_64315 words 64375_64875 ?
+*INV:	bureau@q open@q and drawer@q . 65556_68197
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 65556_66777 open@q 66857_67317 and 67517_67637 drawer@q 67697_68197 .
+*PAR:	bureau@q open@q drawer@q . [+ exc] 68858_70200
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 68858_69519 open@q 69539_69759 drawer@q 69759_70200 .
+*INV:	can you come up with a sentence using bureau@q open@q and drawer@q ? 70358_73462
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|come-Inf-S adp|up adp|with det|a-Ind-Art noun|sentence verb|use-Ger-S q|bureau q|open cconj|and q|drawer ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|7|ACL 9|10|FLAT 10|8|FLAT 11|12|CC 12|10|FLAT 13|3|PUNCT
+%wor:	can 70358_70458 you 70478_70538 come 70578_70738 up 70738_70778 with 70819_70959 a 70959_70979 sentence 71079_71540 using 71620_71860 bureau@q 71920_72401 open@q 72461_72762 and 72782_72902 drawer@q 72962_73462 ?
+*PAR:	no , I can't . [+ exc] 75988_76550
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	no 75988_76148 , I 76308_76328 can't 76428_76550 .
+*INV:	okay . 76749_77090
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 76749_77090 .
+@End

@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/a-00090366-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|84;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	057-1, audio
+@G:	Cookie
+*PAR:	you ready ? [+ exc] 870_1190
+%mor:	pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	you 870_930 ready 930_1190 ?
+*INV:	mhm . 1444_1570
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 1444_1570 .
+*PAR:	the little girl's goin(g) “shh” . 2543_4823
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|is verb|go-Part-Pres-S intj|shh .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|3|CASE 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	the little 2543_2734 girl's 2894_3456 goin(g) 4257_4598 shh 4598_4823 .
+*PAR:	and she's also &-uh reaching up to get a &-uh cookie . 6061_10512
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|reach-Part-Pres-S adp|up part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|COMPOUND-PRT 7|8|MARK 8|5|ADVCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+%wor:	and 6061_6122 she's 6182_6362 also 6462_6823 uh 7465_8627 reaching 8627_9008 up 9068_9189 to 9309_9369 get 9429_9609 a 9650_9670 uh 9890_10151 cookie 10191_10512 .
+*PAR:	and the [/] &+l the little boy is reaching for a cookie . 11830_15900
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	and 11830_12350 the 12450_12510 the 12610_12690 little 12770_13330 boy 13450_13630 is 14051_14431 reaching 14591_14991 for 15071_15331 a 15331_15351 cookie 15471_15900 .
+*PAR:	and <he's goin(g) to> [//] his [//] the [/] &+s <the chair [: stool] [* s:r-ret]> [//] the [/] &+sta &-uh the stool is tiltin(g) . 16412_25256
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	and 16412_16512 he's 16512_16672 goin(g) 16732_22374 to 22374_22414 his 22414_22614 the 22674_22794 the 23155_23235 stool 23355_23695 the 23755_23835 uh 23835_24455 the 24455_24515 stool 24615_24975 is 25015_25055 tiltin(g) 25055_25256 .
+*PAR:	and he's holding a [/] &-uh a cookie in his &-uh left hand . 27281_32241
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|4|OBL 11|4|PUNCT
+%wor:	and 27281_27341 he's 27341_27481 holding 27481_27941 a 27941_27961 uh 27981_28322 a 28362_28382 cookie 30264_30604 in 30604_30644 his 30684_30824 uh 31205_31585 left 31605_31865 hand 31885_32241 .
+*PAR:	and &-uh the mother's drying dishes . 34372_37852
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	and 34372_34388 uh 34388_34428 the 35409_35509 mother's 35569_36030 drying 36090_36590 dishes 37431_37852 .
+*PAR:	and &-uh <the water> [//] the dish water is on and it's pourin(g) over onto the floor . 40278_46267
+%mor:	cconj|and det|the-Def-Art noun|dish noun|water aux|be-Fin-Ind-Pres-S3 adv|on cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|COP 6|14|ROOT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|6|CONJ 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|6|PUNCT
+%wor:	and 40278_40438 uh 40479_40599 the 40639_40719 water 40799_41240 the 41821_41901 dish 41981_42221 water 42662_42982 is 43022_43103 on 43163_43463 and 43703_43844 it's 43884_44124 pourin(g) 44204_45306 over 45306_45386 onto 45446_45626 the 45646_45726 floor 45767_46267 .
+*PAR:	and &-uh (.) the curtains are blowing . 51670_56656
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	and 51670_55316 uh 55316_55356 the 55476_55556 curtains 55576_56017 are 56077_56137 blowing 56157_56656 .
+*PAR:	the [/] the window's up . 57297_58321
+%mor:	det|the-Def-Art noun|window~part|s adv|up .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 57297_57439 the 57740_57820 window's 57820_58240 up 58240_58321 .
+*PAR:	&+ee let me see . [+ exc]
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	(..) she's dryin(g) the dishes . 69511_70491
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 69511_69651 dryin(g) 69732_70194 the 70194_70294 dishes 70294_70491 .
+*PAR:	I don't know whether I said that or not . [+ exc] 70656_71983
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|that-Dem cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|7|OBJ 9|10|CC 10|7|CONJ 11|4|PUNCT
+%wor:	I don't know 70656_70897 whether 70958_71239 I 71239_71259 said 71339_71520 that 71560_71721 or 71761_71822 not 71822_71983 .
+*PAR:	(...) I can't see any other &-uh +... [+ exc] 91595_92565
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S det|any-Def-Ind adj|other-S1 +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	I 91595_91615 can't 91715_92565 see any other uh +...
+*PAR:	xxx the leaves are blowing on the trees . 99046_101470
+%mor:	det|the-Def-Art noun|leave-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S adp|on det|the-Def-Art noun|tree-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 99046_99126 leaves 99126_99547 are 99607_99687 blowing 99707_100208 on 100668_100728 the 100728_100809 trees 101189_101470 .
+*INV:	(..) okay that's good . 110797_112037
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 110797_111346 that's 111590_111874 good 111874_112037 .
+@End

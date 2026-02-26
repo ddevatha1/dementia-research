@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/a-00089588-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|male|ProbableAD||Participant|20||
+@Media:	003-0, audio
+@G:	animals
+*INV:	name as many animals as you can (.) in one minute (.) starting now . 9080_15488
+%mor:	verb|name-Fin-Imp-S adp|as adj|many-S1 noun|animal-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S adp|in num|one noun|minute verb|start-Part-Pres-S adv|now .
+%gra:	1|12|ROOT 2|3|ADVMOD 3|4|AMOD 4|1|OBJ 5|7|MARK 6|7|NSUBJ 7|1|ADVCL 8|10|CASE 9|10|NUMMOD 10|1|OBL 11|1|ADVCL 12|11|ADVMOD 13|1|PUNCT
+%wor:	name 9080_9420 as 9420_9480 many 9500_9700 animals 9761_10161 as 10221_10321 you 10361_10441 can 10502_10802 in 11823_11904 one 12124_12304 minute 12384_12805 starting 14507_14928 now 14988_15488 .
+*INV:	just name as many different types as [//] of animals as you can . 19134_22998
+%mor:	adv|just verb|name-Fin-Imp-S adp|as adj|many-S1 adj|different-S1 noun|type-Plur adp|of noun|animal-Plur sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|6|CASE 4|6|AMOD 5|6|AMOD 6|2|OBL 7|8|CASE 8|6|NMOD 9|11|MARK 10|11|NSUBJ 11|2|ADVCL 12|2|PUNCT
+%wor:	just 19134_19314 name 19374_19634 as 19654_19735 many 19815_20055 different 20456_20776 types 20816_21156 as 21197_21297 of 21357_21697 animals 21757_22158 as 22218_22298 you 22338_22418 can 22498_22998 .
+*PAR:	oh . [+ exc] 23259_23300
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 23259_23300 .
+*INV:	in one minute . 24281_24284
+%mor:	adp|in num|one noun|minute .
+%gra:	1|3|CASE 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+%wor:	in 24281_24284 one minute .
+*PAR:	+< oh , you're [/] you're +/. [+ exc]
+%mor:	intj|oh cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 +/.
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*INV:	you tell them to me and I'll write them down .
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 adp|to pron|I-Prs-Acc-S1 cconj|and pron|I-Prs-Nom-S1~aux|will-Fin-S verb|write-Inf-S pron|they-Prs-Acc-P3 adp|down .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|IOBJ 4|5|CASE 5|2|OBL 6|9|CC 7|9|NSUBJ 8|9|AUX 9|2|CONJ 10|9|OBJ 11|9|COMPOUND-PRT 12|2|PUNCT
+*PAR:	+< oh , okay . [+ exc]
+%mor:	intj|oh cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*INV:	I'm sorry .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	&=laughs . [+ exc]
+*PAR:	&-uh (..) dog . 34932_35432
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh dog 34932_35432 .
+*PAR:	cat . 36134_36613
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 36134_36613 .
+*PAR:	mouse . 39198_39638
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mouse 39198_39638 .
+*PAR:	(.) kangaroo . 50454_50943
+%mor:	noun|kangaroo .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	kangaroo 50454_50943 .
+*PAR:	ox . 53125_53624
+%mor:	noun|ox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ox 53125_53624 .
+*INV:	(...) okay , let's xxx . 56003_56399
+%mor:	intj|okay cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	okay 56003_56169 , let's 56211_56399 .
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	F
+*PAR:	what [/] what is it ? [+ exc] 91881_93092
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	what 91881_92021 what 92081_92221 is 92261_92361 it 92661_93092 ?
+*INV:	words beginning with the letter f@l . 93323_95100
+%mor:	noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|6|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|2|OBL-UNMARKED 7|1|PUNCT
+%wor:	words 93323_93663 beginning 93723_94123 with 94163_94283 the 94303_94364 letter 94424_94624 f 94624_95100 .
+*PAR:	+< f@l [/] f@l . [+ exc] 94965_95204
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	f f 94965_95204 .
+*INV:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	(...) any words at all beginning with the letter f@l . 104095_104276
+%mor:	det|any-Def-Ind noun|word-Plur adp|at det|all-Def-Tot verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|DET 2|9|ROOT 3|4|CASE 4|2|NMOD 5|2|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|5|OBL-UNMARKED 10|2|PUNCT
+%wor:	any words at all beginning with the letter f 104095_104276 .
+*PAR:	fight . 124065_124542
+%mor:	verb|fight-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fight 124065_124542 .
+*PAR:	(..) fence . 133658_134139
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fence 133658_134139 .
+@End

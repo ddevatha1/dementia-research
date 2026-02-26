@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00090809-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt|PAR|65;|male|Control||Participant|30||
+@Media:	229-2, audio
+@G:	Cookie
+*PAR:	there's a child reaching for a cookie . 390_1740
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|child verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+%wor:	there's 390_530 a 530_550 child 550_670 reaching 690_990 for 1050_1190 a 1230_1250 cookie 1390_1740 .
+*PAR:	the chair [: stool] [* s:r] is tilted . 2920_3820
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%wor:	the stool 2920_3171 is 3211_3311 tilted 3371_3820 .
+*PAR:	the girl is possibly moving her finger towards her mouth and reaching for a cookie . 5446_10126
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 adv|possibly verb|move-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|towards pron|her-Prs-Gen-S3 noun|mouth cconj|and verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|15|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|12|CC 12|5|CONJ 13|15|CASE 14|15|DET 15|12|OBL 16|5|PUNCT
+%wor:	the girl 5446_5613 is 5613_5773 possibly 6554_7034 moving 7094_7474 her 7474_7594 finger 7894_8175 towards 8215_8495 her 8495_8595 mouth 8675_8995 and 9015_9115 reaching 9115_9455 for 9495_9636 a 9676_9696 cookie 9776_10126 .
+*PAR:	water's running out of the sink . 11157_12658
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	water's 11157_11577 running 11617_11897 out 11977_12077 of 12117_12157 the 12197_12277 sink 12377_12658 .
+*PAR:	the mother's drying dishes . 15142_15652
+%mor:	det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 15142_15242 mother's 15262_15522 drying 15542_15652 dishes .
+*PAR:	somebody's gonna be screamin(g) when the kid falls . 18803_20802
+%mor:	pron|somebody-Ind-S1~aux|be-Fin-Ind-Pres-S3 part|go aux|be-Inf-S verb|scream-Part-Pres-S adv|when det|the-Def-Art noun|kid verb|fall-Fin-Ind-Pres-S3 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|AUX 5|9|ROOT 6|9|ADVMOD 7|8|DET 8|9|NSUBJ 9|5|ADVCL 10|5|PUNCT
+%wor:	somebody's 18803_19123 gonna 19163_19323 be 19323_19403 screamin(g) 19403_19844 when 19844_20004 the 20004_20084 kid 20204_20404 falls 20504_20802 .
+*PAR:	&-uh I don't know if it's action but mom was standin(g) in water . 26167_28088
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|action cconj|but noun|mom aux|be-Fin-Ind-Past-S3-irr verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|14|ROOT 5|8|MARK 6|8|NSUBJ 7|8|COP 8|4|CCOMP 9|12|CC 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|14|CASE 14|12|OBL 15|4|PUNCT
+%wor:	uh 26167_26187 I 26207_26227 don't 26227_26367 know 26427_26647 if 26647_26687 it's 26727_26807 action 26807_26927 but 26927_26987 mom 26987_27047 was 27067_27127 standin(g) 27147_27807 in 27807_27867 water 27887_28088 .
+*PAR:	that's about all I see . [+ exc] 32037_32756
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+%wor:	that's 32037_32221 about 32221_32324 all 32324_32468 I 32488_32509 see 32571_32756 .
+@End

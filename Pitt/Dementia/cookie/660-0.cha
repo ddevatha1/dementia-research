@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/a-00090612-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|PossibleAD||Participant|12||
+@Media:	660-0, audio
+@G:	Cookie
+*INV:	going on in the picture ? 50_1130
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%wor:	going 50_150 on 170_210 in 230_310 the 450_671 picture 691_1130 ?
+*PAR:	I see the little boy's down here +/. 1853_3413
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adp|down adv|here +/.
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|DET 4|5|AMOD 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|2|CCOMP 9|2|PUNCT
+%wor:	I 1853_1873 see 1933_2053 the 2093_2153 little 2173_2374 boy's 2394_2794 down 2894_3135 here 3175_3413 +/.
+*INV:	+< okay . 4580_5040
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 4580_5040 .
+*PAR:	+, getting the [/] the food . 5459_6580
+%mor:	verb|get-Part-Pres-S det|the-Def-Art noun|food-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	getting 5459_5739 the 5739_6220 the 6220_6300 food 6360_6580 .
+*PAR:	and the little girl down here is the same way . 6721_8720
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl adv|down adv|here aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-S1 noun|way .
+%gra:	1|10|CC 2|4|DET 3|4|AMOD 4|10|NSUBJ 5|6|ADVMOD 6|4|ADVMOD 7|10|COP 8|10|DET 9|10|AMOD 10|10|ROOT 11|10|PUNCT
+%wor:	and 6721_6821 the 6821_6881 little 6921_7122 girl 7162_7362 down 7422_7623 here 7683_7843 is 7923_8023 the 8023_8104 same 8204_8464 way 8504_8720 .
+*PAR:	<this little boy> [//] this is falling over . 9085_10969
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	this 9085_9266 little 9306_9486 boy 9526_9726 this 9927_10107 is 10147_10247 falling 10307_10628 over 10688_10969 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and this little girl she's just getting [/] (.) getting things ready for dinner . 12450_20160
+%mor:	cconj|and det|this-Def-Dem-Sing adj|little-S1 noun|girl pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|get-Part-Pres-S noun|thing-Plur-Acc adj|ready-S1 adp|for noun|dinner .
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|DISLOCATED 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|12|ROOT 9|8|OBJ 10|8|XCOMP 11|12|CASE 12|10|OBL 13|8|PUNCT
+%wor:	and 12450_12530 this 12550_12710 little 12770_12990 girl 13030_13331 she's 14212_14432 just 14492_14713 getting 14813_15093 getting 18317_18578 things 18638_18918 ready 19339_19559 for 19719_19819 dinner 19880_20160 .
+*INV:	what else is happening over here ? 21141_22546
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	what 21141_21261 else 21322_21482 is 21522_21602 happening 21642_22042 over 22103_22283 here 22323_22546 ?
+*PAR:	food dropped . 23725_24959
+%mor:	noun|food verb|drop-Fin-Ind-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	food 23725_24085 dropped 24546_24959 .
+*INV:	okay . 25989_26488
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 25989_26488 .
+*PAR:	I think it did . [+ exc] 27050_27620
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+%wor:	I 27050_27070 think 27070_27290 it 27331_27391 did 27431_27620 .
+*PAR:	yes it did . [+ exc] 27952_28600
+%mor:	intj|yes pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	yes 27952_28173 it 28233_28313 did 28354_28600 .
+*INV:	okay . 29178_29676
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 29178_29676 .
+@End

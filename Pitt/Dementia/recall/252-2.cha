@@ -1,0 +1,159 @@
+@UTF8
+@PID:	11312/a-00089959-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|64;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	252-2, audio
+@G:	George_Immediate
+*PAR:	(.) I'm ashamed but I (.) remember very little . [+ exc] 1869320_1872608
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|ashamed-S1 cconj|but pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 adv|very adj|little-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|6|CC 5|6|NSUBJ 6|3|CONJ 7|8|ADVMOD 8|6|ADVMOD 9|3|PUNCT
+%wor:	I'm 1869320_1869380 ashamed 1869400_1869860 but 1869900_1870060 I 1870120_1870140 remember 1871481_1871881 very 1871941_1872101 little 1872201_1872608 .
+*INV:	okay , well just whatever you can think about . 1872682_1875232
+%mor:	intj|okay cm|cm intj|well adv|just pron|whatever-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|about .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|5|ADVMOD 5|9|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|OBL 10|5|PUNCT
+%wor:	okay 1872682_1872901 , well 1872961_1873101 just 1873161_1873361 whatever 1873421_1873822 you 1873922_1874022 can 1874082_1874262 think 1874622_1874862 about 1874902_1875232 .
+*INV:	tell me anything at all that you heard in that story . 1876283_1878587
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 adp|at det|all-Def-Tot sconj|that pron|you-Prs-Nom-S2 verb|hear-Fin-Ind-Past-S2-irr adp|in det|that-Def-Dem-Sing noun|story .
+%gra:	1|11|ROOT 2|1|IOBJ 3|1|OBJ 4|5|CASE 5|3|NMOD 6|8|MARK 7|8|NSUBJ 8|1|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|1|PUNCT
+%wor:	tell 1876283_1876443 me 1876483_1876523 anything 1876603_1877003 at 1877043_1877123 all 1877163_1877263 that 1877283_1877443 you 1877483_1877583 heard 1877664_1877904 in 1877964_1878024 that 1878064_1878324 story 1878324_1878587 .
+*PAR:	well , the little girl with her grandfather . 1878704_1880905
+%mor:	intj|well cm|cm det|the-Def-Art adj|little-S1 noun|girl adp|with pron|her-Prs-Gen-S3 noun|grandfather .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|8|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|5|PUNCT
+%wor:	well 1878704_1878884 , the 1878924_1879004 little 1879064_1879284 girl 1879344_1879624 with 1880105_1880245 her 1880285_1880385 grandfather 1880405_1880905 .
+*INV:	+< mhm , that's right . 1881345_1881826
+%mor:	intj|mhm cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	mhm 1881345_1881405 , that's 1881405_1881585 right 1881665_1881826 .
+*PAR:	&-um (...) living at home . 1889221_1890302
+%mor:	verb|live-Part-Pres-S adp|at noun|home .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	um 1889221_1889261 living 1889301_1889622 at 1889662_1889742 home 1889802_1890302 .
+*INV:	mhm . 1890383_1890803
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 1890383_1890803 .
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	(.) that's about all I can remember . [+ exc] 1901159_1902480
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|7|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|4|PUNCT
+%wor:	that's 1901159_1901380 about 1901380_1901480 all 1901500_1901580 I 1901680_1901700 can 1901760_1901940 remember 1901980_1902480 .
+*INV:	okay . 1902585_1902941
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1902585_1902941 .
+@G:	George_Delayed
+*INV:	awhile back I read you a short story . 2964602_2967143
+%mor:	adv|awhile adv|back pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art adj|short-S1 noun|story-Acc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|4|IOBJ 6|8|DET 7|8|AMOD 8|4|OBJ 9|4|PUNCT
+%wor:	awhile 2964602_2964922 back 2965042_2965382 I 2965542_2965562 read 2965662_2965882 you 2965922_2966022 a 2966102_2966122 short 2966263_2966543 story 2966643_2967143 .
+*INV:	I read you a little story . 2967604_2968707
+%mor:	pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art adj|little-S1 noun|story-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|IOBJ 4|6|DET 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+%wor:	I 2967604_2967623 read 2967663_2967844 you 2967884_2967964 a 2968024_2968044 little 2968104_2968344 story 2968464_2968707 .
+*INV:	and right after I was done reading you the story I asked you to tell me as much as you could remember about that story . 2968905_2974849
+%mor:	cconj|and adv|right sconj|after pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|do-Part-Past-S-irr verb|read-Part-Pres-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|story-Acc pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|as adj|much-S1 sconj|as pron|you-Prs-Nom-S2 aux|could-Fin-S verb|remember-Inf-S adp|about det|that-Def-Dem-Sing noun|story .
+%gra:	1|12|CC 2|6|ADVMOD 3|6|MARK 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|12|ADVCL 7|6|XCOMP 8|7|IOBJ 9|10|DET 10|7|OBJ 11|12|NSUBJ 12|25|ROOT 13|12|IOBJ 14|15|MARK 15|12|XCOMP 16|15|IOBJ 17|18|ADVMOD 18|15|ADVMOD 19|22|MARK 20|22|NSUBJ 21|22|AUX 22|18|ADVCL 23|25|CASE 24|25|DET 25|22|OBL 26|12|PUNCT
+%wor:	and 2968905_2969004 right 2969044_2969245 after 2969265_2969545 I 2969625_2969645 was 2969685_2969825 done 2969885_2970105 reading 2970165_2970505 you 2970545_2970665 the 2970725_2970806 story 2970886_2971226 I 2971506_2971526 asked 2971626_2971866 you 2971886_2971946 to 2971986_2972046 tell 2972106_2972327 me 2972367_2972447 as 2972527_2972607 much 2972687_2972907 as 2972947_2973047 you 2973087_2973167 could 2973207_2973347 remember 2973407_2973848 about 2973888_2974168 that 2974208_2974388 story 2974448_2974849 .
+*INV:	you said to me you were afraid you didn't remember much of it . 2975610_2978471
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr adp|to pron|I-Prs-Acc-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr adj|afraid-S1 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not verb|remember-Inf-S adj|much-S1 adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|4|CASE 4|2|OBL 5|7|NSUBJ 6|7|COP 7|2|CCOMP 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|7|CCOMP 12|11|OBJ 13|14|CASE 14|12|NMOD 15|2|PUNCT
+%wor:	you 2975610_2975709 said 2975769_2975909 to 2975949_2976009 me 2976049_2976109 you 2976249_2976349 were 2976389_2976569 afraid 2976609_2976930 you 2976970_2977050 didn't 2977090_2977290 remember 2977330_2977730 much 2977790_2977990 of 2978030_2978130 it 2978170_2978471 .
+*INV:	but you gave me some of the things that went on in that story . 2978471_2981211
+%mor:	cconj|but pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Past-S2-irr pron|I-Prs-Acc-S1 det|some-Def-Ind adp|of det|the-Def-Art noun|thing-Plur pron|that-Rel verb|go-Fin-Ind-Past-S3-irr adp|on adp|in det|that-Def-Dem-Sing noun|story .
+%gra:	1|3|CC 2|3|NSUBJ 3|14|ROOT 4|3|IOBJ 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|10|NSUBJ 10|8|ACL-RELCL 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|3|PUNCT
+%wor:	but 2978471_2978531 you 2978531_2978591 gave 2978591_2978771 me 2978791_2978831 some 2978952_2979152 of 2979212_2979272 the 2979312_2979392 things 2979473_2979753 that 2979813_2979934 went 2979994_2980174 on 2980254_2980355 in 2980415_2980515 that 2980515_2980695 story 2980775_2981211 .
+*INV:	can you remember anything about that story now ? 2981560_2984590
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adp|about det|that-Def-Dem-Sing noun|story adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|ADVMOD 9|3|PUNCT
+%wor:	can 2981560_2981697 you 2981737_2981838 remember 2981918_2982399 anything 2982559_2983160 about 2983221_2983481 that 2983521_2983702 story 2983782_2984123 now 2984223_2984590 ?
+*INV:	can you remember any [//] anything about that story ? 2984590_2988352
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+%wor:	can 2984590_2984684 you 2984704_2984784 remember 2984824_2985205 any 2985445_2985666 anything 2986808_2987249 about 2987530_2987770 that 2987790_2987931 story 2988011_2988352 ?
+*INV:	any piece of information at all ? 2992380_2994307
+%mor:	det|any-Def-Ind noun|piece adp|of noun|information adp|at det|all-Def-Tot ?
+%gra:	1|2|DET 2|6|ROOT 3|4|CASE 4|2|NMOD 5|6|CASE 6|2|NMOD 7|2|PUNCT
+%wor:	any 2992380_2992500 piece 2992580_2992860 of 2992901_2992961 information 2993041_2993702 at 2993782_2993902 all 2993963_2994307 ?
+*PAR:	(..) well , right now <I can't> [/] I &+c +/. [+ exc] 2997911_2999648
+%mor:	intj|well cm|cm adv|right adv|now pron|I-Prs-Nom-S1 +/.
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+%wor:	well 2997911_2998150 , right 2998150_2998351 now 2998411_2998611 I 2998731_2998751 can't 2998832_2999192 I 2999272_2999648 +/.
+*INV:	+< okay . 2999648_2999853
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2999648_2999853 .
+@G:	George_Questions
+*INV:	let me ask you some questions that might &-um trigger some answers about the story . 3001096_3008358
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|ask-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind noun|question-Plur-Acc pron|that-Rel aux|might-Fin-S verb|trigger-Inf-S det|some-Def-Ind noun|answer-Plur-Acc adp|about det|the-Def-Art noun|story .
+%gra:	1|14|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|6|DET 6|3|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|1|PUNCT
+%wor:	let 3001096_3001256 me 3001296_3001376 ask 3001796_3002116 you 3002176_3002276 some 3002356_3002556 questions 3002596_3003316 that 3003336_3003536 might 3003636_3004017 um 3004617_3004937 trigger 3005297_3005737 some 3006077_3006278 answers 3006378_3006878 about 3007398_3007678 the 3007718_3007778 story 3007858_3008358 .
+*INV:	who was the story about ? 3010219_3011502
+%mor:	pron|who-Int aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|story adp|about ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+%wor:	who 3010219_3010319 was 3010459_3010619 the 3010719_3010799 story 3010899_3011259 about 3011359_3011502 ?
+*INV:	do you know who the story was about ? 3012300_3014021
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|COP 8|3|PUNCT 9|3|PUNCT
+%wor:	do 3012300_3012380 you 3012380_3012440 know 3012440_3012560 who 3012620_3012700 the 3012780_3012860 story 3012940_3013240 was 3013340_3013480 about 3013540_3014021 ?
+*INV:	okay . 3016762_3017222
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 3016762_3017222 .
+*INV:	what time of year did George move in with his son's family ? 3017483_3022005
+%mor:	det|what-Def-Int noun|time adp|of noun|year aux|do-Fin-Ind-Past-S3-irr propn|George verb|move-Inf-S adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|2|DET 2|7|OBL-UNMARKED 3|4|CASE 4|2|NMOD 5|7|AUX 6|7|NSUBJ 7|13|ROOT 8|7|COMPOUND-PRT 9|13|CASE 10|11|NMOD-POSS 11|13|NMOD-POSS 12|11|CASE 13|7|OBL 14|7|PUNCT
+%wor:	what 3017483_3017642 time 3017742_3018183 of 3018323_3018443 year 3018563_3018863 did 3019023_3019183 George 3019323_3019924 move 3020144_3020404 in 3020444_3020564 with 3020604_3020744 his 3020804_3020945 son's 3021045_3021425 family 3021505_3022005 ?
+*PAR:	(..) winter . 3025629_3026084
+%mor:	noun|winter .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	winter 3025629_3026084 .
+*INV:	okay . 3026084_3026528
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 3026084_3026528 .
+*INV:	what were George's stories about ? 3029538_3031901
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur adp|about ?
+%gra:	1|6|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|CASE 7|1|PUNCT
+%wor:	what 3029538_3029718 were 3029778_3029979 George's 3030059_3030580 stories 3030680_3031321 about 3031401_3031901 ?
+*INV:	what did Melanie ask George to do ? 3043823_3046448
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+%wor:	what 3043823_3043983 did 3044063_3044223 Melanie 3044343_3044864 ask 3045045_3045305 George 3045465_3045946 to 3046066_3046146 do 3046226_3046448 ?
+*PAR:	(...) I can't think at all . [+ exc] 3052116_3053135
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|at det|all-Def-Tot .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	I 3052116_3052136 can't 3052196_3052437 think 3052457_3052657 at 3052677_3052737 all 3052737_3053135 .
+*INV:	+< you don't recall any of this ? 3053135_3053994
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|recall-Inf-S det|any-Def-Ind adp|of pron|this-Dem-S1 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+%wor:	you don't 3053135_3053138 recall 3053138_3053478 any 3053518_3053659 of 3053659_3053699 this 3053719_3053994 ?
+*INV:	okay . 3053999_3054479
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 3053999_3054479 .
+*INV:	why did George hold Melanie's hand tightly ? 3054720_3057826
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr propn|George verb|hold-Inf-S propn|Melanie~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	why 3054720_3054941 did 3055041_3055201 George 3055281_3055702 hold 3055802_3056123 Melanie's 3056243_3056764 hand 3056844_3057225 tightly 3057445_3057826 ?
+*INV:	and then the last one . 3065577_3066440
+%mor:	cconj|and adv|then det|the-Def-Art adj|last-S1 noun|one .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	and 3065577_3065657 then 3065657_3065777 the 3065797_3065857 last 3065917_3066178 one 3066178_3066440 .
+*INV:	why did Melanie not like the city ? 3066799_3068542
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr propn|Melanie part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	why 3066799_3067040 did 3067120_3067281 Melanie 3067341_3067782 not 3067862_3068103 like 3068183_3068444 the 3068504_3068542 city ?
+*PAR:	(..) too much noise . 3073055_3073766
+%mor:	adv|too adj|much-S1 noun|noise .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	too 3073055_3073175 much 3073215_3073396 noise 3073496_3073766 .
+*INV:	okay . 3073959_3074437
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 3073959_3074437 .
+@End

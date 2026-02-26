@@ -1,0 +1,181 @@
+@UTF8
+@PID:	11312/a-00089779-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|70;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	544-0, audio
+@G:	animals
+*PAR:	cat . 640_1120
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 640_1120 .
+*PAR:	dog . 1481_1906
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 1481_1906 .
+*PAR:	(.) you say farm animals ? [+ exc] 2922_3706
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 noun|farm noun|animal-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+%wor:	you 2922_3002 say 3022_3122 farm 3162_3382 animals 3442_3706 ?
+*INV:	all the animals you can think of . 4124_5400
+%mor:	det|all-Def-Tot det|the-Def-Art noun|animal-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|3|DET-PREDET 2|3|DET 3|7|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|3|PUNCT
+%wor:	all 4124_4223 the 4283_4343 animals 4343_4704 you 4704_4804 can 4824_4944 think 5004_5400 of .
+*PAR:	cow . 5825_6200
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 5825_6200 .
+*PAR:	horse . 6386_6885
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 6386_6885 .
+*PAR:	sheep . 7687_8114
+%mor:	noun|sheep-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sheep 7687_8114 .
+*PAR:	lamb . 8828_9328
+%mor:	noun|lamb .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lamb 8828_9328 .
+*PAR:	(..) did I say cat@q ? [+ exc] 13653_14354
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S q|cat ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	did 13653_13753 I 13813_13833 say 13873_13993 cat@q 14033_14354 ?
+*INV:	okay , just name them for me . 14634_16675
+%mor:	intj|okay cm|cm adv|just verb|name-Fin-Imp-S pron|they-Prs-Acc-P3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+%wor:	okay 14634_14794 , just 15394_15594 name 15735_16055 them 16375_16575 for 16655_16675 me .
+*PAR:	+< cat .
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) cow . 21540_21799
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 21540_21799 .
+*PAR:	(...) giraffe . 28046_28545
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	giraffe 28046_28545 .
+*PAR:	elephant . 29847_30327
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 29847_30327 .
+*PAR:	horse . 31649_32148
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 31649_32148 .
+*PAR:	(.) lion . 35131_35631
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lion 35131_35631 .
+*PAR:	tiger . 35972_36472
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tiger 35972_36472 .
+*PAR:	(.) zebra . 37433_37914
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zebra 37433_37914 .
+*PAR:	(...) duck . 44519_44999
+%mor:	noun|duck .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	duck 44519_44999 .
+*PAR:	(.) goose . 46722_47221
+%mor:	noun|goose .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	goose 46722_47221 .
+*PAR:	(..) buffalo . 50765_51247
+%mor:	propn|buffalo .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	buffalo 50765_51247 .
+*PAR:	(..) donkey . 56155_56652
+%mor:	noun|donkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	donkey 56155_56652 .
+*INV:	okay , good . 57695_57978
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay , good 57695_57978 .
+@G:	F
+*INV:	now I'm going to change directions and you can begin now . 58976_62399
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|change-Inf-S noun|direction-Plur-Acc cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|11|CC 9|11|NSUBJ 10|11|AUX 11|4|CONJ 12|11|ADVMOD 13|4|PUNCT
+%wor:	now 58976_59036 I'm 59036_59096 going 59096_59196 to 59196_59236 change 59316_59636 directions 59776_60697 and 60718_60798 you 60818_60898 can 60958_61078 begin 61098_61478 now 61899_62399 .
+*PAR:	fire . 62782_63260
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fire 62782_63260 .
+*PAR:	farm . 64104_64601
+%mor:	noun|farm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	farm 64104_64601 .
+*PAR:	furniture . 65326_65803
+%mor:	noun|furniture .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	furniture 65326_65803 .
+*PAR:	fellow . 67025_67507
+%mor:	adj|fellow-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fellow 67025_67507 .
+*PAR:	&-uh (.) fun . 68126_72912
+%mor:	noun|fun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 68126_68346 fun 72431_72912 .
+*PAR:	fishing . 74474_74940
+%mor:	noun|fishing-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fishing 74474_74940 .
+*PAR:	(..) framing . 78697_79197
+%mor:	noun|framing-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	framing 78697_79197 .
+*PAR:	like in framing a picture . [+ exc] 79878_81051
+%mor:	intj|like sconj|in verb|frame-Part-Pres-S det|a-Ind-Art noun|picture-Acc .
+%gra:	1|3|DISCOURSE 2|3|MARK 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	like 79878_80058 in 80078_80158 framing 80178_80458 a 80498_80518 picture 80578_81051 .
+*PAR:	(..) finding . 85443_85942
+%mor:	verb|find-Part-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	finding 85443_85942 .
+*PAR:	(.) follow . 88905_89404
+%mor:	verb|follow-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	follow 88905_89404 .
+*PAR:	(.) fragrance . 91408_91888
+%mor:	noun|fragrance .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fragrance 91408_91888 .
+*PAR:	flower . 93209_93689
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flower 93209_93689 .
+*PAR:	(...) firetruck &=laughs .
+%mor:	noun|firetruck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) fashion . 109767_110247
+%mor:	noun|fashion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fashion 109767_110247 .
+*PAR:	(.) formidable . 112931_113428
+%mor:	adj|formidable-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	formidable 112931_113428 .
+*PAR:	fine . 115053_115530
+%mor:	adj|fine-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fine 115053_115530 .
+*PAR:	(.) frank . 118557_119052
+%mor:	propn|frank .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frank 118557_119052 .
+*PAR:	that's being frank honest <not the> [/] not the name , &-you_know . [+ exc] 119658_122521
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S adv|frank adj|honest-S1 part|not det|the-Def-Art noun|name cm|cm .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|ADVMOD 5|9|ROOT 6|8|ADVMOD 7|8|DET 8|5|PARATAXIS 9|5|PUNCT 10|5|PUNCT
+%wor:	that's 119658_119873 being 120033_120233 frank 120273_120553 honest 120633_120893 not 120974_121114 the 121134_121334 not 121534_121654 the 121674_121754 name 121774_122034 , you_know 122034_122521 .
+*INV:	+< okay , good . 122581_122774
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay , good 122581_122774 .
+@End

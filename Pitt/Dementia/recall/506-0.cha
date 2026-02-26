@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/a-00090029-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|25||
+@Media:	506-0, audio
+@G:	George_Immediate
+*INV:	www .
+%com:	task introduction .
+*PAR:	well , he went to (.) live with his son . 294083_298547
+%mor:	intj|well cm|cm pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr part|to verb|live-Inf-S adp|with pron|his-Prs-Gen-S3 noun|son .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|4|PUNCT
+%wor:	well 294083_294304 , he 294626_294726 went 295128_295309 to 295390_295530 live 297079_297300 with 297300_297441 his 297461_297662 son 298104_298547 .
+*PAR:	0 . [+ exc]
+%exp:	silence .
+*PAR:	and Melanie , the little girl , liked to hear (a)bout his [//] (..) &-uh what he did when he was little . 305897_317888
+%mor:	cconj|and propn|Melanie cm|cm det|the-Def-Art adj|little-S1 noun|girl cm|cm verb|like-Fin-Ind-Past-S3 part|to verb|hear-Inf-S adp|about pron|what-Rel-S1 pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|little-S1 .
+%gra:	1|8|CC 2|8|NSUBJ 3|6|PUNCT 4|6|DET 5|6|AMOD 6|2|APPOS 7|2|PUNCT 8|18|ROOT 9|10|MARK 10|8|XCOMP 11|12|CASE 12|10|OBL 13|14|NSUBJ 14|12|ACL-RELCL 15|18|ADVMOD 16|18|NSUBJ 17|18|COP 18|14|ADVCL 19|8|PUNCT
+%wor:	and 305897_305997 Melanie 306658_307158 , the 307198_307358 little 307358_307619 girl 307679_307919 , liked 308760_309000 to 309040_309101 hear 309181_309381 (a)bout 309381_310082 his 310082_310442 uh 316289_316329 what 316329_316469 he 316489_316550 did 316650_316790 when 316830_316950 he 316990_317050 was 317150_317331 little 317431_317888 .
+*INV:	mhm . 317888_318131
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 317888_318131 .
+*PAR:	and then they went to see the house where he lived . 322095_325202
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr part|to verb|see-Inf-S det|the-Def-Art noun|house-Acc adv|where pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|11|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|ADVMOD 10|11|NSUBJ 11|8|ACL-RELCL 12|4|PUNCT
+%wor:	and 322095_322195 then 322215_322375 they 322415_322555 went 322635_322855 to 322935_323035 see 323215_323395 the 323515_323635 house 323835_324295 where 324355_324556 he 324596_324676 lived 324796_325202 .
+*PAR:	and it was in the city . 326877_328174
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|city .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	and 326877_326977 it 327037_327097 was 327157_327297 in 327357_327437 the 327477_327557 city 327697_328174 .
+*PAR:	and it was crowded . 329698_330758
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|crowd-Part-Past-S .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%wor:	and 329698_329818 it 329878_329958 was 329998_330158 crowded 330258_330758 .
+*PAR:	and Melanie didn't like the +... 332119_333999
+%mor:	cconj|and propn|Melanie aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art +...
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 332119_332219 Melanie 332259_332759 didn't 332819_333079 like 333159_333459 the 333499_333999 +...
+*PAR:	she didn't like all the noise . 337302_338983
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|all-Def-Tot det|the-Def-Art noun|noise-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|DET-PREDET 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	she 337302_337382 didn't 337462_337642 like 337702_338002 all 338063_338163 the 338243_338363 noise 338483_338983 .
+*PAR:	and she was glad to go back to the country . 341487_344006
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|glad-S1 part|to verb|go-Inf-S adv|back adp|to det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	and 341487_341587 she 341667_341747 was 341848_341988 glad 342048_342348 to 342428_342528 go 342609_342669 back 342729_343029 to 343149_343249 the 343309_343390 country 343510_344006 .
+*INV:	okay good . 345993_346894
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 345993_346293 good 346394_346894 .
+@G:	George_Delayed
+*INV:	www .
+%com:	task introduction, with interjections of "mhm" by PAR at regular intervals .
+*PAR:	well , the grandfather moved in with his son . 1730465_1734229
+%mor:	intj|well cm|cm det|the-Def-Art noun|grandfather verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|son .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|DET 4|5|NSUBJ 5|9|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|5|PUNCT
+%wor:	well 1730465_1730705 , the 1730946_1731026 grandfather 1731106_1731767 moved 1731827_1732990 in 1733030_1733170 with 1733290_1733451 his 1733471_1733691 son 1733792_1734229 .
+*PAR:	and he had <a little daughter> [//] xxx the granddaughter , Melanie . 1734229_1740504
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|the-Def-Art noun|granddaughter-Acc cm|cm propn|Melanie .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|PUNCT 7|5|APPOS 8|3|PUNCT
+%wor:	and 1734229_1736277 he 1736277_1736337 had 1736437_1736918 a 1736998_1737018 little 1737179_1738161 daughter 1738201_1738541 the 1738602_1738682 granddaughter 1738742_1739483 , Melanie 1740004_1740504 .
+*PAR:	Melanie liked to hear (.) &-uh all his stories about when Grampy [?] was little . 1741669_1749241
+%mor:	propn|Melanie verb|like-Fin-Ind-Past-S3 part|to verb|hear-Inf-S det|all-Def-Tot pron|his-Prs-Gen-S3 noun|story-Plur-Acc adp|about adv|when propn|Grampy aux|be-Fin-Ind-Past-S3-irr adj|little-S1 .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|MARK 4|2|XCOMP 5|7|DET-PREDET 6|7|NMOD-POSS 7|4|OBJ 8|12|MARK 9|12|ADVMOD 10|12|NSUBJ 11|12|COP 12|4|ADVCL 13|2|PUNCT
+%wor:	Melanie 1741669_1742269 liked 1742269_1742810 to 1742910_1743010 hear 1743110_1743451 uh 1744552_1745293 all 1745373_1745533 his 1745553_1745734 stories 1746955_1747556 about 1747596_1747936 when 1747976_1748096 Grampy 1748176_1748437 was 1748517_1748697 little 1748777_1749241 .
+*PAR:	and Grampy [?] decided to take her to where he lived . 1750960_1754884
+%mor:	cconj|and propn|Grampy verb|decide-Fin-Ind-Past-S3 part|to verb|take-Inf-S pron|her-Prs-Acc-S3 adp|to adv|where pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|CASE 8|5|OBL 9|10|NSUBJ 10|8|ADVCL-RELCL 11|3|PUNCT
+%wor:	and 1750960_1751180 Grampy 1751260_1752281 decided 1752442_1753022 to 1753082_1753162 take 1753223_1753403 her 1753403_1753543 to 1753903_1753963 where 1754023_1754244 he 1754264_1754324 lived 1754384_1754884 .
+*PAR:	so (..) &-um (.) it was really (.) &-um noisy . 1756566_1768430
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really adj|noisy-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	so 1756566_1762898 um 1762938_1763039 it 1763079_1763500 was 1763640_1763780 really 1763800_1764001 um 1764181_1766806 noisy 1767969_1768430 .
+*PAR:	and Melanie didn't like it . 1770373_1772078
+%mor:	cconj|and propn|Melanie aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 1770373_1770453 Melanie 1770553_1771034 didn't 1771034_1771475 like 1771515_1771875 it 1771955_1772078 .
+*PAR:	and he would hold <xxx hand> [//] Melanie's hand . 1775281_1779128
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|would-Fin-S verb|hold-Inf-S propn|Melanie~part|s noun|hand-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|PUNCT
+%wor:	and 1775281_1775401 he 1775421_1775541 would 1775642_1776062 hold 1776663_1776844 xxx 1776964_1777324 hand 1777365_1777605 Melanie's 1778066_1778607 hand 1778647_1779128 .
+*PAR:	and Melanie was glad to be back . 1785322_1786945
+%mor:	cconj|and propn|Melanie aux|be-Fin-Ind-Past-S3-irr adj|glad-S1 part|to aux|be-Inf-S adv|back .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|4|PUNCT
+%wor:	and 1785322_1785382 Melanie 1785442_1785823 was 1785863_1786023 glad 1786083_1786284 to 1786424_1786504 be 1786584_1786685 back 1786765_1786945 .
+*INV:	oh good .
+%mor:	intj|oh adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00090079-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	bullets
+@ID:	eng|Pitt|PAR|50;|male|Other||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	704-0, audio
+@G:	George_Immediate
+*PAR:	George [//] &=clears:throat George was having a meeting with his daughter Melanie . 1682405_1685809
+%mor:	propn|George aux|be-Fin-Ind-Past-S3-irr verb|have-Part-Pres-S det|a-Ind-Art noun|meeting-Acc-Ger adp|with pron|his-Prs-Gen-S3 noun|daughter propn|Melanie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|8|APPOS 10|3|PUNCT
+%wor:	George 1682405_1682825 George 1683246_1683546 was 1683566_1683666 having 1683706_1683947 a 1683987_1684007 meeting 1684067_1684387 with 1684448_1684588 his 1684628_1684768 daughter 1684848_1685189 Melanie 1685309_1685809 .
+*INV:	mhm . 1685817_1686229
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 1685817_1686229 .
+*PAR:	and &-uh they decided they would like to take a trip to remind [/] remind George of his childhood . 1687051_1695904
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|decide-Fin-Ind-Past-P3 pron|they-Prs-Nom-P3 aux|would-Fin-S verb|like-Inf-S part|to verb|take-Inf-S det|a-Ind-Art noun|trip-Acc part|to verb|remind-Inf-S propn|George adp|of pron|his-Prs-Gen-S3 noun|childhood .
+%gra:	1|3|CC 2|3|NSUBJ 3|16|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|12|MARK 12|8|ADVCL 13|12|IOBJ 14|16|CASE 15|16|NMOD-POSS 16|12|OBL 17|3|PUNCT
+%wor:	and 1687051_1687352 uh 1687572_1687793 they 1689856_1690016 decided 1690076_1690617 they 1690657_1690777 would 1690797_1690937 like 1690957_1691157 to 1691198_1691278 take 1691378_1691578 a 1691598_1691618 trip 1691718_1691959 to 1692920_1692980 remind 1693040_1693501 remind 1693721_1694202 George 1694342_1694723 of 1694763_1694823 his 1694863_1695003 childhood 1695404_1695904 .
+*PAR:	&=clears:throat and &=clears:throat Melanie was a little bit apprehensive . 1697688_1701412
+%mor:	cconj|and propn|Melanie aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|little-S1 noun|bit adj|apprehensive-S1 .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|6|DET 5|6|AMOD 6|7|OBL-UNMARKED 7|7|ROOT 8|7|PUNCT
+%wor:	and 1697688_1697828 Melanie 1699710_1700131 was 1700151_1700291 a 1700351_1700371 little 1700431_1700611 bit 1700671_1700811 apprehensive 1700912_1701412 .
+*PAR:	but she went along . 1702353_1703255
+%mor:	cconj|but pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adv|along .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	but 1702353_1702474 she 1702554_1702654 went 1702734_1702914 along 1702954_1703255 .
+*PAR:	&=clears:throat and &-uh (..) &-uh (.) as the trip went she started to become frightened . 1704216_1714934
+%mor:	cconj|and sconj|as det|the-Def-Art noun|trip verb|go-Fin-Ind-Past-S3-irr pron|she-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 part|to verb|become-Inf-S adj|frighten-S1 .
+%gra:	1|7|CC 2|5|MARK 3|4|DET 4|5|NSUBJ 5|7|ADVCL 6|7|NSUBJ 7|10|ROOT 8|9|MARK 9|7|XCOMP 10|9|XCOMP 11|7|PUNCT
+%wor:	and 1704216_1704356 uh 1704376_1704456 uh 1704476_1709104 as 1712730_1712830 the 1712850_1712910 trip 1712990_1713191 went 1713271_1713471 she 1713571_1713671 started 1713772_1714052 to 1714092_1714132 become 1714172_1714513 frightened 1714573_1714934 .
+*PAR:	but there was no &+ar alarm for frightening because &-uh nothing was scary about the whole trip . 1716635_1723038
+%mor:	cconj|but pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|no-Def-Neg noun|alarm adp|for adj|frightening-S1 sconj|because pron|nothing-Neg-S1 aux|be-Fin-Ind-Past-S3-irr adj|scary-S1 adp|about det|the-Def-Art adj|whole-S1 noun|trip .
+%gra:	1|3|CC 2|3|EXPL 3|15|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|11|MARK 9|11|NSUBJ 10|11|COP 11|3|ADVCL 12|15|CASE 13|15|DET 14|15|AMOD 15|11|OBL 16|3|PUNCT
+%wor:	but 1716635_1716775 there 1716835_1716955 was 1716955_1717075 no 1717115_1717195 alarm 1717935_1718376 for 1718616_1718796 frightening 1718916_1719396 because 1719436_1719877 uh 1719977_1720077 nothing 1721238_1721538 was 1721578_1721698 scary 1721758_1722078 about 1722158_1722398 the 1722438_1722498 whole 1722538_1722719 trip 1722759_1723038 .
+*PAR:	and that's about all I remember at it . 1726181_1728448
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 adp|at pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|9|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|9|CASE 9|7|OBL 10|5|PUNCT
+%wor:	and 1726181_1727021 that's 1727021_1727182 about 1727222_1727442 all 1727462_1727662 I 1727662_1727682 remember 1727682_1728062 at 1728062_1728102 it 1728122_1728448 .
+*INV:	+< okay , that's fine . 1728222_1728563
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 1728222_1728262 , that's 1728262_1728382 fine 1728382_1728563 .
+@End

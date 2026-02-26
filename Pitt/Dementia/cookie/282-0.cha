@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/a-00090496-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|female|ProbableAD||Participant|22||
+@Media:	282-0, audio
+@G:	Cookie
+*INV:	what action do you see going on in that picture ? 60_2970
+%mor:	det|what-Def-Int noun|action-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|2|DET 2|6|OBJ 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|5|PUNCT
+%wor:	what 60_220 action 480_1001 do 1222_1302 you 1362_1462 see 1563_1723 going 1783_2044 on 2104_2204 in 2244_2304 that 2344_2484 picture 2545_2970 ?
+*PAR:	well , I see the mother washing dishes . 4729_6852
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|mother noun|washing-Ger noun|dish-Plur-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|8|DET 6|8|COMPOUND 7|8|COMPOUND 8|4|OBJ 9|4|PUNCT
+%wor:	well 4729_4970 , I 5150_5170 see 5250_5390 the 5451_5531 mother 5571_5811 washing 5871_6312 dishes 6352_6852 .
+*PAR:	I see the water flowing out over the sink top . 7615_11343
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|water-Acc verb|flow-Ger-S adp|out adp|over det|the-Def-Art noun|sink noun|top .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|5|COMPOUND-PRT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|2|PUNCT
+%wor:	I 7615_7635 see 7695_7835 the 7855_7936 water 8016_8336 flowing 9038_9379 out 9439_9559 over 9739_9960 the 9980_10060 sink 10300_11022 top 11022_11343 .
+*PAR:	I see the boy on a stool that's about to tilt . 12396_15096
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|boy-Acc adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|tilt-Inf-S .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|12|MARK 12|10|ADVCL-RELCL 13|2|PUNCT
+%wor:	I 12396_12416 see 12496_12696 the 12696_12776 boy 12816_13056 on 13136_13217 a 13257_13277 stool 13397_13817 that's 13957_14158 about 14198_14478 to 14518_14598 tilt 14738_15096 .
+*PAR:	and he's goin(g) to fall . 15359_16338
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+%wor:	and 15359_15419 he's 15439_15559 goin(g) 15619_15780 to 15780_15840 fall 15920_16338 .
+*PAR:	he's tryin(g) to get into the cookie jar . 16401_18169
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|3|PUNCT
+%wor:	he's 16401_16541 tryin(g) 16601_16861 to 16861_16921 get 16921_17041 into 17081_17261 the 17281_17362 cookie 17422_17802 jar 17802_18169 .
+*PAR:	the little girl has her hand out for a cookie . 19284_21427
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|out adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|10|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	the 19284_19364 little 19364_19564 girl 19584_19785 has 19805_19965 her 20005_20085 hand 20145_20405 out 20505_20646 for 20706_20846 a 20886_20906 cookie 21006_21427 .
+*PAR:	(.) the water's running . 27411_28199
+%mor:	det|the-Def-Art noun|water~part|s noun|running-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 27411_27471 water's 27471_27851 running 27931_28199 .
+*PAR:	(.) dishes are on the sink top . 32017_33394
+%mor:	noun|dish-Plur aux|be-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|sink noun|top .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	dishes 32017_32338 are 32378_32478 on 32498_32578 the 32618_32698 sink 32818_33039 top 33099_33394 .
+*PAR:	the lid is off the cookie jar . 38326_39849
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the lid 38326_38507 is 38527_38667 off 38747_38907 the 38907_39007 cookie 39087_39348 jar 39428_39849 .
+*PAR:	(.) you want me to tell you the grass is growing open through the window &=laughs ? [+ exc] 45572_48637
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|grass aux|be-Fin-Ind-Pres-S3 verb|grow-Part-Pres-S adj|open-S1 adp|through det|the-Def-Art noun|window ?
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|10|XCOMP 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%wor:	you 45572_45692 want 45732_45872 me 45872_45912 to 45932_45972 tell 45972_46072 you 46072_46152 the 46172_46252 grass 46292_46593 is 46653_46733 growing 46793_47193 open 47634_48637 through the window ?
+*INV:	+< &=laughs .
+*PAR:	I can tell you the water is spilling out of the sink onto the floor . 51958_54922
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|15|ROOT 4|3|IOBJ 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|12|CASE 10|12|CASE 11|12|DET 12|8|OBL 13|15|CASE 14|15|DET 15|8|OBL 16|3|PUNCT
+%wor:	I 51958_51978 can 52018_52099 tell 52099_52219 you 52239_52339 the 52339_52419 water 52479_52759 is 52779_52859 spilling 52919_53300 out 53360_53480 of 53600_53660 the 53660_53740 sink 53900_54121 onto 54201_54381 the 54401_54481 floor 54621_54922 .
+*PAR:	and they got the [/] the window to see the outside world . 61269_63247
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr det|the-Def-Art noun|window-Acc part|to verb|see-Inf-S det|the-Def-Art adj|outside-S1 noun|world-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|10|DET 9|10|AMOD 10|7|OBJ 11|3|PUNCT
+%wor:	and 61269_61329 they 61329_61409 got 61409_61470 the 61490_61570 the 61570_61650 window 61650_61791 to 61811_61851 see 61971_62112 the 62152_62232 outside 62332_62894 world 62954_63247 .
+*INV:	(.) is that it ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

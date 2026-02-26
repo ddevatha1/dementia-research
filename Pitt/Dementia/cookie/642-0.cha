@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/a-00090606-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|17||
+@Media:	642-0, audio
+@G:	Cookie
+*INV:	take a look at this picture . 270_1470
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+%wor:	take 270_450 a 470_490 look 550_690 at 730_810 this 830_990 picture 1090_1470 .
+*INV:	just tell me what you see going on in that picture . 2351_5080
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|2|PUNCT
+%wor:	just 2351_2572 tell 2652_2872 me 2932_2992 what 3132_3292 you 3332_3452 see 3553_3693 going 3793_4113 on 4193_4313 in 4373_4453 that 4493_4654 picture 4694_5080 .
+*PAR:	+< mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	tell me everything that you see happening there . 5474_7736
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|8|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|ADVMOD 9|1|PUNCT
+%wor:	tell 5474_5635 me 5655_5715 everything 5775_6155 that 6175_6315 you 6355_6435 see 6495_6635 happening 6716_7196 there 7236_7736 .
+*PAR:	now [//] right now ? [+ exc] 8037_8850
+%mor:	adv|right adv|now ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	now 8037_8297 right 8477_8657 now 8677_8850 ?
+*INV:	+< mhm yeah just tell me +/. 9058_9940
+%mor:	intj|mhm intj|yeah adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 +/.
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|ADVMOD 4|5|ROOT 5|4|IOBJ 6|4|PUNCT
+%wor:	mhm 9058_9258 yeah 9258_9338 just 9338_9418 tell 9438_9558 me 9578_9940 +/.
+*PAR:	+< oh , I thought you meant +//. [+ exc] 9690_10270
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Past-S2-irr +//.
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+%wor:	oh 9690_9698 , I 9718_9738 thought 9818_9999 you 9999_10059 meant 10079_10270 +//.
+*PAR:	well , the boy was &-uh taking some cookies from the cupboard up there . 10639_14203
+%mor:	intj|well cm|cm det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|take-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cupboard adp|up adv|there .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|13|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|6|COMPOUND-PRT 13|6|ADVMOD 14|6|PUNCT
+%wor:	well 10639_10819 , the 10839_10919 boy 10979_11160 was 11220_11380 uh 11480_11640 taking 11880_12181 some 12221_12381 cookies 12401_12781 from 12821_12941 the 12981_13061 cupboard 13302_13682 up 13702_13862 there 13902_14203 .
+*PAR:	and he [//] the [//] &-uh &-uh yeah that there &-uh &-uh stool I'd call it . [+ gram] 14793_22933
+%mor:	cconj|and intj|yeah det|that-Def-Dem-Sing pron|there-Prs-Gen-S3 noun|stool pron|I-Prs-Nom-S1~aux|would-Fin-S verb|call-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|8|CC 2|8|DISCOURSE 3|5|DET 4|5|NMOD-POSS 5|8|OBL-UNMARKED 6|8|NSUBJ 7|8|AUX 8|9|ROOT 9|8|OBJ 10|8|PUNCT
+%wor:	and 14793_14873 he 15393_15453 the 15533_15633 uh 15713_17455 uh 17475_18436 yeah 18456_18636 that 18856_19036 there 19096_19257 uh 19357_19397 uh 19517_21659 stool 21979_22399 I'd 22399_22640 call 22740_22933 it .
+*PAR:	I don't know what you call (th)em . [+ exc] 23140_23960
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|call-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|4|PUNCT
+%wor:	I 23140_23160 don't 23160_23300 know 23300_23400 what 23420_23501 you 23521_23581 call 23641_23861 (th)em 23861_23960 .
+*PAR:	and what's she doin(g) ? [+ exc] 25163_26195
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	and 25163_25262 what's 25302_25522 she 25542_25662 doin(g) 25763_26195 ?
+*PAR:	she's asking for some cookies . 27385_28945
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	she's 27385_27584 asking 27704_28025 for 28045_28165 some 28245_28385 cookies 28445_28945 .
+*PAR:	mother's drying the dishes . 29680_31000
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 29680_29960 drying 30020_30340 the 30380_30440 dishes 30500_31000 .
+*PAR:	and she's spilled water all over the place at the sink . 32221_35579
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Past-S noun|water-Acc adv|all adp|over det|the-Def-Art noun|place adp|at det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|4|OBJ 6|9|ADVMOD 7|9|CASE 8|9|DET 9|4|OBL 10|12|CASE 11|12|DET 12|4|OBL 13|4|PUNCT
+%wor:	and 32221_32342 she's 32402_32542 spilled 32562_32882 water 32942_33242 all 33302_33422 over 33442_33643 the 33683_33763 place 33803_34283 at 34884_34984 the 35004_35064 sink 35184_35579 .
+*PAR:	she's also has some cups and &-uh a dish sitting there . 36989_41349
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|have-Fin-Ind-Pres-S3 det|some-Def-Ind noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|dish verb|sit-Ger-S adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|9|ACL 11|10|ADVMOD 12|4|PUNCT
+%wor:	she's 36989_37085 also 37205_37546 has 37646_37786 some 37846_38006 cups 38066_38386 and 39527_39627 uh 39667_40348 a 40348_40368 dish 40448_40668 sitting 40708_41028 there 41048_41349 .
+*PAR:	her curtains you could see (.) real well . 41710_44834
+%mor:	pron|her-Prs-Gen-S3 noun|curtain-Plur pron|you-Prs-Nom-S2 aux|could-Fin-S verb|see-Inf-S adj|real-S1 adv|well .
+%gra:	1|2|NMOD-POSS 2|5|DISLOCATED 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|ADVMOD 7|5|ADVMOD 8|5|PUNCT
+%wor:	her 41710_41810 curtains 41871_42314 you 42334_42435 could 42435_42596 see 42657_42818 real 42838_44471 well 44551_44834 .
+*PAR:	oh what else ? [+ exc]
+%mor:	intj|oh pron|what-Int-S1 adv|else ?
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	that's about it . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*INV:	okay fine thank you .
+%mor:	intj|okay adj|fine-S1 verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+@End

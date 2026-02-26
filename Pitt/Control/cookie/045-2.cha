@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/a-00090670-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	045-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	what's going on ? [+ exc] 5070_6150
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|3|OBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	what's 5070_5230 going 5290_5570 on 5650_6150 ?
+*PAR:	okay . [+ exc] 6873_7372
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 6873_7372 .
+*PAR:	&-uh mother's &-uh drying dishes . 8255_10757
+%mor:	noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	uh 8255_8354 mother's 8495_9055 uh 9135_9316 drying 9917_10297 dishes 10357_10757 .
+*PAR:	sink is overflowing . [+ gram] 10939_11899
+%mor:	noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	sink 10939_11158 is 11198_11299 overflowing 11399_11899 .
+*PAR:	son is &-uh falling off a stool . [+ gram] 13680_16161
+%mor:	noun|son aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	son 13680_13920 is 14000_14240 uh 14520_14841 falling 14841_15241 off 15321_15481 a 15541_15561 stool 15661_16161 .
+*PAR:	son is &-uh raiding the cookie jar . [+ gram] 17283_20606
+%mor:	noun|son aux|be-Fin-Ind-Pres-S3 verb|raid-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+%wor:	son 17283_17503 is 17583_17803 uh 17964_19245 raiding 19265_19585 the 19605_19685 cookie 19765_20106 jar 20106_20606 .
+*PAR:	&-uh sister is &-uh laughing at her brother . [+ gram] 21675_25651
+%mor:	noun|sister aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%wor:	uh 21675_21727 sister 22008_22448 is 22548_22848 uh 23008_24370 laughing 24390_24850 at 24890_24970 her 25010_25090 brother 25151_25651 .
+*PAR:	and she's reaching for a cookie . 26493_28253
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 26493_26612 she's 26692_26952 reaching 27032_27413 for 27453_27573 a 27613_27633 cookie 27753_28253 .
+*PAR:	and &-uh the window is open . 31065_34066
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 31065_31285 uh 31285_31325 the 31325_31445 window 32986_33346 is 33366_33466 open 33566_34066 .
+*PAR:	&-uh <the cup> [//] two cups and &-uh a dish on the counter top . [+ gram] 34507_39349
+%mor:	num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish adp|on det|the-Def-Art noun|counter noun|top .
+%gra:	1|2|NUMMOD 2|9|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|NMOD 10|2|PUNCT
+%wor:	uh 34507_35227 the 35487_35667 cup 35727_35947 two 36128_36288 cups 36368_36668 and 36728_36868 uh 36948_37208 a 37228_37248 dish 37548_37849 on 38009_38109 the 38149_38229 counter 38409_38789 top 38849_39349 .
+*PAR:	and <the picture , I mean> [//] the window <has two> [//] has a pair of drapes or curtains . 41459_50307
+%mor:	cconj|and det|the-Def-Art noun|window verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pair-Acc adp|of noun|drape-Plur cconj|or noun|curtain-Plur .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|10|CC 10|8|CONJ 11|4|PUNCT
+%wor:	and 41459_41539 the 44221_44382 picture 44442_45042 , I 45242_45262 mean 45322_45443 the 45483_45563 window 45643_46043 has 47004_47244 two 47365_47525 has 47665_47845 a 47905_47925 pair 48005_48245 of 48285_48406 drapes 48586_49106 or 49507_49627 curtains 49807_50307 .
+*PAR:	single basin sink . [+ gram] 55719_58038
+%mor:	adj|single-S1 noun|basin noun|sink .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	single 55719_56082 basin 56082_56545 sink 57614_58038 .
+*PAR:	&-uh there's [/] &-uh (.) there's a tree on the outside view of the kitchen . 59949_71687
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree adp|on det|the-Def-Art adj|outside-S1 noun|view adp|of det|the-Def-Art noun|kitchen .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|DET 4|2|NSUBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|11|CASE 10|11|DET 11|8|NMOD 12|2|PUNCT
+%wor:	uh 59949_60029 there's 60029_60309 uh 67401_67621 there's 67681_67861 a 67901_67921 tree 68042_68422 on 69384_69664 the 69704_69825 outside 70185_70686 view 70726_70926 of 71046_71087 the 71087_71147 kitchen 71187_71687 .
+*PAR:	and the l@l section of the house appears to be outside the view and there's a pathway <between them> [//] between the two . 74544_85104
+%mor:	cconj|and det|the-Def-Art propn|l noun|section adp|of det|the-Def-Art noun|house verb|appear-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adp|outside det|the-Def-Art noun|view cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pathway adp|between det|the-Def-Art num|two .
+%gra:	1|8|CC 2|4|DET 3|4|COMPOUND 4|8|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|21|ROOT 9|13|MARK 10|13|COP 11|13|CASE 12|13|DET 13|8|XCOMP 14|16|CC 15|16|EXPL 16|8|CONJ 17|18|DET 18|16|NSUBJ 19|21|CASE 20|21|DET 21|18|NMOD 22|8|PUNCT
+%wor:	and 74544_74844 the 74844_74925 l 75125_75145 section 76007_76407 of 76447_76507 the 76528_76648 house 77690_78050 appears 78110_78672 to 78692_78752 be 79393_79493 outside 79593_80014 the 80014_80074 view 80094_80295 and 80355_80435 there's 80435_80575 a 80615_80635 pathway 80755_81357 between 82699_83200 them 83240_83420 between 84162_84502 the 84522_84583 two 84703_85104 .
+*PAR:	there are hedges also , the tree side . 86947_90227
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|hedge-Plur adv|also cm|cm det|the-Def-Art noun|tree noun|side .
+%gra:	1|2|EXPL 2|8|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|8|PUNCT 6|8|DET 7|8|COMPOUND 8|3|APPOS 9|2|PUNCT
+%wor:	there 86947_87067 are 87067_87147 hedges 87207_87667 also 87807_88168 , the 89449_89529 tree 89529_89709 side 89829_90227 .
+*PAR:	that's it . [+ exc] 96622_97012
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 96622_96835 it 96915_97012 .
+*PAR:	no the mother's wearin(g) an apron . 97836_99637
+%mor:	intj|no det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S det|a-Ind-Art noun|apron-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	no 97836_97936 the 97996_98076 mother's 98136_98436 wearin(g) 98476_98697 an 98697_98737 apron 99137_99637 .
+*INV:	okay . 100749_100798
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 100749_100798 .
+*PAR:	and water's splashin(g) . 105602_106322
+%mor:	cconj|and noun|water~part|s noun|splashing-Ger .
+%gra:	1|4|CC 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	and 105602_105662 water's 105662_105802 splashin(g) 105822_106322 .
+*PAR:	okay . [+ exc] 107127_107208
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 107127_107208 .
+@End

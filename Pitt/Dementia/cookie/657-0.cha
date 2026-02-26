@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00090611-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;|male|ProbableAD||Participant|17||
+@Media:	657-0, audio
+@G:	Cookie
+*INV:	picture that has a lot of action going on there's a lot of things going on in the picture . 100_4370
+%mor:	noun|picture pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|action verb|go-Ger-S adp|on pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|thing-Plur verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|20|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|7|ACL 9|8|COMPOUND-PRT 10|11|EXPL 11|1|PARATAXIS 12|13|DET 13|11|NSUBJ 14|15|CASE 15|13|NMOD 16|15|ACL 17|16|COMPOUND-PRT 18|20|CASE 19|20|DET 20|16|OBL 21|1|PUNCT
+%wor:	picture 100_420 that 420_520 has 560_680 a 741_761 lot 841_1041 of 1081_1141 action 1362_1682 going 1722_1963 on 2023_2103 there's 2223_2383 a 2423_2443 lot 2483_2624 of 2644_2704 things 2864_3265 going 3325_3605 on 3665_3745 in 3786_3846 the 3866_3946 picture 3986_4370 .
+*INV:	tell me what you see going on in the picture . 4771_6921
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 4771_4907 me 4947_5008 what 5048_5168 you 5208_5308 see 5448_5649 going 5749_6029 on 6089_6230 in 6270_6330 the 6350_6410 picture 6470_6921 .
+*PAR:	well , she's washin(g) dishes . 7391_9675
+%mor:	intj|well cm|cm pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	well 7391_7632 , she's 8734_8934 washin(g) 8994_9335 dishes 9335_9675 .
+*PAR:	he's climbin(g) up to get cookies . 9996_11204
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S adp|up part|to verb|get-Inf-S noun|cookie-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|6|MARK 6|3|ADVCL 7|6|OBJ 8|3|PUNCT
+%wor:	he's 9996_10156 climbin(g) 10196_10537 up 10537_10617 to 10677_10757 get 10817_10937 cookies 10997_11204 .
+*PAR:	he's gonna fall . 11318_11980
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	he's 11318_11438 gonna 11498_11698 fall 11738_11980 .
+*PAR:	and she's laughin(g) . 12188_12981
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	and 12188_12279 she's 12319_12520 laughin(g) 12600_12981 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and she's spill [//] runnin(g) the water over . 15350_18320
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S det|the-Def-Art noun|water-Acc adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%wor:	and 15350_15410 she's 15450_15650 spill 15670_15891 runnin(g) 17474_17714 the 17714_17775 water 17775_18015 over 18075_18320 .
+*INV:	anything else ? 22865_23547
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 22865_23186 else 23286_23547 ?
+*PAR:	that looks like someone down out there or somethin(g) . [+ es] 28367_32667
+%mor:	pron|that-Dem verb|look-Fin-Ind-Pres-S3 adp|like pron|someone-Ind-S1 adv|down adv|out adv|there cconj|or pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|CASE 4|2|OBL 5|4|ADVMOD 6|7|ADVMOD 7|2|ADVMOD 8|9|CC 9|7|CONJ 10|2|PUNCT
+%wor:	that 28367_28527 looks 28607_28807 like 28847_29088 someone 29148_29629 down 31572_31873 out 31953_32093 there 32133_32334 or 32334_32374 somethin(g) 32434_32667 .
+*PAR:	I don't know what that is . [+ exc] 32816_33578
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+%wor:	I 32816_32834 don't 32834_32935 know 32935_33055 what 33075_33175 that 33215_33415 is 33476_33578 .
+*INV:	okay . 34058_34557
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 34058_34557 .
+@End

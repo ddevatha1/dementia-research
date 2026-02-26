@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/a-00090826-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|male|Control||Participant|28||
+@Media:	256-1, audio
+@G:	Cookie
+*INV:	going on , that you see happening .
+%mor:	verb|go-Part-Pres-S adp|on cm|cm sconj|that pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|7|ROOT 2|1|COMPOUND-PRT 3|6|PUNCT 4|6|MARK 5|6|NSUBJ 6|1|PARATAXIS 7|6|XCOMP 8|1|PUNCT
+*PAR:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	the sink's running over . 5587_6630
+%mor:	det|the-Def-Art noun|sink~part|s noun|running-Ger adp|over .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	the 5587_5667 sink's 5687_5928 running 5988_6248 over 6308_6630 .
+*PAR:	the kid's on a stool and is falling over . 7511_9896
+%mor:	det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool cconj|and aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|10|ROOT 7|9|CC 8|9|AUX 9|6|CONJ 10|9|ADVMOD 11|6|PUNCT
+%wor:	the 7511_7591 kid's 7671_7932 on 7992_8132 a 8192_8212 stool 8593_8873 and 8914_8994 is 9014_9134 falling 9194_9555 over 9615_9896 .
+*PAR:	&-mm (.) she's standin(g) in the water . 13109_17816
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	mm 13109_13350 she's 16514_16774 standin(g) 16794_17115 in 17115_17175 the 17195_17275 water 17335_17816 .
+*PAR:	&-um (.) I'd say that's about it . [+ exc] 30260_31540
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|say-Inf-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|3|CCOMP 8|3|PUNCT
+%wor:	um 30260_30340 I'd 30340_30401 say 30421_30561 that's 30601_30801 about 30841_31122 it 31222_31540 .
+*PAR:	oh no , there's [/] there's somethin(g) +... [+ exc] 32283_33861
+%mor:	intj|oh intj|no cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 +...
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|2|PUNCT 4|5|EXPL 5|6|ROOT 6|5|NSUBJ 7|5|PUNCT
+%wor:	oh 32283_32344 no 32384_32484 , there's 32564_33145 there's 33145_33345 somethin(g) 33365_33861 +...
+*PAR:	no [/] no , <it ain't> [/] it ain't writing upside down here . [+ exc] 34186_36566
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not verb|write-Part-Pres-S adv|upside adp|down adv|here .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|6|ADVMOD 8|6|COMPOUND-PRT 9|6|ADVMOD 10|6|PUNCT
+%wor:	no 34186_34287 no 34607_34707 , it 34747_34787 ain't 34787_35008 it 35088_35188 ain't 35188_35368 writing 35448_35789 upside 35809_36190 down 36230_36510 here 36510_36566 .
+*PAR:	it looks like it . [+ exc] 36691_37322
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	it 36691_36730 looks 36750_36971 like 37011_37211 it 37231_37322 .
+*PAR:	&-uh no that's [/] that's all . [+ exc] 37612_39231
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	uh 37612_37732 no 38453_38533 that's 38573_38834 that's 38834_39014 all 39094_39231 .
+*INV:	okay . 39998_40036
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 39998_40036 .
+@End

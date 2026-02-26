@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/a-00090875-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|76;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	709-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	<the woman is> [//] the [/] &-um the mother is washing [//] &-uh drying the dishes . 760_4607
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 760_820 woman 880_1160 is 1241_1341 the 1601_1682 um 1962_2022 the 2042_2123 mother 2223_2523 is 2563_2664 washing 2764_3465 uh 3485_3566 drying 3566_3946 the 3946_4027 dishes 4107_4607 .
+*PAR:	and <the sink> [//] the [/] the faucet's on and the sink is running over and splashing the floor . 4909_11283
+%mor:	cconj|and det|the-Def-Art noun|faucet~aux|be-Fin-Ind-Pres-S3 adp|on cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and verb|splash-Part-Pres-S det|the-Def-Art noun|floor-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|15|ROOT 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|10|COMPOUND-PRT 12|13|CC 13|10|CONJ 14|15|DET 15|13|OBJ 16|5|PUNCT
+%wor:	and 4909_4989 the 4989_5069 sink 5209_5450 the 5710_5811 the 6171_6252 faucet's 6372_6913 on 6973_7153 and 7194_7294 the 7294_7354 sink 7494_7715 is 7795_7895 running 7975_8316 over 8396_8737 and 9659_9819 splashing 10200_10681 the 10681_10741 floor 10902_11283 .
+*PAR:	and &-um the [/] the boy is taking cookies out of the cookie jar and he's on the stool and the stool is falling over . 13073_19163
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|23|ROOT 6|5|OBJ 7|11|CASE 8|11|CASE 9|11|DET 10|11|COMPOUND 11|5|OBL 12|17|CC 13|17|NSUBJ 14|17|COP 15|17|CASE 16|17|DET 17|5|CONJ 18|22|CC 19|20|DET 20|22|NSUBJ 21|22|AUX 22|17|CONJ 23|22|ADVMOD 24|5|PUNCT
+%wor:	and 13073_13433 um 13473_13533 the 13573_13693 the 13833_13914 boy 13994_14214 is 14214_14274 taking 14474_14894 cookies 14934_15295 out 15355_15455 of 15455_15495 the 15515_15595 cookie 15655_15975 jar 16075_16315 and 16315_16636 he's 16636_16716 on 16736_16856 the 16876_16936 stool 17056_17416 and 17456_17536 the 17536_17596 stool 17717_17977 is 17997_18177 falling 18257_18637 over 18737_19163 .
+*PAR:	and the girl is saying +"/. 20179_21240
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S +"/.
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	and 20179_20299 the 20299_20359 girl 20439_20719 is 20759_20839 saying 20919_21240 +"/.
+*PAR:	+" be quiet . 21683_22123
+%mor:	aux|be-Fin-Imp-S adj|quiet-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	be quiet 21683_22123 .
+*PAR:	and she's put her hand up ready to take a cookie that he's gonna pass her . 22344_26384
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adj|ready-S1 part|to verb|take-Inf-S det|a-Ind-Art noun|cookie-Acc pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|pass-Inf-S pron|her-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|18|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|4|XCOMP 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|17|OBJ 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|12|ACL-RELCL 18|17|OBJ 19|4|PUNCT
+%wor:	and she's 22344_22701 put 22801_22961 her 22961_23041 hand 23081_23361 up 23401_23541 ready 23581_23761 to 23881_23942 take 24042_24302 a 24322_24342 cookie 24462_25163 that 25203_25343 he's 25343_25503 gonna 25583_25803 pass 25923_26223 her 26243_26384 .
+*PAR:	and &-um (.) the window is open . 30621_31322
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 30621_30741 um 30741_30841 the 30841_30902 window 30942_31242 is 31242_31282 open 31282_31322 .
+*PAR:	&-hm [/] &-hm [/] &-hm [/] &-hm (..) the mother's standing in the water . 37752_39113
+%mor:	det|the-Def-Art noun|mother~part|s noun|standing-Ger adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+%wor:	hm hm hm hm the mother's 37752_38071 standing 38111_38572 in 38592_38672 the 38672_38752 water 38892_39113 .
+*PAR:	(.) she's doesn't &+ha +//.
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|do-Fin-Ind-Pres-S3~part|not +//.
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	oh what's [/] what's going on . [+ exc] 42319_43440
+%mor:	intj|oh pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	oh 42319_42359 what's 42359_42479 what's 42499_42659 going 42739_43059 on 43119_43440 .
+*PAR:	you don't want any of the [//] what's in the picture right ? [+ exc] 43620_47182
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S det|any-Def-Ind adp|of pron|what-Rel-S1~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|picture adv|right ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|11|COP 9|11|CASE 10|11|DET 11|7|ACL-RELCL 12|4|ADVMOD 13|4|PUNCT
+%wor:	you don't want 43620_43740 any 43760_43900 of 43920_44320 the 44320_44380 what's 46042_46262 in 46322_46402 the 46402_46462 picture 46563_46903 right 46903_47182 ?
+*PAR:	&=inhales there's a cup and she's already dried two cups and a dish . 48906_51768
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cup cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already verb|dry-Part-Past-S num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|dish .
+%gra:	1|2|EXPL 2|14|ROOT 3|4|DET 4|2|NSUBJ 5|9|CC 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|2|CONJ 10|11|NUMMOD 11|9|OBJ 12|14|CC 13|14|DET 14|11|CONJ 15|2|PUNCT
+%wor:	there's 48906_49225 a 49265_49285 cup 49365_49585 and 49645_49766 she's 49866_50046 already 50106_50466 dried 50526_50827 two 50887_50987 cups 51107_51487 and 51547_51627 a 51627_51647 dish 51647_51768 .
+*PAR:	and &-uh (..) that's it . [+ exc]
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*PAR:	the lid is off the cookie jar . 56216_57577
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 56216_56276 lid 56276_56336 is 56336_56376 off 56376_56496 the 56496_56556 cookie 56616_57077 jar 57077_57577 .
+*PAR:	I guess that's about it . [+ exc] 59565_60423
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+%wor:	I guess that's about 59565_59823 it 59923_60423 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

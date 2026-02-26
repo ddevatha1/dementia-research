@@ -1,0 +1,113 @@
+@UTF8
+@PID:	11312/a-00089917-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|female|ProbableAD||Participant|24||
+@Media:	178-1, audio
+@G:	Bill_Immediate
+*INV:	now .
+%mor:	adv|now .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um (.) fourth of July . 764485_766307
+%mor:	adj|fourth-S1 adp|of propn|July .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	um 764485_764545 fourth 765286_765607 of 765627_765707 July 765807_766307 .
+*PAR:	&-uh (..) coming over to (.) England . 768772_779433
+%mor:	verb|come-Part-Pres-S adp|over adp|to propn|England .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|CASE 4|1|OBL 5|1|PUNCT
+%wor:	uh 768772_768952 coming 774743_775083 over 775184_775404 to 775504_775645 England 778951_779433 .
+*INV:	mhm . 779853_779973
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 779853_779973 .
+*PAR:	and &-um (.) Bill had left seven years . 781494_790922
+%mor:	cconj|and propn|Bill aux|have-Fin-Ind-Past-S3-irr verb|leave-Part-Past-S-irr num|seven noun|year-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|NUMMOD 6|4|OBL-UNMARKED 7|4|PUNCT
+%wor:	and 781494_781634 um 781694_782034 Bill 787159_787399 had 787479_787699 left 788600_788900 seven 789981_790322 years 790422_790922 .
+*INV:	mhm . 791033_791382
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 791033_791382 .
+*PAR:	and &-um (.) &-uh <fourth and , I mean> [//] September +//. 793606_802037
+%mor:	cconj|and propn|September +//.
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 793606_793906 um 793966_794387 uh 799293_799434 fourth 799674_800054 and 800095_800916 , I 800956_800976 mean 801036_801196 September 801537_802037 +//.
+*INV:	uhhuh . 802479_802958
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 802479_802958 .
+*PAR:	(.) &-um (.) <family had left , I mean> [//] &-uh (.) <family had (.) left> [//] &-um family had grouped it together . 810810_814415
+%mor:	noun|family aux|have-Fin-Ind-Past-S3-irr verb|group-Part-Past-S pron|it-Prs-Acc-S3 adv|together .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	um 810810_811030 family 811070_811210 had 811210_811310 left 811731_812051 , I 812091_812111 mean 812111_812232 uh 813013_813073 family 813073_813293 had 813293_813353 left 813373_813453 um 813453_813493 family 813553_813694 had 813694_813754 grouped 813754_813954 it 813954_813994 together 814034_814415 .
+*PAR:	and &-uh (.) &-uh (..) family [//] &-um (.) <boy had> [//] Billy had left the fishing . 829471_838082
+%mor:	cconj|and propn|Billy aux|have-Fin-Ind-Past-S3-irr verb|leave-Part-Past-S-irr det|the-Def-Art noun|fishing-Acc-Ger .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 829471_829751 uh 829831_833817 uh 833897_834277 family 835779_836320 um 836320_836360 boy 836360_836560 had 836560_836821 Billy 836821_837121 had 837141_837201 left 837201_837442 the 837482_837582 fishing 837582_838082 .
+*PAR:	(.) and &-um (...) the &-uh (..) camping had &-um +... 859287_867137
+%mor:	cconj|and det|the-Def-Art noun|camping-Ger verb|have-Fin-Ind-Past-S3-irr +...
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and 859287_859347 um 859347_859407 the 859407_859507 uh 859507_859607 camping 859607_865075 had 865956_866597 um 866637_867137 +...
+*PAR:	and Johnny (.) <had left , I mean> [//] &-uh (..) fishing with the <aunt , I mean> [//] uncle . 890913_899104
+%mor:	cconj|and propn|Johnny noun|fishing-Ger adp|with det|the-Def-Art noun|uncle .
+%gra:	1|3|CC 2|3|COMPOUND 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	and 890913_891153 Johnny 891214_891734 had 891734_891935 left 891975_892776 , I 892936_892956 mean 894057_897002 uh 897002_897162 fishing 897342_897743 with 897763_897963 the 897963_898043 aunt 898083_898303 , I 898343_898363 mean 898424_898544 uncle 898604_899104 .
+*INV:	mhm , okay . 924127_925032
+%mor:	intj|mhm cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%wor:	mhm 924127_924289 , okay 924532_925032 .
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< well done .
+%mor:	adv|well verb|do-Part-Past-S-irr .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+@G:	Bill_Delayed
+*INV:	can you tell me now what can you remember about the story now ? 2542601_2545703
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|now pron|what-Int-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S adp|about det|the-Def-Art noun|story adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|3|IOBJ 5|3|ADVMOD 6|9|OBJ 7|9|AUX 8|9|NSUBJ 9|3|CCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|9|ADVMOD 14|3|PUNCT
+%wor:	can 2542601_2542681 you 2542721_2542781 tell 2542821_2542981 me 2543001_2543061 now 2543141_2543321 what 2543381_2543521 can 2543562_2543722 you 2543762_2543842 remember 2543882_2544262 about 2544282_2544523 the 2544543_2544623 story 2544703_2545083 now 2545203_2545703 ?
+*INV:	what was it about ? 2547006_2547905
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 adp|about ?
+%gra:	1|4|ROOT 2|1|COP 3|1|NSUBJ 4|1|CASE 5|1|PUNCT
+%wor:	what 2547006_2547105 was 2547125_2547245 it 2547285_2547365 about 2547405_2547905 ?
+*PAR:	&-uh (.) fourth of July . 2551511_2552590
+%mor:	adj|fourth-S1 adp|of propn|July .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	uh 2551511_2551650 fourth 2551650_2551950 of 2551970_2552030 July 2552090_2552590 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) &-um (...) and Johnny . 2555314_2555954
+%mor:	cconj|and propn|Johnny .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	um 2555314_2555354 and 2555374_2555454 Johnny 2555454_2555954 .
+*PAR:	(...) all together . 2576449_2577071
+%mor:	det|all-Def-Tot adv|together .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	all 2576449_2576571 together 2576571_2577071 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	the uncle (.) &-uh stayed seven years . 2596863_2606678
+%mor:	det|the-Def-Art noun|uncle verb|stay-Fin-Ind-Past-S3 num|seven noun|year-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|NUMMOD 5|3|OBL-UNMARKED 6|3|PUNCT
+%wor:	the 2596863_2596923 uncle 2597063_2597383 uh 2597383_2597543 stayed 2605034_2605614 seven 2605714_2606075 years 2606195_2606678 .
+*INV:	mhm . 2606717_2607216
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 2606717_2607216 .
+*PAR:	and [/] &-uh (..) and (.) <September the (..) &+ei , I mean> [//] &-uh (.) second week <I mean> [//] &-uh (.) Johnny went fishing . 2609420_2618010
+%mor:	cconj|and adj|second-S1 noun|week propn|Johnny verb|go-Fin-Ind-Past-S3-irr noun|fishing-Acc-Ger .
+%gra:	1|5|CC 2|3|AMOD 3|5|OBL-UNMARKED 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 2609420_2609660 uh 2609760_2609880 and 2609940_2610021 September 2610441_2611502 the 2611522_2611603 &+ei 2611603_2615908 , I 2615928_2615948 mean 2615988_2616108 uh 2616128_2616168 second 2616188_2616329 week 2616329_2616469 I 2616489_2616509 mean 2616509_2616649 uh 2616669_2616709 Johnny 2616729_2616990 went 2617070_2617230 fishing 2617510_2618010 .
+*INV:	mhm . 2650785_2651214
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 2650785_2651214 .
+*INV:	(...) okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

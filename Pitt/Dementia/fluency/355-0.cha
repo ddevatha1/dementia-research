@@ -1,0 +1,163 @@
+@UTF8
+@PID:	11312/a-00089745-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|85;|female|ProbableAD||Participant|24||
+@Media:	355-0, audio
+@G:	animals
+*INV:	www .
+%exp:	finishing prior task
+*INV:	you can start now . 5245_5365
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you 5245_5365 can start now .
+*PAR:	okay . [+ exc] 5686_6046
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 5686_6046 .
+*PAR:	pg . 6647_7147
+%mor:	noun|pg .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pg 6647_7147 .
+*PAR:	cow . 7589_8068
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 7589_8068 .
+*PAR:	horse . 8359_8729
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 8359_8729 .
+*PAR:	&-uh pg &=laughs . 9138_11792
+%mor:	noun|pg .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 9138_10391 pg 11292_11792 .
+*PAR:	&+a &+aw animals . [+ exc] 13435_13935
+%mor:	noun|animal-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	animals 13435_13935 .
+*PAR:	dog . 14356_14837
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 14356_14837 .
+*PAR:	&-uh donkey . 16779_18721
+%mor:	noun|donkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 16779_17420 donkey 18221_18721 .
+*PAR:	&-uh animals . [+ exc] 22545_23125
+%mor:	noun|animal-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 22545_22585 animals 22625_23125 .
+*PAR:	(..) millions of them . [+ exc] 27031_28210
+%mor:	noun|million-Plur adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	millions 27031_27550 of 27610_27670 them 27710_28210 .
+*PAR:	donkeys . 28811_29293
+%mor:	noun|donkey-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	donkeys 28811_29293 .
+*PAR:	lions . 29853_30352
+%mor:	noun|lion-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lions 29853_30352 .
+*PAR:	cats . 32415_32895
+%mor:	noun|cat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cats 32415_32895 .
+*PAR:	dogs . 33039_33495
+%mor:	noun|dog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dogs 33039_33495 .
+*PAR:	&-uh (..) cow . 35497_42621
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 35497_35637 cow 42121_42621 .
+*PAR:	well , I got cow@q , didn't I ? [+ exc] 42802_44023
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr q|cow cm|cm aux|do-Fin-Ind-Past-S1-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|9|ROOT 5|4|FLAT 6|7|PUNCT 7|4|PARATAXIS 8|7|ADVMOD 9|7|NSUBJ 10|4|PUNCT
+%wor:	well 42802_43002 , I 43002_43022 got 43082_43202 cow@q 43382_43682 , didn't 43702_43882 I 43922_44023 ?
+*PAR:	(..) mule . 52434_52914
+%mor:	noun|mule .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mule 52434_52914 .
+*PAR:	did I say donkey@q &=laughs ? [+ exc] 55317_56257
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S q|donkey ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	did 55317_55456 I 55476_55496 say 55577_55697 donkey@q 55757_56257 ?
+*PAR:	cat . 60883_61382
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 60883_61382 .
+*PAR:	dog . 62665_63163
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 62665_63163 .
+*INV:	okay , good . 64627_65487
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 64627_64906 , good 65006_65487 .
+*INV:	now we are going to change direction . 65787_66808
+%mor:	adv|now pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 verb|go-Part-Pres-S part|to verb|change-Inf-S noun|direction-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+%wor:	now we are going 65787_65907 to 65907_65947 change 65947_66267 direction 66327_66808 .
+@G:	F
+*INV:	now .
+%mor:	adv|now .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	<fair f@l a@l i@l r@l> [//] fair . 69371_71492
+%mor:	adj|fair-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fair 69371_69711 f 70071_70091 a 70151_70171 i 70452_70472 r 70732_70752 fair 70992_71492 .
+*PAR:	fun . 71734_72233
+%mor:	noun|fun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fun 71734_72233 .
+*PAR:	fungus . 73035_73534
+%mor:	noun|fungus .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fungus 73035_73534 .
+*PAR:	&-uh <f@l fa@k> [//] face . 74877_75576
+%mor:	verb|face-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh f fa 74877_74896 face 75076_75576 .
+*PAR:	&-uh (.) &=sighs (.) fair . 90113_92575
+%mor:	adj|fair-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 90113_92135 fair 92135_92575 .
+*PAR:	farther . 94718_95218
+%mor:	adj|far-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	farther 94718_95218 .
+*PAR:	far . 95800_96259
+%mor:	adv|far .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	far 95800_96259 .
+*PAR:	that kind ? [+ exc] 96980_97800
+%mor:	det|that-Def-Dem-Sing noun|kind ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	that 96980_97200 kind 97300_97800 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh (.) filler . 100382_104004
+%mor:	noun|filler .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 100382_102923 filler 103504_104004 .
+*PAR:	farmer . 107027_107506
+%mor:	noun|farmer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	farmer 107027_107506 .
+*PAR:	(..) feather . 112972_113452
+%mor:	noun|feather .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	feather 112972_113452 .
+*PAR:	(..) that's not very good . [+ exc] 124472_126086
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adv|very adj|good-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	that's 124472_125232 not 125352_125412 very 125432_125572 good 125632_126086 .
+*INV:	okay , that's +//. 126086_126673
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +//.
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	okay 126086_126133 , that's 126173_126673 +//.
+@End

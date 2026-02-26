@@ -1,0 +1,143 @@
+@UTF8
+@PID:	11312/a-00090477-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|60;|female|ProbableAD||Participant|12||
+@Media:	247-0, audio
+@G:	Cookie
+*INV:	what's happening in that picture ? 350_1900
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	what's 350_531 happening 612_1137 in 1158_1279 that 1279_1400 picture 1400_1900 ?
+*INV:	(.) what's happening there ? 1963_2486
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	what's happening 1963_1986 there 1986_2486 ?
+*PAR:	(.) she's preparing a meal .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|prepare-Part-Pres-S det|a-Ind-Art noun|meal-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(.) what else is going on ?
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	I'm going to hafta quit reading this because this [/] this is shining on this xxx +/. [+ exc] 32906_35809
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to part|hafta verb|quit-Inf-S verb|read-Ger-S pron|this-Dem-S1 sconj|because pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|shine-Part-Pres-S adp|on pron|this-Dem-S1 +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|14|ROOT 4|6|MARK 5|3|XCOMP 6|3|XCOMP 7|6|XCOMP 8|7|OBJ 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|6|ADVCL 13|14|CASE 14|12|OBL 15|3|PUNCT
+%wor:	I'm 32906_32986 going 32986_33086 to 33086_33126 hafta 33126_33266 quit 33266_33387 reading 33387_33587 this 33627_33747 because 33747_33948 this 34028_34168 this 34188_34308 is 34308_34368 shining 34388_34629 on 34669_34869 this 35310_35809 +/.
+*INV:	okay let me lift it up a little bit . 35571_36982
+%mor:	intj|okay verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|lift-Inf-S pron|it-Prs-Acc-S3 adp|up det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|2|DISCOURSE 2|9|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|COMPOUND-PRT 7|9|DET 8|9|AMOD 9|4|OBL-UNMARKED 10|2|PUNCT
+%wor:	okay 35571_35831 let 35831_35911 me 35931_35991 lift 36051_36252 it 36272_36372 up 36412_36492 a 36532_36552 little 36612_36793 bit 36793_36982 .
+*PAR:	getting my xxx . [+ exc] 36992_37539
+%mor:	verb|get-Part-Pres-S pron|my-Prs-Gen-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	getting 36992_37539 my .
+*INV:	mhm , does that help ? 37835_38797
+%mor:	intj|mhm cm|cm aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|help-Inf-S ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	mhm 37835_37935 , does 38256_38396 that 38396_38596 help 38596_38797 ?
+*PAR:	xxx . [+ exc]
+*INV:	what's going on there ? 44589_45611
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+%wor:	what's 44589_44793 going 44854_45120 on 45202_45304 there 45304_45611 ?
+*PAR:	xxx . [+ exc]
+*INV:	you don't hafta read it just look at the picture . 60390_62290
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|hafta verb|read-Inf-S pron|it-Prs-Acc-S3 adv|just verb|look-Inf-S adp|at det|the-Def-Art noun|picture .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|11|ROOT 6|5|OBJ 7|8|ADVMOD 8|5|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|5|PUNCT
+%wor:	you 60390_60470 don't 60490_60630 hafta 60650_60870 read 60950_61150 it 61191_61251 just 61311_61471 look 61511_61651 at 61671_61731 the 61771_61831 picture 61931_62290 .
+*PAR:	this [/] this string is not on this is it ? [+ exc] 64223_66858
+%mor:	det|this-Def-Dem-Sing noun|string-Ger aux|be-Fin-Ind-Pres-S3 part|not adp|on pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|DET 2|8|NSUBJ 3|8|COP 4|8|ADVMOD 5|8|CASE 6|8|NSUBJ 7|8|COP 8|8|ROOT 9|8|PUNCT
+%wor:	this 64223_64455 this 64755_64955 string 65015_65336 is 65396_66858 not on this is it ?
+*PAR:	yes . [+ exc]
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	can you see ? 69020_69112
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	can 69020_69080 you 69101_69112 see ?
+*INV:	what's going on here ? 69761_70663
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+%wor:	what's 69761_69962 going 70022_70262 on 70302_70422 here 70482_70663 ?
+*PAR:	they're reaching up for a cookie in cookie jar . [+ gram] 74868_76598
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie adp|in noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|COMPOUND 10|7|NMOD 11|3|PUNCT
+%wor:	they're 74868_75048 reaching 75048_75469 up 75529_76049 for 76149_76269 a 76269_76289 cookie 76289_76429 in 76429_76489 cookie 76509_76598 jar .
+*INV:	uhhuh . 77236_77270
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 77236_77270 .
+*PAR:	and they're cooking a turkey dinner , I guess . 82406_84096
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|cook-Part-Pres-S det|a-Ind-Art noun|turkey noun|dinner-Acc cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|10|PUNCT 9|10|NSUBJ 10|4|PARATAXIS 11|4|PUNCT
+%wor:	and they're 82406_82474 cooking 82554_82935 a 82975_82995 turkey 83195_83555 dinner 83635_84096 , I guess .
+*INV:	pardon ? 85080_85380
+%mor:	noun|pardon ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pardon 85080_85380 ?
+*PAR:	cooking a turkey dinner . [+ gram] 86140_87100
+%mor:	verb|cook-Part-Pres-S det|a-Ind-Art noun|turkey noun|dinner-Acc .
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+%wor:	cooking 86140_86477 a 86477_86497 turkey 86598_86938 dinner 86998_87100 .
+*INV:	okay . 87689_87838
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 87689_87838 .
+*INV:	(.) anything else ? 102290_102890
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 102290_102630 else 102670_102890 ?
+*INV:	what's happening over here ? 103773_104826
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	what's 103773_103913 happening 103973_104314 over 104374_104575 here 104615_104826 ?
+*PAR:	she's doing the dishes . 105587_106258
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 105587_105637 doing 106138_106258 the dishes .
+*INV:	mhm , what else is happening ? 107040_108183
+%mor:	intj|mhm cm|cm pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|3|ADVMOD 5|6|AUX 6|6|ROOT 7|6|PUNCT
+%wor:	mhm 107040_107260 , what 107260_107381 else 107441_107681 is 107681_107782 happening 107822_108183 ?
+*PAR:	(.) this little boy might fall off of that stool he's on . 116625_120965
+%mor:	det|this-Def-Dem-Sing adj|little-S1 noun|boy aux|might-Fin-S verb|fall-Inf-S adp|off adp|of det|that-Def-Dem-Sing noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|12|NSUBJ 11|12|COP 12|5|PARATAXIS 13|5|PUNCT
+%wor:	this 116625_116765 little 117065_117246 boy 117246_117306 might 117306_117547 fall 117647_117907 off 117907_118008 of 118008_118048 that 119090_119311 stool 120273_120533 he's 120533_120965 on .
+*INV:	okay . 121272_121450
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 121272_121450 .
+*PAR:	and the water's splashing out all over the floor . 125011_125996
+%mor:	cconj|and det|the-Def-Art noun|water~part|s verb|splash-Part-Pres-S adp|out adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|10|ROOT 6|5|COMPOUND-PRT 7|10|ADVMOD 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	and the water's splashing 125011_125585 out 125605_125665 all 125665_125745 over 125745_125865 the 125865_125965 floor 125965_125996 .
+*PAR:	and she doesn't know it . 126789_127309
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and she doesn't 126789_126988 know 127008_127088 it 127088_127309 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	<and the boy might> [//] he's looking for the cookie jar . 133184_135674
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+%wor:	and 133184_133244 the 133264_133324 boy 133344_133404 might 133525_133725 he's 133725_134367 looking 134407_134708 for 134789_134909 the 134929_135009 cookie 135069_135410 jar 135430_135674 .
+*PAR:	and he might bang his head on the (.) thing by the door . [+ cir] 135928_141108
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|might-Fin-S verb|bang-Inf-S pron|his-Prs-Gen-S3 noun|head-Acc adp|on det|the-Def-Art noun|thing-Ger adp|by det|the-Def-Art noun|door .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|4|PUNCT
+%wor:	and he might 135928_136474 bang 136494_136694 his 136694_136875 head 136955_137095 on 137136_137216 the 137216_137276 thing 137296_137457 by 137477_137517 the 139944_140506 door 140867_141108 .
+*INV:	(.) okay very good . 154546_155486
+%mor:	intj|okay adv|very adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	okay 154546_154750 very 154852_155057 good 155138_155486 .
+*INV:	thank you .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+@End

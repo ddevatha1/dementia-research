@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/a-00090071-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|8||
+@Media:	674-0, audio
+@G:	George_Delayed
+*INV:	do you remember that little short story I told you a while ago ? 1625000_1628437
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S det|that-Def-Dem-Sing adj|little-S1 adj|short-S1 noun|story-Acc pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art noun|while adv|ago ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|7|DET 5|7|AMOD 6|7|AMOD 7|3|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|IOBJ 11|12|DET 12|13|OBL-UNMARKED 13|9|ADVMOD 14|3|PUNCT
+%wor:	do 1625000_1625060 you 1625060_1625120 remember 1625180_1625500 that 1625540_1625680 little 1625760_1626000 short 1626140_1626380 story 1626480_1626861 I 1627041_1627061 told 1627121_1627381 you 1627421_1627501 a 1627561_1627581 while 1627641_1627941 ago 1627981_1628437 ?
+*INV:	I read you a little story . 1628662_1630002
+%mor:	pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art adj|little-S1 noun|story-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|IOBJ 4|6|DET 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+%wor:	I 1628662_1628682 read 1628742_1628942 you 1628962_1629042 a 1629122_1629142 little 1629202_1629402 story 1629502_1630002 .
+*PAR:	no . [+ exc]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	no ? 1631103_1631269
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 1631103_1631269 ?
+*INV:	you don't remember it at all ? 1631423_1632511
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|remember-Inf-S pron|it-Prs-Acc-S3 adp|at det|all-Def-Tot ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+%wor:	you 1631423_1631483 don't 1631503_1631643 remember 1631683_1632003 it 1632063_1632123 at 1632164_1632244 all 1632284_1632511 ?
+*INV:	you don't remember who the story was about ? 1634786_1636644
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|remember-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|CCOMP 6|7|DET 7|5|NSUBJ 8|5|COP 9|4|PUNCT 10|4|PUNCT
+%wor:	you 1634786_1634865 don't 1634865_1634985 remember 1635005_1635325 who 1635345_1635405 the 1635485_1635545 story 1635625_1635886 was 1635966_1636106 about 1636166_1636644 ?
+*INV:	where they went ? 1637267_1637840
+%mor:	adv|where pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+%wor:	where 1637267_1637446 they 1637486_1637607 went 1637687_1637840 ?
+*INV:	what they did ? 1637968_1638502
+%mor:	pron|what-Int-S1 pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Past-P3-irr ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+%wor:	what 1637968_1638087 they 1638147_1638267 did 1638327_1638502 ?
+*PAR:	hmhm . [+ exc] 1639087_1639328
+%mor:	intj|hmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hmhm 1639087_1639328 .
+@End

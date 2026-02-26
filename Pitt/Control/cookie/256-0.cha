@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/a-00090825-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|male|Control||Participant|28||
+@Media:	256-0, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 1005_1165
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1005_1165 .
+*INV:	what do you see goin(g) on there ? 1245_2590
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adv|there ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|XCOMP 6|1|CASE 7|5|ADVMOD 8|4|PUNCT
+%wor:	what 1245_1325 do 1325_1485 you 1565_1625 see 1865_2005 goin(g) 2025_2590 on there ?
+*PAR:	the woman fouled up and left the spigot running and then it's running onto the floor . 2931_6470
+%mor:	det|the-Def-Art noun|woman verb|foul-Fin-Ind-Past-S3 adp|up cconj|and verb|leave-Fin-Ind-Past-S3-irr det|the-Def-Art noun|spigot-Acc verb|run-Ger-S cconj|and adv|then pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|3|NSUBJ 3|17|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|8|DET 8|6|OBJ 9|6|XCOMP 10|14|CC 11|14|ADVMOD 12|14|NSUBJ 13|14|AUX 14|3|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|3|PUNCT
+%wor:	the 2931_3006 woman 3066_3307 fouled 3367_3647 up 3687_3787 and 3827_3887 left 3887_4067 the 4087_4167 spigot 4247_4568 running 4588_4808 and 4828_4948 then 5008_5108 it's 5148_5328 running 5328_5569 onto 5609_5789 the 5829_5909 floor 6029_6470 .
+*PAR:	&-uh the kid's reachin(g) in for cookies which is correct but he's &+d &-uh &-uh &+sl falling off the stool . 7473_14636
+%mor:	det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|in adp|for noun|cookie-Plur pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|correct-S1 cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|17|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|14|CC 12|14|NSUBJ 13|14|AUX 14|4|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|4|PUNCT
+%wor:	uh 7473_8131 the 8131_8191 kid's 8331_8691 reachin(g) 8952_9272 in 9272_9312 for 9352_9452 cookies 9532_9872 which 9912_10093 is 10133_10233 correct 10313_10593 but 10613_10753 he's 10753_10913 uh 10933_11294 uh 13195_13295 falling 13295_13656 off 13716_13836 the 13916_13996 stool 14136_14636 .
+*PAR:	&-uh she's standing in water . 18023_20122
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	uh 18023_18063 she's 18724_18944 standing 18984_19465 in 19505_19605 water 19665_20122 .
+*PAR:	&-hm I'd say that's about it . [+ exc] 22829_23969
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|say-Inf-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|3|CCOMP 8|3|PUNCT
+%wor:	hm I'd say that's about 22829_23389 it 23469_23969 .
+*INV:	anything else ? 33304_34054
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 33304_33644 else 33725_34054 ?
+*PAR:	anything else . [+ exc] 35702_36252
+%mor:	pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 35702_35850 else 35911_36252 .
+*PAR:	(..) I don't see nothin(g) else . [+ exc] 38288_49408
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|nothing-Neg-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+%wor:	I 38288_38308 don't 40370_41410 see 42291_43172 nothin(g) 43532_49408 else .
+*PAR:	right now (there)'s snow outside . 51030_51980
+%mor:	adv|right adv|now pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|snow adv|outside .
+%gra:	1|2|ADVMOD 2|4|ADVMOD 3|4|EXPL 4|6|ROOT 5|4|NSUBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	right now (there)'s 51030_51359 snow 51399_51619 outside 51639_51980 .
+*PAR:	she's got the window open naturally . 52060_53790
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|window-Acc adj|open-S1 adv|naturally .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|3|ADVMOD 8|3|PUNCT
+%wor:	she's 52060_52180 got 52200_52320 the 52340_52421 window 52481_52741 open 52802_53042 naturally 53303_53790 .
+*PAR:	no I don't see nothing else +/. [+ exc] 55930_57351
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|nothing-Neg-S1 adj|else-S1 +/.
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|6|AMOD 8|5|PUNCT
+%wor:	no 55930_56031 I 56291_56311 don't 56331_56532 see 56552_56672 nothing 56712_57013 else 57053_57351 +/.
+*INV:	okay . 57482_57550
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 57482_57550 .
+*PAR:	+, that's <out of the> [/] &+or out of the ordinary . [+ exc] 57622_59110
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|out adp|of det|the-Def-Art adj|ordinary-S1 .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	that's 57622_57675 out 57735_57856 of 58136_58217 the 58257_58317 out 58317_58497 of 58517_58558 the 58558_58638 ordinary 58658_59110 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	right . [+ exc]
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

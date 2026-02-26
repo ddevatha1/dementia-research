@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/a-00089834-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|MCI||Participant|||
+@Media:	016-4, audio
+@G:	George_Immediate
+*INV:	okay , tell me everything you can remember .
+%mor:	intj|okay cm|cm verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|IOBJ 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|3|PUNCT
+*PAR:	okay , George Miller [//] &+mi Mill moved in to family . 632509_636097
+%mor:	intj|okay cm|cm propn|George propn|Mill verb|move-Fin-Ind-Past-S3 adp|in adp|to noun|family .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|3|FLAT 5|8|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|5|PUNCT
+%wor:	okay 632509_632610 , George 632610_632730 Miller 632931_633191 Mill 633211_633452 moved 634474_634815 in 634875_634956 to 635016_635076 family 635597_636097 .
+*PAR:	Melanie was the child . 636119_637683
+%mor:	propn|Melanie aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|child .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	Melanie 636119_636620 was 636700_636901 the 636981_637061 child 637281_637683 .
+*PAR:	&-uh they took a trip to &-uh the place where <George had> [//] George Miller had lived . 638583_646891
+%mor:	pron|they-Prs-Nom-P3 verb|take-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|trip-Acc adp|to det|the-Def-Art noun|place adv|where propn|George propn|Miller aux|have-Fin-Ind-Past-S3-irr verb|live-Part-Past-S .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|12|ADVMOD 9|12|NSUBJ 10|9|FLAT 11|12|AUX 12|7|ACL-RELCL 13|2|PUNCT
+%wor:	uh 638583_639203 they 639223_639524 took 640204_640445 a 640665_640685 trip 640845_641165 to 641426_641566 uh 641566_641726 the 642927_643027 place 643127_643508 where 643588_643788 George 643908_644389 had 644449_644629 George 645430_645730 Miller 645750_646051 had 646111_646291 lived 646391_646891 .
+*PAR:	they came to a noisy street . 647273_649696
+%mor:	pron|they-Prs-Nom-P3 verb|come-Fin-Ind-Past-P3-irr adp|to det|a-Ind-Art adj|noisy-S1 noun|street .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+%wor:	they 647273_647432 came 647512_647812 to 647872_647953 a 648053_648073 noisy 648193_648773 street 649214_649696 .
+*PAR:	Melanie was frightened but she didn't tell George . 650335_653479
+%mor:	propn|Melanie aux|be-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S cconj|but pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|tell-Inf-S propn|George-Acc .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|9|ROOT 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CONJ 9|8|OBJ 10|3|PUNCT
+%wor:	Melanie 650335_650816 was 650936_651116 frightened 651196_651657 but 651697_651817 she 651877_651957 didn't 652017_652317 tell 652537_652838 George 652998_653479 .
+*INV:	that's everything ? 653679_654260
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 653679_653866 everything 653886_654260 ?
+@G:	George_Delayed
+*INV:	need you to tell me everything you can remember about that story . 1154740_1157346
+%mor:	verb|need-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|that-Def-Dem-Sing noun|story .
+%gra:	1|12|ROOT 2|1|OBJ 3|4|MARK 4|1|XCOMP 5|4|IOBJ 6|4|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|12|CASE 11|12|DET 12|9|OBL 13|1|PUNCT
+%wor:	need 1154740_1154840 you 1154840_1154900 to 1154920_1154980 tell 1155040_1155200 me 1155240_1155300 everything 1155380_1155720 you 1155740_1155840 can 1155860_1155980 remember 1156040_1156420 about 1156480_1156741 that 1156761_1156921 story 1157001_1157346 .
+*PAR:	&-uh Miller <I forgot his first name> [//] moved into the family . 1158762_1164744
+%mor:	propn|Miller verb|move-Fin-Ind-Past-S3 adp|into det|the-Def-Art noun|family .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	uh 1158762_1159102 Miller 1160482_1160883 I 1161003_1161023 forgot 1161063_1161423 his 1161483_1161643 first 1162583_1162884 name 1162984_1163204 moved 1163244_1163524 into 1163584_1163764 the 1163824_1163964 family 1164244_1164744 .
+*PAR:	&-uh Christ , I can't remember the girl's name anyway . [+ exc] 1167287_1170462
+%mor:	intj|Christ cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|remember-Inf-S det|the-Def-Art noun|girl~part|s noun|name-Acc adv|anyway .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|11|ROOT 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|6|OBJ 11|6|ADVMOD 12|6|PUNCT
+%wor:	uh 1167287_1167347 Christ 1167847_1168328 , I 1168388_1168408 can't 1168408_1168588 remember 1168588_1168908 the 1168968_1169048 girl's 1169128_1169549 name 1169609_1169889 anyway 1169989_1170462 .
+*PAR:	&-uh they went for a walk to where he useta live . 1172332_1176196
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|for det|a-Ind-Art noun|walk adp|to adv|where pron|he-Prs-Nom-S3 propn|useta verb|live-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CASE 7|10|ADVMOD 8|10|NSUBJ 9|8|FLAT 10|5|ACL 11|2|PUNCT
+%wor:	uh 1172332_1172372 they 1172392_1172552 went 1172652_1172892 for 1172932_1173092 a 1173132_1173152 walk 1173273_1173633 to 1173733_1173813 where 1173893_1174133 he 1174234_1174334 useta 1175235_1175595 live 1175735_1176196 .
+*PAR:	and she became frightened by the traffic noise but she didn't mention it to him . 1177096_1183578
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|by det|the-Def-Art noun|traffic noun|noise cconj|but pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|mention-Inf-S pron|it-Prs-Acc-S3 adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|16|ROOT 4|3|XCOMP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL-AGENT 9|13|CC 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|3|CONJ 14|13|OBJ 15|16|CASE 16|13|OBL 17|3|PUNCT
+%wor:	and 1177096_1177296 she 1177376_1177516 became 1177656_1178316 frightened 1178696_1179297 by 1179377_1179617 the 1179737_1179897 traffic 1180457_1181038 noise 1181238_1181658 but 1181678_1181798 she 1181858_1181958 didn't 1182038_1182338 mention 1182398_1182819 it 1182899_1182979 to 1183059_1183119 him 1183239_1183578 .
+*PAR:	was it Jim Miller ? [+ exc] 1184705_1185761
+%mor:	aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 propn|Jim propn|Miller ?
+%gra:	1|3|COP 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	was 1184705_1184840 it 1184900_1184960 Jim 1185040_1185300 Miller 1185360_1185761 ?
+*PAR:	oh , I don't know . [+ exc] 1188069_1188441
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	oh , I don't know 1188069_1188441 .
+*INV:	that's everything ?
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+@End

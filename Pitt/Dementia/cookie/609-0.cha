@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/a-00090597-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|12||
+@Media:	609-0, audio
+@G:	Cookie
+*INV:	now I'm going to give you a picture that has a lot of things going on in it . 700_3760
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|thing-Plur verb|go-Ger-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|19|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|13|DET 13|11|OBJ 14|15|CASE 15|13|NMOD 16|15|ACL 17|16|COMPOUND-PRT 18|19|CASE 19|16|OBL 20|4|PUNCT
+%wor:	now 700_800 I'm 820_880 going 880_1020 to 1020_1060 give 1100_1280 you 1300_1380 a 1440_1460 picture 1540_1941 that 1941_2061 has 2081_2221 a 2281_2301 lot 2361_2521 of 2561_2601 things 2661_2981 going 3041_3302 on 3382_3522 in 3562_3602 it 3602_3760 .
+*INV:	I want you to tell me everything you see going on in the picture . 4202_7195
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%wor:	I 4202_4222 want 4262_4423 you 4463_4523 to 4543_4603 tell 4663_4863 me 4883_4943 everything 5043_5423 you 5443_5544 see 5684_5904 going 6004_6284 on 6364_6504 in 6544_6604 the 6624_6704 picture 6765_7195 .
+*INV:	tell me what you see going on in the picture . 8318_10368
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 8318_8446 me 8486_8526 what 8586_8686 you 8726_8806 see 8946_9126 going 9247_9507 on 9587_9707 in 9747_9807 the 9827_9907 picture 9947_10368 .
+*PAR:	well , (.) they're grabbing the cookie jar . 12248_16838
+%mor:	intj|well cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|grab-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+%wor:	well 12248_12528 , they're 14609_14829 grabbing 14890_15410 the 15450_15550 cookie 15990_16371 jar 16451_16838 .
+*PAR:	right ? [+ exc] 17511_17710
+%mor:	adj|right-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 17511_17710 ?
+*PAR:	(.) and mother is working . 21855_24197
+%mor:	cconj|and noun|mother aux|be-Fin-Ind-Pres-S3 verb|work-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	and 21855_21995 mother 22095_22435 is 22735_23036 working 23736_24197 .
+*INV:	(..) tell me if you see anything else going on here . 35313_37603
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 sconj|if pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adv|here .
+%gra:	1|10|ROOT 2|1|IOBJ 3|5|MARK 4|5|NSUBJ 5|1|ADVCL 6|5|OBJ 7|6|AMOD 8|6|ACL 9|8|COMPOUND-PRT 10|8|ADVMOD 11|1|PUNCT
+%wor:	tell 35313_35473 me 35493_35573 if 35853_35933 you 35953_36053 see 36113_36213 anything 36253_36553 else 36593_36793 going 36833_37094 on 37154_37274 here 37354_37603 .
+*INV:	what else is going on in that picture ? 38639_40289
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	what 38639_38754 else 38795_38955 is 39015_39075 going 39115_39395 on 39475_39635 in 39675_39735 that 39755_39895 picture 39915_40289 ?
+*PAR:	well , the mother is [/] is &+t taking care of this . 41797_47479
+%mor:	intj|well cm|cm det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|care-Acc adp|of pron|this-Dem-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|6|OBJ 8|9|CASE 9|6|OBL 10|6|PUNCT
+%wor:	well 41797_42036 , the 43237_43317 mother 43377_43657 is 43777_43937 is 45198_45318 taking 45999_46379 care 46479_46759 of 46819_46899 this 46979_47479 .
+*PAR:	and like I said they're grabbing the &+coo cookie jar . 51063_54783
+%mor:	cconj|and sconj|like pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|grab-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|4|CC 2|4|MARK 3|4|NSUBJ 4|10|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|4|PUNCT
+%wor:	and 51063_51163 like 51183_51403 I 51523_51543 said 51683_52003 they're 52583_52803 grabbing 52843_53344 the 53384_53464 cookie 53924_54304 jar 54344_54783 .
+*PAR:	(..) wonder what my husband is doin(g) . [+ exc] 63081_65771
+%mor:	verb|wonder-Fin-Imp-S pron|what-Int-S1 pron|my-Prs-Gen-S1 noun|husband aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|6|ROOT 2|1|OBJ 3|4|NMOD-POSS 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|1|PUNCT
+%wor:	wonder 63081_64770 what 64810_64990 my 65030_65070 husband 65070_65410 is 65430_65470 doin(g) 65550_65771 .
+*INV:	can you tell me what else you see going on right here ? 67555_69905
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adv|else pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|right adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|3|OBJ 6|5|ADVMOD 7|8|NSUBJ 8|5|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|12|ADVMOD 12|9|ADVMOD 13|3|PUNCT
+%wor:	can 67555_67675 you 67695_67775 tell 67795_67995 me 68015_68075 what 68155_68275 else 68356_68536 you 68556_68656 see 68716_68896 going 68956_69197 on 69257_69357 right 69437_69657 here 69697_69905 ?
+*INV:	what else is going on here ? 70018_71314
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|6|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|PUNCT
+%wor:	what 70018_70158 else 70238_70418 is 70458_70558 going 70618_70899 on 70959_71059 here 71119_71314 ?
+*PAR:	well , this is going to fall . 72381_74704
+%mor:	intj|well cm|cm pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+%wor:	well 72381_72641 , this 73242_73462 is 73562_73662 going 73722_74023 to 74043_74123 fall 74243_74704 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and I think that he'll lose his cookies . 79307_82713
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that pron|he-Prs-Nom-S3~aux|will-Fin-S verb|lose-Inf-S pron|his-Prs-Gen-S3 noun|cookie-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|9|NMOD-POSS 9|7|OBJ 10|3|PUNCT
+%wor:	and 79307_79447 I 79587_79607 think 79768_80108 that 81071_81211 he'll 81271_81512 lose 81552_81873 his 81933_82113 cookies 82213_82713 .
+*PAR:	(..) boy , she's having problems here . 94593_96373
+%mor:	intj|boy cm|cm pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|have-Part-Pres-S noun|problem-Plur-Acc adv|here .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+%wor:	boy 94593_94733 , she's 94773_95013 having 95073_95394 problems 95474_96015 here 96015_96373 .
+*INV:	+< can you tell me what's going on there ? 96232_97922
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|7|ADVMOD 10|3|PUNCT
+%wor:	can 96232_96315 you 96335_96436 tell 96456_96636 me 96656_96716 what's 96776_96996 going 97037_97317 on 97377_97497 there 97577_97922 ?
+*PAR:	yeah , it's overflowing the [//] &-uh (.) onto the floor . 98539_103708
+%mor:	intj|yeah cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	yeah 98539_98699 , it's 98779_98980 overflowing 99080_100001 the 100102_100202 uh 100482_102686 onto 102706_102926 the 102986_103066 floor 103227_103708 .
+*INV:	(..) okay let me take that away . 115013_116393
+%mor:	intj|okay verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|take-Inf-S pron|that-Dem adv|away .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+%wor:	okay 115013_115236 let 115236_115358 me 115459_115561 take 115581_115723 that 115804_115967 away 116007_116393 .
+@End

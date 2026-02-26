@@ -1,0 +1,205 @@
+@UTF8
+@PID:	11312/a-00089767-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|PossibleAD||Participant|23||
+@Media:	476-0, audio
+@G:	animals
+*INV:	all the animals you can think of . 320_1869
+%mor:	det|all-Def-Tot det|the-Def-Art noun|animal-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|3|DET-PREDET 2|3|DET 3|7|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|3|PUNCT
+%wor:	all 320_440 the 460_540 animals 740_1100 you 1140_1220 can 1260_1380 think 1460_1680 of 1760_1869 .
+*INV:	and you can begin now . 2020_3841
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 2020_2120 you 2160_2240 can 2280_2400 begin 2440_2860 now 3341_3841 .
+*PAR:	cat . 5322_5821
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 5322_5821 .
+*PAR:	dog . 7142_7642
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 7142_7642 .
+*PAR:	animals . [+ exc] 8983_9406
+%mor:	noun|animal-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	animals 8983_9406 .
+*PAR:	lamb . 10924_11423
+%mor:	noun|lamb .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lamb 10924_11423 .
+*PAR:	sheep . 12025_12524
+%mor:	noun|sheep-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sheep 12025_12524 .
+*PAR:	goat . 13785_14284
+%mor:	noun|goat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	goat 13785_14284 .
+*PAR:	cow . 15507_15987
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 15507_15987 .
+*PAR:	hos [: horse] [//] horse &-uh people say . 17709_20000
+%mor:	noun|horse noun|person-Plur verb|say-Fin-Ind-Pres-P3 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	horse 17709_18129 horse 18769_19330 uh 19330_19370 people 19450_19710 say 19770_20000 .
+*PAR:	(.) let me see xxx . [+ exc] 24395_25254
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	let me 24395_24594 see 24754_25254 .
+*PAR:	I said cow , didn't I ? [+ exc] 30220_31330
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr noun|cow-Acc cm|cm aux|do-Fin-Ind-Past-S1-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|PUNCT 5|2|PARATAXIS 6|5|ADVMOD 7|5|NSUBJ 8|2|PUNCT
+%wor:	I 30220_30240 said 30280_30420 cow 30460_30700 , didn't 30740_31000 I 31000_31330 ?
+*INV:	just name whatever you can think of .
+%mor:	adv|just verb|name-Fin-Imp-S pron|whatever-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|2|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|2|PUNCT
+*PAR:	oh , I think I already said cow . [+ exc] 34844_35580
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|already verb|say-Fin-Ind-Past-S1-irr noun|cow-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|7|NSUBJ 6|7|ADVMOD 7|4|CCOMP 8|7|OBJ 9|4|PUNCT
+%wor:	oh , I think I already said 34844_35005 cow 35085_35580 .
+*PAR:	(.) pg . 40290_40630
+%mor:	noun|pg .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pg 40290_40630 .
+*PAR:	did I have ? [+ exc]
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|have-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR:	goat .
+%mor:	noun|goat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&=whispers I think I said that . [+ exc] 42592_43653
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|that-Dem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+%wor:	I 42592_42612 think 42612_42793 I 42893_42913 said 42973_43153 that 43153_43653 .
+*PAR:	(..) I never been on a farm . [+ exc] 51327_52498
+%mor:	pron|I-Prs-Nom-S1 adv|never aux|be-Part-Past-S-irr adp|on det|a-Ind-Art noun|farm .
+%gra:	1|6|NSUBJ 2|6|ADVMOD 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	I 51327_51347 never 51347_51507 been 51547_51687 on 51747_51867 a 51907_51927 farm 52008_52498 .
+*PAR:	all I see on my street is cats and dogs . [+ exc] 52649_54413
+%mor:	det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|on pron|my-Prs-Gen-S1 noun|street aux|be-Fin-Ind-Pres-S3 noun|cat-Plur cconj|and noun|dog-Plur .
+%gra:	1|8|NSUBJ 2|3|NSUBJ 3|1|ACL-RELCL 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|8|COP 8|10|ROOT 9|10|CC 10|8|CONJ 11|8|PUNCT
+%wor:	all I see 52649_52789 on 52829_52889 my 52909_53049 street 53129_53390 is 53410_53490 cats 53550_53790 and 53830_53930 dogs 53950_54413 .
+*PAR:	(.) a bird . 59739_60317
+%mor:	det|a-Ind-Art noun|bird .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 59739_59759 bird 59839_60317 .
+*PAR:	I gotta go up and clean her cage today too +/. [+ exc] 62543_64154
+%mor:	pron|I-Prs-Nom-S1 aux|getta-Fin-S verb|go-Inf-S adp|up cconj|and verb|clean-Inf-S pron|her-Prs-Gen-S3 noun|cage-Acc noun|today adv|too +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|8|NMOD-POSS 8|6|OBJ 9|6|OBL-UNMARKED 10|3|ADVMOD 11|3|PUNCT
+%wor:	I 62543_62563 gotta 62583_62703 go 62723_62784 up 62804_62864 and 62864_62924 clean 62944_63124 her 63144_63244 cage 63284_63545 today 63585_63805 too 63865_64154 +/.
+*INV:	okay , good +/. 64154_64606
+%mor:	intj|okay cm|cm adj|good-S1 +/.
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay , good 64154_64606 +/.
+@G:	F
+*INV:	now I'm going to change directions and you can begin now . 65142_69285
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|change-Inf-S noun|direction-Plur-Acc cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|11|CC 9|11|NSUBJ 10|11|AUX 11|4|CONJ 12|11|ADVMOD 13|4|PUNCT
+%wor:	now 65142_65242 I'm 65242_65322 going 65322_65422 to 65422_65502 change 65622_66022 directions 66062_67423 and 67443_67544 you 67584_67664 can 67704_67844 begin 67864_68344 now 68785_69285 .
+*PAR:	fun . 70566_71047
+%mor:	noun|fun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fun 70566_71047 .
+*PAR:	fight . 72428_72928
+%mor:	verb|fight-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fight 72428_72928 .
+*PAR:	fighter . 74630_75129
+%mor:	noun|fighter .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fighter 74630_75129 .
+*PAR:	food . 77013_77511
+%mor:	noun|food .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	food 77013_77511 .
+*PAR:	foil . 79014_79513
+%mor:	noun|foil .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foil 79014_79513 .
+*PAR:	fraction . 81677_82157
+%mor:	noun|fraction .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fraction 81677_82157 .
+*PAR:	fickle . 83819_84300
+%mor:	adj|fickle-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fickle 83819_84300 .
+*PAR:	(.) funnel . 87945_88445
+%mor:	noun|funnel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	funnel 87945_88445 .
+*PAR:	did I say funnel already , hon ? [+ exc] 88480_89602
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S noun|funnel-Acc adv|already cm|cm intj|hon ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|PUNCT 7|3|DISCOURSE 8|3|PUNCT
+%wor:	did 88480_88486 I 88486_88506 say 88506_88606 funnel 88666_88906 already 88946_89166 , hon 89207_89602 ?
+*INV:	just keep naming all the words you can think of . 89608_91531
+%mor:	adv|just verb|keep-Fin-Imp-S verb|name-Ger-S det|all-Def-Tot det|the-Def-Art noun|word-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|2|XCOMP 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|OBL 11|2|PUNCT
+%wor:	just 89608_89807 keep 89887_90048 naming 90108_90348 all 90348_90448 the 90468_90528 words 90568_90749 you 90769_90849 can 90869_90989 think 91029_91229 of 91309_91531 .
+*PAR:	funnel . 91871_92370
+%mor:	noun|funnel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	funnel 91871_92370 .
+*PAR:	fur . 93213_93712
+%mor:	noun|fur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fur 93213_93712 .
+*PAR:	<do I> [//] can I use a verb like furnish@q ? [+ exc] 95776_97557
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|use-Inf-S det|a-Ind-Art noun|verb-Acc adp|like q|furnish ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|FLAT 8|3|PUNCT
+%wor:	do 95776_95856 I 95956_95976 can 96076_96176 I 96236_96256 use 96356_96496 a 96517_96537 verb 96597_96837 like 96877_97037 furnish@q 97057_97557 ?
+*INV:	any word at all that you can think of +/. 97779_99327
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of +/.
+%gra:	1|2|DET 2|9|ROOT 3|4|CASE 4|2|NMOD 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|2|ACL-RELCL 9|5|CASE 10|2|PUNCT
+%wor:	any 97779_97898 word 97998_98199 at 98239_98319 all 98379_98499 that 98499_98619 you 98619_98679 can 98679_98780 think 98780_98940 of 98940_99327 +/.
+*PAR:	+< furnish . 99020_99461
+%mor:	verb|furnish-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	furnish 99020_99461 .
+*PAR:	(.) &-uh fry . 99842_102844
+%mor:	noun|fry .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 99842_99861 fry 102344_102844 .
+*PAR:	frier . 104369_104867
+%mor:	noun|frier .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frier 104369_104867 .
+*PAR:	(.) float . 108833_109314
+%mor:	verb|float-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	float 108833_109314 .
+*PAR:	(..) fond . 117345_117825
+%mor:	adj|fond-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fond 117345_117825 .
+*PAR:	fondly . 118447_118946
+%mor:	adv|fondly .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fondly 118447_118946 .
+*PAR:	(...) fall . 126497_126685
+%mor:	noun|fall .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fall 126497_126685 .
+*PAR:	like fall of the year . [+ exc] 126837_127702
+%mor:	intj|like noun|fall adp|of det|the-Def-Art noun|year .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	like 126837_127036 fall 127056_127257 of 127277_127317 the 127337_127417 year 127497_127702 .
+*PAR:	and <the other> [/] the other fall . [+ exc] 128118_128921
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|fall .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	and 128118_128198 the 128198_128298 other 128298_128438 the 128478_128538 other 128578_128718 fall 128778_128921 .
+*PAR:	to fall down the stairs . [+ exc] 129020_130018
+%mor:	part|to verb|fall-Inf-S adp|down det|the-Def-Art noun|stair-Plur .
+%gra:	1|2|MARK 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	to 129020_129079 fall 129119_129319 down 129339_129419 the 129439_129519 stairs 129579_130018 .
+*INV:	okay , good . 130301_131282
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 130301_130781 , good 130801_131282 .
+@End

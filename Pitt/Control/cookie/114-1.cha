@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/a-00090719-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|female|Control||Participant|30||
+@Media:	114-1, audio
+@G:	Cookie
+*INV:	okay there it is .
+%mor:	intj|okay adv|there pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NSUBJ 4|2|COP 5|2|PUNCT
+*INV:	what do you see going on in that picture ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+*PAR:	well the boy is getting cookies and he's gonna fall off the stool . 5893_9196
+%mor:	intj|well det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|5|OBJ 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|5|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|5|PUNCT
+%wor:	well 5893_5993 the 5993_6054 boy 6054_6174 is 6434_6614 getting 6754_7034 cookies 7074_7475 and 7515_7595 he's 7615_7735 gonna 7795_7995 fall 8035_8275 off 8355_8476 the 8536_8616 stool 8696_9196 .
+*PAR:	and the mother is doing dishes . 11058_13140
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 11058_11298 the 11478_11558 mother 11638_11999 is 12259_12379 doing 12439_12699 dishes 12759_13140 .
+*PAR:	and the water is running over out of the sink . 13228_16908
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|COMPOUND-PRT 7|10|CASE 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	and 13228_13288 the 13288_13348 water 13408_13708 is 13788_13868 running 13948_14289 over 14889_15189 out 16190_16331 of 16351_16431 the 16471_16551 sink 16651_16908 .
+*PAR:	she has the faucet on . 16971_18127
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|faucet-Acc adp|on .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|OBL 6|2|PUNCT
+%wor:	she 16971_17051 has 17091_17231 the 17251_17311 faucet 17372_17832 on 17932_18127 .
+*PAR:	she's spilling water all over the floor . 19534_21496
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S noun|water-Acc adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	she's 19534_19694 spilling 19714_20154 water 20214_20475 all 20615_20735 over 20795_20935 the 20975_21055 floor 21155_21496 .
+*INV:	anything else ? 29871_30731
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 29871_30211 else 30271_30731 ?
+*PAR:	well the boy is handing the little girl a cookie . 33158_37548
+%mor:	intj|well det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art adj|little-S1 noun|girl-Acc det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|10|DET 10|5|OBJ 11|5|PUNCT
+%wor:	well 33158_33418 the 35503_35603 boy 35663_35884 is 35944_35984 handing 36024_36385 the 36445_36505 little 36545_36746 girl 36786_37026 a 37046_37066 cookie 37127_37548 .
+*INV:	anything else ? 47752_48422
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 47752_47932 else 47992_48422 ?
+*PAR:	&-uh nothing that I can see of action . [+ exc] 51958_53565
+%mor:	pron|nothing-Neg-S1 pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adp|of noun|action .
+%gra:	1|7|ROOT 2|5|OBJ 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|7|CASE 7|5|OBL 8|1|PUNCT
+%wor:	uh nothing 51958_52318 that 52418_52618 I 52678_52698 can 52718_52798 see 52818_53019 of 53079_53139 action 53199_53565 .
+*INV:	okay fine . 54682_55181
+%mor:	intj|okay adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay fine 54682_55181 .
+@End

@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/a-00090050-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|49;|female|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	594-0, audio
+@G:	George_Immediate
+*PAR:	George Miller moved in with his family (.) &-um (.) in the country . 389462_400026
+%mor:	propn|George propn|Miller verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|family adp|in det|the-Def-Art noun|country .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|10|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%wor:	George 389462_389862 Miller 389942_390282 moved 390362_390682 in 390742_390862 with 390922_391082 his 391122_391282 family 391402_391983 um 394144_394564 in 399246_399326 the 399346_399426 country 399526_400026 .
+*PAR:	and (..) he missed the city and took his granddaughter Melanie to the city . 401510_409509
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|miss-Fin-Ind-Past-S3 det|the-Def-Art noun|city-Acc cconj|and verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|granddaughter-Acc propn|Melanie adp|to det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|NSUBJ 3|13|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|3|CONJ 8|9|NMOD-POSS 9|7|OBJ 10|9|APPOS 11|13|CASE 12|13|DET 13|7|OBL 14|3|PUNCT
+%wor:	and 401510_401590 he 405760_405820 missed 405900_406161 the 406181_406261 city 406401_406722 and 406862_406983 took 407103_407283 his 407323_407464 granddaughter 407544_408145 Melanie 408225_408727 to 408807_408887 the 408927_409027 city 409128_409509 .
+*PAR:	(.) and she was glad to get back to the country . 414412_418794
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|glad-S1 part|to verb|get-Inf-S adv|back adp|to det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	and 414412_414532 she 414612_414752 was 414832_414992 glad 415112_415572 to 415672_415753 get 415833_415973 back 416053_416493 to 418034_418114 the 418174_418234 country 418294_418794 .
+*INV:	alright . 420836_421246
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 420836_421246 .
+*PAR:	and that's all I can +/. [+ exc] 421977_422918
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S +/.
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+%wor:	and 421977_422077 that's 422077_422357 all 422418_422578 I 422598_422618 can 422838_422918 +/.
+*INV:	okay , that's good . 422978_423719
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 422978_423138 , that's 423218_423418 good 423478_423719 .
+@G:	George_Delayed
+*INV:	awhile back Missus Lastname I read you a short story . 843143_846865
+%mor:	adv|awhile adv|back propn|Missus propn|Lastname pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art adj|short-S1 noun|story-Acc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|NSUBJ 4|3|FLAT 5|6|NSUBJ 6|10|ROOT 7|6|IOBJ 8|10|DET 9|10|AMOD 10|6|OBJ 11|6|PUNCT
+%wor:	awhile 843143_843583 back 843643_843923 Missus 844003_844304 Lastname 844344_844864 I 845184_845204 read 845324_845545 you 845605_845725 a 845805_845825 short 845985_846265 story 846365_846865 .
+*INV:	and after I was finished reading the story I asked you to tell me everything you could recall from that story . 848188_853955
+%mor:	cconj|and sconj|after pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|finish-Part-Past-S verb|read-Ger-S det|the-Def-Art noun|story-Acc pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|could-Fin-S verb|recall-Inf-S adp|from det|that-Def-Dem-Sing noun|story .
+%gra:	1|10|CC 2|5|MARK 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|10|ADVCL 6|5|XCOMP 7|8|DET 8|6|OBJ 9|10|NSUBJ 10|21|ROOT 11|10|IOBJ 12|13|MARK 13|10|XCOMP 14|13|IOBJ 15|13|OBJ 16|18|NSUBJ 17|18|AUX 18|15|ACL-RELCL 19|21|CASE 20|21|DET 21|18|OBL 22|10|PUNCT
+%wor:	and 848188_848287 after 848327_848547 I 848607_848647 was 848647_848767 finished 848808_849148 reading 849188_849468 the 849488_849568 story 849628_849949 I 850469_850489 asked 850589_850809 you 850829_850909 to 850929_850989 tell 851070_851270 me 851310_851370 everything 851530_851930 you 851970_852070 could 852110_852251 recall 852291_852751 from 853011_853191 that 853251_853432 story 853512_853955 .
+*PAR:	oh gosh . [+ exc] 854172_854656
+%mor:	intj|oh intj|gosh .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 854172_854352 gosh 854372_854656 .
+*INV:	can you tell me everything you can remember about that story now ? 855302_857856
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|that-Def-Dem-Sing noun|story adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|8|ADVMOD 13|3|PUNCT
+%wor:	can you 855302_855313 tell 855353_855513 me 855533_855573 everything 855654_856034 you 856074_856154 can 856194_856294 remember 856354_856674 about 856694_856895 that 856935_857095 story 857155_857435 now 857535_857856 ?
+*PAR:	&=sighs (..) a grandfather moved in with his (.) family . 864600_870123
+%mor:	det|a-Ind-Art noun|grandfather verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|family .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	a 864600_864620 grandfather 864680_865380 moved 865620_866001 in 866201_866341 with 867742_867943 his 868043_868303 family 869624_870123 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I don't remember if it was a son or a daughter . 870844_873193
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S sconj|if pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|son cconj|or det|a-Ind-Art noun|daughter .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|9|MARK 6|9|NSUBJ 7|9|COP 8|9|DET 9|4|CCOMP 10|12|CC 11|12|DET 12|9|CONJ 13|4|PUNCT
+%wor:	I 870844_870845 don't 870845_870965 remember 870985_871306 if 871326_871366 it 871406_871506 was 871526_871686 a 871786_871806 son 872266_872507 or 872567_872627 a 872647_872667 daughter 872767_873193 .
+*PAR:	who's [//] which one it was . [+ exc] 873287_875480
+%mor:	det|which-Def-Int noun|one pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|2|DET 2|4|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+%wor:	who's 873287_873588 which 874769_874929 one 875029_875129 it 875149_875229 was 875249_875480 .
+*PAR:	it's your daughter . 876031_876711
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|daughter .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%wor:	it's 876031_876150 your 876170_876250 daughter 876270_876711 .
+*PAR:	and he &-uh (.) had always lived in the country . 877513_881064
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr adv|always verb|live-Part-Past-S adp|in det|the-Def-Art noun|country .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 877513_877693 he 877833_877953 uh 878153_878353 had 879673_879813 always 879853_880133 lived 880194_880374 in 880394_880454 the 880474_880554 country 880594_881064 .
+*PAR:	and he took his granddaughter back there . 881259_883282
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|granddaughter-Acc adv|back adv|there .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|ADVMOD 7|3|ADVMOD 8|3|PUNCT
+%wor:	and 881259_881354 he 881374_881414 took 881554_881714 his 881734_881854 granddaughter 881934_882514 back 882574_882835 there 882935_883282 .
+*PAR:	(.) and she was eager to get back to the city . 886787_890898
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|eager-S1 part|to verb|get-Inf-S adv|back adp|to det|the-Def-Art noun|city .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	and 886787_886936 she 887076_887236 was 888977_889157 eager 889257_889477 to 889537_889617 get 889697_889837 back 889897_890137 to 890237_890317 the 890357_890437 city 890557_890898 .
+*PAR:	so , they went back to the city . 891213_892767
+%mor:	adv|so cm|cm pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adv|back adp|to det|the-Def-Art noun|city .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	so 891213_891273 , they 891333_891493 went 891533_891693 back 891733_891954 to 892014_892094 the 892134_892214 city 892314_892767 .
+*INV:	okay , good . 893056_893155
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay , good 893056_893155 .
+@End

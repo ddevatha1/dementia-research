@@ -1,0 +1,118 @@
+@UTF8
+@PID:	11312/a-00089677-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|male|ProbableAD||Participant|27||
+@Media:	184-0, audio
+@G:	animals
+*INV:	you have one minute starting now . 1241_2712
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 num|one noun|minute-Acc verb|start-Ger-S adv|now .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NUMMOD 4|2|OBJ 5|4|ACL 6|5|ADVMOD 7|2|PUNCT
+%wor:	you 1241_1361 have 1381_1521 one 1601_1721 minute 1741_2062 starting 2182_2712 now .
+*PAR:	dog .
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) cat .
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) horse .
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	pg .
+%mor:	noun|pg .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um (..) elephant .
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	leopard . 15023_15503
+%mor:	noun|leopard .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	leopard 15023_15503 .
+*PAR:	tiger . 16123_16163
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tiger 16123_16163 .
+*PAR:	(...) kitten . 17042_17204
+%mor:	noun|kitten .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	kitten 17042_17204 .
+*PAR:	&-um &-uh (..) mule . 32781_33302
+%mor:	noun|mule .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 32781_32942 uh 33102_33302 mule .
+*PAR:	(.) cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	sheep .
+%mor:	noun|sheep-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	goat .
+%mor:	noun|goat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) &-uh elephant . 42898_49283
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 42898_49283 elephant .
+*PAR:	tiger .
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) leopard (...) . 51220_51561
+%mor:	noun|leopard .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	leopard 51220_51561 .
+*INV:	okay , hold it there . 63870_63955
+%mor:	intj|okay cm|cm verb|hold-Fin-Imp-S pron|it-Prs-Acc-S3 adv|there .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	okay 63870_63955 , hold it there .
+@G:	F
+*INV:	off you go .
+%mor:	adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR:	flower .
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) furnace .
+%mor:	noun|furnace .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) flip . 69376_69875
+%mor:	verb|flip-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flip 69376_69875 .
+*PAR:	(.) flop .
+%mor:	noun|flop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I guess so . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adv|so .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	&-um (..) finger .
+%mor:	noun|finger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) flake . 80771_81251
+%mor:	noun|flake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flake 80771_81251 .
+*PAR:	floss (.) . 85440_85939
+%mor:	noun|floss .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	floss 85440_85939 .
+*PAR:	flip .
+%mor:	verb|flip-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) flop . 91650_91751
+%mor:	noun|flop .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flop 91650_91751 .
+*PAR:	I don't know +... [+ exc] 101361_101820
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 101361_101382 don't 101403_101674 know 101674_101820 +...
+*INV:	okay . 125077_125390
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 125077_125390 .
+@End

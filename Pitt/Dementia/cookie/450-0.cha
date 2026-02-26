@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/a-00090544-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;|female|ProbableAD||Participant|24||
+@Media:	450-0, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	oh ! [+ exc] 2981_3181
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 2981_3181 !
+*PAR:	little boy's &-uh gettin(g) into the cookies . 4830_6860
+%mor:	adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	little 4830_5003 boy's 5103_5523 uh 5623_5683 gettin(g) 5903_6164 into 6164_6304 the 6304_6384 cookies 6464_6860 .
+*PAR:	he's climbin(g) up a chair [: stool] [* s:r] . 8967_10372
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S adp|up det|a-Ind-Art noun|stool-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	he's 8967_9126 climbin(g) 9226_9647 up 9647_9767 a 9847_9867 stool 10007_10372 .
+*PAR:	and it's about to fall away . 10395_11765
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adv|away .
+%gra:	1|4|CC 2|4|EXPL 3|4|COP 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|4|PUNCT
+%wor:	and 10395_10428 it's 10488_10608 about 10708_10948 to 10968_11008 fall 11068_11348 away 11408_11765 .
+*PAR:	dangerous . [+ gram] 12109_12510
+%mor:	adj|dangerous-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dangerous 12109_12510 .
+*PAR:	and the little girl she's wantin(g) a cookie off her brother . 14500_18202
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|want-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|off pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|12|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|NMOD-POSS 12|7|OBL 13|4|PUNCT
+%wor:	and 14500_14580 the 14580_14640 little 14680_14860 girl 14920_15180 she's 15300_15560 wantin(g) 15660_16001 a 16001_16021 cookie 16101_16501 off 17302_17422 her 17522_17642 brother 17702_18202 .
+*PAR:	and the mom's &-uh washin(g) the dishes . 20864_23306
+%mor:	cconj|and det|the-Def-Art noun|mom~aux|is verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 20864_21024 the 21104_21204 mom's 21284_21685 uh 21765_21945 washin(g) 22145_22645 the 22645_22766 dishes 22806_23306 .
+*PAR:	and she's lettin(g) a lot o(f) water run over the spigot . 24967_28130
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|a-Ind-Art noun|lot-Acc adp|of noun|water verb|run-Inf-S adp|over det|the-Def-Art noun|spigot .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|4|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+%wor:	and 24967_25047 she's 25107_25307 lettin(g) 25347_25688 a 25688_25708 lot 25708_26168 o(f) 26188_26268 water 26268_26568 run 26628_26809 over 26949_27229 the 27529_27609 spigot 27709_28130 .
+*PAR:	it's runnin(g) over on the floor . 28333_30013
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	it's 28333_28413 runnin(g) 28474_28839 over 28839_29081 on 29122_29304 the 29304_29405 floor 29567_30013 .
+*PAR:	(..) and you just want me what [//] find out what's wrong ? [+ exc] 41925_44286
+%mor:	cconj|and pron|you-Prs-Nom-S2 adv|just verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 verb|find-Inf-S adp|out pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|10|ROOT 5|4|OBJ 6|4|XCOMP 7|6|COMPOUND-PRT 8|10|NSUBJ 9|10|COP 10|6|CCOMP 11|4|PUNCT
+%wor:	and 41925_41985 you 41985_42085 just 42105_42325 want 42365_42585 me 42585_42625 what 42685_42885 find 43045_43306 out 43386_43446 what's 43486_43746 wrong 43786_44286 ?
+*INV:	anything you see going on . 45267_46586
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|1|PUNCT
+%wor:	anything 45267_45668 you 45668_45728 see 45828_45988 going 46028_46308 on 46408_46586 .
+*PAR:	(.) well , she don't seem to be noticin(g) what she's doin(g) . 52914_56497
+%mor:	intj|well cm|cm pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S verb|notice-Part-Pres-S pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|13|ROOT 7|9|MARK 8|9|AUX 9|6|XCOMP 10|9|OBJ 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|6|PUNCT
+%wor:	well 52914_53334 , she 53634_53774 don't 53894_54235 seem 54235_54455 to 54515_54615 be 54675_54775 noticin(g) 54975_55616 what 55616_55816 she's 55896_56136 doin(g) 56216_56497 .
+*PAR:	<she's lookin(g) at> [//] looks like she's watchin(g) tv . 56751_59293
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|watch-Part-Pres-S noun|TV-Acc .
+%gra:	1|6|ROOT 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|1|ADVCL 6|5|OBJ 7|1|PUNCT
+%wor:	she's 56751_56931 lookin(g) 56991_57331 at 57331_57431 looks 57691_57912 like 57912_58112 she's 58132_58312 watchin(g) 58352_58793 tv 58793_59293 .
+*PAR:	and she's not even watchin(g) what she's doin(g) &=laughs or she'd ha(ve) seen the water runnin(g) over . 60480_65740
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|even verb|watch-Part-Pres-S pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S cconj|or pron|she-Prs-Nom-S3~aux|would-Fin-S aux|have-Inf-S verb|see-Part-Past-S-irr det|the-Def-Art noun|water-Acc verb|run-Ger-S adp|over .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|19|ROOT 7|6|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|15|CC 12|15|NSUBJ 13|15|AUX 14|15|AUX 15|6|CONJ 16|17|DET 17|15|OBJ 18|15|XCOMP 19|18|COMPOUND-PRT 20|6|PUNCT
+%wor:	and 60480_60714 she's 60895_61075 not 61115_61295 even 61335_61455 watchin(g) 61455_61876 what 61876_61976 she's 62056_62236 doin(g) 62296_63717 or 63717_63818 she'd 63918_64098 ha(ve) 64098_64218 seen 64218_64398 the 64438_64518 water 64578_64979 runnin(g) 64999_65339 over 65339_65740 .
+*INV:	okay . 72011_72121
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 72011_72121 .
+@End

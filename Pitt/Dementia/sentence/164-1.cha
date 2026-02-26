@@ -1,0 +1,269 @@
+@UTF8
+@PID:	11312/a-00091337-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|54;|male|ProbableAD||Participant|24||
+@Media:	164-1, audio
+*INV:	okay , good . 40_1168
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 40_520 , good 1141_1168 .
+*INV:	first one is pencil@q . 1381_2661
+%mor:	adj|first-S1 noun|one aux|be-Fin-Ind-Pres-S3 q|pencil .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|COP 4|4|FLAT 5|4|PUNCT
+%wor:	first 1381_1641 one 1741_1881 is 1941_2041 pencil@q 2161_2661 .
+*PAR:	I broke my pencil . 5825_6765
+%mor:	pron|I-Prs-Nom-S1 verb|break-Fin-Ind-Past-S1-irr pron|my-Prs-Gen-S1 noun|pencil-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%wor:	I 5825_5845 broke 5885_6105 my 6125_6225 pencil 6265_6765 .
+*INV:	okay . 7206_7706
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 7206_7706 .
+*INV:	tree@q . 12111_12611
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 12111_12611 .
+*PAR:	<the tree> [/] the tree has &+b blown down . 14732_17854
+%mor:	det|the-Def-Art noun|tree aux|have-Fin-Ind-Pres-S3 verb|blow-Part-Past-S-irr adp|down .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	the 14732_14812 tree 14912_15153 the 16053_16153 tree 16253_16493 has 16533_16673 blown 16994_17274 down 17354_17854 .
+*INV:	okay . 18101_18354
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 18101_18354 .
+*INV:	now , I'm gonna give you two words . 21776_23454
+%mor:	adv|now cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|6|ADVMOD 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|6|PUNCT
+%wor:	now 21776_21916 , I'm 22016_22076 gonna 22116_22296 give 22356_22516 you 22536_22616 two 22716_22977 words 23057_23454 .
+*INV:	I don't want you to worry about the order that you use the two words . 23817_26919
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|worry-Inf-S adp|about det|the-Def-Art noun|order pron|that-Rel pron|you-Prs-Nom-S2 verb|use-Fin-Ind-Pres-S2 det|the-Def-Art num|two noun|word-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|16|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|16|DET 15|16|NUMMOD 16|13|OBJ 17|4|PUNCT
+%wor:	I 23817_23837 don't 23857_23977 want 23977_24117 you 24137_24197 to 24217_24257 worry 24317_24457 about 24477_24617 the 24657_24737 order 24917_25258 that 25478_25618 you 25698_25818 use 25998_26218 the 26258_26338 two 26418_26558 words 26618_26919 .
+*INV:	but just use both of them in one sentence . 26959_29381
+%mor:	cconj|but adv|just verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in num|one noun|sentence .
+%gra:	1|3|CC 2|3|ADVMOD 3|9|ROOT 4|3|OBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|NUMMOD 9|3|OBL 10|3|PUNCT
+%wor:	but 26959_27099 just 27119_27359 use 27439_27599 both 27659_27940 of 27980_28040 them 28080_28220 in 28280_28380 one 28600_28781 sentence 28881_29381 .
+*INV:	okay . 29541_30041
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 29541_30041 .
+*INV:	here's the first two child@q hospital@q . 30483_33045
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 num|two q|child q|hospital .
+%gra:	1|7|ROOT 2|1|COP 3|7|DET 4|7|AMOD 5|7|NUMMOD 6|7|FLAT 7|1|FLAT 8|1|PUNCT
+%wor:	here's 30483_30703 the 30743_30823 first 30883_31163 two 31223_31384 child@q 31524_32525 hospital@q 32545_33045 .
+*PAR:	my boy is in the hospital . 37210_38511
+%mor:	pron|my-Prs-Gen-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	my 37210_37390 boy 37470_37671 is 37711_37791 in 37831_37911 the 37931_37991 hospital 38011_38511 .
+*INV:	okay . 39152_39652
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 39152_39652 .
+*INV:	cold@q winter@q . 45115_47016
+%mor:	q|cold q|winter .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	cold@q 45115_46516 winter@q 46516_47016 .
+*PAR:	last winter was very cold . 50878_52458
+%mor:	adj|last-S1 noun|winter aux|be-Fin-Ind-Past-S3-irr adv|very adj|cold-S1 .
+%gra:	1|2|AMOD 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	last 50878_51178 winter 51238_51458 was 51478_51618 very 51658_51878 cold 51958_52458 .
+*INV:	I think it was &=laughs +/. 53879_54839
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr +/.
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+%wor:	I 53879_53899 think 53959_54139 it 54179_54259 was 54339_54839 +/.
+*PAR:	+< it was . [+ exc] 55660_55780
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	it 55660_55780 was .
+*PAR:	I thought we was gettin(g) it . [+ exc] 58002_59262
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr verb|get-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|OBJ 7|2|PUNCT
+%wor:	I 58002_58022 thought 58082_58242 we 58282_58342 was 58362_58442 gettin(g) 58502_58762 it 58762_59262 .
+*PAR:	&-you_know a couple years ago <we have> [//] it's +... 60103_62184
+%mor:	det|a-Ind-Art noun|couple noun|year-Plur adv|ago pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|DET 2|3|NMOD-UNMARKED 3|4|OBL-UNMARKED 4|6|ROOT 5|6|NSUBJ 6|4|COP 7|4|PUNCT
+%wor:	you_know 60103_60323 a 60343_60363 couple 60383_60603 years 60603_60783 ago 60803_60903 we 60983_61064 have 61104_61204 it's 61684_62184 +...
+*PAR:	Christmas , remember , we didn't have any &+s snow or nothin(g) . [+ exc] 62764_65324
+%mor:	propn|Christmas cm|cm verb|remember-Fin-Imp-S cm|cm pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr~part|not verb|have-Inf-S det|any-Def-Ind noun|snow-Acc cconj|or pron|nothing-Neg-S1 .
+%gra:	1|12|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|8|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|PARATAXIS 9|10|DET 10|8|OBJ 11|12|CC 12|10|CONJ 13|1|PUNCT
+%wor:	Christmas 62764_63185 , remember 63185_63445 , we 63445_63505 didn't 63545_63705 have 63705_63885 any 63905_64065 snow 64465_64706 or 64746_64806 nothin(g) 64886_65324 .
+*INV:	no , that was about four [//] three years ago . 65446_68048
+%mor:	intj|no cm|cm pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adv|about num|three noun|year-Plur adv|ago .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|6|ADVMOD 6|7|NUMMOD 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+%wor:	no 65446_65546 , that 66126_66246 was 66286_66427 about 66467_66667 four 66747_67007 three 67207_67447 years 67487_67727 ago 67767_68048 .
+*INV:	I got a winter [//] brand new winter coat . 68168_69791
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|brand adj|new-S1 noun|winter noun|coat-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|7|DET 4|7|COMPOUND 5|7|AMOD 6|7|COMPOUND 7|2|OBJ 8|2|PUNCT
+%wor:	I 68168_68188 got 68228_68388 a 68428_68448 winter 68508_68728 brand 68789_69009 new 69029_69089 winter 69149_69349 coat 69429_69791 .
+*INV:	and wore it Christmas day and it was so hot &=laughs . 69791_71712
+%mor:	cconj|and verb|wear-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 propn|Christmas noun|day cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|so adj|hot-S1 .
+%gra:	1|2|CC 2|10|ROOT 3|2|OBJ 4|5|COMPOUND 5|2|OBL-UNMARKED 6|10|CC 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|2|CONJ 11|2|PUNCT
+%wor:	and wore 69791_69950 it 69950_69990 Christmas 70010_70351 day 70431_70591 and 70591_70671 it 70691_70731 was 70751_70851 so 70911_70992 hot 71212_71712 .
+*PAR:	yeah . [+ exc] 71953_72453
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 71953_72453 .
+*PAR:	I thought &-you_know it was gonna turn &-you_know like it +... [+ exc] 73655_76780
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr part|go verb|turn-Inf-S adp|like pron|it-Prs-Acc-S3 +...
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|8|CASE 8|6|OBL 9|2|PUNCT
+%wor:	I 73655_73675 thought 73755_73976 you_know 74016_74276 it 74416_74496 was 74556_74697 gonna 75177_75378 turn 75458_75778 you_know 75798_76018 like 76078_76339 it 76359_76780 +...
+*PAR:	sometimes (.) it's comin(g) . 77160_79763
+%mor:	adv|sometimes pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	sometimes 77160_77901 it's 79223_79343 comin(g) 79443_79763 .
+*PAR:	it's +... [+ exc] 79844_80344
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	it's 79844_80344 +...
+*INV:	the seasons are sposta change ? 80545_82066
+%mor:	det|the-Def-Art noun|season-Plur aux|be-Fin-Ind-Pres-P3 adj|sposta-S1 noun|change ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the 80545_80625 seasons 80705_81045 are 81085_81165 sposta 81185_81506 change 81566_82066 ?
+*PAR:	yeah . [+ exc] 82167_82667
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 82167_82667 .
+*INV:	that's what they say . 82688_83608
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Pres-P3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	that's 82688_82808 what 82808_82888 they 82908_83008 say 83108_83608 .
+*INV:	but don't you think that like our winters are lastin(g) . 83838_86430
+%mor:	cconj|but aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|think-Inf-S sconj|that sconj|like pron|our-Prs-Gen-P1 noun|winter-Plur aux|be-Fin-Ind-Pres-P3 verb|last-Part-Pres-S .
+%gra:	1|5|CC 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|11|ROOT 6|11|MARK 7|11|MARK 8|9|NMOD-POSS 9|11|NSUBJ 10|11|COP 11|5|CCOMP 12|5|PUNCT
+%wor:	but 83838_83928 don't 83968_84148 you 84168_84268 think 84329_84549 that 84609_84769 like 84909_85129 our 85169_85289 winters 85369_85749 are 85789_85889 lastin(g) 85930_86430 .
+*INV:	like even December this year wasn't real bad . 88131_90327
+%mor:	intj|like adv|even propn|December det|this-Def-Dem-Sing noun|year aux|be-Fin-Ind-Past-S3-irr~part|not adv|real adj|bad-S1 .
+%gra:	1|9|DISCOURSE 2|3|ADVMOD 3|9|OBL-UNMARKED 4|5|DET 5|9|OBL-UNMARKED 6|9|COP 7|9|ADVMOD 8|9|ADVMOD 9|9|ROOT 10|9|PUNCT
+%wor:	like 88131_88291 even 88471_88631 December 88671_89031 this 89091_89252 year 89292_89432 wasn't 89492_89752 real 89772_89912 bad 89972_90327 .
+*INV:	but February [//] January February and even into March . 90352_93974
+%mor:	cconj|but propn|January propn|February cconj|and adv|even adp|into propn|March .
+%gra:	1|2|CC 2|7|ROOT 3|2|NUMMOD 4|7|CC 5|7|ADVMOD 6|7|CASE 7|2|CONJ 8|2|PUNCT
+%wor:	but 90352_90492 February 90853_91353 January 91513_91973 February 92053_92594 and 92794_92894 even 92954_93114 into 93174_93394 March 93474_93974 .
+*INV:	even into April we were havin(g) some cold weather . 94275_96509
+%mor:	adv|even adp|into propn|April pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr verb|have-Part-Pres-S det|some-Def-Ind adj|cold-S1 noun|weather-Acc .
+%gra:	1|3|ADVMOD 2|3|CASE 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|DET 8|9|AMOD 9|6|OBJ 10|6|PUNCT
+%wor:	even 94275_94435 into 94475_94635 April 94775_95115 we 95195_95255 were 95295_95435 havin(g) 95435_95696 some 95696_95836 cold 95856_96116 weather 96196_96509 .
+*PAR:	yeah . [+ exc] 96876_97217
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 96876_97217 .
+*INV:	it wasn't until later that we were startin(g) to get warm . 97217_99387
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not adp|until adv|late sconj|that pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr verb|start-Part-Pres-S part|to verb|get-Inf-S adj|warm-S1 .
+%gra:	1|5|EXPL 2|9|COP 3|5|ADVMOD 4|5|CASE 5|9|ADVMOD 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|12|ROOT 10|11|MARK 11|9|XCOMP 12|11|XCOMP 13|9|PUNCT
+%wor:	it 97217_97257 wasn't 97257_97497 until 97537_97877 later 97957_98237 that 98257_98357 we 98377_98437 were 98437_98517 startin(g) 98517_98797 to 98797_98837 get 98857_98997 warm 99077_99387 .
+*INV:	so , I don't know maybe they are slowly just chipped a little bit you , know . 99437_104979
+%mor:	adv|so cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|maybe pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adv|slowly adv|just verb|chip-Part-Past-S det|a-Ind-Art adj|little-S1 noun|bit pron|you-Prs-Acc-S2 cm|cm verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|18|ROOT 7|12|ADVMOD 8|12|NSUBJ-PASS 9|12|AUX-PASS 10|12|ADVMOD 11|12|ADVMOD 12|6|CCOMP 13|15|DET 14|15|AMOD 15|12|OBL-UNMARKED 16|12|PARATAXIS 17|18|PUNCT 18|12|PARATAXIS 19|6|PUNCT
+%wor:	so 99437_99517 , I 99717_99737 don't 99757_99897 know 99897_100057 maybe 100117_100358 they 100418_100538 are 100678_100818 slowly 100998_101638 just 102498_102678 chipped 102818_103098 a 103259_103279 little 103379_103619 bit 103719_103999 you 104359_104459 , know 104479_104979 .
+*INV:	December useta always be cold . 105167_106680
+%mor:	propn|December propn|useta adv|always aux|be-Fin-Imp-S adj|cold-S1 .
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|ADVMOD 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	December 105167_105459 useta 105519_105739 always 105759_105999 be 106039_106100 cold 106180_106680 .
+*INV:	and it wasn't that cold this year we had real nice weather . 106723_109120
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not adv|that adj|cold-S1 det|this-Def-Dem-Sing noun|year pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr adj|real-S1 adj|nice-S1 noun|weather-Acc .
+%gra:	1|6|CC 2|6|EXPL 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|13|ROOT 7|8|DET 8|6|OBL-UNMARKED 9|10|NSUBJ 10|6|PARATAXIS 11|13|AMOD 12|13|AMOD 13|10|OBJ 14|6|PUNCT
+%wor:	and it wasn't 106723_106980 that 107000_107140 cold 107200_107440 this 107460_107640 year 107640_107820 we 107880_107940 had 108000_108140 real 108200_108340 nice 108360_108580 weather 108620_109120 .
+*PAR:	I think at Christmas time it was . [+ exc] 109941_111621
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adp|at propn|Christmas noun|time pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|CASE 4|5|COMPOUND 5|2|OBL 6|7|NSUBJ 7|2|CCOMP 8|2|PUNCT
+%wor:	I 109941_109961 think 110041_110241 at 110261_110321 Christmas 110361_110721 time 110761_111021 it 111041_111101 was 111121_111621 .
+*INV:	it was beginning to by the end of the December , yeah . 112522_115505
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|begin-Part-Pres-S adp|to adp|by det|the-Def-Art noun|end adp|of det|the-Def-Art propn|December cm|cm intj|yeah .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|3|OBL 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|12|PUNCT 12|3|DISCOURSE 13|3|PUNCT
+%wor:	it 112522_112582 was 112602_112722 beginning 112802_113283 to 113323_113423 by 113523_113663 the 113704_113784 end 113884_114024 of 114044_114084 the 114084_114144 December 114144_114745 , yeah 115005_115505 .
+*INV:	at Christmas time . 115606_116686
+%mor:	adp|at propn|Christmas noun|time .
+%gra:	1|3|CASE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	at 115606_115666 Christmas 115706_116126 time 116186_116686 .
+*INV:	gettin(g) colder ? 116917_117628
+%mor:	verb|get-Part-Pres-S adj|cold-Cmp-S1 ?
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%wor:	gettin(g) 116917_117128 colder 117128_117628 ?
+*INV:	no ? 119831_120331
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 119831_120331 ?
+*PAR:	+< no , <I think we> [//] I think when we went to midnight services . [+ exc] 119951_124656
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|when pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to noun|midnight noun|service-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|10|ROOT 5|7|ADVMOD 6|7|NSUBJ 7|4|ADVCL 8|10|CASE 9|10|COMPOUND 10|7|OBL 11|4|PUNCT
+%wor:	no 119951_120111 , I 120151_120171 think 120231_120411 we 120451_120531 I 120872_120892 think 120932_121112 when 121172_121352 we 121613_121693 went 121773_121973 to 122053_122133 midnight 123675_124096 services 124156_124656 .
+*INV:	it wasn't cold ? 125277_126198
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not adj|cold-S1 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	it 125277_125357 wasn't 125397_125657 cold 125698_126198 ?
+*PAR:	no . [+ exc]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	yeah , see . 127279_128119
+%mor:	intj|yeah cm|cm verb|see-Fin-Imp-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	yeah 127279_127479 , see 127619_128119 .
+*INV:	and that December's usually cold snowin(g) and real cold out . 128300_132522
+%mor:	cconj|and sconj|that propn|December~aux|be-Fin-Ind-Pres-S3 adv|usually adj|cold-S1 noun|snowing-Ger cconj|and adj|real-S1 adj|cold-S1 adp|out .
+%gra:	1|7|CC 2|7|MARK 3|7|NSUBJ 4|7|COP 5|6|ADVMOD 6|7|AMOD 7|11|ROOT 8|10|CC 9|10|AMOD 10|7|CONJ 11|7|CONJ 12|7|PUNCT
+%wor:	and 128300_128400 that 128420_128580 December's 128680_129240 usually 129380_129720 cold 129801_130221 snowin(g) 130321_130861 and 130861_130961 real 131442_131602 cold 131642_131942 out 132022_132522 .
+*INV:	maybe they are changin(g) . 133143_134503
+%mor:	adv|maybe pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|change-Part-Pres-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	maybe 133143_133463 they 133543_133743 are 133843_133963 changin(g) 134003_134503 .
+*INV:	it's sposta happen . 134734_135484
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|sposta verb|happen-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	it's sposta 134734_134944 happen 134984_135484 .
+*INV:	someday we'll be sittin(g) here in the middle of August freezin(g) to death &=laughs . 135871_139406
+%mor:	adv|someday pron|we-Prs-Nom-P1~aux|will-Fin-S aux|be-Inf-S verb|sit-Part-Pres-S adv|here adp|in det|the-Def-Art noun|middle adp|of propn|August verb|freeze-Part-Pres-S adp|to noun|death .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|14|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|11|CASE 11|9|NMOD 12|9|ACL 13|14|CASE 14|12|OBL 15|5|PUNCT
+%wor:	someday 135871_136185 we'll 136225_136345 be 136365_136425 sittin(g) 136505_136805 here 136805_136965 in 136985_137025 the 137025_137105 middle 137125_137345 of 137425_137505 August 137786_138266 freezin(g) 138366_138806 to 138806_138866 death 138906_139406 .
+*INV:	okay , now I'm gonna give you three words . 141348_143690
+%mor:	intj|okay cm|cm adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|7|PUNCT
+%wor:	okay 141348_141668 , now 142009_142149 I'm 142229_142289 gonna 142329_142509 give 142549_142709 you 142729_142809 three 142850_143110 words 143190_143690 .
+*INV:	okay , now again I don't want you to worry about the order that I give you the three words . 144103_147582
+%mor:	intj|okay cm|cm adv|now adv|again pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|worry-Inf-S adp|about det|the-Def-Art noun|order pron|that-Rel pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|the-Def-Art num|three noun|word-Plur-Acc .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|ADVMOD 4|8|ADVMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|21|ROOT 9|8|OBJ 10|11|MARK 11|8|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|17|OBJ 16|17|NSUBJ 17|14|ACL-RELCL 18|17|IOBJ 19|21|DET 20|21|NUMMOD 21|17|OBJ 22|8|PUNCT
+%wor:	okay 144103_144191 , now 144251_144411 again 144571_144932 I 145032_145052 don't 145072_145172 want 145172_145312 you 145352_145432 to 145432_145472 worry 145492_145652 about 145673_145793 the 145833_145893 order 146073_146353 that 146393_146513 I 146593_146614 give 146654_146834 you 146854_146934 the 146974_147054 three 147094_147274 words 147314_147582 .
+*INV:	just use all three of them in one sentence . 147615_150257
+%mor:	adv|just verb|use-Fin-Imp-S det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in num|one noun|sentence .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|NUMMOD 9|2|OBL 10|2|PUNCT
+%wor:	just 147615_147775 use 147855_147975 all 148115_148275 three 148335_148656 of 148696_148756 them 148796_148976 in 149276_149356 one 149497_149637 sentence 149757_150257 .
+*INV:	here's the first three . 150878_152079
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 num|three .
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+%wor:	here's 150878_151098 the 151118_151198 first 151258_151539 three 151579_152079 .
+*INV:	chair@q doctor@q sit@q . 152300_155403
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 152300_153040 doctor@q 153581_154863 sit@q 154903_155403 .
+*INV:	okay . 157606_158092
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 157606_158092 .
+*PAR:	I sat in the doctor's chair . 158407_159948
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Past-S1-irr adp|in det|the-Def-Art noun|doctor~part|s noun|chair .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|7|CASE 4|5|DET 5|7|NMOD-POSS 6|5|CASE 7|2|OBL 8|2|PUNCT
+%wor:	I 158407_158427 sat 158507_158707 in 158767_158847 the 158867_158927 doctor's 158987_159388 chair 159448_159948 .
+*INV:	okay . 160210_160509
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 160210_160509 .
+*INV:	bureau@q open@q drawer@q . 166036_168981
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 166036_166617 open@q 167359_167840 drawer@q 168481_168981 .
+*INV:	all three of them in a sentence . 173833_175275
+%mor:	det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|DET 2|7|ROOT 3|4|CASE 4|2|NMOD 5|7|CASE 6|7|DET 7|2|NMOD 8|2|PUNCT
+%wor:	all 173833_173954 three 174034_174254 of 174274_174314 them 174334_174475 in 174495_174595 a 174615_174635 sentence 174775_175275 .
+*PAR:	the bureau drawer is open . 179804_181165
+%mor:	det|the-Def-Art noun|bureau noun|drawer aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 179804_179884 bureau 179964_180224 drawer 180284_180505 is 180505_180605 open 180665_181165 .
+*INV:	okay . 181538_181826
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 181538_181826 .
+@End

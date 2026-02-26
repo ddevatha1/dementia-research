@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/a-00090340-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|51;|male|Memory||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	024-1, audio
+@G:	Cookie
+*PAR:	I see a little boy climbed up on a stool that is reaching for a cookie out of the cookie jar . 990_6630
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 noun|boy verb|climb-Fin-Ind-Past-S3 adp|up adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|21|ROOT 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|2|CCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|21|CASE 18|21|CASE 19|21|DET 20|21|COMPOUND 21|13|OBL 22|2|PUNCT
+%wor:	I 990_1010 see 1050_1210 a 1270_1290 little 1350_1550 boy 1651_1951 climbed 2071_2492 up 2532_2652 on 2792_2892 a 2973_2993 stool 3353_3714 that 3854_4034 is 4094_4254 reaching 4475_4835 for 4915_5076 a 5116_5136 cookie 5216_5576 out 5596_5657 of 5657_5697 the 5717_5797 cookie 5857_6157 jar 6237_6630 .
+*PAR:	&-uh the stool is about to fall . 7907_11057
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+%wor:	uh 7907_7940 the 8941_9022 stool 9102_9462 is 9643_9883 about 10223_10484 to 10544_10624 fall 10704_11057 .
+*PAR:	his sister is telling him to be very quiet . 12547_14971
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adv|very adj|quiet-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|IOBJ 6|9|MARK 7|9|COP 8|9|ADVMOD 9|4|XCOMP 10|4|PUNCT
+%wor:	his 12547_12687 sister 12767_13168 is 13248_13348 telling 13408_13689 him 13689_13789 to 13829_13909 be 13969_14049 very 14169_14410 quiet 14510_14971 .
+*PAR:	(..) and also at the same time she is reaching for the cookie that he has in his hand . 18916_24176
+%mor:	cconj|and adv|also adp|at det|the-Def-Art adj|same-S1 noun|time pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie pron|that-Rel pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|9|CC 2|9|ADVMOD 3|6|CASE 4|6|DET 5|6|AMOD 6|9|OBL 7|9|NSUBJ 8|9|AUX 9|18|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|15|OBJ 14|15|NSUBJ 15|12|ACL-RELCL 16|18|CASE 17|18|NMOD-POSS 18|15|OBL 19|9|PUNCT
+%wor:	and 18916_19056 also 19197_19478 at 19578_19638 the 19658_19759 same 19819_20080 time 20140_20441 she 20502_20622 is 20722_20843 reaching 20983_21405 for 21586_21807 the 21867_21947 cookie 22027_22409 that 23031_23172 he 23192_23252 has 23312_23513 in 23573_23613 his 23654_23774 hand 23834_24176 .
+*PAR:	&-uh &=clears:throat (.) the &-uh mother is apparently washing or drying the dishes . 27572_36980
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adv|apparently verb|wash-Part-Pres-S cconj|or verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|7|CC 7|5|CONJ 8|9|DET 9|7|OBJ 10|5|PUNCT
+%wor:	uh 27572_27692 the 31316_31416 uh 31676_32096 mother 32136_32477 is 32637_32857 apparently 34418_34799 washing 34899_35379 or 35840_35900 drying 35960_36320 the 36360_36420 dishes 36480_36980 .
+*PAR:	and &-uh she has neglected to &-uh shut the water off . 38459_43759
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|neglect-Part-Past-S part|to verb|shut-Inf-S det|the-Def-Art noun|water-Acc adp|off .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|6|COMPOUND-PRT 10|4|PUNCT
+%wor:	and 38459_38679 uh 38739_38819 she 39260_39361 has 39401_39501 neglected 39561_40102 to 40242_40383 uh 40623_41966 shut 43068_43208 the 43248_43329 water 43389_43669 off 43750_43759 .
+*PAR:	and the sink is &+over overflowing . 43950_45793
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 43950_44030 the 44030_44110 sink 44210_44511 is 44952_45072 overflowing 45293_45793 .
+*PAR:	(.) &-uh (...) I think that's all I see going on . [+ exc] 63136_64836
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 verb|go-Ger-S adp|on .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|2|PUNCT
+%wor:	uh 63136_63176 I 63176_63196 think 63216_63396 that's 63437_63738 all 63778_63958 I 64059_64079 see 64119_64279 going 64359_64701 on 64741_64836 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

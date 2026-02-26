@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00091275-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|MCI||Participant|||
+@Media:	016-3, audio
+*INV:	pencil@q . 2442_2942
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 2442_2942 .
+*PAR:	I wrote with the pencil . 4083_5224
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Past-S1-irr adp|with det|the-Def-Art noun|pencil .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	I wrote 4083_4364 with 4384_4544 the 4564_4644 pencil 4724_5224 .
+*INV:	tree@q .
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	I climbed a tree . 14155_15315
+%mor:	pron|I-Prs-Nom-S1 verb|climb-Fin-Ind-Past-S1 det|a-Ind-Art noun|tree-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	I 14155_14175 climbed 14175_14675 a 14715_14735 tree 14815_15315 .
+*INV:	child@q hospital@q . 23740_25461
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 23740_24961 hospital@q 24961_25461 .
+*PAR:	I took the child to the hospital . 26402_27962
+%mor:	pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1-irr det|the-Def-Art noun|child-Acc adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	I 26402_26422 took 26502_26662 the 26722_26802 child 26882_27222 to 27262_27322 the 27342_27402 hospital 27462_27962 .
+*INV:	cold@q winter@q . 39629_41310
+%mor:	q|cold q|winter .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	cold@q 39629_40831 winter@q 40831_41310 .
+*PAR:	<the winter> [//] <this winter> [//] the past winter was cold . 42234_46181
+%mor:	det|the-Def-Art adj|past-S1 noun|winter aux|be-Fin-Ind-Past-S3-irr adj|cold-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 42234_42334 winter 42414_42775 this 42955_43176 winter 43276_43636 the 44538_44618 past 44699_45039 winter 45099_45420 was 45480_45620 cold 45681_46181 .
+*INV:	I'm going to give you three words I want you to use all three of them in a sentence for me . 55775_59922
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|22|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|OBJ 12|13|MARK 13|10|XCOMP 14|15|DET-PREDET 15|13|OBJ 16|17|CASE 17|15|NMOD 18|20|CASE 19|20|DET 20|13|OBL 21|22|CASE 22|20|NMOD 23|3|PUNCT
+%wor:	I'm 55775_56175 going 56175_56276 to 56276_56336 give 56436_56576 you 56576_56656 three 56756_57057 words 57117_57397 I 57418_57438 want 57498_57598 you 57638_57758 to 57758_57798 use 57838_57979 all 58019_58139 three 58199_58499 of 58519_58560 them 58560_58680 in 58720_58780 a 58820_58840 sentence 58900_59341 for 59401_59561 me 59581_59922 .
+*PAR:	mhm . [+ exc] 59922_60141
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 59922_60141 .
+*INV:	chair@q doctor@q sit@q . 60984_64228
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 60984_61545 doctor@q 62266_62927 sit@q 63729_64228 .
+*PAR:	the doctor asked me to sit down in a chair . 65131_67755
+%mor:	det|the-Def-Art noun|doctor verb|ask-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 part|to verb|sit-Inf-S adp|down adp|in det|a-Ind-Art noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|3|PUNCT
+%wor:	the 65131_65211 doctor 65271_65772 asked 65912_66173 me 66213_66253 to 66333_66393 sit 66493_66674 down 66734_66974 in 67014_67074 a 67134_67154 chair 67255_67755 .
+*INV:	bureau@q open@q drawer@q . 80193_83015
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 80193_81434 open@q 81474_82515 drawer@q 82515_83015 .
+*PAR:	I opened the drawer of the bureau . 84276_86658
+%mor:	pron|I-Prs-Nom-S1 verb|open-Fin-Ind-Past-S1 det|the-Def-Art noun|drawer-Acc adp|of det|the-Def-Art noun|bureau .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	I 84276_84296 opened 84397_84797 the 85057_85157 drawer 85237_85618 of 85778_85898 the 85998_86078 bureau 86158_86658 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

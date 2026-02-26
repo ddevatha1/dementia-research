@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/a-00090834-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|55;|male|Control||Participant|26||
+@Media:	274-1, audio
+@G:	Cookie
+*INV:	you see going on in this picture ? 490_2210
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+%wor:	you 490_2210 see going on in this picture ?
+*PAR:	(.) well the mother's &-uh doing the dishes and allowing the sink <to run> [/] &+o run over . 8116_13842
+%mor:	intj|well det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|allow-Part-Pres-S det|the-Def-Art noun|sink noun|run-Acc adp|over .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|7|DET 7|5|OBJ 8|9|CC 9|5|CONJ 10|12|DET 11|12|COMPOUND 12|9|OBJ 13|9|COMPOUND-PRT 14|5|PUNCT
+%wor:	well 8116_8957 the 8957_9037 mother's 9117_9538 uh 9718_10999 doing 11039_11259 the 11259_11319 dishes 11379_11700 and 11720_11800 allowing 11820_12060 the 12060_12120 sink 12180_12380 to 12420_12520 run 12801_12961 run 13221_13381 over 13461_13842 .
+*PAR:	<the kids or> [//] the boy's in the cookie jar . 15348_18031
+%mor:	det|the-Def-Art noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NMOD-POSS 3|2|CASE 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 15348_15448 kids 15668_16069 or 16229_16389 the 16389_16449 boy's 16670_16890 in 16950_17010 the 17030_17090 cookie 17190_17491 jar 17531_18031 .
+*PAR:	and the stand [: stool] [* s:r] that he's standing on is tilting over . [+ cir] 19374_21979
+%mor:	cconj|and det|the-Def-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S adp|over .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|10|AUX 10|11|ROOT 11|10|COMPOUND-PRT 12|10|PUNCT
+%wor:	and 19374_19574 the 19674_19795 stool 20015_20315 that 20336_20476 he's 20476_20576 standing 20596_20957 on 21017_21097 is 21157_21237 tilting 21277_21598 over 21658_21979 .
+*PAR:	and &-uh I don't know what the girl is doing . [+ exc] 24382_28429
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|8|DET 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|5|PUNCT
+%wor:	and 24382_24682 uh 27227_27287 I 27307_27327 don't 27327_27427 know 27427_27507 what 27527_27627 the 27647_27707 girl 27747_27948 is 27968_28008 doing 28048_28429 .
+*PAR:	gonna tell on him or do something . [+ gram] 29001_30381
+%mor:	adv|gonna verb|tell-Inf-Imp-S adp|on pron|he-Prs-Acc-S3 cconj|or verb|do-Fin-Imp-S pron|something-Ind-S1 .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|CASE 4|2|OBL 5|6|CC 6|2|CONJ 7|6|OBJ 8|2|PUNCT
+%wor:	gonna 29001_29161 tell 29261_29441 on 29501_29602 him 29602_29722 or 29762_29822 do 29882_29942 something 30042_30381 .
+*PAR:	and then there's some people out here behind the garage . 33589_35658
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|person-Plur adv|out adv|here adp|behind det|the-Def-Art noun|garage .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|11|ROOT 5|6|DET 6|4|NSUBJ 7|8|ADVMOD 8|4|ADVMOD 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+%wor:	and 33589_33669 then 33669_33769 there's 33769_33909 some 33929_34030 people 34030_34310 out 34310_34390 here 34410_34530 behind 34530_34831 the 34851_34931 garage 35212_35658 .
+*PAR:	I don't know what they are doing . [+ exc] 36634_37281
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|4|PUNCT
+%wor:	I don't 36634_36734 know 36734_36814 what 36835_36955 they 36995_37075 are 37075_37135 doing 37155_37281 .
+*PAR:	do you see them ? [+ exc] 37416_37957
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	do 37416_37496 you 37496_37556 see 37576_37716 them 37716_37957 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

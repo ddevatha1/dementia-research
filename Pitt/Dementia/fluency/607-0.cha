@@ -1,0 +1,166 @@
+@UTF8
+@PID:	11312/a-00089793-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|PossibleAD||Participant|13||
+@Media:	607-0, audio
+@G:	animals
+*INV:	any animals at all . 1762_3143
+%mor:	det|any-Def-Ind noun|animal-Plur adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	any 1762_1902 animals 2022_2442 at 2482_2562 all 2643_3143 .
+*PAR:	(.) cow . 6107_6558
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 6107_6558 .
+*INV:	good . 6747_7247
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 6747_7247 .
+*INV:	can you think of another one ? 8249_9511
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|another-Def-Ind noun|one ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	can 8249_8329 you 8349_8409 think 8429_8569 of 8589_8650 another 8690_8950 one 9050_9511 ?
+*PAR:	&-um (.) horse . 14735_16016
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 14735_15536 horse 15536_16016 .
+*INV:	mhm . 16084_16497
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 16084_16497 .
+*INV:	another one . 17038_17839
+%mor:	det|another-Def-Ind noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	another 17038_17318 one 17418_17839 .
+*PAR:	&-um (..) &-uh I'm [//] I'll tell you I'm just all confused . [+ exc] 18519_30565
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just adv|all adj|confused-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|IOBJ 5|9|NSUBJ 6|9|COP 7|9|ADVMOD 8|9|ADVMOD 9|3|CCOMP 10|3|PUNCT
+%wor:	um 18519_28574 uh 28874_29035 I'm 29035_29115 I'll 29115_29215 tell 29255_29435 you 29435_29515 I'm 29515_29616 just 29676_29856 all 29916_29996 confused 30076_30565 .
+*PAR:	so +... [+ exc] 30800_31105
+%mor:	adv|so +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	so 30800_31105 +...
+*INV:	+< can you think of any animals ? 30960_32280
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind noun|animal-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	can you think 30960_31358 of 31398_31478 any 31498_31859 animals 31879_32280 ?
+*PAR:	it's not that I'm stupid . [+ exc] 35083_36269
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not sconj|that pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|stupid-S1 .
+%gra:	1|7|NSUBJ-OUTER 2|7|COP 3|7|ADVMOD 4|7|MARK 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	it's 35083_35223 not 35283_35423 that 35463_35583 I'm 35643_35724 stupid 35844_36269 .
+*PAR:	mhm . [+ exc] 36385_36594
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 36385_36594 .
+*INV:	+< okay , that's fine . 36594_37244
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay , that's 36594_36765 fine 36765_37244 .
+*PAR:	christ , <when I> [/] when I go home christ everything +/. [+ exc] 36845_39365
+%mor:	noun|christ cm|cm adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 adv|home noun|christ pron|everything-Tot-S1 +/.
+%gra:	1|8|ROOT 2|5|PUNCT 3|5|ADVMOD 4|5|NSUBJ 5|1|ADVCL 6|5|ADVMOD 7|8|COMPOUND 8|5|OBJ 9|1|PUNCT
+%wor:	christ 36845_37086 , when 37126_37246 I 37366_37386 when 37667_37787 I 37947_37967 go 38027_38107 home 38247_38468 christ 38568_38828 everything 38868_39365 +/.
+@G:	F
+*INV:	the letter f@l . 39409_39730
+%mor:	det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|DET 2|3|ROOT 3|2|NMOD-UNMARKED 4|2|PUNCT
+%wor:	the 39409_39469 letter 39529_39730 f .
+*INV:	and you can start now . 40391_41487
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 40391_40451 you 40471_40531 can 40531_40651 start 40711_40932 now 40992_41487 .
+*PAR:	farm . 42213_42708
+%mor:	noun|farm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	farm 42213_42708 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um now wait xxx . [+ exc] 46660_46760
+%mor:	adv|now verb|wait-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	um 46660_46700 now 46700_46760 wait .
+*PAR:	there's easy words and yet darn it . [+ exc] 47642_49385
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|easy-S1 noun|word-Plur cconj|and adv|yet adj|darn-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|AMOD 4|2|NSUBJ 5|7|CC 6|7|ADVMOD 7|4|CONJ 8|7|OBJ 9|2|PUNCT
+%wor:	there's 47642_47822 easy 47962_48223 words 48343_48603 and 48643_48744 yet 48764_48884 darn 49024_49224 it 49284_49385 .
+*PAR:	I can't &+th +... [+ exc] 50493_51053
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I 50493_50513 can't 50553_51053 +...
+*PAR:	&-uh farm [//] a farm . 51196_53094
+%mor:	det|a-Ind-Art noun|farm .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	uh farm 51196_52099 a 52300_52320 farm 52602_53094 .
+*PAR:	&-um flower . 53307_54648
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 53307_53666 flower 54148_54648 .
+*INV:	mhm . 55115_55432
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 55115_55432 .
+*PAR:	&-um (..) well +... 66742_67262
+%mor:	intj|well +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 66742_66802 well 66802_67262 +...
+*INV:	any word at all that begins with the letter f@l . 67482_69944
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|DET 2|10|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|6|OBL-UNMARKED 11|2|PUNCT
+%wor:	any 67482_67622 word 67702_67902 at 67942_68023 all 68063_68203 that 68223_68343 begins 68363_68643 with 68663_68763 the 68763_68843 letter 68903_69143 f 69444_69944 .
+*PAR:	farm [/] farm [/] farm , flower . [+ exc] 70565_72906
+%mor:	noun|farm cm|cm noun|flower .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%wor:	farm 70565_71005 farm 71445_71786 farm 72026_72286 , flower 72406_72906 .
+*PAR:	oh , fat &=laughs . 77651_80653
+%mor:	intj|oh cm|cm adj|fat-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh 77651_78050 , fat 80172_80653 .
+*INV:	okay , good . 81555_81821
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 81555_81821 , good .
+*INV:	any other word you can think of ? 82784_83500
+%mor:	det|any-Def-Ind adj|other-S1 noun|word pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of ?
+%gra:	1|3|DET 2|3|AMOD 3|7|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|3|PUNCT
+%wor:	any 82784_82884 other 83025_83146 word 83146_83227 you 83227_83287 can 83328_83408 think 83408_83500 of ?
+*PAR:	you mean to tell me that's good . [+ exc] 83549_84758
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|4|IOBJ 6|8|NSUBJ 7|8|COP 8|4|CCOMP 9|2|PUNCT
+%wor:	you 83549_83630 mean 83670_83811 to 83811_83871 tell 83992_84153 me 84194_84254 that's 84314_84536 good 84596_84758 .
+*INV:	that's fine .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	+< fat . [+ exc]
+%mor:	adj|fat-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh &+fa farm .
+%mor:	noun|farm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< any word +/.
+%mor:	det|any-Def-Ind noun|word +/.
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*PAR:	I [//] see [//] &+i <well I'm> [//] no use &+t +//. [+ exc] 97450_97951
+%mor:	det|no-Def-Neg noun|use +//.
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	I 97450_97470 see 97470_97550 well 97550_97650 I'm 97650_97711 no 97711_97771 use 97791_97951 +//.
+*PAR:	I mean , you're here to help me and I [/] I can't . [+ exc] 97992_100029
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|here part|to verb|help-Inf-S pron|I-Prs-Acc-S1 cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|6|PARATAXIS 3|2|PUNCT 4|6|NSUBJ 5|6|COP 6|13|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|12|CC 11|12|NSUBJ 12|6|CONJ 13|12|ADVMOD 14|6|PUNCT
+%wor:	I 97992_98012 mean 98032_98172 , you're 98233_98393 here 98433_98634 to 98695_98775 help 98835_99056 me 99136_99217 and 99317_99397 I 99518_99538 I 99739_99759 can't 99839_100029 .
+*INV:	+< okay , that's fine . 100140_100575
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 100140_100321 , that's 100381_100542 fine 100542_100575 .
+*PAR:	+< I can't . [+ exc] 100622_100924
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I 100622_100642 can't 100642_100924 .
+@End

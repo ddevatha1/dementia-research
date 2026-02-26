@@ -1,0 +1,97 @@
+@UTF8
+@PID:	11312/a-00090525-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|84;|female|ProbableAD||Participant|20||
+@Media:	349-1, audio
+@G:	Cookie
+*INV:	in the picture .
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR:	well the kids are gettin(g) to the cookie jar . 5632_7732
+%mor:	intj|well det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adp|to det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+%wor:	well 5632_5792 the 5792_5872 kids 5933_6213 are 6234_6294 gettin(g) 6294_6615 to 6615_6655 the 6675_6755 cookie 6876_7237 jar 7237_7732 .
+*PAR:	the boy . [+ gram] 8680_9160
+%mor:	det|the-Def-Art noun|boy .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	the 8680_8742 boy 8802_9160 .
+*PAR:	and he's givin(g) cookies to his sister . 11109_12795
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|4|PUNCT
+%wor:	and 11109_11209 he's 11209_11350 givin(g) 11430_11711 cookies 11711_12032 to 12072_12152 his 12213_12313 sister 12373_12795 .
+*PAR:	and his kitchen stool is fallin(g) over . 15093_17093
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|kitchen noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|6|CC 2|4|NMOD-POSS 3|4|COMPOUND 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	and 15093_15153 his 15153_15273 kitchen 15353_15653 stool 15753_16054 is 16094_16134 fallin(g) 16234_16715 over 16715_17093 .
+*PAR:	him on it . [+ gram] 18058_18588
+%mor:	pron|he-Prs-Acc-S3 adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	him 18058_18217 on 18277_18437 it 18497_18588 .
+*PAR:	the mother's dryin(g) dishes . 20635_22001
+%mor:	det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 20635_20720 mother's 20760_21060 dryin(g) 21100_21501 dishes 21501_22001 .
+*PAR:	and &+d drops ? 22122_24050
+%mor:	cconj|and verb|drop-Fin-Ind-Pres-S3 ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 22122_22222 drops 23683_24050 ?
+*PAR:	<it's no> [//] it's &-uh water . 24190_25240
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|water .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	it's 24190_24304 no 24304_24424 it's 24505_24645 uh 24705_24825 water 24845_25240 .
+*PAR:	water's splashin(g) out over the sink . 27228_29211
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S adp|out adp|over det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	water's 27228_27608 splashin(g) 27669_28209 out 28209_28349 over 28389_28590 the 28610_28710 sink 28810_29211 .
+*PAR:	you want that ? [+ exc] 33110_33397
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|that-Dem ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	you 33110_33170 want 33170_33290 that 33330_33397 ?
+*INV:	that's okay . 33470_33816
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 33470_33816 okay .
+*INV:	they'll take a message . 34812_35753
+%mor:	pron|they-Prs-Nom-P3~aux|will-Fin-S verb|take-Inf-S det|a-Ind-Art noun|message-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	they'll 34812_34992 take 34992_35173 a 35193_35213 message 35253_35753 .
+*INV:	can you think of anything else that's going on in the picture ? 38692_41032
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|anything-Ind-S1 adj|else-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|5|CASE 5|3|OBL 6|5|AMOD 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|3|PUNCT
+%wor:	can 38692_38797 you 38837_38917 think 38937_39097 of 39138_39198 anything 39298_39598 else 39638_39798 that's 39798_39979 going 40019_40239 on 40299_40359 in 40379_40419 the 40439_40519 picture 40559_41032 ?
+*PAR:	that's water splashin(g) on the floor . 41703_43123
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|water verb|splash-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	that's water 41703_41981 splashin(g) 42021_42562 on 42562_42642 the 42662_42722 floor 42782_43123 .
+*PAR:	and &-uh the sister's laughin(g) , gettin(g) cookies . 45283_50973
+%mor:	cconj|and det|the-Def-Art noun|sister~part|s verb|laugh-Part-Pres-S cm|cm verb|get-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|7|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|7|COMPOUND 6|5|PUNCT 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+%wor:	and 45283_45383 uh 45383_45423 the 45423_45563 sister's 48126_48566 laughin(g) 48627_50028 , gettin(g) 50028_50569 cookies 50569_50973 .
+*PAR:	mother's dryin(g) dishes . 53472_54472
+%mor:	noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	mother's 53472_53793 dryin(g) 53813_54173 dishes 54173_54472 .
+*PAR:	and I [/] I don't know . [+ exc] 54634_55455
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	and 54634_54734 I 55034_55054 I 55094_55114 don't 55254_55415 know 55415_55455 .
+*PAR:	the (.) spigot's open . 58610_59440
+%mor:	det|the-Def-Art noun|spigot~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the spigot's 58610_59259 open 59319_59440 .
+*PAR:	the water's runnin(g) out on the floor . 59548_60978
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 59548_59608 water's 59628_59969 runnin(g) 59989_60309 out 60309_60430 on 60470_60550 the 60550_60610 floor 60690_60978 .
+*PAR:	that's about all . [+ exc] 63589_64229
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	that's 63589_63818 about 63859_64229 all .
+*INV:	okay that's fine . 64503_65423
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 64503_64661 that's 64761_65182 fine 65262_65423 .
+@End

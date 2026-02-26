@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00090368-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|69;|male|ProbableAD||Participant|26||
+@Media:	058-0, audio
+@G:	Cookie
+*INV:	and there's the picture .
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	the mother is washin(g) dishes . 7315_8578
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 7315_7375 mother 7375_7556 is 7858_7898 washin(g) 7938_8240 dishes 8240_8578 .
+*PAR:	and the water is flowing from the sink . 10231_11234
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and the water is flowing 10231_10493 from 10533_10654 the 10674_10734 sink 10734_11234 .
+*PAR:	she's looking out the window .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*PAR:	the &-uh son or the boy's on a stool which he's about to fall off stealing cookies from the cookie jar and giving it to probably his little sister . 18094_30310
+%mor:	det|the-Def-Art noun|son cconj|or det|the-Def-Art noun|boy~part|s adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off verb|steal-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar cconj|and verb|give-Part-Pres-S pron|it-Prs-Acc-S3 adp|to adv|probably pron|his-Prs-Gen-S3 adj|little-S1 noun|sister .
+%gra:	1|2|DET 2|9|NSUBJ 3|5|CC 4|5|DET 5|9|NMOD-POSS 6|5|CASE 7|9|CASE 8|9|DET 9|30|ROOT 10|15|OBJ 11|13|NSUBJ 12|13|COP 13|9|ACL-RELCL 14|15|MARK 15|13|XCOMP 16|17|MARK 17|15|ADVCL 18|17|OBJ 19|22|CASE 20|22|DET 21|22|COMPOUND 22|17|OBL 23|24|CC 24|15|CONJ 25|24|OBJ 26|30|CASE 27|30|ADVMOD 28|30|NMOD-POSS 29|30|AMOD 30|24|OBL 31|9|PUNCT
+%wor:	the 18094_18194 uh 18395_19216 son 19236_19316 or 19316_19416 the 19416_19596 boy's 21439_22700 on 22780_22881 a 22941_22961 stool 22961_23682 which 23722_24302 he's 24323_24443 about 24523_24743 to 24763_24943 fall 25064_25224 off 25224_25344 stealing 26305_26566 cookies 27086_27447 from 27487_27567 the 27847_27927 cookie 27987_28408 jar 28408_28468 and 28508_28568 giving 28568_29029 it 29029_29069 to 29109_29169 probably 29169_29509 his 29509_29610 little 29610_29810 sister 29810_30310 .
+*PAR:	there are &-uh two cups and a dish on the sink counter . 36873_38395
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish adp|on det|the-Def-Art noun|sink noun|counter .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|2|PUNCT
+%wor:	there 36873_36973 are 36973_37033 uh 37033_37093 two 37093_37153 cups 37153_37433 and 37513_38133 a 38133_38153 dish 38153_38395 on the sink counter .
+*PAR:	and the lady at the sink has a dish <and a wash> [//] and a dry cloth . 43336_46770
+%mor:	cconj|and det|the-Def-Art noun|lady adp|at det|the-Def-Art noun|sink verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dish-Acc cconj|and det|a-Ind-Art adj|dry-S1 noun|cloth .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|13|ROOT 8|9|DET 9|7|OBJ 10|13|CC 11|13|DET 12|13|AMOD 13|9|CONJ 14|7|PUNCT
+%wor:	and 43336_43456 the 43536_43616 lady 43616_43716 at 43716_43756 the 43776_43836 sink 44537_44617 has 44617_44677 a 44677_44697 dish 44697_44777 and 44777_44837 a 44837_44857 wash 46118_46258 and 46278_46498 a 46558_46578 dry 46578_46638 cloth 46638_46770 .
+*PAR:	do you want me to describe her clothes ? [+ exc] 51029_51681
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|describe-Inf-S pron|her-Prs-Gen-S3 noun|clothes-Ptan-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|NMOD-POSS 8|6|OBJ 9|3|PUNCT
+%wor:	do you want 51029_51140 me 51180_51220 to 51220_51260 describe 51260_51440 her 51440_51540 clothes 51540_51681 ?
+*INV:	no &*PAR:oh .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay , that's it , thank you . 54858_55580
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|8|ROOT 6|7|PUNCT 7|5|PARATAXIS 8|7|OBJ 9|5|PUNCT
+%wor:	okay 54858_54940 , that's 54940_55105 it 55146_55188 , thank 55208_55435 you 55456_55580 .
+@End

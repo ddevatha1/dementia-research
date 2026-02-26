@@ -1,0 +1,240 @@
+@UTF8
+@PID:	11312/a-00089606-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|male|ProbableAD||Participant|21||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	029-0, audio
+@G:	animals
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay you can start now .
+%mor:	intj|okay pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	elephant .
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	tiger .
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fox .
+%mor:	propn|fox .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	sheep . 8933_9433
+%mor:	noun|sheep-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sheep 8933_9433 .
+*PAR:	cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	dog .
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	horse . 13479_13660
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 13479_13660 .
+*PAR:	calf .
+%mor:	noun|calf .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	colt .
+%mor:	noun|colt .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) just animals , right ? [+ exc] 19189_21074
+%mor:	adv|just noun|animal-Plur cm|cm adj|right-S1 ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+%wor:	just 19189_21074 animals , right ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh (.) &-uh lion . 25919_25946
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 25919_25946 uh lion .
+*PAR:	elephant . 27581_27882
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 27581_27882 .
+*PAR:	(..) zebra . 30043_30523
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zebra 30043_30523 .
+*PAR:	(...) cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay , that's fine . 63730_64610
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 63730_63890 , that's 63930_64110 fine 64110_64610 .
+*PAR:	gee whiz I +... [+ exc]
+%mor:	intj|gee noun|whiz pron|I-Prs-Nom-S1 +...
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|VOCATIVE 4|2|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< why isn't +..? [+ exc]
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3~part|not +..?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	oh , okay , well , that's why I'm here . [+ exc] 67376_69710
+%mor:	intj|oh cm|cm intj|okay cm|cm intj|well cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|here .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|9|DISCOURSE 4|3|PUNCT 5|9|DISCOURSE 6|5|PUNCT 7|9|NSUBJ 8|9|COP 9|12|ROOT 10|12|NSUBJ 11|12|COP 12|9|ADVCL-RELCL 13|9|PUNCT
+%wor:	oh , okay , well 67376_69074 , that's 69154_69494 why 69634_69710 I'm here .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay &=laughs . [+ exc] 70215_70695
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 70215_70695 .
+@G:	F
+*INV:	<since it> [//] similar idea but this time words beginning with the letter f@l . 74898_76620
+%mor:	adj|similar-S1 noun|idea cconj|but det|this-Def-Dem-Sing noun|time noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|AMOD 2|11|ROOT 3|6|CC 4|6|DET 5|6|COMPOUND 6|2|CONJ 7|6|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|7|OBL-UNMARKED 12|2|PUNCT
+%wor:	since it 74898_74938 similar 75018_75178 idea 75178_75379 but 75379_75439 this 75579_75719 time 75759_75839 words 75839_75939 beginning 75939_76159 with 76159_76239 the 76259_76399 letter 76399_76599 f 76599_76620 .
+*PAR:	words beginning with the letter f@l . [+ exc] 78802_79250
+%mor:	noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|6|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|2|OBL-UNMARKED 7|1|PUNCT
+%wor:	words 78802_79062 beginning 79062_79250 with the letter f .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what I don't want are the names of people or places .
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|name-Plur adp|of noun|person-Plur cconj|or noun|place-Plur .
+%gra:	1|8|NSUBJ 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|1|ACL-RELCL 6|8|COP 7|8|DET 8|12|ROOT 9|10|CASE 10|8|NMOD 11|12|CC 12|10|CONJ 13|8|PUNCT
+*PAR:	no names or places . [+ exc]
+%mor:	det|no-Def-Neg noun|name-Plur cconj|or noun|place-Plur .
+%gra:	1|2|DET 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	and also what I don't want you to do is pick a word and take every variation of that word . 91358_92800
+%mor:	cconj|and adv|also pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|pick-Inf-S det|a-Ind-Art noun|word-Acc cconj|and verb|take-Inf-S det|every-Def-Tot noun|variation-Acc adp|of det|that-Def-Dem-Sing noun|word .
+%gra:	1|12|CC 2|12|ADVMOD 3|12|NSUBJ-OUTER 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|7|OBJ 9|10|MARK 10|7|XCOMP 11|12|COP 12|21|ROOT 13|14|DET 14|12|OBJ 15|16|CC 16|12|CONJ 17|18|DET 18|16|OBJ 19|21|CASE 20|21|DET 21|18|NMOD 22|12|PUNCT
+%wor:	and 91358_91418 also 91418_91498 what 91498_91578 I 91578_91598 don't 91618_91718 want 91718_91798 you 91798_91858 to 91858_91898 do 91898_91938 is 91938_91978 pick 91978_92059 a 92059_92079 word 92079_92159 and 92159_92219 take 92219_92299 every 92319_92419 variation 92419_92599 of 92599_92639 that 92639_92719 word 92719_92800 .
+*INV:	so , for an example it's not run@q runner@q running@q or whatever .
+%mor:	adv|so cm|cm adp|for det|a-Ind-Art noun|example pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not q|run q|runner q|running cconj|or pron|whatever-Int-S1 .
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|5|CASE 4|5|DET 5|11|OBL 6|11|NSUBJ 7|11|COP 8|11|ADVMOD 9|11|FLAT 10|11|FLAT 11|13|FLAT 12|13|CC 13|11|CONJ 14|11|PUNCT
+*PAR:	+< yeah [/] yeah , okay . [+ exc]
+%mor:	intj|yeah cm|cm intj|okay .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	+< that's okay . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	+< okay , but +/.
+%mor:	intj|okay cm|cm cconj|but +/.
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|CONJ 4|1|PUNCT
+*PAR:	+< now &+th letters beginning with f@l ? [+ exc]
+%mor:	adv|now noun|letter-Plur verb|begin-Ger-S adp|with propn|for ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|ACL 4|5|CASE 5|3|OBL 6|2|PUNCT
+*INV:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh wait a minute now . [+ exc]
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute adv|now .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBL-UNMARKED 4|1|ADVMOD 5|1|PUNCT
+*PAR:	&+le let's [//] give me those rules again . [+ exc]
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|that-Def-Dem-Plur noun|rule-Plur-Acc adv|again .
+%gra:	1|5|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|ADVMOD 6|1|PUNCT
+*INV:	I don't want names of people or places . 111392_111699
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S noun|name-Plur-Acc adp|of noun|person-Plur cconj|or noun|place-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|9|CC 9|7|CONJ 10|4|PUNCT
+%wor:	I 111392_111412 don't 111412_111532 want 111572_111699 names of people or places .
+*PAR:	+< no people (.) or places . [+ exc]
+%mor:	det|no-Def-Neg noun|person-Plur cconj|or noun|place-Plur .
+%gra:	1|2|DET 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*INV:	+< nothing with a capital letter .
+%mor:	pron|nothing-Neg-S1 adp|with det|a-Ind-Art noun|capital noun|letter .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|NMOD 6|1|PUNCT
+*INV:	+< mhm , okay . 115497_115638
+%mor:	intj|mhm cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%wor:	mhm 115497_115557 , okay 115557_115638 .
+*INV:	so , not &-um Fred@q or whatever . 116607_119523
+%mor:	adv|so cm|cm part|not q|Fred cconj|or pron|whatever-Int-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|6|FLAT 5|6|CC 6|4|CONJ 7|4|PUNCT
+%wor:	so 116607_116687 , not 116707_116767 um 116767_116808 Fred@q 116808_119240 or 119240_119280 whatever 119280_119523 .
+*PAR:	+< oh , okay . [+ exc] 119712_119723
+%mor:	intj|oh cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh , okay 119712_119723 .
+*PAR:	alright , okay . [+ exc]
+%mor:	intj|alright cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*INV:	and you have one minute .
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 num|one noun|minute-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	to tell me as many words beginning with the letter f@l .
+%mor:	part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|as adj|many-S1 noun|word-Plur-Acc verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|MARK 2|11|ROOT 3|2|IOBJ 4|5|ADVMOD 5|6|AMOD 6|2|OBJ 7|6|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT 12|2|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	food .
+%mor:	noun|food .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fox .
+%mor:	propn|fox .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) is fertile ?
+%mor:	aux|be-Fin-Ind-Pres-S3 adj|fertile-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay &-uh +... [+ exc]
+%mor:	intj|okay +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fen f@l e@l n@l .
+%mor:	noun|fen propn|for propn|e noun|n .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT 5|1|PUNCT
+*PAR:	&-uh (.) fort .
+%mor:	propn|Fort .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fulcrum .
+%mor:	noun|fulcrum .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	face .
+%mor:	verb|face-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fen f@l e@l n@l .
+%mor:	noun|fen propn|for propn|e noun|n .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT 5|1|PUNCT
+*PAR:	fort .
+%mor:	propn|Fort .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fulcrum .
+%mor:	noun|fulcrum .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	football .
+%mor:	noun|football .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fence .
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) fike@n .
+%mor:	propn|fike .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fort .
+%mor:	propn|Fort .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I might have said that before . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|might-Fin-S aux|have-Inf-S verb|say-Part-Past-S-irr pron|that-Dem adv|before .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*INV:	okay , that's fine .
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+@End

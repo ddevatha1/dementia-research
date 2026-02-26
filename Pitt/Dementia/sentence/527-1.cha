@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/a-00091452-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|15||
+@Media:	527-1, audio
+*INV:	use the word pencil@q in a sentence . 1063_3107
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	use 1063_1284 the 1284_1364 word 1364_1564 pencil@q 1645_2226 in 2366_2447 a 2487_2507 sentence 2607_3107 .
+*PAR:	<I use my pencil to make> [/] (..) I use my pencil to make (.) nice (..) sentences . 3803_6517
+%mor:	pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|pencil-Acc part|to verb|make-Inf-S adj|nice-S1 noun|sentence-Plur-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|8|AMOD 8|6|OBJ 9|2|PUNCT
+%wor:	I use my pencil to make I use my pencil 3803_4050 to 4050_4171 make 4171_4351 nice 5354_5895 sentences 6075_6517 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	use the word tree@q in a short sentence .
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|tree adp|in det|a-Ind-Art adj|short-S1 noun|sentence .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|8|CASE 6|8|DET 7|8|AMOD 8|1|OBL 9|1|PUNCT
+*PAR:	the children broke the tree . 35961_38863
+%mor:	det|the-Def-Art noun|child-Plur verb|break-Fin-Ind-Past-P3-irr det|the-Def-Art noun|tree-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	the 35961_36021 children 36021_36561 broke 37863_38143 the 38183_38263 tree 38363_38863 .
+*INV:	use the word child@q and hospital@q in a sentence . 44071_47194
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|child cconj|and q|hospital adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|6|CC 6|3|FLAT 7|9|CASE 8|9|DET 9|1|OBL 10|1|PUNCT
+%wor:	use 44071_44171 the 44251_44331 word 44411_44651 child@q 44751_45432 and 45472_45612 hospital@q 45732_47194 in a sentence .
+*PAR:	the child hadta go to the hospital (..) for a broken leg . 50438_58525
+%mor:	det|the-Def-Art noun|child noun|hadta verb|go-Fin-S adp|to det|the-Def-Art noun|hospital adp|for det|a-Ind-Art verb|break-Part-Past-S-irr noun|leg .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|11|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|CASE 9|11|DET 10|11|AMOD 11|4|OBL 12|4|PUNCT
+%wor:	the 50438_50517 child 50617_51117 hadta 51197_51538 go 51618_51698 to 51858_51938 the 51998_52098 hospital 52178_52839 for 57083_57243 a 57303_57323 broken 57403_57784 leg 58044_58525 .
+*INV:	use the word cold@q and winter@q in a sentence . 60988_62869
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|cold cconj|and q|winter adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|6|CC 6|3|FLAT 7|9|CASE 8|9|DET 9|1|OBL 10|1|PUNCT
+%wor:	use 60988_61108 the 61128_61208 word 61288_61608 cold@q 61608_62629 and 62669_62869 winter@q in a sentence .
+*PAR:	it was a cold winter day . 66373_67661
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|cold-S1 noun|winter noun|day .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	it 66373_66413 was 66413_66473 a 66473_66493 cold 66493_66913 winter 67053_67314 day 67394_67661 .
+*INV:	good . 67675_68174
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 67675_68174 .
+*INV:	use the word chair@q doctor@q and sit@q in a sentence . 73042_78129
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|chair q|doctor cconj|and q|sit adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|10|ROOT 2|3|DET 3|1|OBJ 4|5|FLAT 5|3|FLAT 6|7|CC 7|3|FLAT 8|10|CASE 9|10|DET 10|1|OBL 11|1|PUNCT
+%wor:	use 73042_73242 the 73262_73362 word 73422_73703 chair@q 74364_75445 doctor@q 75445_76187 and 76247_76407 sit@q 76687_77349 in 77369_77449 a 77509_77529 sentence 77629_78129 .
+*PAR:	chair@q doctor@q and sit@q . [+ exc] 80695_82433
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 80695_81195 doctor@q 81255_81756 and 81776_81876 sit@q 81996_82433 .
+*INV:	right . 82438_82937
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 82438_82937 .
+*PAR:	the &-uh doctor had me sit in the chair . 83239_89803
+%mor:	det|the-Def-Art noun|doctor verb|have-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 verb|sit-Inf-S adp|in det|the-Def-Art noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	the 83239_83339 uh 83659_83819 doctor 84899_85500 had 86700_86961 me 87081_87181 sit 88221_88602 in 89142_89222 the 89262_89322 chair 89462_89803 .
+*INV:	good . 89803_90262
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 89803_90262 .
+*PAR:	&=laughs . [+ exc]
+*INV:	now use these three words in a sentence . 94305_95466
+%mor:	adv|now verb|use-Fin-Imp-S det|this-Def-Dem-Plur num|three noun|word-Plur-Acc adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|5|DET 4|5|NUMMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+%wor:	now 94305_94405 use 94445_94585 these 94625_94865 three 94905_95085 words 95105_95205 in 95225_95265 a 95265_95285 sentence 95285_95466 .
+@End

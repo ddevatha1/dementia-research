@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/a-00090802-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|Control||Participant|30||
+@Media:	211-1, audio
+@G:	Cookie
+*INV:	all of the action .
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	do you want me to start ? [+ exc]
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|start-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|3|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) the water is running over . 8015_9625
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 8015_8095 water 8135_8435 is 8515_8616 running 8756_9076 over 9417_9625 .
+*PAR:	woman is drying the dishes . [+ gram] 11782_12443
+%mor:	noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	woman is drying 11782_12142 the 12162_12222 dishes 12262_12443 .
+*PAR:	the boy is climbing up and taking something from the cookie jar . 15038_20098
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S adp|up cconj|and verb|take-Part-Pres-S pron|something-Ind-S1 adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|7|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|7|OBL 13|4|PUNCT
+%wor:	the 15038_15098 boy 15098_15278 is 15498_15678 climbing 16378_16999 up 17379_17519 and 18219_18319 taking 18379_18780 something 18820_19180 from 19200_19320 the 19340_19400 cookie 19440_19760 jar 19820_20098 .
+*PAR:	the stool is turning over . 20250_21890
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	the 20250_20340 stool 20420_20761 is 20901_21001 turning 21101_21481 over 21701_21890 .
+*PAR:	the girl is laughing . 22843_24162
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 22843_22922 girl 22982_23262 is 23422_23542 laughing 23662_24162 .
+*PAR:	&-um (..) d(id) I say the woman's drying the dishes ? [+ exc] 27036_34735
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|the-Def-Art noun|woman~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|9|DET 9|7|OBJ 10|3|PUNCT
+%wor:	um 27036_27496 d(id) 27516_33705 I 33705_33725 say 33725_33785 the 33825_33925 woman's 34005_34286 drying 34306_34506 the 34506_34566 dishes 34606_34735 ?
+*PAR:	the floor is getting wet . 37770_38612
+%mor:	det|the-Def-Art noun|floor aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|wet-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%wor:	the floor 37770_37971 is 37971_38071 getting 38111_38471 wet 38471_38612 .
+*PAR:	the lid is off the cookie jar . 41937_42837
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 41937_42017 lid 42017_42097 is 42097_42157 off 42237_42378 the 42378_42458 cookie 42538_42837 jar .
+*PAR:	the girl is reaching . 48427_49337
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	the girl 48427_48695 is 48695_48815 reaching 48915_49337 .
+*PAR:	(...) the water is running over the sink but it's also running out of the spigot . 70672_73373
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over det|the-Def-Art noun|sink cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|spigot .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|CC 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|4|CONJ 13|16|CASE 14|13|FIXED 15|16|DET 16|12|OBL 17|4|PUNCT
+%wor:	the 70672_70732 water 70772_70972 is 70972_71072 running 71112_71352 over 71372_71492 the 71492_71552 sink 71612_71812 but 71832_71932 it's 71932_72032 also 72092_72312 running 72392_72633 out 72653_72713 of 72753_72793 the 72813_72873 spigot 72873_73373 .
+*INV:	(..) alright ?
+%mor:	intj|alright ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	yeah , I guess that's all . [+ exc] 83610_84580
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|4|PUNCT
+%wor:	yeah , I guess that's 83610_84139 all 84539_84580 .
+*INV:	okay . 85050_85140
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 85050_85140 .
+@End

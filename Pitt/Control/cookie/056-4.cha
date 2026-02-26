@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/a-00090678-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;00.|male|Control||Participant|||
+@Media:	056-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	everything that's going on . 380_1140
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|1|PUNCT
+%wor:	everything 380_1140 that's going on .
+*PAR:	well the wife is &-uh letting the sink overflow and slop on the floor . 3183_7787
+%mor:	intj|well det|the-Def-Art noun|wife aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|sink-Acc verb|overflow-Inf-S cconj|and verb|slop-Inf-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|7|DET 7|5|OBJ 8|5|XCOMP 9|10|CC 10|8|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|5|PUNCT
+%wor:	well 3183_3403 the 3663_3763 wife 3903_4224 is 4304_4504 uh 4704_4804 letting 5085_5365 the 5385_5465 sink 5565_5806 overflow 5866_6466 and 6526_6626 slop 6687_6967 on 7047_7127 the 7147_7207 floor 7287_7787 .
+*PAR:	she's wiping a dish . 8449_9712
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 8449_8649 wiping 8749_9109 a 9169_9189 dish 9269_9712 .
+*PAR:	&-um she's apparently looking out the window . 10672_13894
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|apparently verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	um 10672_10871 she's 11652_11972 apparently 12213_12693 looking 12753_13034 out 13114_13234 the 13274_13334 window 13394_13894 .
+*PAR:	<the kid that's &-uh reaching for> [//] the boy that's reaching into the cookie jar is about to fall off his stool . 14859_20539
+%mor:	det|the-Def-Art noun|boy pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off pron|his-Prs-Gen-S3 noun|stool .
+%gra:	1|2|DET 2|11|NSUBJ 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|11|COP 11|16|ROOT 12|13|MARK 13|11|XCOMP 14|16|CASE 15|16|NMOD-POSS 16|13|OBL 17|11|PUNCT
+%wor:	the 14859_14939 kid 14999_15219 that's 15299_15580 uh 15760_15800 reaching 16020_16361 for 16521_16621 the 16661_16741 boy 16801_16981 that's 17001_17182 reaching 17242_17542 into 17742_17923 the 17963_18043 cookie 18123_18483 jar 18483_18804 is 18864_18944 about 19004_19245 to 19285_19345 fall 19445_19705 off 19765_19885 his 19925_20066 stool 20126_20539 .
+*PAR:	&-uh the sister is reaching up for a cookie . 21430_23970
+%mor:	det|the-Def-Art noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	uh 21430_21468 the 21948_22028 sister 22108_22469 is 22529_22649 reaching 22769_23110 up 23150_23250 for 23310_23430 a 23490_23510 cookie 23590_23970 .
+*PAR:	she's got her finger pointed sort of at her nose . 24472_27276
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|finger-Acc verb|point-Part-Past-S noun|sort adp|of adp|at pron|her-Prs-Gen-S3 noun|nose .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|6|ADVMOD 8|7|FIXED 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|3|PUNCT
+%wor:	she's 24472_24632 got 24692_24812 her 24832_24932 finger 24992_25313 pointed 25773_26134 sort 26234_26434 of 26454_26534 at 26595_26675 her 26695_26795 nose 26875_27276 .
+*PAR:	&-uh (.) outside I see nothing that's going on , action . 28132_34618
+%mor:	adv|outside pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|nothing-Neg-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on cm|cm noun|action .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|COMPOUND-PRT 9|10|PUNCT 10|7|OBL-UNMARKED 11|3|PUNCT
+%wor:	uh 28132_28172 outside 31596_32056 I 32136_32156 see 32216_32336 nothing 32417_32737 that's 33017_33217 going 33278_33618 on 33718_33878 , action 34118_34618 .
+*PAR:	&-uh (..) that's it . [+ exc] 35963_41711
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	uh 35963_36121 that's 41327_41527 it 41607_41711 .
+*INV:	okay good . 42009_42789
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 42009_42228 good 42308_42789 .
+@End

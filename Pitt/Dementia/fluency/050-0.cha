@@ -1,0 +1,165 @@
+@UTF8
+@PID:	11312/a-00089623-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|male|ProbableAD||Participant|18||
+@Media:	050-0, audio
+@G:	animals
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*INV:	that are animals in one minute and you can begin right now . 4002_7485
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-P3 noun|animal-Plur adp|in num|one noun|minute cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|right adv|now .
+%gra:	1|3|NSUBJ 2|3|COP 3|12|ROOT 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|10|CC 8|10|NSUBJ 9|10|AUX 10|3|CONJ 11|12|ADVMOD 12|10|ADVMOD 13|3|PUNCT
+%wor:	that 4002_4082 are 4122_4182 animals 4222_4562 in 4743_4803 one 4983_5143 minute 5183_5483 and 5743_5824 you 5844_5924 can 5964_6084 begin 6104_6344 right 6464_6764 now 6985_7485 .
+*PAR:	rabbit .
+%mor:	noun|rabbit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	dog .
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cat . 11288_11369
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 11288_11369 .
+*PAR:	chicken . 11660_11729
+%mor:	noun|chicken .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	chicken 11660_11729 .
+*PAR:	xxx .
+*INV:	any other animals ? 21526_22466
+%mor:	det|any-Def-Ind adj|other-S1 noun|animal-Plur ?
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	any 21526_21686 other 21746_21886 animals 21966_22466 ?
+*PAR:	I said chicken@q . [+ exc] 24284_25104
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|chicken .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%wor:	I 24284_24287 said 24387_24607 chicken@q 24627_25104 .
+*INV:	mhm . 25104_25447
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 25104_25447 .
+*PAR:	peacock . 26707_27188
+%mor:	noun|peacock .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	peacock 26707_27188 .
+*INV:	animals . 29850_30349
+%mor:	noun|animal-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	animals 29850_30349 .
+*INV:	can you think of any animals ? 30710_31871
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind noun|animal-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	can 30710_30730 you 30770_30830 think 30850_31030 of 31050_31110 any 31130_31270 animals 31390_31871 ?
+*PAR:	+< no [/] no [/] no . [+ exc]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay , you still have time . 34392_35493
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2 adv|still verb|have-Fin-Ind-Pres-S2 noun|time-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	okay 34392_34492 , you 34512_34592 still 34612_34792 have 34812_34953 time 34993_35493 .
+*INV:	you still have about thirty seconds . 35550_36794
+%mor:	pron|you-Prs-Nom-S2 adv|still verb|have-Fin-Ind-Pres-S2 adv|about num|thirty noun|second-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|ROOT 4|5|ADVMOD 5|6|NUMMOD 6|3|OBJ 7|3|PUNCT
+%wor:	you still 35550_35653 have 35653_35754 about 35774_35934 thirty 35974_36214 seconds 36294_36794 .
+*INV:	can you think of any ? 43986_44684
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	can you think 43986_44024 of 44044_44124 any 44184_44684 ?
+*PAR:	no , that's about all I can think of . [+ exc] 45014_46527
+%mor:	intj|no cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|10|ROOT 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|OBL 11|6|PUNCT
+%wor:	no 45014_45365 , that's 45506_45726 about 45746_45906 all 45906_45986 I 46006_46026 can 46026_46106 think 46126_46527 of .
+*INV:	that's all ? 47073_47809
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 47073_47228 all 47328_47809 ?
+@G:	F
+*INV:	okay . 49371_49831
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 49371_49831 .
+*INV:	beginning right now . 51052_52613
+%mor:	verb|begin-Part-Pres-S adv|right adv|now .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%wor:	beginning 51052_51432 right 51512_51833 now 52113_52613 .
+*INV:	f@l words . 54175_54675
+%mor:	noun|f noun|word-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	f words 54175_54675 .
+*PAR:	Frankenstein . 55436_55936
+%mor:	propn|Frankenstein .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Frankenstein 55436_55936 .
+*PAR:	no , you can't do that . [+ exc] 56116_57067
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|do-Inf-S pron|that-Dem .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	no 56116_56196 , you 56296_56356 can't 56396_56677 do 56697_56757 that 56857_57067 .
+*PAR:	that proper noun . [+ exc] 57067_57817
+%mor:	det|that-Def-Dem-Sing adj|proper-S1 noun|noun .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	that 57067_57197 proper 57197_57317 noun 57317_57817 .
+*INV:	+< right [/] right . 57859_58800
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 57859_58018 right 58578_58800 .
+*INV:	can you think of any other words ? 58920_60220
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind adj|other-S1 noun|word-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|3|PUNCT
+%wor:	can 58920_58998 you 59039_59099 think 59119_59259 of 59279_59319 any 59379_59479 other 59539_59699 words 59739_60220 ?
+*PAR:	(.) finger@q .
+%mor:	q|finger .
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	you couldn't say that . [+ exc]
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S~part|not verb|say-Inf-S pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	yes , you could . 67508_67528
+%mor:	intj|yes cm|cm pron|you-Prs-Nom-S2 aux|could-Fin-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	yes 67508_67528 , you could .
+*PAR:	(.) fish . 70552_71051
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 70552_71051 .
+*PAR:	(..) frog . 75276_75757
+%mor:	noun|frog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frog 75276_75757 .
+*PAR:	(..) xxx . [+ exc]
+*INV:	no , can you think of some more ? 82745_84000
+%mor:	intj|no cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|some-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	no 82745_82825 , can 83025_83125 you 83145_83225 think 83245_83385 of 83425_83505 some 83565_83685 more 83685_84000 ?
+*INV:	you still have thirty seconds left . 84006_85566
+%mor:	pron|you-Prs-Nom-S2 adv|still verb|have-Fin-Ind-Pres-S2 num|thirty noun|second-Plur adj|left-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|ROOT 4|5|NUMMOD 5|6|OBL-UNMARKED 6|3|ADVMOD 7|3|PUNCT
+%wor:	you still 84006_84186 have 84186_84266 thirty 84306_84526 seconds 84626_84986 left 85066_85566 .
+*PAR:	(...) french fries . 91512_92332
+%mor:	adj|French-S1 noun|fry-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	french 91512_91812 fries 91832_92332 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) I said finger@q . [+ exc] 98117_98917
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|finger .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%wor:	I 98117_98137 said 98177_98378 finger@q 98418_98917 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	forest . 103655_104040
+%mor:	noun|forest .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	forest 103655_104040 .
+*INV:	okay . 104458_104940
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 104458_104940 .
+*INV:	(.) okay , that +... 112424_113223
+%mor:	intj|okay cm|cm pron|that-Dem +...
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 112424_112649 , that 112731_113223 +...
+@End

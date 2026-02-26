@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/a-00090598-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|female|ProbableAD||Participant|20||
+@Media:	610-0, audio
+@G:	Cookie
+*INV:	I'd like for you to look at this picture and tell me what you see going on there . 790_6830
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|19|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|12|CC 12|7|CONJ 13|12|IOBJ 14|17|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|12|CCOMP 18|19|CASE 19|17|ADVMOD 20|3|PUNCT
+%wor:	I'd 790_870 like 890_1070 for 1090_1190 you 1250_1330 to 1350_1410 look 1491_1631 at 1671_1751 this 1811_1971 picture 2092_2552 and 4435_4555 tell 4636_4856 me 4936_4996 what 5096_5257 you 5317_5437 see 5557_5737 going 5858_6198 on 6298_6458 there 6519_6830 .
+*INV:	what's happening in that picture ? 7300_8975
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	what's 7300_7520 happening 7580_8101 in 8141_8221 that 8261_8442 picture 8502_8975 ?
+*PAR:	(.) they're baking . 11507_12187
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|bake-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	they're 11507_11667 baking 11687_12187 .
+*INV:	(.) what else is going on ? 15590_16099
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	what 15590_16099 else is going on ?
+*PAR:	making a mess out of the place . [+ gram] 18952_20290
+%mor:	verb|make-Part-Pres-S det|a-Ind-Art noun|mess-Acc adp|out adp|of det|the-Def-Art noun|place .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|7|CASE 5|4|FIXED 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	making 18952_19132 a 19132_19152 mess 19152_19432 out 19452_19532 of 19552_19712 the 19852_19932 place 20012_20290 .
+*INV:	how ? 22194_22617
+%mor:	adv|how ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	how 22194_22617 ?
+*PAR:	<by not putting> [//] by not [//] no neatness . [+ gram] [+ exc] 24255_26815
+%mor:	adp|by det|no-Def-Neg noun|neatness .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	by 24255_24434 not 24474_24674 putting 24774_25135 by 25475_25655 not 25695_25935 no 26115_26215 neatness 26315_26815 .
+*INV:	(.) do you see anything else happening there ? 30730_32270
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|happen-Ger-S adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|ADVMOD 8|3|PUNCT
+%wor:	do 30730_30770 you 30770_30830 see 30870_31090 anything 31090_31430 else 31490_31730 happening 31770_32270 there ?
+*PAR:	yes , there's a few accidents . 34131_35392
+%mor:	intj|yes cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|few-S1 noun|accident-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|4|PUNCT
+%wor:	yes 34131_34232 , there's 34292_34492 a 34532_34552 few 34612_34772 accidents 34892_35392 .
+*PAR:	the little boy is &+sta standing on a chair [: stool] [* s:r] which is crooked . 36916_41116
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|crooked-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|5|PUNCT
+%wor:	the 36916_36993 little 37073_37293 boy 37353_37654 is 37754_37934 standing 38834_39415 on 39515_39635 a 39695_39715 stool 40055_40295 which 40315_40515 is 40555_40675 crooked 40775_41116 .
+*PAR:	the lady has water running out of her (.) sink and (.) towel in her hand which is dangerous . 42266_52646
+%mor:	det|the-Def-Art noun|lady verb|have-Fin-Ind-Pres-S3 noun|water-Acc verb|run-Ger-S adp|out adp|of pron|her-Prs-Gen-S3 noun|sink cconj|and noun|towel adp|in pron|her-Prs-Gen-S3 noun|hand pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|dangerous-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|17|ROOT 4|3|OBJ 5|4|ACL 6|9|CASE 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|11|CC 11|9|CONJ 12|14|CASE 13|14|NMOD-POSS 14|9|NMOD 15|17|NSUBJ 16|17|COP 17|14|ACL-RELCL 18|3|PUNCT
+%wor:	the 42266_42346 lady 42426_42746 has 42947_43167 water 43247_43568 running 43668_44049 out 44129_44289 of 44309_44390 her 44450_44650 sink 46213_46554 and 47616_48337 towel 49940_50361 in 50421_50501 her 50541_50662 hand 50722_51143 which 51724_51904 is 51964_52084 dangerous 52165_52646 .
+*PAR:	<cookies are coming down> [//] the cookie jar is coming down . 55905_59355
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|down .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+%wor:	cookies 55905_56345 are 56505_56606 coming 56626_56906 down 57026_57267 the 57607_57687 cookie 57767_58088 jar 58108_58328 is 58328_58468 coming 58569_58869 down 58929_59355 .
+*PAR:	and the place is very pretty . 61453_63118
+%mor:	cconj|and det|the-Def-Art noun|place aux|be-Fin-Ind-Pres-S3 adv|very adj|pretty-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and 61453_61553 the 61593_61653 place 61714_62074 is 62154_62355 very 62475_62695 pretty 62815_63118 .
+*INV:	okay good . 64658_65580
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 64658_65139 good 65299_65580 .
+@End

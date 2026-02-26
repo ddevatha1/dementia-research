@@ -1,0 +1,111 @@
+@UTF8
+@PID:	11312/a-00090372-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;|male|MCI||Participant|26||
+@Media:	061-0, audio
+@G:	Cookie
+*INV:	okay there you go . 940_1690
+%mor:	intj|okay adv|there pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|2|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	okay 940_1280 there 1300_1500 you 1540_1621 go 1641_1690 .
+*INV:	there's the picture . 1842_2438
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 1842_2061 the 2061_2121 picture 2201_2438 .
+*PAR:	is it alright to say mother and &+s son and daughter ? [+ exc] 4285_6580
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|alright-S1 part|to verb|say-Inf-S noun|mother-Acc cconj|and noun|son cconj|and noun|daughter ?
+%gra:	1|3|COP 2|3|EXPL 3|10|ROOT 4|5|MARK 5|3|CSUBJ 6|5|OBJ 7|8|CC 8|6|CONJ 9|10|CC 10|6|CONJ 11|3|PUNCT
+%wor:	is 4285_4344 it 4344_4384 alright 4404_4625 to 4645_4705 say 4745_4905 mother 5005_5246 and 5246_5346 son 6027_6207 and 6267_6347 daughter 6467_6580 ?
+*INV:	+< mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	mother is wiping dishes but she's overflowing the sink bowl . 7852_11272
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink noun|bowl-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|OBJ 5|8|CC 6|8|NSUBJ 7|8|AUX 8|3|CONJ 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|3|PUNCT
+%wor:	mother 7852_8130 is 8370_8490 wiping 8570_8951 dishes 9011_9351 but 9452_9612 she's 9652_9872 overflowing 9932_10573 the 10633_10733 sink 10813_11094 bowl 11134_11272 .
+*PAR:	water is running on the floor . 11487_13017
+%mor:	noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	water 11487_11675 is 11835_11975 running 11995_12295 on 12316_12396 the 12436_12556 floor 12656_13017 .
+*PAR:	outside I can't tell if it's a cloudy day or a great day but you can see some shrubbery and [/] and bushes . 21679_21749
+%mor:	adv|outside pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|tell-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|cloudy-S1 noun|day cconj|or det|a-Ind-Art adj|great-S1 noun|day cconj|but pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|some-Def-Ind noun|shrubbery-Acc cconj|and noun|bush-Plur .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|23|ROOT 6|11|MARK 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|AMOD 11|5|CCOMP 12|15|CC 13|15|DET 14|15|AMOD 15|11|CONJ 16|19|CC 17|19|NSUBJ 18|19|AUX 19|5|CONJ 20|21|DET 21|19|OBJ 22|23|CC 23|21|CONJ 24|5|PUNCT
+%wor:	outside 21679_21749 I can't tell if it's a cloudy day or a great day but you can see some shrubbery and and bushes .
+*PAR:	<and the son> [//] and the tilting stool is about to fall .
+%mor:	cconj|and det|the-Def-Art noun|tilting-Ger noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|COP 6|8|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+*PAR:	taking cookies for he and his sister out of the cookie jar . [+ gram] 27541_28219
+%mor:	verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|for pron|he-Prs-Nom-S3 cconj|and pron|his-Prs-Gen-S3 noun|sister adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|12|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|7|CC 6|7|NMOD-POSS 7|4|CONJ 8|12|CASE 9|12|CASE 10|12|DET 11|12|COMPOUND 12|1|OBL 13|1|PUNCT
+%wor:	taking cookies 27541_28061 for 28061_28141 he 28141_28181 and 28201_28219 his sister out of the cookie jar .
+*PAR:	so somebody's &+gon gonna &+s have some cleanup work to do . 31083_33044
+%mor:	adv|so pron|somebody-Ind-S1~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|have-Inf-S det|some-Def-Ind noun|cleanup noun|work-Acc part|to verb|do-Inf-S .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|10|MARK 10|5|ADVCL 11|5|PUNCT
+%wor:	so 31083_31123 somebody's 31143_31483 gonna 31483_31683 have 31783_31903 some 31963_32123 cleanup 32163_32363 work 32403_32523 to 32523_32563 do 32583_33044 .
+*PAR:	and the daughter is [: of] [* s:r] course reaching her left arm and hand and elbow up to get [//] receive a cookie .
+%mor:	cconj|and det|the-Def-Art noun|daughter adp|of noun|course verb|reach-Ger-S pron|her-Prs-Gen-S3 adj|left-S1 noun|arm-Acc cconj|and noun|hand cconj|and verb|elbow-Fin-Ind-Pres-S3 adp|up part|to verb|receive-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|ADVMOD 5|4|FIXED 6|18|ROOT 7|9|NMOD-POSS 8|9|AMOD 9|6|OBJ 10|11|CC 11|9|CONJ 12|13|CC 13|6|CONJ 14|13|COMPOUND-PRT 15|16|MARK 16|13|ADVCL 17|18|DET 18|16|OBJ 19|6|PUNCT
+*PAR:	but he's gonna go crashing on down the floor where the water is going , the suds water . [+ gram] 43302_47285
+%mor:	cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|go-Inf-S verb|crash-Ger-S adp|on adp|down det|the-Def-Art noun|floor adv|where det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S cm|cm det|the-Def-Art noun|sud-Plur noun|water .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|19|ROOT 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|15|ADVMOD 12|13|DET 13|15|NSUBJ 14|15|AUX 15|10|ACL-RELCL 16|19|PUNCT 17|19|DET 18|19|COMPOUND 19|5|PARATAXIS 20|5|PUNCT
+%wor:	but 43302_43462 he's 43462_43642 gonna 43662_43842 go 43842_43882 crashing 43902_44363 on 44503_44563 down 44623_44823 the 44823_44883 floor 44983_45203 where 45304_45444 the 45444_45524 water 45604_45804 is 45804_45844 going 45844_45944 , the 45944_46004 suds 46565_46765 water 46785_47285 .
+*PAR:	I do the dishes sometimes at home . [+ exc] 48547_50219
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 det|the-Def-Art noun|dish-Plur-Acc adv|sometimes adp|at noun|home .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|7|CASE 7|2|OBL 8|2|PUNCT
+%wor:	I do the dishes 48547_48887 sometimes 48907_50048 at 50088_50219 home .
+*PAR:	but with the dishwasher it's just pots and pans . [+ exc] 50978_52638
+%mor:	cconj|but adp|with det|the-Def-Art noun|dishwasher pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just noun|pot-Plur cconj|and noun|pan-Plur .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|10|ROOT 9|10|CC 10|8|CONJ 11|8|PUNCT
+%wor:	but 50978_51110 with 51130_51230 the 51250_51330 dishwasher 51330_51810 it's 51810_51990 just 52010_52191 pots 52211_52471 and 52511_52638 pans .
+*INV:	mhm . 52991_53476
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 52991_53476 .
+*PAR:	+< fry pans , do our eggs in the morning . [+ gram] [+ exc] 53232_55409
+%mor:	verb|fry-Fin-Imp-S noun|pan-Plur-Acc cm|cm verb|do-Fin-Imp-S pron|our-Prs-Gen-P1 noun|egg-Plur-Acc adp|in det|the-Def-Art noun|morning-Ger .
+%gra:	1|9|ROOT 2|1|OBJ 3|4|PUNCT 4|1|PARATAXIS 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|1|PUNCT
+%wor:	fry 53232_53452 pans 53552_53912 , do 53993_54093 our 54173_54553 eggs 54693_54893 in 54913_54974 the 55054_55134 morning 55174_55409 .
+*INV:	+< mhm . 55434_55915
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 55434_55915 .
+*PAR:	I use rubber gloves (be)cause my [/] skin cracks around my nails . [+ exc] 58181_60769
+%mor:	pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 noun|rubber noun|glove-Plur-Acc sconj|because noun|skin verb|crack-Fin-Ind-Pres-S3 adp|around pron|my-Prs-Gen-S1 noun|nail-Plur .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|COMPOUND 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|2|PUNCT
+%wor:	I 58181_58201 use 59022_59343 rubber 59583_60004 gloves 60004_60585 (be)cause 60585_60769 my skin cracks around my nails .
+*INV:	+< mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and I put bandaids and petroleum jelly Vaseline on them . [+ exc]
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr noun|bandaid-Plur-Acc cconj|and noun|petroleum noun|jelly noun|vaseline adp|on pron|they-Prs-Acc-P3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|8|CC 6|8|COMPOUND 7|8|COMPOUND 8|4|CONJ 9|10|CASE 10|3|OBL 11|3|PUNCT
+*INV:	+< that's good .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay anything else you wanna say about the picture ? 66775_68440
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|say-Inf-S adp|about det|the-Def-Art noun|picture ?
+%gra:	1|2|DISCOURSE 2|9|ROOT 3|2|AMOD 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+%wor:	okay 66775_66955 anything 66995_67315 else 67356_67496 you 67496_67556 wanna 67556_67696 say 67696_67836 about 67836_67977 the 67997_68057 picture 68057_68440 ?
+*PAR:	the drapes are alright . 69559_69992
+%mor:	det|the-Def-Art noun|drape-Plur aux|be-Fin-Ind-Pres-P3 adj|alright-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the drapes are alright 69559_69992 .
+*PAR:	I don't see anything else xxx . [+ exc] 70411_71501
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+%wor:	I don't see anything 70411_70961 else 71001_71501 .
+*INV:	+< okay . 71367_71805
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 71367_71805 .
+@End

@@ -1,0 +1,480 @@
+@UTF8
+@PID:	11312/a-00089694-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|11||
+@Media:	220-1, audio
+@G:	foods
+*INV:	anything at all that you can eat and you can start now . 540_3882
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|12|ROOT 2|3|CASE 3|1|NMOD 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|1|ACL-RELCL 8|11|CC 9|11|NSUBJ 10|11|AUX 11|7|CONJ 12|11|ADVMOD 13|1|PUNCT
+%wor:	anything 540_860 at 900_960 all 1040_1180 that 1200_1340 you 1420_1520 can 1581_1741 eat 1921_2061 and 2221_2301 you 2321_2421 can 2481_2622 start 2702_3102 now 3382_3882 .
+*INV:	name for me the things that you can eat . 5004_7098
+%mor:	noun|name adp|for pron|I-Prs-Acc-S1 det|the-Def-Art noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|9|ROOT 2|3|CASE 3|1|NMOD 4|5|DET 5|1|APPOS 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|1|PUNCT
+%wor:	name 5004_5324 for 5364_5484 me 5524_5604 the 5684_5744 things 5825_6085 that 6105_6225 you 6265_6345 can 6385_6525 eat 6625_7098 .
+*PAR:	name the things . [+ exc] 8027_8987
+%mor:	verb|name-Inf-Imp-S det|the-Def-Art noun|thing-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	name 8027_8307 the 8327_8387 things 8487_8987 .
+*INV:	can you tell me the things that you can eat ? 10650_13111
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|thing-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|3|PUNCT
+%wor:	can 10650_10789 you 10829_10949 tell 11010_11290 me 11350_11410 the 11470_11550 things 11670_11930 that 11950_12071 you 12111_12191 can 12251_12431 eat 12611_13111 ?
+*INV:	I want you to name for me all the things that you can eat . 13833_17414
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|for pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|thing-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|CASE 7|5|OBL 8|10|DET-PREDET 9|10|DET 10|5|OBJ 11|14|OBJ 12|14|NSUBJ 13|14|AUX 14|10|ACL-RELCL 15|2|PUNCT
+%wor:	I 13833_13853 want 13873_14033 you 14073_14153 to 14173_14253 name 14373_14693 for 14753_14873 me 14913_14993 all 15293_15494 the 15534_15634 things 15754_16134 that 16154_16294 you 16374_16474 can 16554_16714 eat 16914_17414 .
+*PAR:	yeah , but (.) you hafta see the paper xxx . [+ exc] 17675_20777
+%mor:	intj|yeah cm|cm cconj|but pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S2 verb|see-Inf-S det|the-Def-Art noun|paper-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	yeah 17675_17935 , but 17935_18135 you 19336_19436 hafta 19476_19756 see 19876_20096 the 20156_20217 paper 20277_20777 .
+*INV:	no [/] no , I want you to think about it . 21377_23379
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|think-Inf-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|9|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|9|CASE 9|7|OBL 10|4|PUNCT
+%wor:	no 21377_21457 no 21557_21657 , I 21838_21858 want 21898_22078 you 22138_22218 to 22258_22318 think 22458_22698 about 22778_23118 it 23158_23379 .
+*INV:	I want you to name as many things that can be eaten anything at all that you can eat in one minute's time . 23419_28824
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|as adj|many-S1 noun|thing-Plur-Acc pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr pron|anything-Ind-S1 adp|at det|all-Def-Tot sconj|that pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S adp|in num|one noun|minute~part|s noun|time .
+%gra:	1|2|NSUBJ 2|24|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|AMOD 8|5|OBJ 9|12|NSUBJ-PASS 10|12|AUX 11|12|AUX-PASS 12|8|ACL-RELCL 13|12|OBJ 14|15|CASE 15|12|OBL 16|19|MARK 17|19|NSUBJ 18|19|AUX 19|12|ADVCL 20|24|CASE 21|22|NUMMOD 22|24|NMOD-POSS 23|22|CASE 24|19|OBL 25|2|PUNCT
+%wor:	I 23419_23439 want 23459_23639 you 23659_23739 to 23779_23839 name 23919_24219 as 24259_24359 many 24459_24679 things 24799_25100 that 25100_25220 can 25240_25380 be 25420_25500 eaten 25680_25920 anything 25980_26361 at 26401_26461 all 26541_26661 that 26701_26821 you 26881_27001 can 27061_27221 eat 27341_27521 in 27762_27842 one 28002_28142 minute's 28182_28482 time 28542_28824 .
+*INV:	and I'm gonna time you . 28843_29764
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|gonna-S1 noun|time pron|you-Prs-Acc-S2 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|6|ROOT 6|5|VOCATIVE 7|5|PUNCT
+%wor:	and 28843_28902 I'm 28922_29002 gonna 29042_29243 time 29283_29663 you 29703_29764 .
+*INV:	and you're just going to say it for me . 30224_31831
+%mor:	cconj|and pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|just verb|go-Part-Pres-S part|to verb|say-Inf-S pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|10|CASE 10|7|OBL 11|5|PUNCT
+%wor:	and 30224_30323 you're 30323_30463 just 30463_30644 going 30684_30824 to 30824_30884 say 30964_31164 it 31224_31304 for 31384_31584 me 31664_31831 .
+*INV:	(..) name anything at all that you can eat . 34767_36746
+%mor:	verb|name-Fin-Imp-S pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|8|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|2|ACL-RELCL 9|1|PUNCT
+%wor:	name 34767_35007 anything 35047_35447 at 35487_35547 all 35627_35747 that 35787_35907 you 35967_36047 can 36107_36247 eat 36408_36746 .
+*INV:	okay ? 37189_37688
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 37189_37688 ?
+*PAR:	yeah . [+ exc]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything at all that can be eaten . 40093_41835
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|7|NSUBJ-PASS 5|7|AUX 6|7|AUX-PASS 7|1|ACL-RELCL 8|1|PUNCT
+%wor:	anything 40093_40473 at 40513_40593 all 40653_40754 that 40774_40894 can 40934_41074 be 41094_41174 eaten 41335_41835 .
+*INV:	can you start now ? 41850_43257
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|start-Inf-S adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	can 41850_41915 you 41955_42036 start 42176_42697 now 42757_43257 ?
+*PAR:	I don't see it . [+ exc] 44841_45426
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	I 44841_44860 don't 44880_45100 see 45180_45341 it 45401_45426 .
+*PAR:	I can't very well do it . [+ exc] 45621_47157
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adv|very adv|well verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|ADVMOD 4|5|ADVMOD 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	I 45621_45641 can't 45701_45942 very 46002_46202 well 46262_46462 do 46562_46643 it 46783_47157 .
+*INV:	okay , you're not sposta see it . 47204_49087
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not adv|sposta verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+%wor:	okay 47204_47424 , you're 47484_47624 not 47664_47844 sposta 47905_48505 see 48646_48826 it 48886_49087 .
+*PAR:	okay . [+ exc] 49207_49646
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 49207_49646 .
+*INV:	okay , look at me for a minute . 50101_50972
+%mor:	intj|okay cm|cm verb|look-Fin-Imp-S adp|at pron|I-Prs-Acc-S1 adp|for det|a-Ind-Art noun|minute .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	okay , look 50101_50188 at 50228_50288 me 50328_50388 for 50508_50589 a 50629_50649 minute 50689_50972 .
+*INV:	now here's the directions . 51531_52491
+%mor:	adv|now adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|direction-Plur .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	now 51531_51630 here's 51690_51871 the 51891_51951 directions 51991_52491 .
+*INV:	let me reexplain them to you . 52533_53944
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|reexplain-Inf-S pron|they-Prs-Acc-P3 adp|to pron|you-Prs-Acc-S2 .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|CASE 6|3|OBL 7|1|PUNCT
+%wor:	let 52533_52613 me 52613_52653 reexplain 52733_53213 them 53253_53353 to 53433_53493 you 53553_53944 .
+*INV:	I'm going to turn on that tape+recorder . 54134_55394
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|turn-Inf-S adp|on det|that-Def-Dem-Sing noun|taperecorder .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	I'm 54134_54193 going 54213_54354 to 54354_54394 turn 54434_54614 on 54614_54694 that 54694_54834 taperecorder 54894_55394 .
+*INV:	and I'm gonna have you say to me just look right at me and say anything at all that you can eat . 56215_61827
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go aux|have-Inf-S pron|you-Prs-Nom-S2 verb|say-Inf-S adp|to pron|I-Prs-Acc-S1 adv|just verb|look-Inf-S adv|right adp|at pron|I-Prs-Acc-S1 cconj|and verb|say-Inf-S pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|AUX 4|7|ADVMOD 5|7|AUX 6|7|NSUBJ 7|23|ROOT 8|9|CASE 9|7|OBL 10|11|ADVMOD 11|7|CCOMP 12|11|ADVMOD 13|14|CASE 14|11|OBL 15|16|CC 16|11|CONJ 17|16|OBJ 18|19|CASE 19|16|OBL 20|23|OBJ 21|23|NSUBJ 22|23|AUX 23|17|ACL-RELCL 24|7|PUNCT
+%wor:	and 56215_56315 I'm 56435_56495 gonna 56555_56735 have 56775_57015 you 57055_57155 say 57335_57595 to 57655_57736 me 57796_57876 just 58216_58396 look 58416_58616 right 58676_58876 at 58936_59036 me 59076_59156 and 59236_59336 say 59416_59717 anything 60157_60577 at 60597_60677 all 60737_60877 that 60917_61057 you 61157_61258 can 61318_61458 eat 61578_61827 .
+*INV:	anything at all that you can eat or anybody can eat . 62479_65925
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S cconj|or pron|anybody-Ind-S1 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|11|ROOT 2|3|CASE 3|1|NMOD 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|11|CC 9|11|NSUBJ 10|11|AUX 11|7|CONJ 12|1|PUNCT
+%wor:	anything 62479_63019 at 63059_63139 all 63219_63379 that 63419_63559 you 63659_63799 can 63919_64079 eat 64199_64359 or 64820_64880 anybody 65000_65400 can 65480_65620 eat 65680_65925 .
+*PAR:	yeah . [+ exc] 66060_66401
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 66060_66401 .
+*INV:	+< things that can be eaten . 66222_67666
+%mor:	noun|thing-Plur pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|5|ROOT 2|5|NSUBJ-PASS 3|5|AUX 4|5|AUX-PASS 5|1|ACL-RELCL 6|1|PUNCT
+%wor:	things 66222_66402 that 66442_66582 can 66622_66803 be 66863_66963 eaten 67263_67666 .
+*INV:	I want you to name them for me . 68365_69605
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S pron|they-Prs-Acc-P3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|OBJ 7|8|CASE 8|5|OBL 9|2|PUNCT
+%wor:	I 68365_68385 want 68425_68565 you 68585_68685 to 68685_68766 name 68846_69086 them 69106_69226 for 69286_69427 me 69467_69605 .
+*INV:	just name them to me . 69607_70801
+%mor:	adv|just verb|name-Fin-Imp-S pron|they-Prs-Acc-P3 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%wor:	just 69607_69807 name 69887_70168 them 70188_70308 to 70368_70448 me 70488_70801 .
+*INV:	just say them , okay ? 70801_72410
+%mor:	adv|just verb|say-Fin-Imp-S pron|they-Prs-Acc-P3 cm|cm intj|okay ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|5|PUNCT 5|2|DISCOURSE 6|2|PUNCT
+%wor:	just 70801_70969 say 71049_71269 them 71370_71530 , okay 71910_72410 ?
+*PAR:	okay . [+ exc] 73052_73552
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 73052_73552 .
+*INV:	+< can you say them ? 73312_74019
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	can 73312_73353 you 73413_73493 say 73593_73773 them 73873_74019 ?
+*PAR:	I'll try . [+ exc] 74414_75062
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|try-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	I'll 74414_74514 try 74595_75062 .
+*INV:	alright , you can start now . 75155_76597
+%mor:	intj|alright cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	alright 75155_75516 , you 75536_75636 can 75636_75756 start 75816_76057 now 76097_76597 .
+*PAR:	where do I start ? [+ exc] 77779_78394
+%mor:	adv|where aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|start-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	where 77779_77940 do 77940_78020 I 78060_78080 start 78160_78394 ?
+*PAR:	with one ? [+ exc] 78461_79102
+%mor:	adp|with num|one ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	with 78461_78621 one 78781_79102 ?
+*INV:	no , remember I want you to name as many things that you can eat . 79542_83212
+%mor:	intj|no cm|cm verb|remember-Fin-Imp-S pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|as adj|many-S1 noun|thing-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|15|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|11|CASE 10|11|AMOD 11|8|OBJ 12|15|OBJ 13|15|NSUBJ 14|15|AUX 15|11|ACL-RELCL 16|3|PUNCT
+%wor:	no 79542_79622 , remember 80183_80544 I 80644_80664 want 80704_80885 you 80925_81025 to 81045_81105 name 81165_81406 as 81426_81546 many 81626_81867 things 81987_82288 that 82328_82448 you 82508_82608 can 82648_82809 eat 82969_83212 .
+*INV:	anything at all that can be eaten . 83771_85654
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|7|NSUBJ-PASS 5|7|AUX 6|7|AUX-PASS 7|1|ACL-RELCL 8|1|PUNCT
+%wor:	anything 83771_84172 at 84212_84292 all 84372_84513 that 84553_84673 can 84693_84833 be 84873_84954 eaten 85154_85654 .
+*INV:	(..) okay , things that you eat . 88522_90346
+%mor:	intj|okay cm|cm noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	okay 88522_88902 , things 89043_89263 that 89283_89423 you 89484_89584 eat 89864_90346 .
+*INV:	(.) can you think of some things that you eat ? 93147_95227
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|some-Def-Ind noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|3|PUNCT
+%wor:	can 93147_93247 you 93287_93367 think 93427_93607 of 93647_93727 some 93787_93967 things 94007_94247 that 94267_94427 you 94467_94567 eat 94727_95227 ?
+*PAR:	(.) well , we already went through that one &+s &=laughs . [+ exc] 96770_98991
+%mor:	intj|well cm|cm pron|we-Prs-Nom-P1 adv|already verb|go-Fin-Ind-Past-P1-irr adp|through det|that-Def-Dem-Sing noun|one .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	well 96770_96909 , we 96929_97009 already 97109_97449 went 97529_97709 through 97769_98049 that 98089_98310 one 98510_98991 .
+*INV:	+< well , you hafta name them for me . 98670_100775
+%mor:	intj|well cm|cm pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S verb|name-Inf-S pron|they-Prs-Acc-P3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|5|PUNCT
+%wor:	well 98670_100331 , you 100331_100391 hafta 100391_100491 name 100491_100571 them 100571_100651 for 100651_100731 me 100731_100775 .
+*PAR:	yeah . [+ exc] 100771_100813
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 100771_100813 .
+*INV:	you're right but I need you to say them out loud for me so that I know what you're thinking . 100853_105153
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 cconj|but pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|say-Inf-S pron|they-Prs-Acc-P3 adp|out adv|loud adp|for pron|I-Prs-Acc-S1 sconj|so sconj|that pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|think-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|22|ROOT 4|6|CC 5|6|NSUBJ 6|3|CONJ 7|6|OBJ 8|9|MARK 9|6|XCOMP 10|9|OBJ 11|9|COMPOUND-PRT 12|9|ADVMOD 13|14|CASE 14|9|OBL 15|18|MARK 16|15|FIXED 17|18|NSUBJ 18|9|ADVCL 19|18|OBJ 20|22|NSUBJ 21|22|AUX 22|19|ACL-RELCL 23|3|PUNCT
+%wor:	you're 100853_101011 right 101031_101251 but 101271_101371 I 101471_101491 need 101491_101671 you 101711_101772 to 101812_101872 say 102092_102272 them 102352_102492 out 102552_102692 loud 102752_103112 for 103172_103352 me 103372_103432 so 103493_103593 that 103633_103753 I 103953_103973 know 104013_104193 what 104253_104393 you're 104433_104573 thinking 104653_105153 .
+*INV:	okay , anything at all that you eat . 106055_109156
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|5|CASE 5|3|NMOD 6|8|OBJ 7|8|NSUBJ 8|3|ACL-RELCL 9|3|PUNCT
+%wor:	okay 106055_106535 , anything 107355_107776 at 107816_107876 all 107936_108056 that 108096_108256 you 108336_108456 eat 108656_109156 .
+*INV:	I just want you to say it out loud +//. 109757_111397
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|say-Inf-S pron|it-Prs-Acc-S3 adp|out adv|loud +//.
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|9|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|6|COMPOUND-PRT 9|6|ADVMOD 10|3|PUNCT
+%wor:	I 109757_109777 just 109797_109957 want 109997_110157 you 110197_110277 to 110297_110357 say 110477_110657 it 110697_110757 out 110817_110877 loud 110897_111397 +//.
+*PAR:	+< tomatoes . 110997_111497
+%mor:	noun|tomato-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tomatoes 110997_111497 .
+*INV:	good . 111978_112478
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 111978_112478 .
+*INV:	anything else ? 112479_113418
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 112479_112859 else 112939_113418 ?
+*PAR:	coleslaw . 113979_114459
+%mor:	noun|coleslaw .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	coleslaw 113979_114459 .
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	carrots . 116381_116881
+%mor:	noun|carrot-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	carrots 116381_116881 .
+*INV:	(..) good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else ? 121886_122034
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 121886_122034 else ?
+*PAR:	&-uh (..) candy . 126530_126596
+%mor:	noun|candy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 126530_126570 candy 126570_126596 .
+*INV:	mhm . 126830_127311
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 126830_127311 .
+*INV:	anything else ? 128072_128953
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 128072_128472 else 128512_128953 ?
+*PAR:	and &-uh (..) xxx [//] have milk@q ? 134503_135784
+%mor:	cconj|and verb|have-Fin-Ind-Pres-S1 q|milk ?
+%gra:	1|2|CC 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%wor:	and 134503_134623 uh 134643_134683 xxx 134703_134823 have 135004_135204 milk@q 135284_135784 ?
+*INV:	okay , anything else that you can eat ? 136027_138053
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|AMOD 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|3|ACL-RELCL 9|3|PUNCT
+%wor:	okay 136027_136346 , anything 136446_136827 else 136927_137188 that 137188_137308 you 137328_137428 can 137468_137609 eat 137809_138053 ?
+*PAR:	yeah . [+ exc] 138210_138671
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 138210_138671 .
+*PAR:	and &-uh +... 139853_140734
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 139853_140153 uh 140234_140734 +...
+*INV:	what else can you eat ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|eat-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*PAR:	(...) I can't see anything else on there , do you ? [+ exc] 157076_158416
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 adp|on adv|there cm|cm aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|4|OBJ 6|5|AMOD 7|8|CASE 8|4|OBL 9|10|PUNCT 10|4|PARATAXIS 11|10|NSUBJ 12|4|PUNCT
+%wor:	I 157076_157096 can't 157096_157236 see 157236_157316 anything 157316_157636 else 157656_157736 on 157736_157776 there 157776_157876 , do 157876_157916 you 157916_158416 ?
+*INV:	okay , well , you're not suppose(d) to be seeing anything . 159392_159538
+%mor:	intj|okay cm|cm intj|well cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not verb|suppose-Part-Past-S part|to aux|be-Inf-S verb|see-Part-Pres-S pron|anything-Ind-S1 .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|DISCOURSE 4|3|PUNCT 5|8|NSUBJ-PASS 6|8|AUX-PASS 7|8|ADVMOD 8|12|ROOT 9|11|MARK 10|11|AUX 11|8|XCOMP 12|11|OBJ 13|8|PUNCT
+%wor:	okay , well , you're not suppose(d) to be seeing anything 159392_159538 .
+*INV:	you're supposed just be thinking about it xxx here . 162200_164343
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|suppose-Part-Past-S adv|just aux|be-Fin-Imp-S verb|think-Part-Pres-S adp|about pron|it-Prs-Acc-S3 adv|here .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|9|ROOT 4|6|ADVMOD 5|6|AUX 6|3|XCOMP 7|8|CASE 8|6|OBL 9|6|ADVMOD 10|3|PUNCT
+%wor:	you're 162200_162340 supposed 162340_162560 just 163021_163361 be 163361_163401 thinking 163401_163822 about 163882_164242 it 164283_164343 here .
+*PAR:	+< thinking about it . [+ exc]
+%mor:	verb|think-Part-Pres-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*INV:	I want you to think about what you can eat . 165565_167082
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|think-Inf-S adp|about pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|CASE 7|5|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|2|PUNCT
+%wor:	I want 165565_165644 you 165664_165724 to 165744_165784 think 165825_165985 about 166045_166265 what 166305_166425 you 166485_166565 can 166626_166806 eat 166986_167082 .
+*PAR:	+< uhhuh . [+ exc]
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	yeah . [+ exc] 167628_168107
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 167628_168107 .
+*INV:	anything at all that you can eat . 168229_170230
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|1|ACL-RELCL 8|1|PUNCT
+%wor:	anything 168229_168608 at 168648_168708 all 168788_168888 that 168909_169069 you 169089_169189 can 169229_169389 eat 169730_170230 .
+*INV:	can you think of something that you eat ? 170592_172753
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|something-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|CASE 5|3|OBL 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|3|PUNCT
+%wor:	can 170592_170871 you 170871_170971 think 171151_171312 of 171352_171432 something 171492_171812 that 171832_171952 you 171993_172113 eat 172253_172753 ?
+*PAR:	<is> [//] what's that first one (.) there ? [+ exc] 174877_178200
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing adj|first-S1 noun|one adv|there ?
+%gra:	1|6|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|ADVMOD 7|1|PUNCT
+%wor:	is 174877_174997 what's 175197_175377 that 175377_175597 first 176358_176678 one 177078_177278 there 177758_178200 ?
+*INV:	what are you looking at ? 178319_179291
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|look-Part-Pres-S adp|at ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|1|CASE 6|4|PUNCT
+%wor:	what 178319_178439 are 178499_178559 you 178559_178659 looking 178719_179019 at 179119_179291 ?
+*INV:	can you show me ? 179600_180534
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|show-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|IOBJ 5|3|PUNCT
+%wor:	can 179600_179720 you 179760_179840 show 179900_180160 me 180220_180534 ?
+*INV:	what are you trying to see ? 180821_182136
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|try-Part-Pres-S part|to verb|see-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+%wor:	what 180821_180941 are 180981_181041 you 181041_181141 trying 181161_181501 to 181521_181581 see 181721_182136 ?
+*PAR:	oh , I [/] I just see a lot of pencils here . [+ exc] 182742_183922
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 adv|just verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|lot-Acc adp|of noun|pencil-Plur adv|here .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|10|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|ADVMOD 11|5|PUNCT
+%wor:	oh , I I just see 182742_182902 a 182942_182962 lot 183022_183162 of 183202_183242 pencils 183262_183422 here 183422_183922 .
+*PAR:	that's all &=laughs . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	+< there sure is a lot of pencils there . 185028_185343
+%mor:	pron|there-Int-S1 adv|sure verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|pencil-Plur adv|there .
+%gra:	1|3|EXPL 2|3|ADVMOD 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|3|ADVMOD 9|3|PUNCT
+%wor:	there sure is a lot of pencils there 185028_185343 .
+*PAR:	+< uhhuh . [+ exc]
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	S
+*INV:	okay , letter s@l . 188326_189917
+%mor:	intj|okay cm|cm noun|letter part|s .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%wor:	okay 188326_188706 , letter 189086_189327 s 189627_189917 .
+*INV:	can you say that for me ? 190087_191415
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S sconj|that adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|MARK 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	can 190087_190207 you 190247_190347 say 190428_190568 that 190628_190788 for 190848_191028 me 191088_191415 ?
+*INV:	say the word that you can think of that begin with the letter s@l . 191991_195172
+%mor:	verb|say-Fin-Imp-S det|the-Def-Art noun|word-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|14|ROOT 2|3|DET 3|1|OBJ 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|10|NSUBJ 10|3|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|13|CASE 15|1|PUNCT
+%wor:	say 191991_192149 the 192229_192309 word 192389_192610 that 192650_192730 you 192770_192850 can 192870_192990 think 193050_193250 of 193310_193410 that 193450_193570 begin 193591_193851 with 193891_193991 the 194011_194091 letter 194131_194371 s 194672_195172 .
+*PAR:	with the letter s@l ? [+ exc] 196077_197654
+%mor:	adp|with det|the-Def-Art noun|letter part|s ?
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%wor:	with 196077_196233 the 196273_196353 letter 196433_196733 s 197154_197654 ?
+*INV:	+< anything that begins with the letter s@l . 197379_199498
+%mor:	pron|anything-Ind-S1 pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|6|CASE 5|6|DET 6|3|OBL 7|6|CASE 8|1|PUNCT
+%wor:	anything 197379_197774 that 197794_197895 begins 197935_198255 with 198275_198375 the 198375_198455 letter 198515_198755 s 199076_199498 .
+*PAR:	well , I gotta see it to be +... [+ exc] 199542_201217
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|getta-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 part|to aux|be-Inf-S +...
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|OBJ 7|8|MARK 8|5|ADVCL 9|5|PUNCT
+%wor:	well 199542_199676 , I 199716_199736 gotta 199776_199976 see 200137_200337 it 200417_200517 to 200617_200677 be 200717_201217 +...
+*INV:	well , you can't see anything right now . 201585_203200
+%mor:	intj|well cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|right-S1 adv|now .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|6|OBJ 8|9|ADVMOD 9|6|ADVMOD 10|6|PUNCT
+%wor:	well 201585_201658 , you 201698_201778 can't 201838_202098 see 202159_202319 anything 202379_202759 right 202799_202999 now 203019_203200 .
+*INV:	that's the trick to this . 203233_204437
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|trick adp|to pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%wor:	that's 203233_203493 the 203533_203633 trick 203693_203913 to 204033_204094 this 204154_204437 .
+*INV:	you needta just say them anything at all that begins with the letter s@l . 204654_205816
+%mor:	pron|you-Prs-Nom-S2 aux|needta-Fin-S adv|just verb|say-Inf-S pron|they-Prs-Acc-P3 pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|14|ROOT 5|4|IOBJ 6|4|OBJ 7|8|CASE 8|6|NMOD 9|10|NSUBJ 10|6|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|13|CASE 15|4|PUNCT
+%wor:	you needta 204654_204894 just 204975_205195 say 205275_205515 them 205635_205816 anything at all that begins with the letter s .
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(...) can you name for me any word at all that begins with the letter s@l ? 214226_217829
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|name-Inf-S adp|for pron|I-Prs-Acc-S1 det|any-Def-Ind noun|word-Acc adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|15|ROOT 4|5|CASE 5|3|OBL 6|7|DET 7|3|OBJ 8|9|CASE 9|7|NMOD 10|11|NSUBJ 11|7|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|14|CASE 16|3|PUNCT
+%wor:	can 214226_214385 you 214426_214546 name 214606_214886 for 214926_215046 me 215086_215166 any 215267_215427 word 215507_215747 at 215787_215847 all 215927_216047 that 216067_216188 begins 216208_216508 with 216528_216628 the 216628_216688 letter 216748_216989 s 217329_217829 ?
+*PAR:	(...) I think this isn't sittin(g) right or something . [+ exc] 222474_224835
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3~part|not verb|sit-Part-Pres-S adj|right-S1 cconj|or pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|6|XCOMP 8|9|CC 9|7|CONJ 10|2|PUNCT
+%wor:	I 222474_222494 think 222554_222694 this 222734_222954 isn't 223034_223354 sittin(g) 223474_223875 right 223875_224115 or 224155_224235 something 224335_224835 .
+*INV:	what's wrong ? 224995_225681
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	what's 224995_225196 wrong 225236_225681 ?
+*PAR:	I don't know what's the matter with it . [+ exc] 226076_227609
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|matter adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|4|OBJ 6|8|COP 7|8|DET 8|4|CCOMP 9|10|CASE 10|8|NMOD 11|4|PUNCT
+%wor:	I 226076_226096 don't 226216_226376 know 226376_226497 what's 226517_226697 the 226697_226757 matter 226817_227057 with 227097_227237 it 227297_227609 .
+*INV:	what [/] what do you think (i)s wrong ? 227838_229199
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|COP 6|4|CCOMP 7|4|PUNCT
+%wor:	what 227838_227978 what 228178_228298 do 228318_228358 you 228378_228458 think 228498_228678 (i)s 228678_228778 wrong 228798_229199 ?
+*INV:	that's connected to you so that this tape machine will tape what you say . 231841_235983
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 verb|connect-Part-Past-S adp|to pron|you-Prs-Acc-S2 sconj|so sconj|that det|this-Def-Dem-Sing noun|tape noun|machine aux|will-Fin-S verb|tape-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|15|ROOT 4|5|CASE 5|3|OBL 6|12|MARK 7|6|FIXED 8|10|DET 9|10|COMPOUND 10|12|NSUBJ 11|12|AUX 12|3|ADVCL 13|12|OBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|3|PUNCT
+%wor:	that's 231841_232081 connected 232101_232461 to 232481_232561 you 232641_232701 so 232801_232901 that 232961_233061 this 233081_233262 tape 233362_233642 machine 233642_234082 will 234142_234823 tape 234823_235083 what 235103_235203 you 235243_235323 say 235483_235983 .
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	oh , I see +/. [+ exc] 236704_237125
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 +/.
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	oh , I 236704_236724 see 236844_237125 +/.
+*INV:	+< this is for me . 236725_237526
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	this 236725_236865 is 236865_236925 for 236945_237105 me 237185_237526 .
+*PAR:	uhhuh +/. [+ exc] 237865_237905
+%mor:	intj|uhhuh +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 237865_237905 +/.
+*INV:	+< but you hafta say them for me . 238425_240229
+%mor:	cconj|but pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S2 verb|say-Inf-S pron|they-Prs-Acc-P3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+%wor:	but 238425_238485 you 238525_238605 hafta 238665_238965 say 239105_239325 them 239425_239565 for 239686_239906 me 239986_240229 .
+*INV:	so that I can get them on the tape . 240528_242110
+%mor:	sconj|so sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S verb|get-Inf-S pron|they-Prs-Acc-P3 adp|on det|the-Def-Art noun|tape .
+%gra:	1|5|MARK 2|1|FIXED 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	so 240528_240606 that 240666_240786 I 240906_240926 can 240966_241106 get 241126_241246 them 241286_241386 on 241426_241506 the 241526_241586 tape 241686_242110 .
+*INV:	any word at all that begins with the letter s@l . 242570_245303
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|10|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|9|CASE 11|2|PUNCT
+%wor:	any 242570_242747 word 242847_243107 at 243147_243227 all 243307_243467 that 243527_243647 begins 243667_243987 with 244007_244127 the 244127_244207 letter 244287_244547 s 244987_245303 .
+*INV:	can you name them for me ? 246811_248147
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|name-Inf-S pron|they-Prs-Acc-P3 adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	can 246811_246948 you 246988_247088 name 247148_247488 them 247488_247628 for 247728_247908 me 247968_248147 ?
+*INV:	any word at all that begins with the letter s@l ? 248192_250434
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s ?
+%gra:	1|2|DET 2|10|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|9|CASE 11|2|PUNCT
+%wor:	any 248192_248348 word 248448_248629 at 248669_248749 all 248789_248909 that 248929_249029 begins 249069_249329 with 249349_249449 the 249449_249529 letter 249589_249829 s 250189_250434 ?
+*PAR:	s@l ? [+ exc] 251173_251410
+%mor:	x|s ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	s 251173_251410 ?
+*INV:	yeah . 251814_252129
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 251814_252129 .
+*PAR:	yeah , what about it ? [+ exc] 252394_253975
+%mor:	intj|yeah cm|cm pron|what-Int-S1 adp|about pron|it-Prs-Acc-S3 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	yeah 252394_252674 , what 253295_253455 about 253475_253755 it 253775_253975 ?
+*INV:	tell me some words that begin with that letter s@l . 254215_257856
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|some-Def-Ind noun|word-Plur-Acc pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|that-Def-Dem-Sing noun|letter part|s .
+%gra:	1|10|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|9|CASE 11|1|PUNCT
+%wor:	tell 254215_254435 me 254475_254535 some 254655_254856 words 254896_255276 that 255296_255396 begin 255436_255696 with 255756_255876 that 255896_256076 letter 256156_256457 s 257457_257856 .
+*INV:	what words can you think of that start with the letter s@l ? 259519_262601
+%mor:	det|what-Def-Int noun|word-Plur-Acc aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|that-Def-Dem-Sing verb|start-Inf-S adp|with det|the-Def-Art noun|letter part|s ?
+%gra:	1|2|DET 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|12|ROOT 6|2|CASE 7|8|DET 8|5|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|11|CASE 13|5|PUNCT
+%wor:	what 259519_259659 words 259719_259999 can 260039_260179 you 260219_260299 think 260339_260559 of 260619_260719 that 260719_260859 start 260959_261240 with 261280_261400 the 261420_261480 letter 261540_261800 s 262120_262601 ?
+*INV:	(...) what are you looking at ? 268202_268963
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|look-Part-Pres-S adp|at ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|1|CASE 6|4|PUNCT
+%wor:	what 268202_268963 are you looking at ?
+*PAR:	I'm looking at this . [+ exc] 270887_271970
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|look-Part-Pres-S adp|at pron|this-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	I'm 270887_270967 looking 271027_271327 at 271368_271468 this 271528_271970 .
+*INV:	how come ? 271970_272229
+%mor:	adv|how verb|come-Fin-Ind-Pres-S3 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	how 271970_272229 come ?
+*PAR:	(be)cause I'm looking at it that's why +//. [+ exc] 273092_275114
+%mor:	sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|look-Part-Pres-S adp|at pron|it-Prs-Acc-S3 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why +//.
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|9|ADVCL 5|6|CASE 6|4|OBL 7|9|NSUBJ 8|9|COP 9|9|ROOT 10|9|PUNCT
+%wor:	(be)cause 273092_273732 I'm 273752_273852 looking 273912_274213 at 274273_274313 it 274353_274393 that's 274433_274554 why 274614_275114 +//.
+*INV:	+< is something wrong with it ? 274696_275779
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adj|wrong-S1 adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|2|COP 2|5|ROOT 3|2|AMOD 4|5|CASE 5|3|OBL 6|2|PUNCT
+%wor:	is 274696_274734 something 274754_275034 wrong 275034_275295 with 275295_275779 it ?
+*PAR:	&-uh it's parson parson@k . [+ exc] 276059_279302
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|parson noun|parson .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	uh 276059_277499 it's 277499_277639 parson 277840_278461 parson 278802_279302 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	so , why don't you look over here and tell me all the words that you can think of that begin with the letter s@l . 288159_293461
+%mor:	adv|so cm|cm adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|look-Inf-S adp|over adv|here cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|word-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|AUX 5|7|ADVMOD 6|7|NSUBJ 7|26|ROOT 8|9|CASE 9|7|OBL 10|11|CC 11|7|CONJ 12|11|IOBJ 13|15|DET-PREDET 14|15|DET 15|11|OBJ 16|19|OBL 17|19|NSUBJ 18|19|AUX 19|15|ACL-RELCL 20|16|CASE 21|22|NSUBJ 22|15|ACL-RELCL 23|25|CASE 24|25|DET 25|22|OBL 26|25|CASE 27|7|PUNCT
+%wor:	so 288159_288219 , why 288299_288459 don't 288459_288619 you 288639_288739 look 288759_289059 over 289099_289239 here 289339_289659 and 290019_290120 tell 290160_290360 me 290400_290460 all 290580_290700 the 290720_290780 words 290840_291040 that 291040_291140 you 291160_291240 can 291260_291380 think 291440_291640 of 291680_291780 that 291800_291920 begin 291960_292201 with 292241_292341 the 292341_292421 letter 292481_292721 s 292961_293461 .
+*INV:	(..) can you think of any word at all that begins with the letter s@l ? 296563_299644
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|14|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|10|NSUBJ 10|6|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|13|CASE 15|3|PUNCT
+%wor:	can 296563_296703 you 296723_296803 think 296823_296983 of 297023_297103 any 297143_297283 word 297363_297563 at 297603_297663 all 297744_297884 that 297904_298024 begins 298064_298344 with 298364_298464 the 298464_298544 letter 298584_298844 s 299144_299644 ?
+*INV:	(...) okay . 307564_307981
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 307564_307981 .
+@End

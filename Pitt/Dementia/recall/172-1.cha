@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00089913-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|MCI||Participant|24||
+@Media:	172-1, audio
+@G:	Bill_Immediate
+*INV:	I'd like you to tell me everything that you remember from that story . 11742_15086
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 adp|from det|that-Def-Dem-Sing noun|story .
+%gra:	1|3|NSUBJ 2|3|AUX 3|14|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|3|PUNCT
+%wor:	I'd 11742_11802 like 11822_11982 you 11982_12042 to 12062_12122 tell 12202_12403 me 12443_12523 everything 12643_13104 that 13124_13264 you 13384_13444 remember 13544_13965 from 14065_14225 that 14285_14486 story 14586_15086 .
+*PAR:	(..) it was the fourth of July and uncle Bill was coming home . 18734_21956
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|fourth-S1 adp|of propn|July cconj|and noun|uncle propn|Bill aux|be-Fin-Ind-Past-S3-irr verb|come-Part-Pres-S adv|home .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|12|ROOT 5|6|CASE 6|4|NMOD 7|11|CC 8|11|NSUBJ 9|11|NSUBJ 10|11|AUX 11|4|CONJ 12|11|ADVMOD 13|4|PUNCT
+%wor:	it 18734_18812 was 18872_18992 the 19032_19112 fourth 19173_19433 of 19453_19513 July 19553_20014 and 20294_20394 uncle 20414_20655 Bill 20675_20855 was 20915_21035 coming 21075_21376 home 21456_21956 .
+*PAR:	he had been away for about seven years . 23199_25202
+%mor:	pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr aux|be-Part-Past-S-irr adv|away adp|for adv|about num|seven noun|year-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|8|ROOT 5|8|CASE 6|7|ADVMOD 7|8|NUMMOD 8|4|OBL 9|4|PUNCT
+%wor:	he 23199_23279 had 23319_23399 been 23439_23559 away 23579_23839 for 23900_24020 about 24040_24280 seven 24360_24641 years 24721_25202 .
+*PAR:	especially delighted to have him home was little Billy . 28405_31768
+%mor:	adv|especially verb|delight-Part-Past-S part|to verb|have-Inf-S pron|he-Prs-Acc-S3 noun|home-Acc aux|be-Fin-Ind-Past-S3-irr adj|little-S1 propn|Billy .
+%gra:	1|2|ADVMOD 2|9|CSUBJ 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|OBJ 7|9|COP 8|9|AMOD 9|9|ROOT 10|9|PUNCT
+%wor:	especially 28405_28865 delighted 28925_29386 to 29426_29486 have 29566_29726 him 29746_29847 home 29907_30167 was 30227_30427 little 31008_31228 Billy 31268_31768 .
+*PAR:	because he remembered &-uh a very pleasant weekend fishing with his uncle one fall . 32470_42717
+%mor:	sconj|because pron|he-Prs-Nom-S3 verb|remember-Fin-Ind-Past-S3 det|a-Ind-Art adv|very adj|pleasant-S1 noun|weekend noun|fishing-Acc-Ger adp|with pron|his-Prs-Gen-S3 noun|uncle num|one noun|fall .
+%gra:	1|3|MARK 2|3|NSUBJ 3|13|ROOT 4|8|DET 5|6|ADVMOD 6|8|AMOD 7|8|COMPOUND 8|3|OBJ 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|13|NUMMOD 13|11|NMOD-UNMARKED 14|3|PUNCT
+%wor:	because 32470_32851 he 32871_32931 remembered 33031_33612 uh 33872_35915 a 35955_35975 very 36936_37116 pleasant 37176_37617 weekend 37837_38298 fishing 38418_38819 with 38859_38999 his 39019_39159 uncle 39239_39540 one 42083_42243 fall 42323_42717 .
+*INV:	okay . 42717_43104
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 42717_43104 .
+@G:	Bill_Delayed
+*INV:	I told you a story a little while ago . 583661_585367
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art noun|story-Acc det|a-Ind-Art adj|little-S1 noun|while adv|ago .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|8|DET 7|8|AMOD 8|9|OBL-UNMARKED 9|2|ADVMOD 10|2|PUNCT
+%wor:	I 583661_583681 told 583701_583901 you 583941_584021 a 584021_584041 story 584121_584461 a 584521_584541 little 584602_584802 while 584822_585082 ago 585102_585367 .
+*INV:	and what I'd like you to do now is to tell me everything you remember from that story again . 585383_589755
+%mor:	cconj|and pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S adv|now aux|be-Fin-Ind-Pres-S3 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 adp|from det|that-Def-Dem-Sing noun|story adv|again .
+%gra:	1|12|CC 2|12|NSUBJ-OUTER 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|8|ADVMOD 10|12|COP 11|12|MARK 12|20|ROOT 13|12|IOBJ 14|12|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|19|CASE 18|19|DET 19|16|OBL 20|16|ADVMOD 21|12|PUNCT
+%wor:	and 585383_585503 what 585503_585623 I'd 585703_585763 like 585783_585983 you 586003_586083 to 586103_586183 do 586243_586323 now 586424_586644 is 586664_586744 to 586764_586844 tell 586924_587104 me 587144_587204 everything 587284_587685 you 587705_587785 remember 587825_588245 from 588326_588506 that 588566_588746 story 588866_589206 again 589287_589755 .
+*PAR:	(..) the one about uncle Bill coming home ? 592911_594469
+%mor:	det|the-Def-Art noun|one adp|about noun|uncle propn|Bill verb|come-Ger-S adv|home ?
+%gra:	1|2|DET 2|7|ROOT 3|4|CASE 4|2|NMOD 5|2|NMOD 6|2|ACL 7|6|ADVMOD 8|2|PUNCT
+%wor:	the 592911_592971 one 593051_593151 about 593151_593371 uncle 593431_593651 Bill 593651_593811 coming 593892_594152 home 594172_594469 ?
+*INV:	okay . 594652_595152
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 594652_595152 .
+*PAR:	on the fourth of July . 595754_596675
+%mor:	adp|on det|the-Def-Art adj|fourth-S1 adp|of propn|July .
+%gra:	1|3|CASE 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	on 595754_595814 the 595834_595914 fourth 595974_596194 of 596214_596274 July 596294_596675 .
+*PAR:	he had been away for seven years . 598055_599461
+%mor:	pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr aux|be-Part-Past-S-irr adv|away adp|for num|seven noun|year-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|7|ROOT 5|7|CASE 6|7|NUMMOD 7|4|OBL 8|4|PUNCT
+%wor:	he 598055_598095 had 598095_598155 been 598155_598275 away 598295_598495 for 598555_598675 seven 598735_599035 years 599095_599461 .
+*PAR:	and his little nephew was delighted to have him come home . 600897_603641
+%mor:	cconj|and pron|his-Prs-Gen-S3 adj|little-S1 noun|nephew aux|be-Fin-Ind-Past-S3-irr adj|delighted-S1 part|to verb|have-Inf-S pron|he-Prs-Acc-S3 verb|come-Inf-S adv|home .
+%gra:	1|6|CC 2|4|NMOD-POSS 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|11|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|8|XCOMP 11|10|ADVMOD 12|6|PUNCT
+%wor:	and 600897_600977 his 600997_601117 little 601157_601357 nephew 601397_601717 was 601797_601938 delighted 602058_602498 to 602538_602578 have 602638_602818 him 602818_602878 come 602938_603118 home 603199_603641 .
+*PAR:	he remembered the lovely weekend they had had in the fall &-uh when they went fishing . 603641_608343
+%mor:	pron|he-Prs-Nom-S3 verb|remember-Fin-Ind-Past-S3 det|the-Def-Art adj|lovely-S1 noun|weekend-Acc pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Past-P3-irr verb|have-Part-Past-S-irr adp|in det|the-Def-Art noun|fall adv|when pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr noun|fishing-Acc-Ger .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|14|ADVMOD 13|14|NSUBJ 14|8|ADVCL 15|14|OBJ 16|2|PUNCT
+%wor:	he remembered 603641_604079 the 604119_604219 lovely 604840_605100 weekend 605180_605520 they 605540_605660 had 605680_605781 had 605861_606041 in 606081_606141 the 606181_606261 fall 606361_606641 uh 607001_607182 when 607522_607622 they 607642_607722 went 607762_607902 fishing 607942_608343 .
+*INV:	(..) okay . 613041_613416
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 613041_613416 .
+@End

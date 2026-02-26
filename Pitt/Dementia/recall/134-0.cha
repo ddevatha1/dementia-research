@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/a-00089897-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|female|ProbableAD||Participant|24||
+@Media:	134-0, audio
+@Comment:	no delayed recall found on tape
+@G:	George_Immediate
+*INV:	xxx what can you remember ? 907482_908542
+%mor:	pron|what-Int-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what 907482_907762 can 907802_907922 you 907942_908002 remember 908042_908542 ?
+*PAR:	I don't [?] remember xxx [=! whispered] . [+ exc] 910927_911227
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 910927_910947 don't 911027_911227 remember .
+*INV:	anything ?
+%mor:	pron|anything-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	just anything at all will do . 916837_918226
+%mor:	adv|just pron|anything-Ind-S1 adp|at det|all-Def-Tot aux|will-Fin-S verb|do-Inf-S .
+%gra:	1|2|ADVMOD 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|AUX 6|6|ROOT 7|6|PUNCT
+%wor:	just 916837_917056 anything 917156_917497 at 917517_917617 all 917657_917757 will 917757_918018 do 918058_918226 .
+*PAR:	unhunh . [+ exc] 918226_918618
+%mor:	intj|unhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	unhunh 918226_918618 .
+*PAR:	children went to [/] to the country . 922887_924738
+%mor:	noun|child-Plur verb|go-Fin-Ind-Past-P3-irr adp|to det|the-Def-Art noun|country .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	children 922887_923287 went 923287_923508 to 923548_923668 to 924008_924089 the 924129_924209 country 924269_924738 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else ? 928718_929577
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 928718_929037 else 929077_929577 ?
+*PAR:	(...) unhunh , can't remember . [+ exc] 938171_938652
+%mor:	intj|unhunh cm|cm aux|can-Fin-S~part|not verb|remember-Fin-Imp-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	unhunh 938171_938652 , can't remember .
+*PAR:	it just leaves me after xxx talkin(g) . [+ exc] 940394_941116
+%mor:	pron|it-Prs-Nom-S3 adv|just verb|leave-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 sconj|after verb|talk-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|ROOT 4|3|OBJ 5|6|MARK 6|3|ADVCL 7|3|PUNCT
+%wor:	it 940394_940434 just 940434_940634 leaves 940674_940975 me 941015_941095 after 941115_941116 talkin(g) .
+*INV:	mhm . 941876_942157
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 941876_942157 .
+*PAR:	mm . [+ exc] 942497_942581
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mm 942497_942581 .
+*INV:	it's gone ? 942581_943057
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|gone-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	it's 942581_942677 gone 942757_943057 ?
+*PAR:	mhm . [+ exc] 943057_943479
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 943057_943479 .
+*INV:	would you like to take a guess about what it was about ? 943781_946721
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|take-Inf-S det|a-Ind-Art noun|guess-Acc adp|about pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|11|NSUBJ 11|9|ACL-RELCL 12|3|PUNCT 13|3|PUNCT
+%wor:	would 943781_944439 you 944439_944539 like 944579_944719 to 944739_944799 take 944839_945040 a 945060_945080 guess 945160_945460 about 945560_945761 what 945781_945921 it 945961_946021 was 946061_946181 about 946221_946721 ?
+*INV:	just (.) anything at all . 947483_950778
+%mor:	adv|just pron|anything-Ind-S1 adp|at det|all-Def-Tot .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	just 947483_947883 anything 949886_950226 at 950266_950346 all 950426_950778 .
+*INV:	is it gone completely ? 951307_952229
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|go-Part-Past-S-irr adv|completely ?
+%gra:	1|3|COP 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	is 951307_951367 it 951407_951468 gone 951508_951728 completely 951768_952229 ?
+*PAR:	mhm . 952496_952834
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 952496_952834 .
+*INV:	okay . 953336_953797
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 953336_953797 .
+@End

@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/a-00090013-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;|female|PossibleAD||Participant|22||
+@Media:	465-0, audio
+@G:	George_Immediate
+*INV:	remember anything from the story ? 7621_9083
+%mor:	verb|remember-Fin-Imp-S pron|anything-Ind-S1 adp|from det|the-Def-Art noun|story ?
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|1|PUNCT
+%wor:	remember 7621_7881 anything 7921_8322 from 8362_8443 the 8463_8523 story 8583_9083 ?
+*PAR:	(.) it was about a country . 11592_12466
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|about det|a-Ind-Art noun|country .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	it was 11592_11691 about 11731_11971 a 11991_12011 country 12092_12466 .
+*PAR:	I don't know . [+ exc] 12693_12976
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 12693_12713 don't 12713_12934 know 12954_12976 .
+*INV:	okay . 13196_13694
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 13196_13694 .
+*INV:	okay . 19858_20296
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 19858_20296 .
+@G:	George_Delayed
+*INV:	anything from that story ? 535340_536373
+%mor:	pron|anything-Ind-S1 adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	anything 535340_535500 from 535500_535620 that 535640_535820 story 535920_536373 ?
+*PAR:	no , I don't . [+ exc] 536800_537254
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	no 536800_536860 , I 536900_536920 don't 536981_537254 .
+@G:	George_Questions
+*INV:	okay , do you remember who the story was about ? 537261_542886
+%mor:	intj|okay cm|cm aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|CCOMP 7|8|DET 8|6|NSUBJ 9|6|COP 10|5|PUNCT 11|5|PUNCT
+%wor:	okay 537261_541003 , do 541023_541063 you 541063_541143 remember 541163_541563 who 541603_541663 the 541723_541803 story 541883_542184 was 542244_542344 about 542404_542886 ?
+*PAR:	(.) no . 545686_546079
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 545686_546079 .
+*INV:	or what time of year it was ? 547087_548608
+%mor:	cconj|or det|what-Def-Int noun|time adp|of noun|year pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr ?
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|5|CASE 5|3|NMOD 6|7|NSUBJ 7|3|COP 8|3|PUNCT
+%wor:	or 547087_547127 what 547167_547307 time 547367_547607 of 547647_547727 year 547807_547987 it 548047_548147 was 548187_548608 ?
+*PAR:	fall .
+%mor:	noun|fall .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay . 551068_551468
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 551068_551468 .
+*INV:	and what were George's stories about ? 552769_554949
+%mor:	cconj|and pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur adp|about ?
+%gra:	1|2|CC 2|7|ROOT 3|2|COP 4|6|NMOD-POSS 5|4|CASE 6|2|NSUBJ 7|2|CASE 8|2|PUNCT
+%wor:	and 552769_552869 what 552909_553049 were 553109_553249 George's 553309_553829 stories 553929_554389 about 554449_554949 ?
+*PAR:	(..) I don't know . 558912_559692
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 558912_558932 don't 558972_559692 know .
+*INV:	what did Melanie ask George to do ? 560873_563154
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+%wor:	what 560873_561013 did 561073_561213 Melanie 561313_561753 ask 561853_562033 George 562153_562533 to 562593_562653 do 562773_563154 ?
+*PAR:	I don't remember .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*INV:	do you recall why Melanie was holding George's hand tightly ? 569378_572559
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|recall-Inf-S adv|why propn|Melanie aux|be-Fin-Ind-Past-S3-irr verb|hold-Part-Pres-S propn|George~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ADVCL-RELCL 8|10|NMOD-POSS 9|8|CASE 10|7|OBJ 11|7|ADVMOD 12|3|PUNCT
+%wor:	do 569378_569418 you 569418_569478 recall 569478_569878 why 569938_570118 Melanie 570218_570579 was 570619_570739 holding 570819_571179 George's 571219_571659 hand 571719_571979 tightly 572059_572559 ?
+*PAR:	no , I don't . 573307_573984
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	no 573307_573460 , I 573600_573620 don't 573660_573984 .
+*INV:	or why Melanie was scared or didn't like the city ? 574308_577393
+%mor:	cconj|or adv|why propn|Melanie aux|be-Fin-Ind-Past-S3-irr adj|scared-S1 cconj|or aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|11|ROOT 6|9|CC 7|9|AUX 8|9|ADVMOD 9|5|CONJ 10|11|DET 11|9|OBJ 12|5|PUNCT
+%wor:	or 574308_574340 why 574380_574580 Melanie 574680_575100 was 575481_575621 scared 575721_576161 or 576201_576261 didn't 576321_576561 like 576581_576801 the 576821_576901 city 577001_577393 ?
+*PAR:	no , I don't remember that . 578998_579802
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S pron|that-Dem .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	no , I don't remember 578998_579302 that 579302_579802 .
+@End

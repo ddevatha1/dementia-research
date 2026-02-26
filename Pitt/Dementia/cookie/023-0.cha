@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/a-00090338-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|16||
+@Media:	023-0, audio
+@G:	Cookie
+*INV:	everything that's happening in that picture . 2060_3820
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|7|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+%wor:	everything 2060_2485 that's 2485_2667 happening 2707_3132 in 3152_3213 that 3253_3415 picture 3496_3820 .
+*PAR:	(..) well I see the mother . 20221_21621
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|mother-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	well 20221_20401 I 20701_20721 see 20821_21002 the 21042_21122 mother 21202_21621 .
+*PAR:	what's she doin(g) ? [+ exc] 26904_27494
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what's 26904_27090 she 27110_27210 doin(g) 27330_27494 ?
+*PAR:	pourin(g) the [/] (.) the faucet down on the floor . [+ gram] 27890_34160
+%mor:	verb|pour-Part-Pres-S det|the-Def-Art noun|faucet-Acc adp|down adp|on det|the-Def-Art noun|floor .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	pourin(g) 27890_32698 the 32698_32758 the 32838_32898 faucet 32938_33318 down 33338_33519 on 33579_33679 the 33699_33779 floor 33919_34160 .
+*PAR:	<she got> [//] yeah she got that runnin(g) on the floor . [+ es] 34308_37958
+%mor:	intj|yeah pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr pron|that-Dem verb|run-Ger-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	she 34308_34388 got 34488_34708 yeah 36211_36451 she 36511_36612 got 36712_36872 that 36912_37052 runnin(g) 37092_37433 on 37433_37533 the 37573_37653 floor 37714_37958 .
+*PAR:	she's wipin(g) the dishes . 39810_40980
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 39810_39957 wipin(g) 40038_40498 the 40498_40579 dishes 40699_40980 .
+*PAR:	and the little boy's gonna break his neck (.) tryin(g) to get into the cookie jar . 41240_47411
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 part|go verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc verb|try-Part-Pres-S part|to verb|get-Inf-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|7|CC 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|16|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|7|ADVCL 11|12|MARK 12|10|XCOMP 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|7|PUNCT
+%wor:	and 41240_41320 the 41320_41400 little 41460_41700 boy's 41781_42041 gonna 42121_42322 break 42402_42662 his 42662_42782 neck 42903_43183 tryin(g) 45928_46188 to 46188_46248 get 46309_46469 into 46489_46649 the 46709_46809 cookie 46930_47210 jar 47290_47411 .
+*PAR:	and the little girl's yellin(g) for more . 48714_50384
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~part|s noun|yelling-Ger adp|for adj|more-Cmp-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NMOD-POSS 5|4|CASE 6|8|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+%wor:	and 48714_48774 the 48774_48855 little 48935_49156 girl's 49217_49438 yellin(g) 49438_50202 for 50202_50263 more 50263_50384 .
+*PAR:	(..) they're headin(g) into a disaster &=laughs . 66645_68285
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|head-Part-Pres-S adp|into det|a-Ind-Art noun|disaster .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	they're 66645_66805 headin(g) 66825_68285 into a disaster .
+*INV:	+< &=laughs okay . 69720_70157
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 69720_70157 .
+*INV:	(...) anything else ? 87577_87997
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 87577_87897 else 87937_87997 ?
+*PAR:	well the little boy's gonna &+br break his neck there if he doesn't watch out . 94627_96991
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 part|go verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc adv|there sconj|if pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|watch-Inf-S adp|out .
+%gra:	1|7|DISCOURSE 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|16|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|7|ADVMOD 11|15|MARK 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|7|ADVCL 16|15|COMPOUND-PRT 17|7|PUNCT
+%wor:	well 94627_94827 the 94847_94927 little 94988_95208 boy's 95268_95468 gonna 95468_95588 break 95588_95689 his 95689_95849 neck 95849_96109 there 96149_96309 if 96309_96350 he 96370_96410 doesn't 96410_96590 watch 96590_96890 out 96890_96991 .
+*PAR:	&=clears:throat now I expect there are a whole lot more that I didn't see . [+ exc] 102743_105567
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|expect-Fin-Ind-Pres-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art adj|whole-S1 noun|lot adj|more-Cmp-S1 pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|see-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|14|ROOT 4|5|EXPL 5|3|CCOMP 6|8|DET 7|8|AMOD 8|9|OBL-UNMARKED 9|5|NSUBJ 10|14|OBJ 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|9|ACL-RELCL 15|3|PUNCT
+%wor:	now 102743_102965 I 102965_102985 expect 102985_103328 there 103368_103529 are 103529_103610 a 103610_103630 whole 103630_103892 lot 103913_104134 more 104215_104497 that 104518_104659 I 104820_104840 didn't 104881_105224 see 105224_105567 .
+*INV:	okay that's fine .
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+@End

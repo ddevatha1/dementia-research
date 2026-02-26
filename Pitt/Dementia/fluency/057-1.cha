@@ -1,0 +1,173 @@
+@UTF8
+@PID:	11312/a-00089628-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|84;|female|ProbableAD||Participant|24||
+@Media:	057-1, audio
+@G:	foods
+*INV:	go now . 1040_1580
+%mor:	verb|go-Fin-Imp-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	go 1040_1080 now 1080_1580 .
+*PAR:	okay . [+ exc] 2804_3300
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2804_3300 .
+*PAR:	cereal . 4107_4601
+%mor:	noun|cereal .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cereal 4107_4601 .
+*PAR:	and &-uh broccoli . 6662_9162
+%mor:	cconj|and noun|broccoli .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 6662_7082 uh 7162_7902 broccoli 8662_9162 .
+*PAR:	and &-uh oh , gee whiz . [+ exc] 10017_12864
+%mor:	cconj|and intj|oh cm|cm intj|gee intj|whiz .
+%gra:	1|4|CC 2|4|DISCOURSE 3|2|PUNCT 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+%wor:	and 10017_10163 uh 10223_10403 oh 10443_11943 , gee 12184_12364 whiz 12364_12864 .
+*PAR:	apples . 13002_13484
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 13002_13484 .
+*PAR:	and oranges .
+%mor:	cconj|and noun|orange-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*PAR:	and &-uh potatoes . 15920_17861
+%mor:	cconj|and noun|potato-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 15920_16820 uh 16880_17040 potatoes 17361_17861 .
+*PAR:	and &-um &-uh broccoli . 19033_23103
+%mor:	cconj|and noun|broccoli .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 19033_19262 um 19302_19382 uh 19462_19562 broccoli 22603_23103 .
+*PAR:	did I say that ? [+ exc] 23541_23981
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did 23541_23544 I 23584_23604 say 23644_23744 that 23804_23981 ?
+*INV:	mhm . 24402_24724
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 24402_24724 .
+*PAR:	&-uh (.) corn . 29587_30068
+%mor:	noun|corn .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh corn 29587_30068 .
+*PAR:	and &-uh &-uh mashed potatoes . 31187_35031
+%mor:	cconj|and verb|mash-Part-Past-S noun|potato-Plur .
+%gra:	1|3|CC 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	and 31187_31307 uh 31307_31547 uh 31728_34191 mashed 34211_34531 potatoes 34531_35031 .
+*PAR:	and &-uh +... 35955_36734
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 35955_36154 uh 36234_36734 +...
+*PAR:	dear [/] dear [/] dear . [+ exc] 40400_41621
+%mor:	adj|dear-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dear 40400_40600 dear 40800_41041 dear 41141_41621 .
+*PAR:	cake . 42302_42783
+%mor:	noun|cake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cake 42302_42783 .
+*PAR:	and &-uh let's see . [+ exc] 43684_45247
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%wor:	and 43684_43764 uh 43764_43804 let's 43825_44886 see 44906_45247 .
+*PAR:	peas .
+%mor:	noun|pea-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and &-uh +... 55162_56500
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 55162_56500 uh +...
+*PAR:	see , I can't think . [+ exc] 56705_57707
+%mor:	verb|see-Fin-Imp-S cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S .
+%gra:	1|6|ROOT 2|6|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|1|PARATAXIS 7|1|PUNCT
+%wor:	see 56705_56866 , I 56946_56966 can't 56986_57206 think 57246_57707 .
+*PAR:	corn on the cob . 58809_59884
+%mor:	noun|corn adp|on det|the-Def-Art noun|cob .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	corn 58809_59070 on 59130_59250 the 59250_59310 cob 59390_59884 .
+*PAR:	and &+br +//.
+%mor:	cconj|and +//.
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	didn't [//] I said bread@q .
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|bread .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*INV:	mhm , okay .
+%mor:	intj|mhm cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+@G:	S
+*INV:	go .
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	it doesn't +//. [+ exc] 69248_69707
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not +//.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	it doesn't 69248_69707 +//.
+*PAR:	wait . [+ exc] 70008_70288
+%mor:	verb|wait-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	wait 70008_70288 .
+*PAR:	it doesn't &-uh +... [+ exc] 70609_71709
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	it 70609_70688 doesn't 70688_71128 uh 71209_71709 +...
+*INV:	okay . 72751_73250
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 72751_73250 .
+*PAR:	&-uh sand . 76914_77895
+%mor:	noun|sand .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 76914_77375 sand 77395_77895 .
+*PAR:	and &-um +... 78638_78896
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 78638_78896 um +...
+*PAR:	oh , gee whiz . [+ exc] 81379_82320
+%mor:	intj|oh cm|cm intj|gee intj|whiz .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|DISCOURSE 4|4|ROOT 5|4|PUNCT
+%wor:	oh , gee 81379_81899 whiz 81999_82320 .
+*PAR:	(..) sea . 88525_88985
+%mor:	noun|sea .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sea 88525_88985 .
+*PAR:	and swim . 89417_90946
+%mor:	cconj|and verb|swim-Fin-Imp-S .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 89417_90406 swim 90446_90946 .
+*PAR:	and soak . 92407_93167
+%mor:	cconj|and verb|soak-Fin-Imp-S .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 92407_92527 soak 92667_93167 .
+*PAR:	and &-uh (.) &+s &-uh sour . 93801_102433
+%mor:	cconj|and adj|sour-S1 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 93801_93908 uh 93928_101972 uh 101972_102012 sour 102012_102433 .
+*PAR:	and &-uh sad . 108696_111677
+%mor:	cconj|and adj|sad-S1 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 108696_111057 uh 111077_111117 sad 111177_111677 .
+*PAR:	(.) swim . 115460_115959
+%mor:	verb|swim-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	swim 115460_115959 .
+*PAR:	sweater . 116120_116599
+%mor:	noun|sweater .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sweater 116120_116599 .
+*PAR:	(..) seesaw . 126270_126730
+%mor:	noun|seesaw .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	seesaw 126270_126730 .
+*PAR:	(.) scholar . 129834_130333
+%mor:	noun|scholar .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	scholar 129834_130333 .
+*INV:	okay . 136082_136563
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 136082_136563 .
+@End

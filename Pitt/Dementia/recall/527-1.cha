@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/a-00090033-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|15||
+@Media:	527-1, audio
+@Comment:	linking is not corrected
+@G:	George_Delayed
+*INV:	can you tell me &-um anything about that little short story I read you a while back ? 1947380_1952004
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 adp|about det|that-Def-Dem-Sing adj|little-S1 adj|short-S1 noun|story pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|a-Ind-Art noun|while adv|back ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|16|ROOT 4|3|IOBJ 5|3|OBJ 6|10|CASE 7|10|DET 8|10|AMOD 9|10|AMOD 10|5|NMOD 11|12|NSUBJ 12|10|ACL-RELCL 13|12|OBJ 14|15|DET 15|16|OBL-UNMARKED 16|12|ADVMOD 17|3|PUNCT
+%wor:	can 1947380_1947500 you 1947540_1947620 tell 1947680_1947920 me 1948000_1948100 um 1948500_1948800 anything 1948981_1949381 about 1949421_1949681 that 1949701_1949841 little 1949881_1950101 short 1950161_1950382 story 1950442_1950762 I 1950922_1950942 read 1951002_1951162 you 1951182_1951282 a 1951342_1951362 while 1951442_1951722 back 1951742_1952004 ?
+*INV:	can you remember anything about that story ? 1952885_1954953
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+%wor:	can 1952885_1953003 you 1953023_1953103 remember 1953143_1953504 anything 1953564_1954024 about 1954064_1954284 that 1954304_1954464 story 1954544_1954953 ?
+*PAR:	what's this about ? [+ exc] 1955447_1956172
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 adp|about ?
+%gra:	1|4|ROOT 2|1|COP 3|1|NSUBJ 4|1|CASE 5|1|PUNCT
+%wor:	what's 1955447_1955625 this 1955625_1955765 about 1955865_1956172 ?
+*INV:	I'm asking you that . 1956628_1957519
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|ask-Part-Pres-S pron|you-Prs-Acc-S2 pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|IOBJ 5|3|OBJ 6|3|PUNCT
+%wor:	I'm 1956628_1956706 asking 1956786_1957106 you 1957126_1957226 that 1957286_1957519 .
+*INV:	do you know what that was about ? 1957789_1959388
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|CCOMP 8|3|PUNCT
+%wor:	do 1957789_1957827 you 1957867_1957967 know 1957987_1958187 what 1958527_1958647 that 1958667_1958807 was 1958847_1958967 about 1959027_1959388 ?
+*INV:	that story ? 1959411_1960050
+%mor:	det|that-Def-Dem-Sing noun|story ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	that 1959411_1959568 story 1959628_1960050 ?
+*PAR:	+< oh , I hear so many stories . [+ exc] 1959971_1961509
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Pres-S1 adv|so adj|many-S1 noun|story-Plur-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|6|ADVMOD 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%wor:	oh 1959971_1960008 , I 1960148_1960168 hear 1960248_1960408 so 1960488_1960568 many 1960689_1960869 stories 1961009_1961509 .
+*INV:	+< okay . 1961673_1962070
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1961673_1962070 .
+*PAR:	girl , that I don't remember which one was yours or anything . [+ exc] 1962433_1966215
+%mor:	noun|girl cm|cm sconj|that pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S det|which-Def-Int noun|one aux|be-Fin-Ind-Past-S3-irr pron|your-Prs-S2 cconj|or pron|anything-Ind-S1 .
+%gra:	1|7|VOCATIVE 2|1|PUNCT 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|13|ROOT 8|9|DET 9|11|NSUBJ 10|11|COP 11|7|CCOMP 12|13|CC 13|11|CONJ 14|7|PUNCT
+%wor:	girl 1962433_1962633 , that 1963293_1963433 I 1963573_1963593 don't 1963633_1963833 remember 1963913_1964294 which 1964354_1964554 one 1964674_1964794 was 1964814_1964974 yours 1965034_1965334 or 1965454_1965555 anything 1965715_1966215 .
+*INV:	+< okay . 1966076_1966375
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1966076_1966375 .
+*PAR:	&-you_know (.) when I go places , why they read me stories or tell me stories . [+ exc] 1968097_1974900
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 noun|place-Plur-Acc cm|cm adv|why pron|they-Prs-Nom-P3 verb|read-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 noun|story-Plur-Acc cconj|or verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 noun|story-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ADVCL 4|3|OBJ 5|3|PUNCT 6|8|ADVMOD 7|8|NSUBJ 8|14|ROOT 9|8|IOBJ 10|8|OBJ 11|12|CC 12|8|CONJ 13|12|IOBJ 14|12|OBJ 15|8|PUNCT
+%wor:	you_know 1968097_1968436 when 1970338_1970498 I 1970638_1970658 go 1970718_1970818 places 1970978_1971518 , why 1971618_1971859 they 1971939_1972119 read 1972239_1972439 me 1972499_1972579 stories 1972699_1973279 or 1973360_1973460 tell 1973940_1974160 me 1974220_1974280 stories 1974400_1974900 .
+*PAR:	and I don't remember the [//] which one is really +... [+ exc] 1975502_1978810
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S det|which-Def-Int noun|one aux|be-Fin-Ind-Pres-S3 adv|really +...
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|7|DET 7|9|NSUBJ 8|9|COP 9|5|CCOMP 10|5|PUNCT
+%wor:	and 1975502_1975843 I 1975963_1975983 don't 1976043_1976404 remember 1976444_1976865 the 1976925_1977005 which 1977306_1977486 one 1977627_1977807 is 1978208_1978268 really 1978409_1978810 +...
+@End

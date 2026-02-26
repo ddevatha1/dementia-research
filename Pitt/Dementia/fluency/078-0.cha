@@ -1,0 +1,218 @@
+@UTF8
+@PID:	11312/a-00089643-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|ProbableAD||Participant|17||
+@Media:	078-0, audio
+@G:	animals
+*INV:	www .
+%exp:	abrupt tape recorder stop and start
+*PAR:	dog +/. [+ exc] 881_1315
+%mor:	noun|dog +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 881_1315 +/.
+*PAR:	okay . [+ exc] 1442_1698
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1442_1698 .
+*INV:	+< okay , you [/] you start then go on . 1723_3372
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2 verb|start-Fin-Ind-Pres-S2 adv|then verb|go-Fin-Imp-S adp|on .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|6|ADVMOD 6|4|PARATAXIS 7|6|COMPOUND-PRT 8|4|PUNCT
+%wor:	okay 1723_1862 , you 2143_2223 you 2403_2483 start 2563_2824 then 2864_3004 go 3104_3204 on 3285_3372 .
+*PAR:	dog . 3466_3965
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 3466_3965 .
+*PAR:	cat . 4668_5167
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 4668_5167 .
+*PAR:	&-uh (..) did I say fish@q ? 5531_11658
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S q|fish ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	uh did 5531_6009 I 6550_6570 say 10877_11017 fish@q 11158_11658 ?
+*PAR:	&-uh flowers . 14264_15085
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 14264_14585 flowers 14585_15085 .
+*PAR:	a mouse &=laughs . 17712_18311
+%mor:	det|a-Ind-Art noun|mouse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 17712_17731 mouse 17811_18311 .
+*PAR:	did I say dog@q I think ? [+ exc] 20016_20696
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S q|dog pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|FLAT 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+%wor:	did I say 20016_20156 dog@q 20216_20557 I 20597_20617 think 20637_20696 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	a dog , cat , mouse , I +... [+ exc] 21619_23563
+%mor:	det|a-Ind-Art noun|dog cm|cm noun|cat cm|cm noun|mouse cm|cm noun|I +...
+%gra:	1|2|DET 2|8|ROOT 3|4|PUNCT 4|2|CONJ 5|6|PUNCT 6|2|CONJ 7|8|PUNCT 8|2|CONJ 9|2|PUNCT
+%wor:	a 21619_21639 dog 21739_22019 , cat 22120_22380 , mouse 22621_23062 , I 23142_23563 +...
+*PAR:	I'm trying to think of all the little animals . [+ exc] 27320_29221
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|try-Part-Pres-S part|to verb|think-Inf-S adp|of det|all-Def-Tot det|the-Def-Art adj|little-S1 noun|animal-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|10|CASE 7|10|DET-PREDET 8|10|DET 9|10|AMOD 10|5|OBL 11|3|PUNCT
+%wor:	I'm 27320_27380 trying 27380_27620 to 27620_27680 think 27740_27920 of 27960_28040 all 28121_28241 the 28241_28321 little 28381_28601 animals 28721_29221 .
+*PAR:	did I say a mouse@q &=laughs ? [+ exc] 30565_31604
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|a-Ind-Art q|mouse ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|FLAT 6|3|PUNCT
+%wor:	did 30565_30684 I 30744_30764 say 30824_31004 a 31004_31024 mouse@q 31104_31604 ?
+*INV:	+< mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	a cat . 34592_35209
+%mor:	det|a-Ind-Art noun|cat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 34592_34609 cat 34709_35209 .
+*PAR:	and a dog . 35410_36210
+%mor:	cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	and 35410_35610 a 35610_35630 dog 35710_36210 .
+*PAR:	(...) snake . 41418_41899
+%mor:	noun|snake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snake 41418_41899 .
+*PAR:	&=laughs oh , shoot . [+ exc] 42920_43500
+%mor:	intj|oh cm|cm verb|shoot-Fin-Imp-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh 42920_42980 , shoot 43020_43500 .
+*PAR:	I can't &=laughs . [+ exc] 43760_44260
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I can't 43760_44260 .
+*PAR:	rat . 47324_47823
+%mor:	noun|rat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rat 47324_47823 .
+*PAR:	mouse . 48134_48445
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mouse 48134_48445 .
+*PAR:	did I say them ? [+ exc] 48805_49362
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did 48805_48905 I 48986_49006 say 49066_49206 them 49246_49362 ?
+*INV:	mhm . 49665_50026
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 49665_50026 .
+*PAR:	yeah . [+ exc] 50051_50226
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 50051_50226 .
+*PAR:	(...) xxx dogs . [+ exc]
+%mor:	noun|dog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&+p little puppies . 60960_61800
+%mor:	adj|little-S1 noun|puppy-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	little 60960_61240 puppies 61380_61800 .
+*PAR:	I guess that xxx [//] counts dogs@q . [+ exc] 61840_63601
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem verb|count-Fin-Ind-Pres-S3 q|dogs .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|FLAT 6|2|PUNCT
+%wor:	I guess 61840_62000 that 62000_62120 xxx 62160_62441 counts 62621_63021 dogs@q 63101_63601 .
+*PAR:	(..) kittens .
+%mor:	noun|kitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) horses .
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	F
+*INV:	off you go . 79392_80172
+%mor:	adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	off 79392_79512 you 79572_79672 go 79672_80172 .
+*PAR:	friend . 83359_83858
+%mor:	noun|friend .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	friend 83359_83858 .
+*PAR:	(...) fish . 88408_88907
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 88408_88907 .
+*PAR:	(...) you said with [/] with what ? [+ exc] 97995_98965
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr adp|with pron|what-Int-S1 ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	you 97995_98075 said 98115_98295 with 98355_98515 with 98675_98835 what 98876_98965 ?
+*PAR:	a f@l ? [+ exc] 99616_99754
+%mor:	det|a-Ind-Art noun|f ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a f 99616_99754 ?
+*INV:	yes . 99837_100336
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yes 99837_100336 .
+*PAR:	flower . 100998_101497
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flower 100998_101497 .
+*PAR:	&=laughs does that count ? [+ exc] 102277_103000
+%mor:	aux|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|count-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	does 102277_102359 that 102399_102560 count 102600_103000 ?
+*PAR:	no . [+ exc] 103120_103618
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 103120_103618 .
+*INV:	+< yes . 103300_103798
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yes 103300_103798 .
+*PAR:	(.) mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	was that xxx ? [+ exc]
+%mor:	aux|be-Fin-Ind-Past-S3-irr pron|that-Dem ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*PAR:	(..) kittens .
+%mor:	noun|kitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) could you say flowers@q xxx ? [+ exc] 119147_120127
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S q|flowers ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	could 119147_119307 you 119307_119407 say 119407_119587 flowers@q 119627_120127 ?
+*INV:	mhm . 120990_121212
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 120990_121212 .
+*PAR:	flowers . 121431_121910
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flowers 121431_121910 .
+*PAR:	pigs . 122814_123292
+%mor:	noun|pig-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pigs 122814_123292 .
+*PAR:	cows . 123816_124296
+%mor:	noun|cow-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cows 123816_124296 .
+*PAR:	horses . 125078_125535
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horses 125078_125535 .
+*PAR:	(..) grew up on a farm &=laughs . [+ exc] 127539_128441
+%mor:	verb|grow-Fin-Ind-Past-S1-irr adp|up adp|on det|a-Ind-Art noun|farm .
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%wor:	grew 127539_127759 up 127759_127800 on 127820_127880 a 127880_127900 farm 127960_128441 .
+*INV:	okay , words that begin with the letter f@l . 132143_134246
+%mor:	intj|okay cm|cm noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|9|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|8|CASE 7|8|DET 8|5|OBL 9|5|OBL-UNMARKED 10|3|PUNCT
+%wor:	okay 132143_132383 , words 132443_132744 that 132744_132824 begin 132844_133145 with 133205_133345 the 133345_133405 letter 133486_133746 f 133746_134246 .
+*PAR:	xxx &-uh oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) flower .
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	is that +/? [+ exc]
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem +/?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*INV:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

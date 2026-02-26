@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/a-00090395-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|76;00.|female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	094-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	&-um mother son and daughter . [+ gram] 2360_6840
+%mor:	noun|mother noun|son cconj|and noun|daughter .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%wor:	um 2360_2520 mother 4843_5384 son 5985_6266 and 6326_6426 daughter 6466_6840 .
+*PAR:	the water's spillin(g) out o(f) the sink . 9650_11774
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 9650_9731 water's 9791_10251 spillin(g) 10351_10852 out 10852_11052 o(f) 11093_11173 the 11173_11273 sink 11373_11774 .
+*PAR:	&=laughs . [+ exc]
+*PAR:	she's dryin(g) the dishes . 13694_15254
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 13694_13974 dryin(g) 14214_14655 the 14655_14715 dishes 14795_15254 .
+*PAR:	the [/] the kids are into the cookie jar &=laughs . 16521_19091
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 16521_16597 the 16937_16997 kids 17498_17778 are 17838_17958 into 17998_18178 the 18238_18318 cookie 18398_18739 jar 18779_19091 .
+*PAR:	am I goin(g) too fast ? [+ exc] 20615_21565
+%mor:	aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adv|too adj|fast-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+%wor:	am 20615_20681 I 20761_20781 goin(g) 20821_21041 too 21041_21181 fast 21221_21565 ?
+*INV:	don't worry . 21782_22326
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	don't 21782_21942 worry 21962_22326 .
+*PAR:	how many you got xxx ? [+ exc] 24110_24760
+%mor:	adv|how adj|many-S1 pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr ?
+%gra:	1|2|ADVMOD 2|4|OBJ 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	how 24110_24205 many 24245_24425 you 24465_24545 got 24585_24760 ?
+*INV:	go ahead . 25486_26022
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	go 25486_25566 ahead 25646_26022 .
+*PAR:	how many you need ? [+ exc] 26127_26948
+%mor:	adv|how adj|many-S1 pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 ?
+%gra:	1|2|ADVMOD 2|4|OBJ 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	how 26127_26247 many 26287_26467 you 26507_26607 need 26687_26948 ?
+*INV:	tell me all the things that you see going on in the picture . 27612_30512
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|thing-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|13|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|9|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|1|PUNCT
+%wor:	tell 27612_27752 me 27772_27832 all 27952_28052 the 28072_28292 things 28352_28632 that 28652_28752 you 28772_28852 see 28932_29113 going 29213_29553 on 29673_29813 in 29873_29933 the 29953_30033 picture 30093_30512 .
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh you got the water runnin(g) over . 33276_34867
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr det|the-Def-Art noun|water-Acc verb|run-Ger-S adv|over .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|2|XCOMP 6|5|ADVMOD 7|2|PUNCT
+%wor:	uh 33276_33376 you 33416_33496 got 33556_33716 the 33736_33816 water 33916_34236 runnin(g) 34296_34636 over 34636_34867 .
+*PAR:	&-uh and the little boy's &-uh gonna fall (be)cause it's already slantin(g) . 36298_41802
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already verb|slant-Part-Pres-S .
+%gra:	1|7|CC 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|12|ROOT 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|7|ADVCL 13|7|PUNCT
+%wor:	uh 36298_36398 and 36998_37078 the 37078_37158 little 37238_37418 boy's 37518_37939 uh 38639_38739 gonna 38759_38960 fall 39040_39280 (be)cause 39280_39600 it's 39640_39800 already 39860_40360 slantin(g) 41401_41802 .
+*PAR:	what thing he's standin(g) on . [+ cir] [+ gram] 42781_43981
+%mor:	det|what-Def-Int noun|thing-Ger pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on .
+%gra:	1|2|DET 2|6|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|5|OBL 7|2|PUNCT
+%wor:	what 42781_42922 thing 42982_43163 he's 43184_43304 standin(g) 43345_43848 on 43848_43981 .
+*PAR:	stool . [+ gram] 44433_44695
+%mor:	noun|stool .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	stool 44433_44695 .
+*INV:	&=coughs .
+*INV:	okay ? 67618_67998
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 67618_67998 ?
+*PAR:	is that all ? [+ exc] 68655_69145
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 68655_68762 that 68762_68923 all 68963_69145 ?
+*INV:	that's fine . 69425_69988
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 69425_69626 fine 69686_69988 .
+@End

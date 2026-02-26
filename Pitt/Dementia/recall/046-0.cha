@@ -1,0 +1,96 @@
+@UTF8
+@PID:	11312/a-00089854-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|23||
+@Media:	046-0, audio
+@G:	George_Immediate
+*INV:	can you tell me all that you can remember +/? 141063_142947
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot sconj|that pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S +/?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|3|OBJ 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|3|PUNCT
+%wor:	can 141063_141488 you 141488_141569 tell 141610_141772 me 141812_141873 all 141995_142116 that 142116_142238 you 142278_142339 can 142440_142521 remember 142521_142947 +/?
+*PAR:	+< that's all ? [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	that's it .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	&=laughs . [+ exc]
+*PAR:	&-uh Melanie and their father (.) were living in (.) some nice house . 147360_158158
+%mor:	propn|Melanie cconj|and pron|their-Prs-Gen-P3 noun|father aux|be-Fin-Ind-Past-P3-irr verb|live-Part-Pres-S adp|in det|some-Def-Ind adj|nice-S1 noun|house .
+%gra:	1|6|NSUBJ 2|4|CC 3|4|NMOD-POSS 4|1|CONJ 5|6|AUX 6|10|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|6|PUNCT
+%wor:	uh 147360_149001 Melanie 149001_149621 and 149721_149841 their 149861_150081 father 150862_151322 were 154784_154944 living 154984_155364 in 155444_155544 some 156965_157205 nice 157245_157665 house 157665_158158 .
+*PAR:	no , it was her grandfather . 158687_159906
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|grandfather .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|NMOD-POSS 6|6|ROOT 7|6|PUNCT
+%wor:	no 158687_158806 , it 158926_159026 was 159066_159206 her 159246_159346 grandfather 159406_159906 .
+*PAR:	and she wanted to go to see the grandfather for whatever +... 161350_164594
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Past-S3 part|to verb|go-Inf-S part|to verb|see-Inf-S det|the-Def-Art noun|grandfather-Acc adp|for pron|whatever-Int-S1 +...
+%gra:	1|3|CC 2|3|NSUBJ 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|11|CASE 11|7|OBL 12|3|PUNCT
+%wor:	and 161350_161450 she 161510_161610 wanted 161730_162071 to 162071_162131 go 162191_162291 to 162391_162471 see 162592_162772 the 162812_162892 grandfather 162972_163754 for 163854_164054 whatever 164094_164594 +...
+*PAR:	xxx which one was it &=laughs . [+ exc] 165598_166318
+%mor:	det|which-Def-Int noun|one aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	which 165598_165797 one 165897_166038 was 166078_166318 it .
+*INV:	okay . 167481_167700
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 167481_167700 .
+*PAR:	and when she got there all at the streets . 168403_171226
+%mor:	cconj|and adv|when pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adv|there det|all-Def-Tot adp|at det|the-Def-Art noun|street-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|4|ADVMOD 6|4|ADVMOD 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	and 168403_168642 when 169043_169183 she 169283_169403 got 169504_169764 there 169864_170125 all 170265_170365 at 170385_170505 the 170545_170625 streets 170726_171226 .
+*PAR:	and they were so busy and everything she was glad to go back to her grandfather's house . 171409_179056
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adv|so adj|busy-S1 cconj|and pron|everything-Tot-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|glad-S1 part|to verb|go-Inf-S adv|back adp|to pron|her-Prs-Gen-S3 noun|grandfather~part|s noun|house .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|18|ROOT 6|10|CC 7|5|CONJ 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|12|ADVMOD 14|18|CASE 15|16|NMOD-POSS 16|18|NMOD-POSS 17|16|CASE 18|12|OBL 19|5|PUNCT
+%wor:	and 171409_171489 they 171509_171669 were 171709_171869 so 171949_172049 busy 173350_173690 and 173830_173970 everything 174030_174470 she 174551_174651 was 174711_174851 glad 174911_175211 to 175291_175351 go 175431_175511 back 175631_175991 to 177372_177452 her 177512_177652 grandfather's 177733_178533 house 178593_179056 .
+*PAR:	George +... 182716_183216
+%mor:	propn|George +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	George 182716_183216 +...
+*PAR:	who was George ? [+ exc] 183937_184877
+%mor:	pron|who-Int aux|be-Fin-Ind-Past-S3-irr propn|George ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	who 183937_184036 was 184137_184297 George 184377_184877 ?
+*PAR:	her father ? [+ exc] 184918_185637
+%mor:	pron|her-Prs-Gen-S3 noun|father ?
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%wor:	her 184918_185057 father 185137_185637 ?
+*PAR:	was George her [/] &+gra her father ? [+ exc] 189942_191943
+%mor:	aux|be-Fin-Ind-Past-S3-irr propn|George pron|her-Prs-Gen-S3 noun|father ?
+%gra:	1|2|COP 2|4|ROOT 3|4|NMOD-POSS 4|2|APPOS 5|2|PUNCT
+%wor:	was 189942_190042 George 190102_190882 her 191142_191242 her 191283_191383 father 191443_191943 ?
+*INV:	George was her grandfather . 192524_193564
+%mor:	propn|George aux|be-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|grandfather .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%wor:	George 192524_192784 was 192824_192904 her 192924_193044 grandfather 193064_193564 .
+*PAR:	grandfather (.) &=sighs . [+ exc] 193885_194384
+%mor:	noun|grandfather .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	grandfather 193885_194384 .
+*INV:	okay , do you remember anything else ? 198189_199791
+%mor:	intj|okay cm|cm aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|5|OBJ 7|6|AMOD 8|5|PUNCT
+%wor:	okay 198189_198468 , do 198748_198788 you 198788_198848 remember 198848_199108 anything 199148_199469 else 199529_199791 ?
+*PAR:	she didn't like the streets . 202631_204112
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art noun|street-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	she 202631_202731 didn't 202851_203071 like 203131_203391 the 203431_203512 streets 203612_204112 .
+*INV:	mhm . 204452_204853
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 204452_204853 .
+*PAR:	they were too loud for her . 205016_206417
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adv|too adj|loud-S1 adp|for pron|her-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	they 205016_205096 were 205136_205256 too 205356_205536 loud 205576_205957 for 206137_206417 her .
+*INV:	mhm . 207038_207378
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 207038_207378 .
+*INV:	(..) okay , that's fine .
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+@End

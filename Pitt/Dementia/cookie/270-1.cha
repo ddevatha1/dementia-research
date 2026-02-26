@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/a-00090490-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|ProbableAD||Participant|22||
+@Media:	270-1, audio
+@G:	Cookie
+*INV:	going on in the picture . 580_1720
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%wor:	going 580_880 on 940_1160 in 1200_1300 the 1300_1460 picture 1460_1720 .
+*INV:	any action at all . 2461_2962
+%mor:	det|any-Def-Ind noun|action adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	any action 2461_2822 at 2882_2962 all .
+*PAR:	+< alright . [+ exc] 3435_3742
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 3435_3742 .
+*PAR:	a boy is getting a cookie from the cookie jar . 4964_7361
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	a 4964_4984 boy 5104_5404 is 5564_5684 getting 5744_6025 a 6085_6105 cookie 6225_6565 from 6565_6745 the 6745_6805 cookie 6866_7226 jar 7246_7361 .
+*PAR:	and the stool that he's standing on is falling over . 7660_11030
+%mor:	cconj|and det|the-Def-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|10|AUX 10|11|ROOT 11|10|ADVMOD 12|10|PUNCT
+%wor:	and 7660_7706 the 8547_8607 stool 8707_8927 that 8968_9108 he's 9108_9308 standing 9328_9708 on 9768_9908 is 10069_10169 falling 10229_10629 over 10689_11030 .
+*PAR:	the little girl is raising her hand reaching for some of the cookies he was taking . 12692_17262
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|raise-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc verb|reach-Part-Pres-S adp|for det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|take-Part-Pres-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|16|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|ADVCL 9|10|CASE 10|8|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|16|NSUBJ 15|16|AUX 16|13|ACL-RELCL 17|5|PUNCT
+%wor:	the 12692_12872 little 12912_13072 girl 13072_13352 is 13552_13632 raising 13792_14152 her 14192_14292 hand 14352_14632 reaching 15033_15373 for 15413_15553 some 15633_15793 of 15833_15873 the 15873_15953 cookies 16013_16393 he 16433_16493 was 16573_16713 taking 16773_17262 .
+*PAR:	mother is doing the dishes obviously . 19255_21215
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adv|obviously .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%wor:	mother 19255_19515 is 19555_19635 doing 19695_19915 the 19935_20015 dishes 20135_20555 obviously 20715_21215 .
+*PAR:	and the water is running all over the floor &=laughs . 21676_23796
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 21676_21776 the 21796_21876 water 21916_22216 is 22296_22396 running 22456_22716 all 22776_22896 over 22956_23136 the 23176_23256 floor 23296_23796 .
+*PAR:	&-um (...) &-hm let's see . [+ exc] 28600_29541
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	um 28600_28761 hm 28761_28841 let's 28841_29021 see 29041_29541 .
+*PAR:	(..) <I can't> [//] &+remem <I guess or> [//] did I say the little girl was <asking or> [//] reaching for a cookie too ? [+ exc] 43181_46491
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie adv|too ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|6|DET 5|6|AMOD 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|8|ADVMOD 13|3|PUNCT
+%wor:	I 43181_43201 can't 43201_43341 I 43341_43361 guess 43361_43581 or 43621_43682 did 43682_43762 I 43762_43782 say 43782_43902 the 43902_43962 little 43962_44123 girl 44123_44223 was 44223_44403 asking 44463_44844 or 44984_45405 reaching 45425_45706 for 45746_45866 a 45866_45886 cookie 45926_46267 too 46307_46491 ?
+*PAR:	okay let's see . [+ exc]
+%mor:	intj|okay verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	&=sighs well , socks are falling down &=laughs . 52941_54425
+%mor:	intj|well cm|cm noun|sock-Plur aux|be-Fin-Ind-Pres-P3 verb|fall-Part-Pres-S adv|down .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	well 52941_53082 , socks 53182_53462 are 53523_53603 falling 53623_53903 down 53943_54425 .
+*PAR:	I think that's about it . [+ exc] 57681_58581
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+%wor:	I 57681_57701 think 57701_57883 that's 57883_58004 about 58004_58125 it 58186_58581 .
+*INV:	+< okay . 58450_58550
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 58450_58550 .
+@End

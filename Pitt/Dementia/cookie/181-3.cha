@@ -1,0 +1,99 @@
+@UTF8
+@PID:	11312/a-00090432-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|81;00.|female|ProbableAD||Participant|||
+@Media:	181-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	now I'm going to give you a picture . 390_1210
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|4|PUNCT
+%wor:	now 390_1210 I'm going to give you a picture .
+*PAR:	&-uh &+th these two little &+g kids are gettin(g) cookies out of the cookie jar . 3835_7544
+%mor:	det|this-Def-Dem-Plur num|two adj|little-S1 noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|DET 2|4|NUMMOD 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|12|ROOT 7|6|OBJ 8|12|CASE 9|8|FIXED 10|12|DET 11|12|COMPOUND 12|6|OBL 13|6|PUNCT
+%wor:	uh 3835_3875 these 3875_4135 two 4175_4315 little 4355_4696 kids 5157_5357 are 5417_5537 gettin(g) 5878_6158 cookies 6158_6479 out 6519_6619 of 6639_6679 the 6699_6759 cookie 6799_7059 jar 7100_7544 .
+*INV:	okay . 8281_8761
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 8281_8761 .
+*PAR:	+< and [/] and this lady over here is +... 8942_10465
+%mor:	cconj|and det|this-Def-Dem-Sing noun|lady adp|over adv|here aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|5|CC 2|3|DET 3|6|NSUBJ 4|5|CASE 5|3|NMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and 8942_9002 and 9042_9143 this 9183_9343 lady 9423_9683 over 9884_10104 here 10184_10424 is 10424_10465 +...
+*PAR:	what is she doing ? [+ exc]
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*PAR:	she's &-uh &-uh decorating . 16850_19750
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|decorate-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	she's 16850_16970 uh 16970_17190 uh 17190_17230 decorating 19315_19750 .
+*PAR:	isn't that what she's doin(g) ? [+ exc] 23143_23930
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not sconj|that pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|MARK 4|7|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|4|PUNCT
+%wor:	isn't 23143_23264 that 23284_23384 what 23424_23544 she's 23564_23725 doin(g) 23725_23930 ?
+*INV:	+< okay . 24460_24606
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 24460_24606 .
+*PAR:	+< decorating ? [+ exc] 24852_25112
+%mor:	noun|decorating-Ger ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	decorating 24852_25112 ?
+*INV:	can you tell me what else is going on over here ? 25153_27253
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adj|else-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|8|NSUBJ 6|5|AMOD 7|8|AUX 8|3|CCOMP 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|3|PUNCT
+%wor:	can 25153_25268 you 25288_25368 tell 25408_25549 me 25569_25609 what 25669_25789 else 25829_25990 is 26050_26130 going 26170_26411 on 26471_26571 over 26651_26832 here 26912_27253 ?
+*PAR:	well , they're &-uh &-eh gettin(g) cookies outta the cookie jar . 28878_34728
+%mor:	intj|well cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|outta det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|5|PUNCT
+%wor:	well 28878_29058 , they're 30601_30821 uh 33345_33385 eh 33385_33526 gettin(g) 33546_33806 cookies 33806_34087 outta 34087_34227 the 34247_34307 cookie 34347_34607 jar 34607_34728 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	up on &-uh a stool that looks like it's gonna topple over . 36531_39216
+%mor:	adv|up adp|on det|a-Ind-Art noun|stool pron|that-Rel verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|topple-Inf-S adp|over .
+%gra:	1|12|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|NSUBJ 6|4|ACL-RELCL 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ADVCL 12|11|COMPOUND-PRT 13|1|PUNCT
+%wor:	up 36531_36571 on 36631_36751 uh 36791_37172 a 37192_37212 stool 37372_37673 that 37773_37853 looks 37873_38033 like 38053_38234 it's 38234_38314 gonna 38374_38534 topple 38634_38975 over 39015_39216 .
+*INV:	what about over here ? 48672_48708
+%mor:	pron|what-Int-S1 adp|about adp|over adv|here ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|CASE 4|1|NMOD 5|1|PUNCT
+%wor:	what 48672_48708 about over here ?
+*INV:	what else is going on over here ?
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|4|PUNCT
+*PAR:	looks like she's washing dishes . 53300_54314
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|6|ROOT 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|1|ADVCL 6|5|OBJ 7|1|PUNCT
+%wor:	looks 53300_53480 like 53480_53640 she's 53660_53801 washing 53841_54161 dishes 54201_54314 .
+*PAR:	drying dishes . [+ gram] 55035_55656
+%mor:	verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	drying 55035_55403 dishes 55423_55656 .
+*PAR:	she's got a cloth in her hand and a dish in her hand . 57117_59647
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|cloth-Acc adp|in pron|her-Prs-Gen-S3 noun|hand cconj|and det|a-Ind-Art noun|dish adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|3|NSUBJ 2|3|AUX 3|14|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|11|CC 10|11|DET 11|5|CONJ 12|14|CASE 13|14|NMOD-POSS 14|11|NMOD 15|3|PUNCT
+%wor:	she's 57117_57186 got 57246_57427 a 57427_57447 cloth 57527_57827 in 57867_57927 her 57968_58048 hand 58088_58388 and 58448_58789 a 58809_58829 dish 58909_59089 in 59109_59190 her 59210_59290 hand 59330_59647 .
+*PAR:	and the +//. 61113_61514
+%mor:	cconj|and det|the-Def-Art +//.
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 61113_61293 the 61353_61514 +//.
+*PAR:	oh , maybe she's gonna wipe up some water because it's sure running out (.) here +/. 61783_65780
+%mor:	intj|oh cm|cm adv|maybe pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|wipe-Inf-S adp|up det|some-Def-Ind noun|water-Acc sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|sure-S1 verb|run-Part-Pres-S adp|out adv|here +/.
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|17|ROOT 8|7|COMPOUND-PRT 9|10|DET 10|7|OBJ 11|14|MARK 12|14|NSUBJ 13|14|COP 14|7|ADVCL 15|14|XCOMP 16|15|COMPOUND-PRT 17|15|ADVMOD 18|7|PUNCT
+%wor:	oh 61783_61883 , maybe 61983_62163 she's 62223_62343 gonna 62343_62564 wipe 62564_62804 up 62804_62904 some 62964_63125 water 63165_63405 because 63465_63766 it's 63806_63926 sure 63946_64146 running 64647_64927 out 64988_65168 here 65528_65780 +/.
+*INV:	okay . 66530_66930
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 66530_66930 .
+*PAR:	+, of the sink . 67272_67707
+%mor:	adp|of det|the-Def-Art noun|sink .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	of the sink 67272_67707 .
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+@End

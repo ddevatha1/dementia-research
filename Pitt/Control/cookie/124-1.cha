@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/a-00090734-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|female|Control||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	124-1, audio
+@G:	Cookie
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	water running out of the sink . [+ gram] 2407_4179
+%mor:	noun|water verb|run-Ger-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|6|ROOT 2|1|ACL 3|6|CASE 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+%wor:	water 2407_2668 running 2728_3070 out 3130_3291 of 3351_3391 the 3432_3532 sink 3693_4179 .
+*PAR:	lady dryin(g) a plate . [+ gram] 5164_6645
+%mor:	noun|lady verb|drying-Ger-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|4|ROOT 2|1|ACL 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	lady 5164_5442 dryin(g) 5562_6065 a 6065_6085 plate 6145_6645 .
+*PAR:	an(d) a child getting cookies out of the cookie jar standing on a stool that is tipping over . [+ gram] 8257_15217
+%mor:	cconj|and det|a-Ind-Art noun|child verb|get-Ger-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|3|CC 2|3|DET 3|18|ROOT 4|3|ACL 5|4|OBJ 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|10|ACL 12|14|CASE 13|14|DET 14|11|OBL 15|17|NSUBJ 16|17|AUX 17|14|ACL-RELCL 18|17|COMPOUND-PRT 19|3|PUNCT
+%wor:	an(d) 8257_8377 a 8377_8397 child 8397_9018 getting 9338_9619 cookies 9779_10320 out 10500_10620 of 10620_10680 the 10701_10801 cookie 11061_11362 jar 11362_11842 standing 12684_13064 on 13124_13205 a 13285_13305 stool 13425_13886 that 13926_14086 is 14106_14286 tipping 14386_14707 over 14787_15217 .
+*PAR:	an(d) a little girl reaching up for a cookie . [+ gram] 15869_18093
+%mor:	cconj|and det|a-Ind-Art adj|little-S1 noun|girl verb|reach-Ger-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|9|ROOT 5|4|ACL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+%wor:	an(d) 15869_15989 a 15989_16009 little 16009_16229 girl 16310_16570 reaching 16710_17051 up 17111_17211 for 17451_17612 a 17632_17652 cookie 17752_18093 .
+*PAR:	and &-um (.) curtains at the window . [+ gram] 24324_25685
+%mor:	cconj|and noun|curtain-Plur adp|at det|the-Def-Art noun|window .
+%gra:	1|2|CC 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	and 24324_24404 um 24465_24505 curtains 24505_24845 at 24905_24985 the 25045_25125 window 25185_25685 .
+*PAR:	a path outside . [+ gram] 27423_28648
+%mor:	det|a-Ind-Art noun|path adv|outside .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	a path 27423_28108 outside 28148_28648 .
+*PAR:	a tree . [+ gram] 31233_31590
+%mor:	det|a-Ind-Art noun|tree .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a tree 31233_31590 .
+*PAR:	&+w a window into another room . [+ gram] 34870_36933
+%mor:	det|a-Ind-Art noun|window adp|into det|another-Def-Ind noun|room .
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	a 34870_34890 window 34970_35511 into 35611_35852 another 35952_36353 room 36433_36933 .
+*PAR:	shrubbery . [+ gram] 38122_38536
+%mor:	noun|shrubbery .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	shrubbery 38122_38536 .
+*PAR:	grass . [+ gram] 41363_41699
+%mor:	noun|grass .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	grass 41363_41699 .
+*PAR:	let's get back to the room again . [+ exc] 42323_45913
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S adv|back adp|to det|the-Def-Art noun|room adv|again .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|ADVMOD 9|1|PUNCT
+%wor:	let's 42323_44389 get 44510_44670 back 44710_44910 to 44991_45071 the 45131_45191 room 45251_45432 again 45512_45913 .
+*PAR:	there's <a cup> [//] two cups and a plate sitting on the countertop . 47824_50806
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate verb|sit-Ger-S adp|on det|the-Def-Art noun|countertop .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|7|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	there's 47824_47964 a 47964_47984 cup 47984_48164 two 48204_48304 cups 48504_48684 and 48704_48784 a 48805_48825 plate 49265_49725 sitting 49766_50026 on 50066_50166 the 50206_50286 countertop 50306_50806 .
+*PAR:	cupboards . [+ gram]
+%mor:	noun|cupboard-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	the lady has a apron on , dress , slippers . 64054_71281
+%mor:	det|the-Def-Art noun|lady verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on cm|cm noun|dress cm|cm noun|slipper-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|6|PUNCT 8|5|NMOD 9|10|PUNCT 10|8|CONJ 11|3|PUNCT
+%wor:	the 64054_64114 lady 64114_64354 has 64454_64694 a 64774_64794 apron 65355_65835 on 65916_66196 , dress 68138_68859 , slippers 70781_71281 .
+*PAR:	and the boy has on a short sleeve shirt , short pants , socks , and &+sh shoes . 73972_82660
+%mor:	cconj|and det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art adj|short-S1 noun|sleeve noun|shirt cm|cm adj|short-S1 noun|pants-Ptan cm|cm noun|sock-Plur cm|cm cconj|and noun|shoe-Plur .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|17|ROOT 5|9|CASE 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|4|OBL 10|12|PUNCT 11|12|AMOD 12|9|CONJ 13|14|PUNCT 14|9|CONJ 15|17|PUNCT 16|17|CC 17|9|CONJ 18|4|PUNCT
+%wor:	and 73972_74032 the 74032_74092 boy 74092_74312 has 74392_74652 on 74732_74852 a 74933_74953 short 75173_75413 sleeve 75473_75874 shirt 75934_76434 , short 77135_77375 pants 77435_78076 , socks 80078_80678 , and 81279_81940 shoes 82160_82660 .
+*PAR:	little girl has on a dress , socks , strap slippers . [+ gram] 84619_91909
+%mor:	adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|dress cm|cm noun|sock-Plur cm|cm noun|strap noun|slipper-Plur .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|PUNCT 8|6|CONJ 9|11|PUNCT 10|11|COMPOUND 11|6|CONJ 12|3|PUNCT
+%wor:	little 84619_84759 girl 84819_85099 has 85139_85379 on 85459_85619 a 85799_85819 dress 87480_88081 , socks 89241_89642 , strap 91183_91463 slippers 91503_91909 .
+*PAR:	(..) did I mention everything ? [+ exc] 94666_97227
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|mention-Inf-S pron|everything-Tot-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did I mention 94666_96966 everything 96966_97227 ?
+*PAR:	sink . 106725_107185
+%mor:	verb|sink-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sink 106725_107185 .
+*PAR:	faucet (.) with water running out of it . [+ gram] 109050_113661
+%mor:	noun|faucet adp|with noun|water verb|run-Ger-S adp|out adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|1|ACL 5|7|CASE 6|7|CASE 7|4|OBL 8|1|PUNCT
+%wor:	faucet 109050_109528 with 112231_112431 water 112571_112812 running 112892_113212 out 113212_113392 of 113432_113553 it 113613_113661 .
+*PAR:	an open window behind the [/] (.) the sink . [+ gram] 116933_121201
+%mor:	det|a-Ind-Art adj|open-S1 noun|window adp|behind det|the-Def-Art noun|sink .
+%gra:	1|3|DET 2|3|AMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	an 116933_116997 open 117137_117397 window 117517_118038 behind 118038_118518 the 118518_120461 the 120481_120701 sink 120701_121201 .
+*PAR:	tie-back curtains . [+ gram] 122967_123947
+%mor:	noun|tieback noun|curtain-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	tieback 122967_123447 curtains 123447_123947 .
+*PAR:	(..) and that's all I see . [+ exc] 132198_133212
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+%wor:	and that's 132198_132557 all 132617_132797 I 132837_132857 see 133038_133212 .
+*INV:	okay , great . 133579_134800
+%mor:	intj|okay cm|cm adj|great-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 133579_134099 , great 134339_134800 .
+@End

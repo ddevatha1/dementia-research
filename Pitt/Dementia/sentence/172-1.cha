@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/a-00091340-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|MCI||Participant|24||
+@Media:	172-1, audio
+*INV:	the word or words in a sentence . 4602_6801
+%mor:	det|the-Def-Art noun|word cconj|or noun|word-Plur adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|DET 2|7|ROOT 3|4|CC 4|2|CONJ 5|7|CASE 6|7|DET 7|2|NMOD 8|2|PUNCT
+%wor:	the 4602_4683 word 4743_5084 or 5445_5545 words 5625_5986 in 6086_6187 a 6287_6307 sentence 6367_6801 .
+*INV:	use the word pencil@q in a short complete sentence . 7952_10543
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art adj|short-S1 adj|complete-S1 noun|sentence .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|9|CASE 6|9|DET 7|9|AMOD 8|9|AMOD 9|1|OBL 10|1|PUNCT
+%wor:	use 7952_8112 the 8132_8232 word 8272_8473 pencil@q 8533_9095 in 9115_9175 a 9215_9235 short 9335_9556 complete 9596_10037 sentence 10057_10543 .
+*PAR:	you are using a pencil . 11040_12324
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|use-Part-Pres-S det|a-Ind-Art noun|pencil-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	you 11040_11140 are 11200_11301 using 11381_11662 a 11742_11762 pencil 12003_12324 .
+*INV:	(.) tree@q . 19671_20131
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 19671_20131 .
+*PAR:	(.) a tree is green in the summertime . [+ exc] 23034_24855
+%mor:	det|a-Ind-Art noun|tree aux|be-Fin-Ind-Pres-S3 adj|green-S1 adp|in det|the-Def-Art noun|summertime .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	a tree 23034_23315 is 23395_23495 green 23595_23975 in 24075_24156 the 24176_24256 summertime 24356_24855 .
+*PAR:	the leaves of a tree are green in the summertime . 29482_32164
+%mor:	det|the-Def-Art noun|leave-Plur adp|of det|a-Ind-Art noun|tree aux|be-Fin-Ind-Pres-P3 adj|green-S1 adp|in det|the-Def-Art noun|summertime .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|COP 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%wor:	the 29482_29542 leaves 29622_29962 of 30002_30082 a 30122_30142 tree 30242_30483 are 30663_30823 green 31103_31344 in 31424_31484 the 31524_31604 summertime 31664_32164 .
+*INV:	okay , now I'm gonna give you two words . 36432_37854
+%mor:	intj|okay cm|cm adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|7|PUNCT
+%wor:	okay 36432_36592 , now 36632_36732 I'm 36732_36792 gonna 36792_36952 give 37012_37172 you 37192_37293 two 37393_37593 words 37673_37854 .
+*INV:	I'd like you to use both in the same sentence . 38054_40075
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|use-Inf-S cconj|both adp|in det|the-Def-Art adj|same-S1 noun|sentence .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|11|CASE 9|11|DET 10|11|AMOD 11|6|OBL 12|3|PUNCT
+%wor:	I'd 38054_38094 like 38114_38274 you 38294_38354 to 38354_38414 use 38494_38634 both 38674_38914 in 39075_39135 the 39135_39215 same 39255_39515 sentence 39575_40075 .
+*INV:	child@q and hospital@q . 40798_42238
+%mor:	q|child cconj|and q|hospital .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	child@q 40798_41457 and 41497_41618 hospital@q 41738_42238 .
+*PAR:	the child must go to the hospital . 44161_45902
+%mor:	det|the-Def-Art noun|child aux|must-Fin-S verb|go-Inf-S adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 44161_44221 child 44301_44661 must 44701_44861 go 44901_44981 to 45142_45202 the 45262_45342 hospital 45402_45902 .
+*INV:	cold@q and winter@q . 56597_57918
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 56597_57097 and 57177_57297 winter@q 57418_57918 .
+*PAR:	it is cold in winter . 58980_60301
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|cold-S1 adp|in noun|winter .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	it 58980_59060 is 59080_59180 cold 59260_59600 in 59660_59721 winter 59801_60301 .
+*PAR:	unless you're in Florida now &=laughs . [+ exc] 64944_65989
+%mor:	sconj|unless pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|in propn|Florida adv|now .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|CASE 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	unless 64944_65228 you're 65248_65368 in 65388_65448 Florida 65528_65989 now .
+*INV:	now I'm gonna give you three words . 68572_69834
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+%wor:	now 68572_68632 I'm 68632_68712 gonna 68712_68832 give 68832_68952 you 68972_69052 three 69133_69373 words 69413_69834 .
+*INV:	chair@q doctor@q and sit@q . 70628_73249
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 70628_71590 doctor@q 71590_72432 and 72472_72612 sit@q 72753_73249 .
+*PAR:	the doctor sits in his chair . 75199_76861
+%mor:	det|the-Def-Art noun|doctor verb|sit-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%wor:	the 75199_75259 doctor 75319_75660 sits 75740_75980 in 76020_76101 his 76141_76281 chair 76361_76861 .
+*INV:	(.) bureau@q open@q and drawer@q . 86014_88202
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 86014_86476 open@q 86817_87461 and 87501_87621 drawer@q 87702_88202 .
+*PAR:	the bureau drawer is open . 89129_90995
+%mor:	det|the-Def-Art noun|bureau noun|drawer aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 89129_89209 bureau 89289_89591 drawer 89812_90174 is 90274_90415 open 90495_90995 .
+@End

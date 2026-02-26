@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/a-00090752-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|53;|female|Control||Participant|30||
+@Media:	139-3, audio
+@G:	Cookie
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 1251_1613
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1251_1613 .
+*PAR:	&-uh the little boy is falling off the stool . 2652_4409
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	uh the 2652_2732 little 2792_2972 boy 3012_3192 is 3232_3292 falling 3373_3713 off 3773_3873 the 3933_4013 stool 4093_4409 .
+*PAR:	he is giving cookies to the little girl . 4474_6720
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S noun|cookie-Plur-Acc adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%wor:	he 4474_4554 is 4634_4714 giving 4794_5074 cookies 5134_5555 to 5675_5775 the 6015_6095 little 6175_6375 girl 6455_6720 .
+*PAR:	the little girl is telling him to be quiet so that mother will not hear . 7196_10780
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 sconj|so sconj|that noun|mother aux|will-Fin-S part|not verb|hear-Inf-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|15|ROOT 6|5|IOBJ 7|9|MARK 8|9|COP 9|5|XCOMP 10|15|MARK 11|10|FIXED 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|9|ADVCL 16|5|PUNCT
+%wor:	the 7196_7276 little 7316_7516 girl 7597_7817 is 7877_7957 telling 8037_8377 him 8417_8557 to 8637_8718 be 8778_8838 quiet 8958_9378 so 9458_9538 that 9658_9799 mother 9839_10079 will 10159_10319 not 10359_10539 hear 10599_10780 .
+*PAR:	mother is drying the dishes while the sink is overflowing . 10920_15226
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|while det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|DET 5|3|OBJ 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|COP 10|3|ADVCL 11|3|PUNCT
+%wor:	mother 10920_11160 is 11340_11541 drying 12121_12622 the 12662_12742 dishes 12783_13163 while 13243_13444 the 13464_13544 sink 13664_13944 is 14105_14305 overflowing 14726_15226 .
+@End

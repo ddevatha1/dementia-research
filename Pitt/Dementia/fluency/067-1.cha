@@ -1,0 +1,149 @@
+@UTF8
+@PID:	11312/a-00089639-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|20||
+@Media:	067-1, audio
+@G:	foods
+*INV:	www .
+%exp:	finishing previous task .
+*INV:	starting now . 2022_3669
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	starting 2022_2582 now 3223_3669 .
+*PAR:	(..) bread . 6607_7107
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bread 6607_7107 .
+*PAR:	(..) spaghetti . 10612_11111
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	spaghetti 10612_11111 .
+*PAR:	(..) macaroni . 14335_14816
+%mor:	noun|macaroni .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	macaroni 14335_14816 .
+*PAR:	eggs . 18962_19382
+%mor:	noun|egg-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	eggs 18962_19382 .
+*PAR:	(..) peppers . 23428_23909
+%mor:	noun|pepper-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	peppers 23428_23909 .
+*PAR:	(..) what else is there ? [+ exc] 27739_28898
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 adv|there ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	what 27739_27917 else 28017_28278 is 28358_28398 there 28398_28898 ?
+*PAR:	spaghetti . 30622_31103
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	spaghetti 30622_31103 .
+*PAR:	(...) can you put fruit@q and stuff in with that ? [+ exc] 39418_41620
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S q|fruit cconj|and noun|stuff adp|in adp|with pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|FLAT 5|6|CC 6|4|CONJ 7|3|COMPOUND-PRT 8|9|CASE 9|3|OBL 10|3|PUNCT
+%wor:	can 39418_39538 you 39558_39638 put 39758_39898 fruit@q 40058_40359 and 40359_40439 stuff 40499_40740 in 40840_40980 with 41000_41120 that 41120_41620 ?
+*INV:	+< mhm , anything that you like . 41381_43102
+%mor:	intj|mhm cm|cm pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	mhm 41381_41401 , anything 41961_42322 that 42342_42442 you 42462_42562 like 42602_43102 .
+*PAR:	fruit . 43785_44264
+%mor:	noun|fruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fruit 43785_44264 .
+*PAR:	(..) macaroni .
+%mor:	noun|macaroni .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) spaghetti .
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) what else is there ? [+ exc] 63224_63225
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 adv|there ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	what 63224_63225 else is there ?
+*INV:	okay xxx .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	S
+*INV:	you ready ? 65086_65725
+%mor:	pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	you 65086_65165 ready 65225_65725 ?
+*INV:	off you go . 66286_66866
+%mor:	adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	off you 66286_66366 go 66366_66866 .
+*PAR:	spaghetti . 67786_68267
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	spaghetti 67786_68267 .
+*PAR:	(...) toast . 74052_74512
+%mor:	noun|toast .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toast 74052_74512 .
+*INV:	words that begin with the letter s@l this time . 76556_79737
+%mor:	noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s det|this-Def-Dem-Sing noun|time .
+%gra:	1|9|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|6|CASE 5|6|DET 6|9|NMOD-POSS 7|6|CASE 8|9|DET 9|3|OBL-UNMARKED 10|1|PUNCT
+%wor:	words 76556_76896 that 76916_76997 begin 77037_77317 with 77377_77497 the 77518_77598 letter 77658_77918 s 78259_78279 this 78980_79160 time 79240_79737 .
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	apples . 81680_82165
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 81680_82165 .
+*INV:	words that begin with the letter s@l . 84209_86814
+%mor:	noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|6|CASE 5|6|DET 6|3|OBL 7|6|CASE 8|1|PUNCT
+%wor:	words 84209_84570 that 84570_84670 begin 84730_85050 with 85151_85291 the 85331_85411 letter 85491_85832 s 86413_86814 .
+*INV:	the first letter of each word hasta be an s@l . 87490_90533
+%mor:	det|the-Def-Art adj|first-S1 noun|letter adp|of det|each-Def-Tot noun|word x|hasta aux|be-Inf-S det|a-Ind-Art x|s .
+%gra:	1|3|DET 2|3|AMOD 3|10|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|6|APPOS 8|10|COP 9|10|DET 10|10|ROOT 11|10|PUNCT
+%wor:	the 87490_87570 first 87650_87970 letter 88030_88230 of 88270_88331 each 88411_88571 word 88631_88871 hasta 88951_89312 be 89352_89432 an 89512_89612 s 90033_90533 .
+*PAR:	well , (...) I don't know what the other one would be . [+ exc] 93018_101407
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 det|the-Def-Art adj|other-S1 noun|one aux|would-Fin-S aux|be-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|12|ROOT 7|6|OBJ 8|10|DET 9|10|AMOD 10|7|NSUBJ 11|7|AUX 12|7|COP 13|6|PUNCT
+%wor:	well 93018_99244 , I 99284_99304 don't 99344_99524 know 99524_99664 what 99684_99825 the 99865_99925 other 100045_100225 one 100325_100465 would 100465_100866 be 100946_101407 .
+*INV:	any words that begin with the letter s@l . 102173_104895
+%mor:	det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|8|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|7|CASE 9|2|PUNCT
+%wor:	any 102173_102333 words 102453_102793 that 102813_102933 begin 102974_103254 with 103314_103434 the 103434_103494 letter 103554_103895 s 104395_104895 .
+*PAR:	(...) soup . 108641_109067
+%mor:	noun|soup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	soup 108641_109067 .
+*INV:	mhm . 109441_109922
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 109441_109922 .
+*INV:	don't hafta be food . 110423_111603
+%mor:	aux|do-Fin-Imp-S~part|not aux|hafta-Fin-Imp-S aux|be-Fin-Imp-S noun|food .
+%gra:	1|5|AUX 2|5|ADVMOD 3|5|AUX 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	don't 110423_110603 hafta 110643_110883 be 110923_110983 food 111104_111603 .
+*INV:	any word at all . 112025_113206
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	any 112025_112165 word 112245_112465 at 112505_112605 all 112706_113206 .
+*PAR:	+< well , that's the first thing I thought [/] thought of was soup@q . [+ exc] 112846_116650
+%mor:	intj|well cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 noun|thing-Ger pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr adp|of aux|be-Fin-Ind-Past-S3-irr q|soup .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|12|ROOT 8|9|NSUBJ 9|7|ACL-RELCL 10|9|OBL 11|12|COP 12|7|FLAT 13|7|PUNCT
+%wor:	well 112846_112966 , that's 113406_113647 the 113647_113727 first 113847_114087 thing 114127_114248 I 114248_114268 thought 114268_114508 thought 114728_115369 of 115469_115509 was 115549_115890 soup@q 116150_116650 .
+*INV:	+< yeah , it's a good one .
+%mor:	intj|yeah cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|one .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*INV:	it's a good one .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|one .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*INV:	any more ?
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*PAR:	&-hm &+s I have stove@q but that's not edible &=laughs . 125445_127028
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 q|stove cconj|but pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adj|edible-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|FLAT 4|8|CC 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|2|CONJ 9|2|PUNCT
+%wor:	hm 125445_125485 I 125485_125505 have 125545_125746 stove@q 125746_125906 but 125906_126006 that's 126046_126266 not 126326_126487 edible 126547_127028 .
+*INV:	www .
+%exp:	next task .
+@End

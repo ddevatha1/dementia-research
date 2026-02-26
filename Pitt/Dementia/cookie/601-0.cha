@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00090595-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|81;|female|ProbableAD||Participant|22||
+@Media:	601-0, audio
+@G:	Cookie
+*INV:	tell me everything that you see happening in that picture . 290_3250
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	tell 290_470 me 510_590 everything 670_1131 that 1151_1332 you 1372_1472 see 1572_1732 happening 1873_2374 in 2454_2514 that 2574_2734 picture 2794_3250 .
+*INV:	what's going on there ? 3516_4646
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+%wor:	what's 3516_3736 going 3776_4077 on 4157_4317 there 4378_4646 ?
+*PAR:	well , the chair's [: stool's] [* s:r] gonna upset . 6362_8269
+%mor:	intj|well cm|cm det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adv|gonna adj|upset-S1 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|4|DET 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%wor:	well 6362_6542 , the 6582_6662 stool's 6662_7143 gonna 7223_7504 upset 7844_8269 .
+*PAR:	and the kid's (..) gonna upset the cookies for one thing . 8466_10951
+%mor:	cconj|and det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|upset-Part-Past-S-irr det|the-Def-Art noun|cookie-Plur-Acc adp|for num|one noun|thing-Ger .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|11|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|NUMMOD 11|6|OBL 12|6|PUNCT
+%wor:	and 8466_8546 the 8546_8606 kid's 8706_8987 gonna 9047_9247 upset 9267_9568 the 9608_9668 cookies 9728_10169 for 10249_10369 one 10490_10610 thing 10670_10951 .
+*PAR:	and <the woman> [//] the sink's runnin(g) over the water on the floor while she's dryin(g) the dishes . 14037_18717
+%mor:	cconj|and det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over det|the-Def-Art noun|water adp|on det|the-Def-Art noun|floor sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|15|MARK 13|15|NSUBJ 14|15|AUX 15|5|ADVCL 16|17|DET 17|15|OBJ 18|5|PUNCT
+%wor:	and 14037_14137 the 14137_14217 woman 14297_14617 the 14657_14737 sink's 14837_15258 runnin(g) 15338_15758 over 15758_16019 the 16059_16139 water 16219_16519 on 16619_16719 the 16759_16820 floor 16880_17240 while 17320_17520 she's 17580_17741 dryin(g) 17801_18201 the 18201_18281 dishes 18341_18717 .
+*PAR:	(...) and &-uh you need water in there to wash the dishes . 25349_27407
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 noun|water-Acc adp|in adv|there part|to verb|wash-Inf-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|8|MARK 8|3|ADVCL 9|10|DET 10|8|OBJ 11|3|PUNCT
+%wor:	and uh you need 25349_25569 water 25689_26009 in 26069_26170 there 26170_26370 to 26410_26490 wash 26570_26890 the 26890_26950 dishes 27030_27407 .
+*PAR:	and it's runnin(g) on the floor . 27454_28912
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 27454_27531 it's 27551_27711 runnin(g) 27791_28112 on 28112_28232 the 28272_28332 floor 28412_28912 .
+*PAR:	you can look out the window and see the grass . 31791_33610
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|look-Inf-S adp|out det|the-Def-Art noun|window cconj|and verb|see-Inf-S det|the-Def-Art noun|grass-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CC 8|3|CONJ 9|10|DET 10|8|OBJ 11|3|PUNCT
+%wor:	you 31791_31851 can 31892_32033 look 32053_32236 out 32276_32377 the 32397_32499 window 32539_32782 and 32782_32984 see 32984_33126 the 33166_33227 grass 33287_33610 .
+*INV:	okay . 33663_33733
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 33663_33733 .
+@End

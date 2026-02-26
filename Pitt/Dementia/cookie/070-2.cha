@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00090382-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;00.|female|ProbableAD||Participant|||
+@Media:	070-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	you see in there . 180_800
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adp|in adv|there .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	you 180_240 see 240_800 in there .
+*PAR:	<you're washin(g) the> [//] she [//] she's washing the dishes . 2244_5849
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	you're 2244_2484 washin(g) 2484_2844 the 2844_2904 she 3486_3626 she's 3946_4307 washing 4407_5028 the 5349_5469 dishes 5509_5849 .
+*PAR:	and his stool is tilting . 7633_10818
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	and 7633_7793 his 7813_8014 stool 8895_9817 is 9877_10017 tilting 10318_10818 .
+*PAR:	<and he gonna> [//] and he jars . [+ gram] 12577_15097
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|jar-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	and 12577_12697 he 12697_12737 gonna 12837_13538 and 14199_14359 he 14439_14520 jars 14680_15097 .
+*PAR:	cookie jar . [+ gram] 16703_17725
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	cookie 16703_17224 jar 17344_17725 .
+*PAR:	and the water's overflowin(g) on the floor . 22692_26859
+%mor:	cconj|and det|the-Def-Art noun|water~part|s noun|overflow-Ger adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+%wor:	and 22692_22832 the 22832_22892 water's 22993_23453 overflowin(g) 23914_26037 on 26037_26137 the 26197_26298 floor 26478_26859 .
+*PAR:	(..) he handing the girl [/] girl the cookies . [+ gram] 38659_42733
+%mor:	pron|he-Prs-Nom-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|girl det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|IOBJ 5|6|DET 6|2|OBJ 7|2|PUNCT
+%wor:	he 38659_38699 handing 39221_39863 the 39863_39944 girl 40084_40245 girl 40968_41329 the 42012_42092 cookies 42233_42733 .
+*PAR:	(..) she's drying the dishes . 58991_60615
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 58991_59372 drying 59432_59934 the 59974_60075 dishes 60115_60615 .
+*PAR:	(..) there's a cup and &+s saucer <on the> [//] and plate on the counter . 72161_78066
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cup cconj|and noun|saucer cconj|and noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|DET 4|2|NSUBJ 5|6|CC 6|4|CONJ 7|8|CC 8|4|CONJ 9|11|CASE 10|11|DET 11|2|OBL 12|2|PUNCT
+%wor:	there's 72161_72561 a 72561_72581 cup 72741_73062 and 73142_73362 saucer 73862_74543 on 75244_75404 the 75444_75524 and 76285_76445 plate 76926_77206 on 77206_77246 the 77246_77326 counter 77566_78066 .
+*INV:	(.) see anything else ? 95253_96093
+%mor:	verb|see-Fin-Imp-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|ROOT 2|1|OBJ 3|2|AMOD 4|1|PUNCT
+%wor:	see 95253_95393 anything 95393_95675 else 95715_96093 ?
+*PAR:	hmhunh . [+ exc] 96742_96844
+%mor:	intj|hmhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hmhunh 96742_96844 .
+*INV:	okay good . 97962_98412
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 97962_98210 good 98210_98412 .
+@End

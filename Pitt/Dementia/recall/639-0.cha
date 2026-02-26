@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/a-00090062-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|26||
+@Media:	639-0, audio
+@Comment:	Possible audio mismatch. A different George task can be heard at approximately 8m40s. Linking below is not corrected.
+@G:	George_Immediate
+*INV:	anything that you can remember about the story . 0_2025
+%mor:	pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|the-Def-Art noun|story .
+%gra:	1|8|ROOT 2|5|OBJ 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+*PAR:	(...) the man's name is George Allen . 5888_18117
+%mor:	det|the-Def-Art noun|man~part|s noun|name aux|be-Fin-Ind-Pres-S3 propn|George propn|Allen .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|6|NSUBJ 5|6|COP 6|7|ROOT 7|6|FLAT 8|6|PUNCT
+*PAR:	he had a granddaughter named &-uh Melanie . 19299_22682
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|granddaughter-Acc verb|name-Part-Past-S propn|Melanie .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|5|XCOMP 7|2|PUNCT
+*PAR:	Melanie wanted to see the &-um house where her grandfather was <raised or grew up> [//] born . 23063_33898
+%mor:	propn|Melanie verb|want-Fin-Ind-Past-S3 part|to verb|see-Inf-S det|the-Def-Art noun|house-Acc adv|where pron|her-Prs-Gen-S3 noun|grandfather aux|be-Fin-Ind-Past-S3-irr verb|bear-Part-Past-S .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|11|ADVMOD 8|9|NMOD-POSS 9|11|NSUBJ-PASS 10|11|AUX-PASS 11|6|ACL-RELCL 12|2|PUNCT
+*PAR:	&-um she was fearful of something . 37141_38300
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|fearful-S1 adp|of pron|something-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	I don't know what . [+ exc] 39064_39372
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	but [//] and hay [: he] [*] held her hand very tightly . 39865_41706
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|hold-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hand-Acc adv|very adv|tightly .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|ADVMOD 7|3|ADVMOD 8|3|PUNCT
+*INV:	okay . 47196_47696
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/a-00090622-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|20||
+@Media:	702-0, audio
+@G:	Cookie
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	the picture .
+%mor:	det|the-Def-Art noun|picture .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	tell me everything +/. 5243_5923
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 +/.
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+%wor:	tell 5243_5383 me 5383_5423 everything 5443_5923 +/.
+*PAR:	you want me to tell you ? [+ exc] 5644_6241
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|2|PUNCT
+%wor:	you 5644_5703 want 5703_5783 me 5803_5863 to 5863_5903 tell 5923_6103 you 6123_6241 ?
+*PAR:	okay &-uh the boy's getting in the cookie jar . 6524_9325
+%mor:	intj|okay det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+%wor:	okay 6524_6844 uh 6844_6884 the 7645_7725 boy's 7765_8005 getting 8065_8285 in 8325_8365 the 8385_8465 cookie 8525_8825 jar 8825_9325 .
+*PAR:	his sister's waiting for cookies . 9867_12088
+%mor:	pron|his-Prs-Gen-S3 noun|sister~part|s noun|waiting-Ger adp|for noun|cookie-Plur .
+%gra:	1|2|NMOD-POSS 2|4|NMOD-POSS 3|2|CASE 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%wor:	his 9867_10187 sister's 10527_10967 waiting 11047_11388 for 11468_11588 cookies 11668_12088 .
+*PAR:	the mother's washing dishes and water's spilling over . 12111_14811
+%mor:	det|the-Def-Art noun|mother~part|s noun|washing-Ger noun|dish-Plur cconj|and noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|9|NSUBJ 6|7|CC 7|5|CONJ 8|9|AUX 9|10|ROOT 10|9|COMPOUND-PRT 11|9|PUNCT
+%wor:	the 12111_12188 mother's 12268_12569 washing 12649_12969 dishes 13009_13389 and 13469_13569 water's 13630_13970 spilling 14010_14430 over 14510_14811 .
+*PAR:	&-uh can see the walk and the grass outside in the window . [+ gram] 18263_21725
+%mor:	aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|walk-Acc cconj|and det|the-Def-Art noun|grass adv|outside adp|in det|the-Def-Art noun|window .
+%gra:	1|2|AUX 2|11|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|ADVMOD 9|11|CASE 10|11|DET 11|2|OBL 12|2|PUNCT
+%wor:	uh 18263_18303 can 18323_18463 see 18543_18723 the 18783_18863 walk 19103_19444 and 19564_19664 the 19664_19724 grass 19784_20184 outside 20304_20905 in 20945_21025 the 21065_21165 window 21225_21725 .
+*PAR:	the &-uh stool's about ready to fall . 22978_25508
+%mor:	det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adv|about adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+%wor:	the 22978_23066 uh 23306_23427 stool's 23907_24307 about 24347_24627 ready 24667_24828 to 24868_24948 fall 25048_25508 .
+*PAR:	the cupboard door's open . 28931_30212
+%mor:	det|the-Def-Art noun|cupboard noun|door~part|s adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	the 28931_29011 cupboard 29091_29351 door's 29391_29691 open 29791_30212 .
+*INV:	okay . 37505_37593
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 37505_37593 .
+@End

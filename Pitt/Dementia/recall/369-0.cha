@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/a-00090008-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|22||
+@Media:	369-0, audio
+@G:	George_Immediate
+*INV:	tell me everything you can think of from that story . 1894805_1897204
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|from det|that-Def-Dem-Sing noun|story .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 1894805_1894946 me 1894946_1895026 everything 1895107_1895470 you 1895571_1895651 can 1895671_1895813 think 1895873_1896075 of 1896135_1896216 from 1896256_1896437 that 1896458_1896639 story 1896740_1897204 .
+*PAR:	(.) well , (..) &-uh she listens carefully to what her father had to say . 1900549_1910822
+%mor:	intj|well cm|cm pron|she-Prs-Nom-S3 verb|listen-Fin-Ind-Pres-S3 adv|carefully adp|to pron|what-Rel-S1 pron|her-Prs-Gen-S3 noun|father verb|have-Fin-Ind-Past-S3-irr part|to verb|say-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|12|ROOT 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|9|NMOD-POSS 9|10|NSUBJ 10|7|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|4|PUNCT
+%wor:	well 1900549_1900809 , uh 1904794_1905255 she 1905976_1906116 listens 1906257_1906937 carefully 1907799_1908420 to 1908580_1908700 what 1908820_1909000 her 1909060_1909201 father 1909281_1909701 had 1909781_1910002 to 1910102_1910182 say 1910322_1910822 .
+*PAR:	and &-uh +... 1912826_1913406
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 1912826_1912886 uh 1912906_1913406 +...
+*INV:	anything else ? 1913992_1914127
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything else 1913992_1914127 ?
+*PAR:	(.) and &-um (..) as you come closer to the end &-uh (..) &-uh she recognized &-uh (.) &-uh what her father had meant . 1926862_1928443
+%mor:	cconj|and sconj|as pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Pres-S2 adj|close-Cmp-S1 adp|to det|the-Def-Art noun|end pron|she-Prs-Nom-S3 verb|recognize-Fin-Ind-Past-S3 pron|what-Int-S1 pron|her-Prs-Gen-S3 noun|father aux|have-Fin-Ind-Past-S3-irr verb|mean-Part-Past-S-irr .
+%gra:	1|10|CC 2|4|MARK 3|4|NSUBJ 4|10|ADVCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|NSUBJ 10|15|ROOT 11|10|OBJ 12|13|NMOD-POSS 13|15|NSUBJ 14|15|AUX 15|11|ACL-RELCL 16|10|PUNCT
+%wor:	and 1926862_1926922 um 1926922_1926963 as 1926963_1927003 you 1927003_1927064 come 1927064_1927166 closer 1927166_1927287 to 1927287_1927328 the 1927348_1927429 end 1927449_1927510 uh 1927510_1927551 uh 1927551_1927591 she 1927611_1927672 recognized 1927693_1927895 uh 1927895_1927956 uh 1927956_1927997 what 1927997_1928078 her 1928078_1928138 father 1928138_1928280 had 1928280_1928341 meant 1928341_1928443 .
+*INV:	okay . 1962237_1962717
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1962237_1962717 .
+@End

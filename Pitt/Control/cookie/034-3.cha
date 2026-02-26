@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/a-00090663-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;00.|male|Control||Participant|||
+@Media:	034-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me everything that you see happening here . 1110_2654
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|8|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|ADVMOD 9|1|PUNCT
+%wor:	tell 1110_1350 me 1350_1411 everything 1431_1752 that 1752_1872 you 1892_1952 see 2073_2233 happening 2313_2654 here .
+*PAR:	things that are happening . [+ exc] 4119_4849
+%mor:	noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|happen-Part-Pres-S .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+%wor:	things 4119_4359 that 4359_4480 are 4520_4620 happening 4660_4849 .
+*INV:	mhm . 5262_5573
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 5262_5573 .
+*PAR:	girl's reaching for a cookie . [+ gram] 7248_8612
+%mor:	noun|girl~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	girl's 7248_7548 reaching 7609_7950 for 7990_8110 a 8150_8170 cookie 8250_8612 .
+*PAR:	the boy is &-uh reachin(g) a cookie to the girl and also reachin(g) at the cookie jar and he's gonna fall off a stool . 10406_19736
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to det|the-Def-Art noun|girl cconj|and adv|also verb|reach-Part-Pres-S adp|at det|the-Def-Art noun|cookie noun|jar cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|24|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|12|CC 11|12|ADVMOD 12|4|CONJ 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|21|CC 18|21|NSUBJ 19|21|AUX 20|21|ADVMOD 21|4|CONJ 22|24|CASE 23|24|DET 24|21|OBL 25|4|PUNCT
+%wor:	the 10406_10486 boy 10546_10846 is 10846_11066 uh 11066_11106 reachin(g) 13409_13809 a 13809_13829 cookie 14170_14450 to 14570_14690 the 14790_14870 girl 14930_15231 and 15311_15391 also 15471_15751 reachin(g) 15851_16212 at 16212_16312 the 16372_16492 cookie 17433_17813 jar 17813_18074 and 18114_18194 he's 18194_18314 gonna 18354_18514 fall 18614_18875 off 18935_19055 a 19135_19155 stool 19255_19736 .
+*PAR:	the woman is &+w drying dishes and washing dishes . 22418_26381
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur cconj|and noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|8|ROOT 6|8|CC 7|8|COMPOUND 8|5|CONJ 9|5|PUNCT
+%wor:	the 22418_22518 woman 22658_22978 is 23198_23379 drying 24079_24500 dishes 24560_24960 and 25020_25120 washing 25161_25621 dishes 25881_26381 .
+*PAR:	and she's let the water from the sink pour out on the floor . 27643_34371
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Past-S-irr det|the-Def-Art noun|water-Acc adp|from det|the-Def-Art noun|sink verb|pour-Inf-S adp|out adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+%wor:	and 27643_27743 she's 27803_27984 let 28064_28304 the 28324_28404 water 28484_28824 from 29465_29665 the 29745_29846 sink 30687_30967 pour 31527_31868 out 33429_33570 on 33630_33710 the 33730_33810 floor 33890_34371 .
+*PAR:	(...) I don't see any other thing . [+ exc] 50564_53347
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S det|any-Def-Ind adj|other-S1 noun|thing-Acc-Ger .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%wor:	I 50564_50584 don't 50704_51165 see 51365_51765 any 52026_52406 other 52426_52806 thing 52847_53347 .
+*INV:	okay what's happening here ? 73043_73264
+%mor:	intj|okay pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	okay 73043_73264 what's happening here ?
+*PAR:	well I just told you that he was fallin(g) from a stool . [+ exc] 74545_76652
+%mor:	intj|well pron|I-Prs-Nom-S1 adv|just verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|fall-Part-Pres-S adp|from det|a-Ind-Art noun|stool .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|12|ROOT 5|4|IOBJ 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|4|CCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+%wor:	well 74545_74645 I 74645_74665 just 74665_74826 told 74846_75046 you 75066_75146 that 75146_75246 he 75266_75326 was 75366_75487 fallin(g) 75587_75947 from 75947_76108 a 76148_76168 stool 76288_76652 .
+*INV:	okay yep you did sorry . 77691_78140
+%mor:	intj|okay intj|yep pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr adj|sorry-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	okay 77691_78140 yep you did sorry .
+*PAR:	okey-dokey . [+ exc]
+%mor:	propn|okeydokey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I said he was reachin(g) a cookie to the girl reaching for a cookie for himself +/. [+ exc] 79975_84341
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to det|the-Def-Art noun|girl verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie adp|for pron|himself-Prs-Acc-reflx-S3 +/.
+%gra:	1|2|NSUBJ 2|16|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|16|CASE 16|11|OBL 17|2|PUNCT
+%wor:	I 79975_79994 said 79994_80115 he 80155_80195 was 80235_80315 reachin(g) 80375_81297 a 81297_81317 cookie 81397_81717 to 81717_81777 the 81837_81918 girl 81978_82278 reaching 82939_83240 for 83260_83360 a 83360_83380 cookie 83420_83721 for 83741_83821 himself 83841_84341 +/.
+*INV:	and he's gonna fall off the stool . 84362_85403
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 84362_84442 he's 84442_84522 gonna 84522_84662 fall 84662_84762 off 84762_84843 the 84843_84903 stool 84903_85403 .
+*PAR:	+, falling off a stool yeah . [+ exc] 85023_86404
+%mor:	verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool intj|yeah .
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|DISCOURSE 6|1|PUNCT
+%wor:	falling 85023_85223 off 85303_85444 a 85504_85524 stool 85604_85904 yeah 85904_86404 .
+*INV:	that's right . 86345_86566
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 86345_86465 right 86465_86566 .
+@End

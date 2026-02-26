@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/a-00090740-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|male|Control||Participant|28||
+@Media:	130-2, audio
+@G:	Cookie
+*INV:	any action or anything you see xxx +/.
+%mor:	det|any-Def-Ind noun|action cconj|or pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 +/.
+%gra:	1|2|DET 2|6|ROOT 3|4|CC 4|2|CONJ 5|6|NSUBJ 6|4|ACL-RELCL 7|2|PUNCT
+*PAR:	oh well &+th the sink's overflowing . 3453_4509
+%mor:	intj|oh intj|well det|the-Def-Art noun|sink~part|s noun|overflow-Ger .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|6|ROOT 7|6|PUNCT
+%wor:	oh 3453_3493 well 3493_3593 the 3653_3733 sink's 3833_4133 overflowing 4274_4509 .
+*PAR:	and the lady's washing dishes . 4975_6111
+%mor:	cconj|and det|the-Def-Art noun|lady~part|s noun|washing-Ger noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	and 4975_5035 the 5035_5155 lady's 5175_5395 washing 5475_5816 dishes 5836_6111 .
+*PAR:	the [/] the boy's up on the stool . 8039_9341
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the the boy's 8039_8359 up 8439_8519 on 8619_8699 the 8739_8819 stool 8980_9341 .
+*PAR:	stool's [//] &-uh he's falling . 9885_11983
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	stool's 9885_10241 uh 11182_11283 he's 11303_11423 falling 11483_11983 .
+*PAR:	he's &-uh getting &-uh cookies out of the cookie jar . 12978_15768
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|OBJ 5|9|CASE 6|5|FIXED 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+%wor:	he's 12978_13078 uh 13098_13138 getting 13178_13558 uh 13758_13879 cookies 13939_14299 out 14339_14499 of 14519_14600 the 14600_14660 cookie 14660_15621 jar 15641_15768 .
+*PAR:	the girl's reaching up for the cookies . 15841_17687
+%mor:	det|the-Def-Art noun|girl~part|s verb|reach-Part-Pres-S adp|up adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 15841_15921 girl's 15961_16342 reaching 16422_16782 up 16822_17042 for 17042_17123 the 17143_17203 cookies 17323_17687 .
+*PAR:	&-uh the window's open . 21880_22690
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	uh the 21880_21888 window's 21928_22269 open 22389_22690 .
+*PAR:	the door's open to the cabinet . 24872_26080
+%mor:	det|the-Def-Art noun|door~aux|be-Fin-Ind-Pres-S3 adj|open-S1 adp|to det|the-Def-Art noun|cabinet .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the door's 24872_25192 open 25293_25513 to 25593_25653 the 25693_25773 cabinet 25853_26080 .
+*PAR:	that's about it . [+ exc] 26605_26915
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	that's 26605_26714 about 26714_26874 it 26874_26915 .
+@End

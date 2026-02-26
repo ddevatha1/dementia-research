@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00090408-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;00.|female|ProbableAD||Participant|||
+@Media:	134-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I'm gonna show you a picture that has a lot of things going on in the picture . 970_4330
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|thing-Plur verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|18|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|11|DET 11|9|OBJ 12|13|CASE 13|11|NMOD 14|13|ACL 15|14|COMPOUND-PRT 16|18|CASE 17|18|DET 18|14|OBL 19|4|PUNCT
+%wor:	I'm 970_1030 gonna 1030_1150 show 1150_1330 you 1370_1490 a 1510_1530 picture 1610_2011 that 2011_2151 has 2151_2311 a 2412_2432 lot 2472_2592 of 2632_2712 things 2832_3213 going 3253_3713 on 3753_3854 in 3974_4054 the 4114_4214 picture 4274_4330 .
+*INV:	&*PAR:mm I'd like you to tell me everything you see going on in the picture . 5056_8060
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|15|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|3|PUNCT
+%wor:	I'd 5056_5115 like 5135_5316 you 5336_5456 to 5456_5496 tell 5496_5656 me 5656_5696 everything 5796_6197 you 6217_6297 see 6357_6758 going 6838_7238 on 7298_7399 in 7399_7439 the 7439_7519 picture 7579_8060 .
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-hm (.) this [//] the boy is <on the> [/] on the [/] &-uh the &-uh chair [: stool] [* s:r] tryin(g) to get some cookies out of the cupboard to give to [/] &+hi to his sister , I guess . 14663_27280
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool verb|try-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cupboard part|to verb|give-Inf-S adp|to pron|his-Prs-Gen-S3 noun|sister cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|23|ROOT 7|6|ACL 8|9|MARK 9|7|XCOMP 10|11|DET 11|9|OBJ 12|15|CASE 13|15|CASE 14|15|DET 15|9|OBL 16|17|MARK 17|9|ADVCL 18|20|CASE 19|20|NMOD-POSS 20|17|OBL 21|23|PUNCT 22|23|NSUBJ 23|6|PARATAXIS 24|6|PUNCT
+%wor:	hm 14663_14963 this 14963_15144 the 15144_15204 boy 15865_16025 is 16045_16165 on 16225_16365 the 16385_16485 on 16686_16806 the 16886_16986 uh 17146_20811 the 21232_21372 uh 21472_21572 stool 21732_22193 tryin(g) 22213_22473 to 22473_22553 get 22573_22653 some 22653_22854 cookies 22854_23254 out 23334_23475 of 23515_23615 the 23735_23835 cupboard 23895_24256 to 24256_25217 give 25297_25497 to 25557_25637 to 26338_26418 his 26498_26559 sister 26619_26979 , I 27039_27059 guess 27099_27280 .
+*PAR:	and the mother is &-um doin(g) &+th the dishes . 28997_32140
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 28997_29097 the 29097_29157 mother 29217_29538 is 29578_29758 um 29838_29998 doin(g) 30740_31481 the 31481_31561 dishes 31641_32140 .
+*PAR:	and [/] and the sink overflowed . 32200_33502
+%mor:	cconj|and det|the-Def-Art noun|sink verb|overflow-Fin-Ind-Past-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and 32200_32242 and 32423_32523 the 32523_32603 sink 32703_32944 overflowed 33004_33502 .
+*PAR:	and [/] and all the water's going on the floor . 35348_37442
+%mor:	cconj|and det|all-Def-Tot det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|6|CC 2|4|DET-PREDET 3|4|DET 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	and 35348_35929 and 35969_36069 all 36109_36250 the 36250_36310 water's 36370_36710 going 36770_37011 on 37071_37151 the 37171_37231 floor 37311_37442 .
+*PAR:	that's it . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/a-00091260-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|57;|male|ProbableAD||Participant|18||
+@Media:	001-0, audio
+*INV:	the first word is pencil@q . 300_1980
+%mor:	det|the-Def-Art adj|first-S1 noun|word aux|be-Fin-Ind-Pres-S3 q|pencil .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|FLAT 6|5|PUNCT
+%wor:	the 300_380 first 420_740 word 820_1060 is 1120_1220 pencil@q 1500_1980 .
+*PAR:	I wrote with my pencil . 4082_5442
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Past-S1-irr adp|with pron|my-Prs-Gen-S1 noun|pencil .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+%wor:	I 4082_4102 wrote 4162_4442 with 4542_4682 my 4722_4862 pencil 4942_5442 .
+*INV:	the next word is tree@q . 8224_9785
+%mor:	det|the-Def-Art adj|next-S1 noun|word aux|be-Fin-Ind-Pres-S3 q|tree .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|FLAT 6|5|PUNCT
+%wor:	the 8224_8284 next 8344_8604 word 8644_8884 is 8984_9084 tree@q 9304_9785 .
+*PAR:	<the tree> [/] the tree is beautiful . 13288_16870
+%mor:	det|the-Def-Art noun|tree aux|be-Fin-Ind-Pres-S3 adj|beautiful-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 13288_13348 tree 13428_13628 the 15730_15790 tree 15871_16131 is 16191_16291 beautiful 16371_16870 .
+*INV:	now I've got two words . 19573_20793
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S-irr num|two noun|word-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|NUMMOD 6|4|OBJ 7|4|PUNCT
+%wor:	now 19573_19715 I've 19775_19855 got 19895_20015 two 20336_20536 words 20596_20793 .
+*INV:	okay . 21337_21555
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 21337_21555 .
+*INV:	I want you to put both words into a brief sentence . 22058_25079
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|put-Inf-S det|both-Def-Tot noun|word-Plur-Acc adp|into det|a-Ind-Art adj|brief-S1 noun|sentence .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|11|CASE 9|11|DET 10|11|AMOD 11|5|OBL 12|2|PUNCT
+%wor:	I 22058_22078 want 22098_22258 you 22278_22358 to 22398_22458 put 22739_22919 both 23019_23279 words 23359_23720 into 23820_24020 a 24120_24140 brief 24200_24461 sentence 24581_25079 .
+*INV:	don't worry about the word order . 25385_26864
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|word noun|order .
+%gra:	1|3|AUX 2|3|ADVMOD 3|7|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+%wor:	don't 25385_25442 worry 25482_25662 about 25702_25882 the 25922_25982 word 26043_26303 order 26403_26864 .
+*INV:	you can use them in any order . 27102_28603
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|use-Inf-S pron|they-Prs-Acc-P3 adp|in det|any-Def-Ind noun|order .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	you 27102_27182 can 27182_27322 use 27422_27582 them 27582_27682 in 27722_27782 any 27822_27983 order 28103_28603 .
+*INV:	but use both words in one sentence . 28804_31005
+%mor:	cconj|but verb|use-Fin-Imp-S cconj|both noun|word-Plur-Acc adp|in num|one noun|sentence .
+%gra:	1|2|CC 2|7|ROOT 3|4|CC-PRECONJ 4|2|OBJ 5|7|CASE 6|7|NUMMOD 7|2|OBL 8|2|PUNCT
+%wor:	but 28804_28924 use 29044_29224 both 29304_29584 words 29644_29985 in 30025_30105 one 30245_30405 sentence 30505_31005 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	child@q hospital@q . 32309_33849
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 32309_33349 hospital@q 33349_33849 .
+*PAR:	the child was taken to the hospital . 35831_38113
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Past-S3-irr verb|take-Part-Past-S-irr adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 35831_35891 child 35972_36432 was 36812_36933 taken 37013_37313 to 37353_37413 the 37493_37573 hospital 37613_38113 .
+*INV:	okay . 38490_38595
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 38490_38595 .
+*INV:	the next two words are cold@q winter@q . 45461_48664
+%mor:	det|the-Def-Art adj|next-S1 num|two noun|word-Plur aux|be-Fin-Ind-Pres-P3 q|cold q|winter .
+%gra:	1|4|DET 2|4|AMOD 3|4|NUMMOD 4|7|NSUBJ 5|7|COP 6|7|FLAT 7|7|FLAT 8|7|PUNCT
+%wor:	the 45461_45521 next 45561_45803 two 45864_46025 words 46085_46428 are 46508_46649 cold@q 46871_48059 winter@q 48180_48664 .
+*PAR:	(.) I can't think of any &-uh right now . [+ exc] 61454_63799
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|any-Def-Ind adj|right-S1 adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|CASE 6|4|OBL 7|8|ADVMOD 8|4|ADVMOD 9|4|PUNCT
+%wor:	I 61454_61474 can't 61474_61694 think 61734_61895 of 61915_61995 any 62015_62316 uh 62376_63058 right 63098_63299 now 63299_63799 .
+*PAR:	I &=clears:throat +... [+ exc]
+%mor:	pron|I-Prs-Nom-S1 +...
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

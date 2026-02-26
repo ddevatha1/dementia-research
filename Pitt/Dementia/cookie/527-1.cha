@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/a-00090572-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|15||
+@Media:	527-1, audio
+@G:	Cookie
+*INV:	please take a look at that picture . 250_1971
+%mor:	intj|please verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	please 250_450 take 590_810 a 830_850 look 930_1091 at 1131_1191 that 1231_1411 picture 1471_1971 .
+*INV:	tell me everything that's happening in that picture , everything that's going on . 2853_6280
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|15|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|11|PUNCT 11|3|APPOS 12|14|NSUBJ 13|14|AUX 14|11|ACL-RELCL 15|14|COMPOUND-PRT 16|1|PUNCT
+%wor:	tell 2853_3053 me 3093_3173 everything 3293_3754 that's 3774_3934 happening 4034_4475 in 4515_4615 that 4615_4755 picture 4795_5216 , everything 5717_6097 that's 6117_6237 going 6277_6280 on .
+*PAR:	well , the girl is taking care of her dishwashin(g) . 6830_10983
+%mor:	intj|well cm|cm det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|care-Acc adp|of pron|her-Prs-Gen-S3 noun|dishwashing-Ger .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|10|ROOT 7|6|OBJ 8|10|CASE 9|10|NMOD-POSS 10|6|OBL 11|6|PUNCT
+%wor:	well 6830_7018 , the 7058_7138 girl 7199_7499 is 7619_7699 taking 9161_9501 care 9582_9882 of 10022_10202 her 10222_10443 dishwashin(g) 10483_10983 .
+*INV:	mhm . 14730_15110
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 14730_15110 .
+*PAR:	and the boy he's getting up there to get the cookies [//] cookie jar to give to the little girl . 16032_22863
+%mor:	cconj|and det|the-Def-Art noun|boy pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|up adv|there part|to verb|get-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc part|to verb|give-Inf-S adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|NSUBJ 5|6|AUX 6|19|ROOT 7|6|COMPOUND-PRT 8|6|ADVMOD 9|10|MARK 10|6|ADVCL 11|13|DET 12|13|COMPOUND 13|10|OBJ 14|15|MARK 15|10|ADVCL 16|19|CASE 17|19|DET 18|19|AMOD 19|15|OBL 20|6|PUNCT
+%wor:	and 16032_16272 the 16332_16412 boy 16452_16753 he's 16933_17194 getting 18175_18456 up 18496_18596 there 18696_18916 to 18976_19057 get 19137_19297 the 19357_19437 cookies 19517_20679 cookie 20679_21040 jar 21040_21380 to 21681_21741 give 21801_22001 to 22001_22061 the 22061_22141 little 22221_22422 girl 22442_22863 .
+*PAR:	and the water is running down on the floor (.) <and the> [//] (.) and where she had her dishes , I guess . 26200_36848
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|down adp|on det|the-Def-Art noun|floor cconj|and adv|where pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|dish-Plur-Acc cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|18|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|13|CC 11|13|ADVMOD 12|13|NSUBJ 13|5|CONJ 14|15|NMOD-POSS 15|13|OBJ 16|18|PUNCT 17|18|NSUBJ 18|5|PARATAXIS 19|5|PUNCT
+%wor:	and 26200_26320 the 26360_26440 water 26500_26860 is 26980_27080 running 27200_27541 down 29422_29682 on 29743_29803 the 29823_29923 floor 29983_30323 and 31424_31544 the 31604_31724 and 34507_34587 where 34607_34827 she 34887_34987 had 35127_35327 her 35407_35547 dishes 35708_36088 , I 36288_36308 guess 36348_36848 .
+*PAR:	(.) he's gettin(g) up and &+cooti gettin(g) the cookie jar &=laughs for her . 42884_46964
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|up cconj|and verb|get-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc adp|for pron|her-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|11|CASE 11|6|OBL 12|3|PUNCT
+%wor:	he's 42884_43044 gettin(g) 43104_43465 up 43465_43585 and 43625_43725 gettin(g) 43765_44366 the 44366_44526 cookie 44606_44947 jar 45007_45187 for 46429_46570 her 46650_46964 .
+*PAR:	he got her a cookie &=laughs . 48053_49173
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	he 48053_48092 got 48192_48393 her 48413_48513 a 48633_48653 cookie 48673_49173 .
+*PAR:	xxx the cookie jar xxx &=laughs he got her a cookie . 50239_52749
+%mor:	det|the-Def-Art noun|cookie noun|jar pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|OBL-UNMARKED 4|5|NSUBJ 5|8|ROOT 6|5|IOBJ 7|8|DET 8|5|OBJ 9|5|PUNCT
+%wor:	the cookie 50239_50556 jar 50596_51558 he 51558_51598 got 51738_51938 her 51998_52139 a 52159_52179 cookie 52299_52749 .
+*INV:	mkay . 53082_53580
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mkay 53082_53580 .
+*PAR:	oh . [+ exc] 53381_53862
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 53381_53862 .
+@End

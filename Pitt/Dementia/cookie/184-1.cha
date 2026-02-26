@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/a-00090438-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|male|ProbableAD||Participant|27||
+@Media:	184-1, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	all of the action .
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	okay , I see a boy in the cookie jar . 6665_7999
+%mor:	intj|okay cm|cm pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boy-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	okay 6665_6866 , I 6866_6886 see 7027_7208 a 7228_7249 boy 7269_7430 in 7450_7510 the 7510_7571 cookie 7631_7913 jar 7913_7999 .
+*PAR:	I see he has the lid off . 8940_10209
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|lid-Acc adp|off .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|2|PUNCT
+%wor:	I 8940_8960 see 9061_9262 he 9262_9363 has 9403_9564 the 9564_9625 lid 9685_9866 off 9927_10209 .
+*PAR:	I see that he is standing on a three legged stool and he's about to depart from that three legged stool . 12238_19478
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art num|three adj|legged-S1 noun|stool cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|depart-Inf-S adp|from det|that-Def-Dem-Sing num|three adj|legged-S1 noun|stool .
+%gra:	1|2|NSUBJ 2|22|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|11|CASE 8|11|DET 9|11|NUMMOD 10|11|AMOD 11|6|OBL 12|15|CC 13|15|NSUBJ 14|15|COP 15|2|CONJ 16|17|MARK 17|15|XCOMP 18|22|CASE 19|22|DET 20|22|NUMMOD 21|22|AMOD 22|17|OBL 23|2|PUNCT
+%wor:	I 12238_12258 see 12358_12558 that 12618_12798 he 12898_12978 is 13178_13279 standing 13359_13819 on 13899_13999 a 14039_14059 three 14360_14600 legged 14640_14960 stool 15040_15581 and 16582_16682 he's 16702_16842 about 16902_17202 to 17262_17363 depart 17623_18023 from 18043_18163 that 18203_18384 three 18564_18724 legged 18764_19064 stool 19144_19478 .
+*PAR:	he has one cookie in his hand , handin(g) it down to his sister and she's reaching up for it . 21146_25491
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand cm|cm verb|hand-Part-Pres-S pron|it-Prs-Acc-S3 adp|down adp|to pron|his-Prs-Gen-S3 noun|sister cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|21|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|9|PUNCT 9|2|ADVCL 10|9|OBJ 11|9|COMPOUND-PRT 12|14|CASE 13|14|NMOD-POSS 14|9|OBL 15|18|CC 16|18|NSUBJ 17|18|AUX 18|2|CONJ 19|18|COMPOUND-PRT 20|21|CASE 21|18|OBL 22|2|PUNCT
+%wor:	he has 21146_21306 one 21407_21527 cookie 21567_21787 in 21807_21867 his 21927_22067 hand 22107_22347 , handin(g) 22387_22688 it 22688_22728 down 22728_22928 to 22968_23048 his 23108_23228 sister 23609_23969 and 24029_24149 she's 24209_24449 reaching 24510_24810 up 24870_24950 for 25010_25290 it 25290_25491 .
+*PAR:	and I think she's indicating to the boy to keep still so his mother doesn't hear what's going on . 27319_33999
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|indicate-Part-Pres-S adp|to det|the-Def-Art noun|boy part|to verb|keep-Inf-S adv|still sconj|so pron|his-Prs-Gen-S3 noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|hear-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|3|CC 2|3|NSUBJ 3|22|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|11|MARK 11|6|XCOMP 12|11|ADVMOD 13|18|MARK 14|15|NMOD-POSS 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|6|ADVCL 19|21|OBJ 20|21|AUX 21|18|CCOMP 22|21|COMPOUND-PRT 23|3|PUNCT
+%wor:	and 27319_27439 I 27519_27539 think 27579_27759 she's 27819_28099 indicating 28439_29020 to 29120_29220 the 29560_29640 boy 29720_29921 to 30021_30121 keep 30661_30841 still 30921_31222 so 31422_31522 his 31622_31742 mother 31822_32062 doesn't 32102_32443 hear 33003_33163 what's 33203_33383 going 33503_33844 on 33884_33999 .
+*PAR:	I see the mother . 36245_37607
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|mother-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	I see 36245_36506 the 36966_37046 mother 37126_37607 .
+*PAR:	&-uh I guess she's drying the dishes and she's not paying attention because she's &-uh leavin(g) the sink run over and it's spillin(g) all over the floor . 41192_51541
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S noun|attention-Acc sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|leave-Part-Pres-S det|the-Def-Art noun|sink-Acc verb|run-Part-Past-S-irr adp|over cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S det|all-Def-Tot adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|NSUBJ 2|29|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|DET 7|5|OBJ 8|12|CC 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|2|CONJ 13|12|OBJ 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|12|ADVCL 18|19|DET 19|17|OBJ 20|17|XCOMP 21|20|COMPOUND-PRT 22|25|CC 23|25|NSUBJ 24|25|AUX 25|17|CONJ 26|29|ADVMOD 27|29|CASE 28|29|DET 29|25|OBL 30|2|PUNCT
+%wor:	uh 41192_41252 I 41292_41312 guess 41332_41472 she's 41512_41672 drying 41732_42052 the 42092_42173 dishes 42253_42713 and 43033_43254 she's 44915_45256 not 45336_45476 paying 45516_45776 attention 45796_46277 because 46317_46697 she's 46737_47058 uh 47238_47398 leavin(g) 48739_49120 the 49120_49220 sink 49240_49320 run 49380_49580 over 49640_49880 and 49920_49981 it's 50001_50121 spillin(g) 50201_50681 all 50681_50781 over 50801_51002 the 51022_51102 floor 51162_51541 .
+*PAR:	and she must not be conscious because she's standing in it and doesn't know it . 51682_54866
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|must-Fin-S part|not aux|be-Inf-S adj|conscious-S1 sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in pron|it-Prs-Acc-S3 cconj|and aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|COP 6|17|ROOT 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|6|ADVCL 11|12|CASE 12|10|OBL 13|16|CC 14|16|AUX 15|16|ADVMOD 16|10|CONJ 17|16|OBJ 18|6|PUNCT
+%wor:	and she 51682_51782 must 52023_52183 not 52243_52363 be 52403_52463 conscious 52543_52944 because 52984_53264 she's 53324_53504 standing 53524_53925 in 53965_54065 it 54065_54145 and 54165_54245 doesn't 54285_54585 know 54605_54785 it 54785_54866 .
+*PAR:	&-um &+sh <I think she must> [//] I think she's probably lookin(g) out the window as I take the second look . 58090_61935
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window sconj|as pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Pres-S1 det|the-Def-Art adj|second-S1 noun|look-Acc .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|12|MARK 11|12|NSUBJ 12|6|ADVCL 13|15|DET 14|15|AMOD 15|12|OBJ 16|2|PUNCT
+%wor:	um 58090_58130 I 58210_58230 think 58230_58411 she 58491_58591 must 58671_58851 I 59071_59091 think 59191_59351 she's 59391_59531 probably 59571_59811 lookin(g) 59851_60151 out 60151_60251 the 60271_60351 window 60412_60732 as 60752_60812 I 60852_60872 take 60952_61152 the 61172_61232 second 61312_61652 look 61692_61935 .
+*PAR:	and I see apparently a couple dirty dishes on the tabletop . 63173_68395
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adv|apparently det|a-Ind-Art noun|couple adj|dirty-S1 noun|dish-Plur-Acc adp|on det|the-Def-Art noun|tabletop .
+%gra:	1|3|CC 2|3|NSUBJ 3|11|ROOT 4|8|ADVMOD 5|6|DET 6|7|OBL-UNMARKED 7|8|AMOD 8|3|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+%wor:	and 63173_63253 I 63273_63293 see 63413_63873 apparently 64173_64614 a 64614_64634 couple 64694_65894 dirty 65934_66134 dishes 66214_66555 on 66635_66755 the 66755_66835 tabletop 67895_68395 .
+*PAR:	I see the cupboards . 70437_72399
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|cupboard-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	I 70437_70457 see 70537_70877 the 71639_71739 cupboards 71899_72399 .
+*PAR:	&-uh I don't know whether they all have knobs on them or not . 73452_76162
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|they-Prs-Nom-P3 det|all-Def-Tot verb|have-Fin-Ind-Pres-P3 noun|knob-Plur-Acc adp|on pron|they-Prs-Acc-P3 cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|8|MARK 6|8|NSUBJ 7|6|DET 8|4|CCOMP 9|8|OBJ 10|11|CASE 11|8|OBL 12|13|CC 13|11|CONJ 14|4|PUNCT
+%wor:	uh 73452_73482 I 73522_73542 don't 73542_73702 know 73722_73903 whether 73983_74263 they 74303_74464 all 74564_74664 have 74724_74985 knobs 74985_75465 on 75545_75686 them 75686_75826 or 75886_75926 not 75986_76162 .
+*PAR:	doesn't look like the two where the boy and the girl are have knobs on the cupboard door . 77859_83119
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|look-Inf-S adp|like det|the-Def-Art num|two adv|where det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-P3 verb|have-Inf-S noun|knob-Plur-Acc adp|on det|the-Def-Art noun|cupboard noun|door .
+%gra:	1|3|AUX 2|3|ADVMOD 3|19|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|14|ADVMOD 8|9|DET 9|14|NSUBJ 10|12|CC 11|12|DET 12|9|CONJ 13|14|AUX 14|6|ACL-RELCL 15|14|OBJ 16|19|CASE 17|19|DET 18|19|COMPOUND 19|14|OBL 20|3|PUNCT
+%wor:	doesn't 77859_78190 look 78210_78390 like 78410_78551 the 78611_78731 two 78851_79052 where 79152_79412 the 79472_79592 boy 79693_79873 and 79873_79973 the 79973_80033 girl 80113_80354 are 80434_80574 have 80614_80895 knobs 80915_81315 on 81335_81476 the 81476_81556 cupboard 82357_82678 door 82738_83119 .
+*PAR:	and I see outside . 85045_86035
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adv|outside .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	and 85045_85145 I 85165_85185 see 85325_85526 outside 85606_86035 .
+*PAR:	I see &-uh apparently it's a tree , some shrubbery and some hedges . 86146_90635
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adv|apparently pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree cm|cm det|some-Def-Ind noun|shrubbery cconj|and det|some-Def-Ind noun|hedge-Plur .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|7|ADVMOD 4|7|NSUBJ 5|7|COP 6|7|DET 7|2|CCOMP 8|10|PUNCT 9|10|DET 10|7|CONJ 11|13|CC 12|13|DET 13|10|CONJ 14|2|PUNCT
+%wor:	I 86146_86147 see 86307_86528 uh 86708_86888 apparently 86908_87570 it's 87590_87750 a 87790_87810 tree 87910_88231 , some 88451_88632 shrubbery 88752_89193 and 89293_89433 some 89594_90015 hedges 90135_90635 .
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	about it ? [+ exc]
+%mor:	adp|about pron|it-Prs-Acc-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+@End

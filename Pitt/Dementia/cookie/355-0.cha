@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00090529-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|85;|female|ProbableAD||Participant|24||
+@Media:	355-0, audio
+@G:	Cookie
+*INV:	www .
+*INV:	picture okay ? 2922_3180
+%mor:	noun|picture intj|okay ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%wor:	picture 2922_3180 okay ?
+*PAR:	now wait a minute . [+ exc] 3543_3959
+%mor:	adv|now verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBL-UNMARKED 5|2|PUNCT
+%wor:	now 3543_3602 wait 3623_3743 a 3763_3783 minute 3823_3959 .
+*PAR:	everything that's going on in the picture just by looking at it ? [+ exc] 4744_7685
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture adv|just sconj|by verb|look-Part-Pres-S adp|at pron|it-Prs-Acc-S3 ?
+%gra:	1|13|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|11|ADVMOD 10|11|MARK 11|4|ADVCL 12|13|CASE 13|11|OBL 14|1|PUNCT
+%wor:	everything 4744_5245 that's 5265_5385 going 5425_5665 on 5705_5846 in 5886_6006 the 6026_6086 picture 6206_6687 just 6767_6967 by 6987_7107 looking 7168_7428 at 7468_7568 it 7628_7685 ?
+*INV:	mhm . 7910_8170
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 7910_8170 .
+*PAR:	well , she's wiping dishes . 8429_9971
+%mor:	intj|well cm|cm pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	well 8429_8670 , she's 8830_9010 wiping 9050_9431 dishes 9471_9971 .
+*PAR:	and the boy is gettin(g) cookies out of a jar . 10993_13497
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|a-Ind-Art noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|OBJ 7|10|CASE 8|7|FIXED 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	and 10993_11173 the 11213_11273 boy 11333_11654 is 11754_11834 gettin(g) 11874_12135 cookies 12135_12555 out 12635_12775 of 12816_12896 a 12956_12976 jar 13076_13497 .
+*PAR:	and he's on a stool . 13974_15034
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	and 13974_14074 he's 14074_14194 on 14274_14394 a 14414_14434 stool 14534_15034 .
+*PAR:	and there's cups over here . 16176_18027
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|cup-Plur adp|over adv|here .
+%gra:	1|3|CC 2|3|EXPL 3|6|ROOT 4|3|NSUBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	and 16176_16317 there's 16337_16537 cups 16597_17037 over 17438_17638 here 17698_18027 .
+*PAR:	and the water's going on the floor . 18439_20154
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 18439_18619 the 18660_18740 water's 18800_19140 going 19200_19461 on 19521_19661 the 19701_19761 floor 19801_20154 .
+*PAR:	and the housewife , the mother , is wiping the dishes . 20942_24453
+%mor:	cconj|and det|the-Def-Art noun|housewife cm|cm det|the-Def-Art noun|mother cm|cm aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|9|CC 2|3|DET 3|9|NSUBJ 4|6|PUNCT 5|6|DET 6|3|APPOS 7|3|PUNCT 8|9|AUX 9|11|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+%wor:	and 20942_21063 the 21123_21183 housewife 21263_21964 , the 22024_22104 mother 22144_22444 , is 23245_23346 wiping 23426_23866 the 23906_23986 dishes 24026_24453 .
+*PAR:	and she's standing by the window . 24587_26410
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|by det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 24587_24747 she's 24988_25148 standing 25168_25588 by 25628_25789 the 25869_25949 window 26009_26410 .
+*PAR:	and &-uh she's lettin(g) the water run out of the faucet onto the floor . 27964_31814
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|out adp|of det|the-Def-Art noun|faucet adp|onto det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|11|CASE 9|8|FIXED 10|11|DET 11|7|OBL 12|14|CASE 13|14|DET 14|7|OBL 15|4|PUNCT
+%wor:	and 27964_28144 uh 28184_28264 she's 28584_28844 lettin(g) 29024_29304 the 29304_29384 water 29384_29664 run 29724_29904 out 30084_30204 of 30244_30324 the 30364_30425 faucet 30585_31005 onto 31085_31365 the 31425_31505 floor 31545_31814 .
+*PAR:	and the [/] &+k the ladder is fallin(g) over when he's gettin(g) the cookies out . 33086_37307
+%mor:	cconj|and det|the-Def-Art noun|ladder aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|over adv|when pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adp|out .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|5|COMPOUND-PRT 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|12|DET 12|10|OBJ 13|10|COMPOUND-PRT 14|5|PUNCT
+%wor:	and 33086_33326 the 33406_33486 the 33866_33946 ladder 34026_34326 is 34346_34406 fallin(g) 34466_35006 over 35006_35246 when 35967_36107 he's 36147_36307 gettin(g) 36347_36627 the 36627_36687 cookies 36687_37067 out 37147_37307 .
+*PAR:	what else you want ? [+ exc] 39248_39776
+%mor:	pron|what-Int-S1 adv|else pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 ?
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|1|PUNCT
+%wor:	what 39248_39368 else 39428_39568 you 39588_39688 want 39708_39776 ?
+*INV:	that's good . 39909_40489
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 39909_40128 good 40128_40489 .
+@End

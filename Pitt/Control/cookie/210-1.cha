@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/a-00090800-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|male|Control||Participant|29||
+@Media:	210-1, audio
+@G:	Cookie
+*INV:	tell me all the action you see going on in the picture .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|12|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|1|PUNCT
+*PAR:	mother's dryin(g) the dishes . 5066_6286
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 5066_5346 dryin(g) 5406_5868 the 5868_5948 dishes 5948_6286 .
+*PAR:	Junior's in the cookie jar handin(g) a cookie to his little sister . 7359_11859
+%mor:	propn|Junior~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar verb|hand-Ger-S det|a-Ind-Art noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 adj|little-S1 noun|sister .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|COMPOUND 6|13|ROOT 7|6|ACL 8|9|DET 9|7|OBJ 10|13|CASE 11|13|NMOD-POSS 12|13|AMOD 13|7|OBL 14|6|PUNCT
+%wor:	Junior's 7359_7913 in 7993_8073 the 8113_8193 cookie 8253_8534 jar 8675_8975 handin(g) 9116_9557 a 9557_9577 cookie 9677_9998 to 10198_10319 his 10479_10659 little 11000_11261 sister 11381_11859 .
+*PAR:	the water's spilling out o(f) the sink . 12486_14289
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 12486_12564 water's 12644_13025 spilling 13065_13487 out 13547_13667 o(f) 13667_13747 the 13747_13847 sink 14008_14289 .
+*PAR:	the window is open . 14591_15681
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 14591_14671 window 14711_15011 is 15111_15252 open 15332_15681 .
+*PAR:	the door to the cupboard where the cookie jar is open and the [/] the top of the cookie jar is off . 15772_22759
+%mor:	det|the-Def-Art noun|door adp|to det|the-Def-Art noun|cupboard adv|where det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 cconj|and det|the-Def-Art noun|top adp|of det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adv|off .
+%gra:	1|2|DET 2|20|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|11|ADVMOD 7|9|DET 8|9|COMPOUND 9|11|NSUBJ 10|11|COP 11|5|ACL-RELCL 12|20|CC 13|14|DET 14|20|NSUBJ 15|18|CASE 16|18|DET 17|18|COMPOUND 18|14|NMOD 19|20|COP 20|2|CONJ 21|2|PUNCT
+%wor:	the 15772_15873 door 15993_16273 to 16373_16454 the 16514_16574 cupboard 16654_17014 where 17095_17255 the 17255_17335 cookie 17415_17816 jar 17816_18116 is 18236_18357 open 18457_18737 and 18837_18958 the 18998_19138 the 19919_20039 top 20700_20981 of 21041_21101 the 21121_21201 cookie 21261_21702 jar 21702_22023 is 22303_22443 off 22564_22759 .
+*PAR:	cookie jar is quite full . [+ gram] 23205_24738
+%mor:	noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adv|quite adj|full-S1 .
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	cookie 23205_23565 jar 23565_23806 is 23866_23946 quite 24026_24306 full 24386_24738 .
+*PAR:	mother has two cups and a dish on the sink . 25785_29315
+%mor:	noun|mother verb|have-Fin-Ind-Pres-S3 num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|dish adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+%wor:	mother 25785_26029 has 26109_26370 two 26650_26971 cups 27371_27732 and 27812_27972 a 28032_28052 dish 28213_28513 on 28633_28734 the 28794_28874 sink 28974_29315 .
+*PAR:	looks like a nice day . [+ gram] 30507_32027
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art adj|nice-S1 noun|day .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|1|PUNCT
+%wor:	looks 30507_30667 like 30747_30967 a 31007_31027 nice 31087_31427 day 31527_32027 .
+*PAR:	&-uh action we're lookin(g) for action . [+ exc] 33603_35543
+%mor:	noun|action pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|look-Part-Pres-S adp|for noun|action .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|6|CASE 6|4|OBL 7|1|PUNCT
+%wor:	uh 33603_34070 action 34110_34490 we're 34590_34710 lookin(g) 34730_34991 for 34991_35111 action 35231_35543 .
+*PAR:	the kitchen stool that Junior's on is about ready to fall over . 35611_39696
+%mor:	det|the-Def-Art noun|kitchen noun|stool pron|that-Rel propn|Junior~part|s adp|on aux|be-Fin-Ind-Pres-S3 adv|about adj|ready-S1 part|to verb|fall-Inf-S adv|over .
+%gra:	1|3|DET 2|3|COMPOUND 3|10|NSUBJ 4|12|OBJ 5|7|NMOD-POSS 6|5|CASE 7|3|ACL-RELCL 8|10|COP 9|10|ADVMOD 10|13|ROOT 11|12|MARK 12|10|XCOMP 13|12|ADVMOD 14|10|PUNCT
+%wor:	the 35611_35711 kitchen 35872_36252 stool 36392_36712 that 36752_36953 Junior's 37073_37533 on 37633_37793 is 37893_38014 about 38094_38394 ready 38634_38814 to 38854_38934 fall 39015_39315 over 39395_39696 .
+*PAR:	what else do we have ? [+ exc] 42299_43199
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	what 42299_42418 else 42418_42658 do 42678_42738 we 42858_42918 have 43018_43199 ?
+*PAR:	&-uh that's all the action I see . [+ exc] 45890_48060
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET-PREDET 4|5|DET 5|7|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|5|PUNCT
+%wor:	uh 45890_45930 that's 45930_46130 all 46350_46531 the 46591_46711 action 47092_47473 I 47573_47593 see 47693_48060 .
+*PAR:	oh &-uh Sissy is holdin(g) her finger up to her mouth like +"/. 48575_52923
+%mor:	intj|oh propn|Sissy aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth adp|like +"/.
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|4|OBL 12|4|PUNCT
+%wor:	oh 48575_48715 uh 48715_48776 Sissy 50259_50620 is 50740_50860 holdin(g) 50960_51301 her 51301_51401 finger 51481_51822 up 51882_51982 to 52043_52143 her 52163_52263 mouth 52343_52664 like 52744_52923 +"/.
+*PAR:	+" don't make any noise or mother (wi)ll turn around . 53285_55811
+%mor:	aux|do-Fin-Imp-S~part|not verb|make-Fin-Imp-S det|any-Def-Ind noun|noise-Acc cconj|or noun|mother aux|will-Fin-S verb|turn-Inf-S adv|around .
+%gra:	1|3|AUX 2|3|ADVMOD 3|10|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|9|AUX 9|3|CCOMP 10|9|ADVMOD 11|3|PUNCT
+%wor:	don't 53285_53466 make 53486_53706 any 53746_53866 noise 54007_54347 or 54408_54468 mother 54548_54848 (wi)ll 54848_55089 turn 55109_55329 around 55410_55811 .
+*PAR:	(.) I [//] (.) I've already said he's reachin(g) a cookie to her and goin(g) for another one just before the stool falls down . 61956_68865
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|already verb|say-Part-Past-S-irr pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to pron|her-Prs-Acc-S3 cconj|and verb|go-Part-Pres-S adp|for det|another-Def-Ind noun|one adv|just sconj|before det|the-Def-Art noun|stool verb|fall-Fin-Ind-Pres-S3 adp|down .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|22|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|DET 9|7|OBJ 10|11|CASE 11|7|OBL 12|13|CC 13|7|CONJ 14|16|CASE 15|16|DET 16|13|OBL 17|21|ADVMOD 18|21|MARK 19|20|DET 20|21|NSUBJ 21|13|ADVCL 22|21|COMPOUND-PRT 23|4|PUNCT
+%wor:	I 61956_61976 I've 61996_62096 already 62136_62376 said 62416_62636 he's 62676_62796 reachin(g) 62856_63256 a 63256_63277 cookie 63397_63777 to 63797_63917 her 64357_64638 and 64738_64978 goin(g) 65899_66239 for 66239_66439 another 66459_66819 one 66919_67019 just 67059_67260 before 67300_67660 the 67660_67720 stool 67900_68100 falls 68140_68521 down 68581_68865 .
+*PAR:	his socks are droopin(g) . 70362_71519
+%mor:	pron|his-Prs-Gen-S3 noun|sock-Plur aux|be-Fin-Ind-Pres-P3 verb|droop-Part-Pres-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	his 70362_70462 socks 70522_70922 are 70982_71103 droopin(g) 71143_71519 .
+*PAR:	does that count &=laughs ? [+ exc] 71623_72384
+%mor:	aux|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|count-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	does 71623_71803 that 71823_72023 count 72103_72384 ?
+*INV:	&=laughs .
+*PAR:	&-uh I don't see anything outside . 76293_78194
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adv|outside .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	uh 76293_76553 I 76653_76673 don't 76713_76893 see 76953_77113 anything 77153_77594 outside 77694_78194 .
+*PAR:	&-uh &-uh the curtains don't look like they're blowin(g) or anything . 78737_82695
+%mor:	det|the-Def-Art noun|curtain-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|look-Inf-S sconj|like pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S cconj|or pron|anything-Ind-S1 .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|11|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ADVCL 10|11|CC 11|9|CONJ 12|5|PUNCT
+%wor:	uh 78737_78774 uh 78774_78895 the 80055_80115 curtains 80215_80676 don't 80736_80916 look 80956_81136 like 81176_81376 they're 81376_81536 blowin(g) 81636_82077 or 82077_82177 anything 82217_82695 .
+*PAR:	mother's just standin(g) lookin(g) . 84164_85727
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 adv|just noun|standing-Ger verb|look-Part-Pres-S .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	mother's 84164_84518 just 84599_84819 standin(g) 84879_85439 lookin(g) 85439_85727 .
+*PAR:	she's gonna get her feet wet in a minute . 85987_87618
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|get-Inf-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 adp|in det|a-Ind-Art noun|minute .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|4|PUNCT
+%wor:	she's 85987_86140 gonna 86160_86360 get 86380_86500 her 86540_86600 feet 86680_86900 wet 87000_87180 in 87220_87260 a 87280_87300 minute 87360_87618 .
+*INV:	okay that's fine . 88432_88550
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 88432_88550 that's fine .
+*PAR:	okay . [+ exc] 89782_90243
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 89782_90243 .
+@End

@@ -1,0 +1,190 @@
+@UTF8
+@PID:	11312/a-00089640-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;|female|ProbableAD||Participant|15||
+@Media:	067-2, audio
+@G:	animals
+*INV:	all the animal you can think of in one minute . 160_2865
+%mor:	det|all-Def-Tot det|the-Def-Art noun|animal pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|in num|one noun|minute .
+%gra:	1|3|DET-PREDET 2|3|DET 3|10|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|10|CASE 9|10|NUMMOD 10|6|OBL 11|3|PUNCT
+%wor:	all 160_280 the 320_400 animal 580_960 you 1661_1741 can 1761_1881 think 1922_2082 of 2162_2242 in 2282_2362 one 2482_2602 minute 2622_2865 .
+*INV:	they can be farm animals . 2883_4203
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S aux|be-Inf-S noun|farm noun|animal-Plur .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	they 2883_2983 can 3023_3123 be 3143_3203 farm 3303_3603 animals 3703_4203 .
+*INV:	they can be zoo animals . 4745_5905
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S aux|be-Inf-S noun|zoo noun|animal-Plur .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	they 4745_4845 can 4865_4965 be 4985_5045 zoo 5145_5325 animals 5405_5905 .
+*INV:	they can be pet animals . 6427_7687
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S aux|be-Inf-S noun|pet noun|animal-Plur .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	they 6427_6547 can 6587_6687 be 6707_6747 pet 6847_7087 animals 7207_7687 .
+*INV:	but no birds and no fish . 7736_9830
+%mor:	cconj|but det|no-Def-Neg noun|bird-Plur cconj|and det|no-Def-Neg noun|fish .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|3|PUNCT
+%wor:	but 7736_7848 no 7928_8008 birds 8148_8649 and 8829_8949 no 9009_9109 fish 9330_9830 .
+*INV:	so , I want you to name all the animals you can think of . 10271_12456
+%mor:	adv|so cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|14|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|DET-PREDET 9|10|DET 10|7|OBJ 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|13|OBL 15|4|PUNCT
+%wor:	so 10271_10351 , I 10411_10431 want 10511_10651 you 10691_10751 to 10751_10811 name 10871_11072 all 11132_11252 the 11272_11352 animals 11452_11772 you 11833_11933 can 11953_12073 think 12133_12333 of 12393_12456 .
+*INV:	and you can start now . 12533_13635
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 12533_12613 you 12633_12713 can 12734_12874 start 12934_13274 now 13394_13635 .
+*PAR:	I should have went out the highway &=laughs and got all these names &=laughs . [+ exc] 14476_18240
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|go-Part-Past-S-irr adp|out det|the-Def-Art noun|highway cconj|and verb|get-Part-Past-S-irr det|all-Def-Tot det|this-Def-Dem-Plur noun|name-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|4|CONJ 10|12|DET-PREDET 11|12|DET 12|9|OBJ 13|4|PUNCT
+%wor:	I 14476_14496 should 14496_14656 have 14656_14756 went 14756_14896 out 14956_15096 the 15177_15257 highway 15417_15857 and 15938_16538 got 16598_16819 all 16959_17139 these 17159_17520 names 17740_18240 .
+*INV:	+< no &=laughs .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	<can you name> [//] &+s name all the animals you can think of ? 19042_21666
+%mor:	verb|name-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of ?
+%gra:	1|8|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|1|PUNCT
+%wor:	can 19042_19182 you 19242_19342 name 19382_19643 name 19823_20023 all 20083_20203 the 20223_20304 animals 20404_20724 you 20764_20844 can 20864_20984 think 21024_21245 of 21325_21666 ?
+*PAR:	cow . 22928_23427
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 22928_23427 .
+*PAR:	bear . 24029_24520
+%mor:	noun|bear .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bear 24029_24520 .
+*PAR:	horse . 26673_27172
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 26673_27172 .
+*INV:	mhm . 27934_28375
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 27934_28375 .
+*PAR:	(..) now what else <will I> [/] do I hafta do ? [+ exc] 29797_32498
+%mor:	adv|now pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 part|hafta verb|do-Inf-S ?
+%gra:	1|2|ADVMOD 2|7|OBJ 3|2|ADVMOD 4|7|AUX 5|7|NSUBJ 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%wor:	now 29797_29917 what 29957_30117 else 30217_30437 will 30517_30717 I 30877_30897 do 31038_31118 I 31338_31358 hafta 31398_31898 do 31998_32498 ?
+*PAR:	there's something else I was thinking of and I can't think of the name of it . [+ exc] 33520_37503
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adj|else-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|think-Part-Pres-S adp|of cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|the-Def-Art noun|name adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|2|EXPL 2|18|ROOT 3|2|NSUBJ 4|3|AMOD 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|7|OBL 9|13|CC 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|2|CONJ 14|16|CASE 15|16|DET 16|13|OBL 17|18|CASE 18|16|NMOD 19|2|PUNCT
+%wor:	there's 33520_33700 something 33720_34140 else 34220_34520 I 34621_34641 was 34661_34781 thinking 34861_35281 of 35341_35481 and 35561_35641 I 35721_35741 can't 35802_36082 think 36142_36322 of 36362_36402 the 36442_36522 name 36582_36842 of 36862_36962 it 37023_37503 .
+*PAR:	(.) horse , cow +... [+ exc]
+%mor:	noun|horse cm|cm noun|cow +...
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+*PAR:	(..) something else . [+ exc] 46252_47353
+%mor:	pron|something-Ind-S1 adj|else-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	something 46252_46892 else 46912_47353 .
+*PAR:	(.) I can't think of that other name . [+ exc] 51917_53819
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|that-Def-Dem-Sing adj|other-S1 noun|name .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|4|PUNCT
+%wor:	I 51917_51938 can't 51978_52158 think 52178_52398 of 52438_52498 that 52518_52638 other 53019_53219 name 53319_53819 .
+*PAR:	(...) I don't know . [+ exc] 61609_62270
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 61609_61629 don't 61669_61829 know 61849_62270 .
+*PAR:	what's wrong with me ? [+ exc] 62431_63348
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 adp|with pron|I-Prs-Acc-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	what's 62431_62670 wrong 62710_62990 with 62990_63170 me 63230_63348 ?
+*PAR:	I can't +/. [+ exc] 63571_64011
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not +/.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I can't 63571_64011 +/.
+*INV:	+< you're doing fine . 63811_64792
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|do-Part-Pres-S adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you're 63811_63951 doing 63971_64492 fine 64512_64792 .
+*INV:	you're doing just fine . 64962_65700
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|do-Part-Pres-S adv|just adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%wor:	you're 64962_65112 doing 65112_65273 just 65273_65453 fine 65513_65700 .
+*INV:	name all the animals that you can think of . 65813_67976
+%mor:	verb|name-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|9|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|5|CASE 10|1|PUNCT
+%wor:	name 65813_66013 all 66073_66174 the 66194_66294 animals 66394_66714 that 66734_66834 you 66854_66954 can 66974_67115 think 67175_67395 of 67495_67976 .
+*PAR:	(..) a dog . 70939_71499
+%mor:	det|a-Ind-Art noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 70939_70959 dog 70999_71499 .
+*INV:	okay , good . 71813_73460
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 71813_72180 , good 72960_73460 .
+@G:	F
+*INV:	okay , I'm going to change directions with the letter f@l . 74023_76766
+%mor:	intj|okay cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|change-Inf-S noun|direction-Plur-Acc adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|5|PUNCT 13|5|PUNCT
+%wor:	okay 74023_74201 , I'm 74241_74402 going 74422_74542 to 74542_74582 change 74662_75002 directions 75042_75503 with 75503_75603 the 75623_75703 letter 75763_76023 f 76423_76766 .
+*INV:	and you can start now . 77126_77964
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and you can start 77126_77344 now 77464_77964 .
+*PAR:	that's fire@q . 78547_79025
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 q|fire .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|FLAT 4|3|PUNCT
+%wor:	that's fire@q 78547_79025 .
+*INV:	okay . 79468_79946
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 79468_79946 .
+*PAR:	food . 81788_82269
+%mor:	noun|food .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	food 81788_82269 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	now what else am I gonna +..? [+ exc] 84793_86254
+%mor:	adv|now pron|what-Int-S1 adj|else-S1 aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adj|gonna-S1 +..?
+%gra:	1|2|ADVMOD 2|6|OBJ 3|2|AMOD 4|6|COP 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%wor:	now 84793_84933 what 84973_85133 else 85193_85433 am 85473_85574 I 85674_85694 gonna 85754_86254 +..?
+*PAR:	I'm runnin(g) out of words &=laughs . [+ exc] 86895_88696
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|run-Part-Pres-S adp|out adp|of noun|word-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|4|FIXED 6|3|OBL 7|3|PUNCT
+%wor:	I'm 86895_86955 runnin(g) 87356_87736 out 87736_87897 of 87937_88037 words 88197_88696 .
+*PAR:	&=laughs I can't think of them . [+ exc] 91882_93042
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	I 91882_91902 can't 91942_92182 think 92262_92463 of 92523_92563 them 92583_93042 .
+*INV:	think of as many words as you can think of that begin with the letter f@l . 93304_96568
+%mor:	verb|think-Fin-Imp-S adp|of adv|as adj|many-S1 noun|word-Plur sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|16|ROOT 2|5|CASE 3|4|ADVMOD 4|5|AMOD 5|1|OBL 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ACL 10|9|OBL 11|12|NSUBJ 12|5|ACL-RELCL 13|15|CASE 14|15|DET 15|12|OBL 16|12|OBL-UNMARKED 17|1|PUNCT
+%wor:	think 93304_93464 of 93504_93564 as 93624_93704 many 93764_93965 words 94045_94285 as 94305_94405 you 94425_94505 can 94545_94686 think 94726_94926 of 94986_95066 that 95106_95226 begin 95246_95507 with 95547_95667 the 95687_95747 letter 95807_96047 f 96128_96568 .
+*PAR:	(...) I don't know . [+ exc] 96889_97389
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I don't know 96889_97389 .
+*PAR:	I thought I had one whenever they first had it but &-uh they took it away . [+ exc] 103941_109907
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr num|one adv|whenever pron|they-Prs-Nom-P3 adv|first verb|have-Fin-Ind-Past-P3-irr pron|it-Prs-Acc-S3 cconj|but pron|they-Prs-Nom-P3 verb|take-Fin-Ind-Past-P3-irr pron|it-Prs-Acc-S3 adv|away .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|4|ADVMOD 7|9|NSUBJ 8|9|ADVMOD 9|6|ADVCL-RELCL 10|9|OBJ 11|13|CC 12|13|NSUBJ 13|2|CONJ 14|13|OBJ 15|13|ADVMOD 16|2|PUNCT
+%wor:	I 103941_103961 thought 103961_104201 I 104301_104321 had 104401_104641 one 104782_104922 whenever 104962_105322 they 105402_105563 first 106003_106383 had 106864_107144 it 107204_107284 but 107365_107605 uh 107685_107825 they 108846_108966 took 109067_109247 it 109287_109367 away 109407_109907 .
+*PAR:	(..) fire &+f +... [+ exc] 114594_115093
+%mor:	noun|fire +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fire 114594_115093 +...
+*PAR:	(...) fire , food +... [+ exc] 122217_122797
+%mor:	noun|fire cm|cm noun|food +...
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%wor:	fire 122217_122297 , food 122297_122797 +...
+*PAR:	(.) could have food@q in there , can't you ? [+ exc] 125299_126339
+%mor:	aux|could-Fin-S verb|have-Inf-S q|food adp|in adv|there cm|cm aux|can-Fin-S~part|not pron|you-Prs-Nom-S2 ?
+%gra:	1|2|AUX 2|9|ROOT 3|2|FLAT 4|5|CASE 5|2|OBL 6|7|PUNCT 7|2|PARATAXIS 8|9|ADVMOD 9|7|NSUBJ 10|2|PUNCT
+%wor:	could have food@q 125299_125319 in 125319_125419 there 125459_125680 , can't 125900_126160 you 126200_126339 ?
+*INV:	+< mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fire [//] &+foo foam .
+%mor:	noun|foam .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	from the food . 130067_130944
+%mor:	adp|from det|the-Def-Art noun|food .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	from 130067_130243 the 130283_130364 food 130444_130944 .
+*PAR:	(..) and that's xxx . [+ exc]
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@End

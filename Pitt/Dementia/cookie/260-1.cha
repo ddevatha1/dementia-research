@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090483-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|MCI||Participant|26||
+@Media:	260-1, audio
+@G:	Cookie
+*INV:	let me show you a picture . 700_1390
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|6|DET 6|3|OBJ 7|1|PUNCT
+%wor:	let 700_760 me 760_800 show 800_940 you 940_1020 a 1040_1060 picture 1181_1390 .
+*INV:	and the picture has a lot of action going on in it . 2696_4946
+%mor:	cconj|and det|the-Def-Art noun|picture verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|action verb|go-Ger-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|12|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|8|ACL 10|9|COMPOUND-PRT 11|12|CASE 12|9|OBL 13|4|PUNCT
+%wor:	and the picture 2696_3025 has 3065_3225 a 3285_3305 lot 3366_3546 of 3606_3686 action 3847_4207 going 4288_4608 on 4709_4869 in 4909_4946 it .
+*INV:	what I want you to do is look at the picture . 5466_6866
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|at det|the-Def-Art noun|picture .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|11|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|8|PUNCT
+%wor:	what 5466_5550 I 5550_5570 want 5570_5771 you 5771_5871 to 5871_5951 do 5951_6052 is 6152_6232 look 6272_6432 at 6472_6533 the 6553_6613 picture 6693_6866 .
+*INV:	just tell me anything you see going on . 8096_9139
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|2|PUNCT
+%wor:	just tell me anything 8096_8497 you 8517_8577 see 8698_8818 going 8818_8978 on 9018_9139 .
+*PAR:	well , the boy's in the cookie jar . 14351_15851
+%mor:	intj|well cm|cm det|the-Def-Art noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|4|DET 4|9|NMOD-POSS 5|4|CASE 6|9|CASE 7|9|DET 8|9|COMPOUND 9|9|ROOT 10|9|PUNCT
+%wor:	well 14351_14451 , the 14471_14551 boy's 14611_14971 in 15031_15111 the 15111_15191 cookie 15191_15491 jar 15551_15851 .
+*PAR:	his stool is gonna fall down . 19113_21718
+%mor:	pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|down .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+%wor:	his 19113_19253 stool 19353_19833 is 19913_20113 gonna 20613_20834 fall 20894_21214 down 21334_21718 .
+*PAR:	it's on two legs . 22094_22992
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on num|two noun|leg-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|NUMMOD 5|5|ROOT 6|5|PUNCT
+%wor:	it's 22094_22254 on 22314_22414 two 22514_22634 legs 22714_22992 .
+*PAR:	the sister wants him to hand her a cookie . 24675_27177
+%mor:	det|the-Def-Art noun|sister verb|want-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 part|to verb|hand-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|3|PUNCT
+%wor:	the 24675_24755 sister 24895_25276 wants 25596_25836 him 25836_25976 to 26036_26136 hand 26256_26516 her 26536_26656 a 26696_26716 cookie 26856_27177 .
+*PAR:	the mother is drying a dish . 28048_30627
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 28048_28188 mother 28188_28409 is 28489_28690 drying 29753_30255 a 30315_30335 dish 30355_30627 .
+*PAR:	the water is overflowing . 30917_32962
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 30917_31097 water 31539_31780 is 31860_32081 overflowing 32462_32962 .
+*PAR:	(.) yeah , I think that's the activity . [+ exc] 42267_43570
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|activity .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|8|NSUBJ 6|8|COP 7|8|DET 8|4|CCOMP 9|4|PUNCT
+%wor:	yeah 42267_42387 , I 42468_42488 think 42488_42668 that's 42688_42889 the 42929_43010 activity 43070_43570 .
+*PAR:	isn't that right ? [+ exc] 43724_44094
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem adj|right-S1 ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	isn't 43724_43792 that 43812_43933 right 43933_44094 ?
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

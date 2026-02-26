@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/a-00090589-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|male|ProbableAD||Participant|19||
+@Media:	587-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything you see happening in that picture . 480_3580
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|2|PUNCT
+%wor:	I 480_500 want 520_680 you 700_780 to 820_880 tell 981_1201 me 1221_1301 everything 1482_1963 you 2003_2123 see 2203_2364 happening 2484_2965 in 3005_3085 that 3125_3306 picture 3366_3580 .
+*PAR:	everything ? [+ exc] 4007_4466
+%mor:	pron|everything-Tot-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	everything 4007_4466 ?
+*INV:	everything you see happening . 4669_5804
+%mor:	pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|ACL 5|1|PUNCT
+%wor:	everything 4669_5030 you 5050_5150 see 5210_5370 happening 5491_5804 .
+*PAR:	happening ? [+ exc] 5992_6103
+%mor:	verb|happen-Part-Pres-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	happening 5992_6103 ?
+*INV:	yeah everything that's going on . 6586_8016
+%mor:	intj|yeah pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|5|COMPOUND-PRT 7|2|PUNCT
+%wor:	yeah 6586_6613 everything 6633_7034 that's 7034_7194 going 7274_7615 on 7715_8016 .
+*PAR:	&-hm mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what's happening in that picture ? 9119_10482
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	what's 9119_9299 happening 9339_9800 in 9820_9880 that 9920_10081 picture 10161_10482 ?
+*PAR:	+< well , (..) &-uh this is the boy trying to get the cookie jar down for his sister , I would imagine it is . 10207_19477
+%mor:	intj|well cm|cm pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|boy verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc adp|down adp|for pron|his-Prs-Gen-S3 noun|sister cm|cm pron|I-Prs-Nom-S1 aux|would-Fin-S verb|imagine-Inf-S pron|it-Prs-Acc-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|22|ROOT 7|6|ACL 8|9|MARK 9|7|XCOMP 10|12|DET 11|12|COMPOUND 12|9|OBJ 13|9|COMPOUND-PRT 14|16|CASE 15|16|NMOD-POSS 16|9|OBL 17|20|PUNCT 18|20|NSUBJ 19|20|AUX 20|6|PARATAXIS 21|20|OBJ 22|20|CCOMP 23|6|PUNCT
+%wor:	well 10207_13971 , uh 13991_14071 this 14111_14291 is 14371_14491 the 14551_14631 boy 14691_14952 trying 15032_15352 to 15352_15412 get 15512_15652 the 15732_15813 cookie 16493_16814 jar 16854_17114 down 17154_17454 for 17514_17655 his 17715_17895 sister 17975_18335 , I 18515_18535 would 18576_18736 imagine 18756_19296 it 19296_19336 is 19396_19477 .
+*PAR:	&-uh and he's gonna fall <off the ladder [: stool] [* s:r-ret]> [//] off the [//] (..) &-uh his s:tool or whatever he is settin(g) on . 21288_27998
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|off pron|his-Prs-Gen-S3 noun|stool cconj|or pron|whatever-Rel-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|set-Part-Pres-S adp|on .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|14|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|CC 10|8|CONJ 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|13|OBL 15|5|PUNCT
+%wor:	uh 21288_21348 and 21348_21448 he's 21448_21568 gonna 21608_21788 fall 21868_22128 off 22228_22328 the 22388_22448 stool 22508_22848 off 22928_23088 the 23108_23208 uh 23208_23328 his 26450_26570 stool 27030_27350 or 27410_27450 whatever 27450_27690 he 27690_27730 is 27730_27810 settin(g) 27830_27998 on .
+*PAR:	the mother is over here . 29178_30358
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adp|over adv|here .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	the 29178_29291 mother 29291_29571 is 29591_29651 over 29731_29911 here 29991_30358 .
+*PAR:	she just dropped [: spilled] [* s:r] some water or whatever on the floor . 30911_34633
+%mor:	pron|she-Prs-Nom-S3 adv|just verb|spill-Fin-Ind-Past-S3 det|some-Def-Ind noun|water-Acc cconj|or pron|whatever-Int-S1 adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|10|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+%wor:	she just 30911_31111 spilled 31211_31531 some 31591_31811 water 32712_33072 or 33092_33212 whatever 33372_33772 on 33912_33972 the 34012_34072 floor 34172_34633 .
+*PAR:	and [/] and she looks (.) pretty mad . 34788_38668
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adv|pretty adj|mad-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+%wor:	and 34788_36351 and 36392_36452 she 36492_36572 looks 36612_36873 pretty 38276_38517 mad 38517_38668 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and &-um the water's still runnin(g) . 40241_42307
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adv|still noun|running-Ger .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and um 40241_40422 the 41244_41344 water's 41384_41685 still 41745_41926 runnin(g) 41966_42307 .
+*PAR:	and it looks like the [/] the girl is laughing <at the> [/] at the boy because the [/] &-uh the stool is gonna fall over . 45580_54230
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at det|the-Def-Art noun|boy sconj|because det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adv|over .
+%gra:	1|3|CC 2|3|EXPL 3|18|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|17|MARK 13|14|DET 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|8|ADVCL 18|17|ADVMOD 19|3|PUNCT
+%wor:	and 45580_45640 it 45680_45740 looks 45780_45980 like 46040_46240 the 46240_46320 the 46621_46701 girl 46761_47001 is 47081_47181 laughing 47281_47722 at 47782_47842 the 47882_47982 at 48322_48382 the 48403_48483 boy 48543_48823 because 50224_50685 the 50725_50885 uh 50925_51025 the 52747_52827 stool 52887_53168 is 53208_53248 gonna 53288_53468 fall 53568_53788 over 53868_54230 .
+*PAR:	and there's [/] there's water on the floor there . 57052_59695
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|water adp|on det|the-Def-Art noun|floor adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|ADVMOD 9|3|PUNCT
+%wor:	and 57052_57192 there's 57192_57532 there's 58153_58313 water 58393_58693 on 58814_58894 the 58934_59014 floor 59134_59414 there 59494_59695 .
+@End

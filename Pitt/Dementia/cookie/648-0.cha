@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/a-00090607-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|18||
+@Media:	648-0, audio
+@G:	Cookie
+*INV:	is take a look at this picture and tell me everything that you see going on in the picture . 1011_5910
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|AUX 2|19|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|2|CONJ 10|9|IOBJ 11|9|OBJ 12|15|OBJ 13|14|NSUBJ 14|11|ACL-RELCL 15|14|XCOMP 16|15|COMPOUND-PRT 17|19|CASE 18|19|DET 19|15|OBL 20|2|PUNCT
+%wor:	is 1011_1051 take 1211_1451 a 1491_1511 look 1591_1751 at 1791_1851 this 1891_2052 picture 2152_2572 and 3073_3153 tell 3193_3373 me 3413_3453 everything 3573_4014 that 4034_4134 you 4154_4254 see 4374_4534 going 4574_4935 on 4955_5195 in 5235_5315 the 5335_5435 picture 5475_5910 .
+*INV:	tell me everything that you see happening . 6577_8438
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|7|ROOT 2|1|IOBJ 3|1|OBJ 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|1|PUNCT
+%wor:	tell 6577_6737 me 6777_6817 everything 6957_7397 that 7417_7518 you 7538_7638 see 7698_7858 happening 7938_8438 .
+*PAR:	now ? [+ exc] 10861_11222
+%mor:	adv|now ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	now 10861_11222 ?
+*PAR:	<the girl was> [/] &+k the girl's coaxin(g) the boy for a cookie . 14228_19213
+%mor:	det|the-Def-Art noun|girl~aux|is verb|coax-Part-Pres-S det|the-Def-Art noun|boy-Acc adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	the 14228_14308 girl 14388_14628 was 14668_14749 the 15971_16071 girl's 16172_16572 coaxin(g) 17915_18276 the 18276_18376 boy 18376_18556 for 18637_18737 a 18757_18777 cookie 18857_19213 .
+*PAR:	and his stool fell over . 19278_20975
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool verb|fall-Fin-Ind-Past-S3-irr adv|over .
+%gra:	1|4|CC 2|3|NMOD-POSS 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 19278_19338 his 19378_19558 stool 20079_20340 fell 20440_20681 over 20721_20975 .
+*PAR:	and the cookie are spilled . 21041_22064
+%mor:	cconj|and det|the-Def-Art noun|cookie aux|be-Fin-Ind-Pres-P3 verb|spill-Part-Past-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|5|ROOT 6|5|PUNCT
+%wor:	and the 21041_21102 cookie 21162_21583 are 21603_21663 spilled 21683_22064 .
+*PAR:	she spilled her dishwater washin(g) dishes . 27755_30075
+%mor:	pron|she-Prs-Nom-S3 verb|spill-Fin-Ind-Past-S3 pron|her-Prs-Gen-S3 noun|dishwater noun|washing-Ger noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NMOD-POSS 4|6|COMPOUND 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+%wor:	she 27755_27815 spilled 27815_28135 her 28215_28335 dishwater 28375_29016 washin(g) 29236_29637 dishes 29637_30075 .
+*PAR:	she's <washin(g) dishes> [//] dryin(g) them . 30122_31732
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	she's 30122_30298 washin(g) 30358_30738 dishes 30738_31119 dryin(g) 31259_31640 them 31640_31732 .
+*PAR:	<that runs over> [//] the sink's runnin(g) over . 32870_34550
+%mor:	det|the-Def-Art noun|sink~part|s noun|running-Ger adp|over .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	that 32870_32901 runs 32961_33202 over 33262_33442 the 33442_33522 sink's 33562_33862 runnin(g) 33902_34263 over 34263_34550 .
+*PAR:	her feet &+s &=laughs in the water . [+ gram] 36846_38212
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur adp|in det|the-Def-Art noun|water .
+%gra:	1|2|NMOD-POSS 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	her 36846_36906 feet 36926_37107 in 37547_37627 the 37647_37707 water 37828_38212 .
+*PAR:	this must be a path out back . 40814_42374
+%mor:	pron|this-Dem-S1 aux|must-Fin-S aux|be-Inf-S det|a-Ind-Art noun|path adp|out adv|back .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|7|ROOT 6|5|ADVMOD 7|5|ADVMOD 8|5|PUNCT
+%wor:	this 40814_40912 must 40992_41192 be 41232_41312 a 41352_41372 path 41452_41813 out 41873_42013 back 42093_42374 .
+*PAR:	flowers , trees . [+ gram] 43779_44937
+%mor:	noun|flower-Plur cm|cm noun|tree-Plur .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%wor:	flowers 43779_44340 , trees 44520_44937 .
+*PAR:	I don't know what else . [+ exc] 50431_51653
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+%wor:	I 50431_50451 don't 50531_50691 know 50731_50972 what 51032_51212 else 51272_51653 .
+*PAR:	water on the floor . [+ gram] 51934_52840
+%mor:	noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	water 51934_52194 on 52234_52334 the 52354_52415 floor 52475_52840 .
+*INV:	is that everything then ? 53497_54517
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|everything-Tot-S1 adv|then ?
+%gra:	1|3|COP 2|3|MARK 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	is 53497_53557 that 53557_53777 everything 53837_54238 then 54278_54517 ?
+*PAR:	yeah . [+ exc] 54779_55060
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 54779_55060 .
+@End

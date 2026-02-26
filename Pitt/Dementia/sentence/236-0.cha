@@ -1,0 +1,167 @@
+@UTF8
+@PID:	11312/a-00091378-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|||Dementia||Participant|||
+@Media:	236-0, audio
+@Comment:	poor audio quality, overlapping with another recording
+*INV:	alright . 100_600
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	our first word is pencil@q .
+%mor:	pron|our-Prs-Gen-P1 adj|first-S1 noun|word aux|be-Fin-Ind-Pres-S3 q|pencil .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|FLAT 6|5|PUNCT
+*PAR:	&-uh the pencil would write a letter . [+ exc] 4807_6429
+%mor:	det|the-Def-Art noun|pencil aux|would-Fin-S verb|write-Inf-S det|a-Ind-Art noun|letter-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	pardon me ? 6429_6750
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	would write a letter , I xxx . [+ exc] 11999_12500
+%mor:	aux|would-Fin-S verb|write-Inf-S det|a-Ind-Art noun|letter-Acc cm|cm pron|I-Prs-Nom-S1 .
+%gra:	1|2|AUX 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|PUNCT 6|2|PARATAXIS 7|2|PUNCT
+*INV:	(..) can you use the word pencil@q in a sentence ? 15368_19078
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|5|FLAT 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	the [/] &-um (.) the pencil was [/] &-uh (.) was very heavy [?] . 23707_28233
+%mor:	det|the-Def-Art noun|pencil aux|be-Fin-Ind-Past-S3-irr adv|very adj|heavy-S1 .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*INV:	okay , the next word is tree@q . 31578_36441
+%mor:	intj|okay cm|cm det|the-Def-Art adj|next-S1 noun|word aux|be-Fin-Ind-Pres-S3 q|tree .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|COP 7|7|FLAT 8|7|PUNCT
+*INV:	can you use the word tree@q in a sentence ? 38443_40591
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc q|tree adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|5|FLAT 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	yes . [+ exc]
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I have a blackberry . 43467_43828
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art propn|blackberry-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	yes , we have about seven or eight trees <in the> [//] in our &-uh +... [+ exc] 44628_49490
+%mor:	intj|yes cm|cm pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adv|about num|seven cconj|or num|eight noun|tree-Plur-Acc adp|in pron|our-Prs-Gen-P1 +...
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|11|ROOT 5|6|ADVMOD 6|9|NUMMOD 7|8|CC 8|6|CONJ 9|4|OBJ 10|11|CASE 11|9|NMOD 12|4|PUNCT
+*PAR:	and next year I wasn't to make &-uh +... [+ exc] 53431_55974
+%mor:	cconj|and adj|next-S1 noun|year pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr~part|not part|to verb|make-Inf-S +...
+%gra:	1|8|CC 2|3|AMOD 3|8|OBL-UNMARKED 4|8|NSUBJ 5|8|COP 6|8|ADVMOD 7|8|MARK 8|8|ROOT 9|8|PUNCT
+*PAR:	I never been like this before . [+ exc] 59615_63157
+%mor:	pron|I-Prs-Nom-S1 adv|never aux|be-Fin-Ind-Past-S-irr adp|like pron|this-Dem-S1 adv|before .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|COP 4|5|CASE 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	and <this is come to> [//] &-you_know it usually come right to me . [+ exc] 63391_68247
+%mor:	cconj|and pron|it-Prs-Nom-S3 adv|usually verb|come-Fin-Ind-Pres-S3 adv|right adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|7|ADVMOD 6|7|CASE 7|4|OBL 8|4|PUNCT
+*INV:	that's okay . 68247_68819
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	just try and relax . 69139_70200
+%mor:	adv|just verb|try-Fin-Imp-S cconj|and verb|relax-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*INV:	it might be a little bit that we are sitting here like this , too . 70220_73089
+%mor:	pron|it-Prs-Nom-S3 aux|might-Fin-S aux|be-Inf-S det|a-Ind-Art adj|little-S1 noun|bit sconj|that pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 verb|sit-Part-Pres-S adv|here adp|like pron|this-Dem-S1 cm|cm adv|too .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|COP 4|6|DET 5|6|AMOD 6|15|ROOT 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|6|CSUBJ 11|10|ADVMOD 12|13|CASE 13|10|OBL 14|15|PUNCT 15|10|ADVMOD 16|6|PUNCT
+*PAR:	+< uhhuh mhm . [+ exc] 73622_73715
+%mor:	intj|uhhuh intj|mhm .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*INV:	just relax and do your best . 74222_75155
+%mor:	adv|just verb|relax-Fin-Imp-S cconj|and verb|do-Fin-Imp-S pron|your-Prs-Gen-S2 adj|good-Sup-S1 .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|4|CC 4|2|CONJ 5|6|NMOD-POSS 6|4|OBJ 7|2|PUNCT
+*INV:	I'm not asking +/. 75383_76083
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|ask-Part-Pres-S +/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*PAR:	+< alright , uhhuh . [+ exc] 76000_76443
+%mor:	intj|alright cm|cm intj|uhhuh .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*INV:	okay , now I'm gonna give you two words . 77344_79732
+%mor:	intj|okay cm|cm adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|7|PUNCT
+*INV:	I still want you to put them in the same sentence , okay . 80186_83147
+%mor:	pron|I-Prs-Nom-S1 adv|still verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|put-Inf-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art adj|same-S1 noun|sentence cm|cm intj|okay .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|13|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|11|CASE 9|11|DET 10|11|AMOD 11|6|OBL 12|13|PUNCT 13|3|DISCOURSE 14|3|PUNCT
+*INV:	put them in the same sentence together . 83328_84848
+%mor:	verb|put-Fin-Imp-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art adj|same-S1 noun|sentence adv|together .
+%gra:	1|7|ROOT 2|1|OBJ 3|6|CASE 4|6|DET 5|6|AMOD 6|1|OBL 7|1|ADVMOD 8|1|PUNCT
+*INV:	but you don't hafta worry about the order . 85129_86800
+%mor:	cconj|but pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|hafta verb|worry-Inf-S adp|about det|the-Def-Art noun|order .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*INV:	okay . 86800_87251
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	child@q and hospital@q . 88419_90955
+%mor:	q|child cconj|and q|hospital .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+*INV:	can you use those two words in a sentence for me ? 91483_94020
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|that-Def-Dem-Plur num|two noun|word-Plur-Acc adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR:	&-um (.) the [/] &-uh (.) the child &+w was &-uh (.) &-uh taken to the hospital (.) and <in the> [//] (..) i(t) was rather bad condition . 94100_102349
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Past-S3-irr verb|take-Part-Past-S-irr adp|to det|the-Def-Art noun|hospital cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|rather adj|bad-S1 noun|condition .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|13|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|13|CC 9|13|NSUBJ 10|13|COP 11|12|ADVMOD 12|13|AMOD 13|4|CONJ 14|4|PUNCT
+*INV:	okay . 124112_124612
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	alright , the next two . 125836_127512
+%mor:	intj|alright cm|cm det|the-Def-Art adj|next-S1 num|two .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*INV:	cold@q and winter@q . 128281_129843
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+*INV:	can you use the words cold@q and winter@q in a short sentence ? 130365_133249
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Plur-Acc q|cold cconj|and q|winter adp|in det|a-Ind-Art adj|short-S1 noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|5|DET 5|3|OBJ 6|5|FLAT 7|8|CC 8|6|FLAT 9|12|CASE 10|12|DET 11|12|AMOD 12|3|OBL 13|3|PUNCT
+*PAR:	well , &-um (.) some days are very [/] very cold . 136418_140287
+%mor:	intj|well cm|cm det|some-Def-Ind noun|day-Plur aux|be-Fin-Ind-Pres-P3 adv|very adj|cold-S1 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|4|DET 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+*INV:	(..) alright , now I'm gonna give you three words . 150697_153300
+%mor:	intj|alright cm|cm adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|7|PUNCT
+*INV:	I'd like you to use all three words in the same sentence for me , okay ? 153400_156787
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|all-Def-Tot num|three noun|word-Plur-Acc adp|in det|the-Def-Art adj|same-S1 noun|sentence adp|for pron|I-Prs-Acc-S1 cm|cm intj|okay ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|17|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|DET 8|9|NUMMOD 9|6|OBJ 10|13|CASE 11|13|DET 12|13|AMOD 13|6|OBL 14|15|CASE 15|13|NMOD 16|17|PUNCT 17|3|DISCOURSE 18|3|PUNCT
+*INV:	chair@q doctor@q and sit@q . 158047_161732
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+*INV:	can you use those three words in a sentence for me ? 162074_164458
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|that-Def-Dem-Plur num|three noun|word-Plur-Acc adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR:	&-um (..) the &-um +... [+ exc] 172908_177413
+%mor:	det|the-Def-Art +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	could you repeat that or are you not allowed to ? [+ exc] 180758_183180
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|repeat-Inf-S pron|that-Dem cconj|or aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|not verb|allow-Part-Past-S part|to ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|9|CC 6|9|AUX-PASS 7|9|NSUBJ-PASS 8|9|ADVMOD 9|3|CONJ 10|9|XCOMP 11|3|PUNCT
+*INV:	chair@q doctor@q and sit@q . 184763_186000
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+*INV:	can you put those three words into one sentence for me ? 186666_189718
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|that-Def-Dem-Plur num|three noun|word-Plur-Acc adp|into num|one noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|9|CASE 8|9|NUMMOD 9|3|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR:	mhm . [+ exc] 189990_190490
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	the &-uh doctor &-uh asked &-uh me to [/] (.) to sit . 193537_202076
+%mor:	det|the-Def-Art noun|doctor verb|ask-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 part|to verb|sit-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|3|PUNCT
+*PAR:	that did not have any talking xxx . [+ exc] 206048_207350
+%mor:	pron|that-Dem aux|do-Fin-Ind-Past-S3-irr part|not verb|have-Inf-S det|any-Def-Ind noun|talking-Acc-Ger .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	(...) okay , now . 209298_210698
+%mor:	intj|okay cm|cm adv|now .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|ADVMOD 4|1|PUNCT
+*INV:	we can do three more words . 226155_227400
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S num|three adj|more-Cmp-S1 noun|word-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|NUMMOD 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*INV:	bureau@q open@q and drawer@q . 227719_230205
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+*INV:	can you use those three words in a simple sentence for me ? 230527_233436
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|that-Def-Dem-Plur num|three noun|word-Plur-Acc adp|in det|a-Ind-Art adj|simple-S1 noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|3|OBL 11|12|CASE 12|10|NMOD 13|3|PUNCT
+*PAR:	&-uh my niece opened the drawer (.) to &-uh get some things out of it (..) and &-um (.) it did not take her long to do so . 234519_241638
+%mor:	pron|my-Prs-Gen-S1 noun|niece verb|open-Fin-Ind-Past-S3 det|the-Def-Art noun|drawer-Acc part|to verb|get-Inf-S det|some-Def-Ind noun|thing-Plur-Acc adp|out adp|of pron|it-Prs-Acc-S3 cconj|and pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr part|not verb|take-Inf-S pron|her-Prs-Acc-S3 adv|long part|to verb|do-Inf-S adv|so .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|22|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|CASE 12|7|OBL 13|17|CC 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|3|CONJ 18|17|OBJ 19|17|ADVMOD 20|21|MARK 21|17|ADVCL 22|21|ADVMOD 23|3|PUNCT
+*INV:	okay , that's all of those . 261773_263758
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot adp|of pron|that-Dem-P1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|7|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+@End

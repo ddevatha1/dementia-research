@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/a-00090396-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|10||
+@Media:	097-1, audio
+@G:	Cookie
+*INV:	tell me what's going on . 380_1880
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+%wor:	tell 380_540 me 560_620 what's 780_1120 going 1200_1560 on 1680_1880 .
+*PAR:	all the action . [+ exc] 2281_3179
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	all 2281_2521 the 2601_2701 action 2901_3179 .
+*PAR:	what's going on in this picture ? [+ exc] 3522_5192
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 3522_3781 going 3861_4161 on 4241_4362 in 4422_4502 this 4522_4702 picture 4802_5192 ?
+*PAR:	oh the boy is up tryin(g) to cake [: take] [* p:w] . 5462_9184
+%mor:	intj|oh det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|up verb|try-Part-Pres-S part|to verb|take-Inf-S .
+%gra:	1|5|DISCOURSE 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|8|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+%wor:	oh 5462_5582 the 5582_5682 boy 5802_6182 is 6262_6423 up 6503_6663 tryin(g) 7963_8544 to 8544_8604 take 8744_9184 .
+*PAR:	and the woman's sink is running over . 10245_13590
+%mor:	cconj|and det|the-Def-Art noun|woman~part|s noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|7|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|7|NSUBJ 6|7|AUX 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+%wor:	and 10245_10405 the 10465_10585 woman's 10885_11345 sink 11505_11825 is 12225_12386 running 12466_12946 over 13106_13590 .
+*INV:	mhm . 13898_14066
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 13898_14066 .
+*PAR:	and these are curtains . 16645_17925
+%mor:	cconj|and pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|curtain-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	and 16645_16765 these 16785_17165 are 17245_17385 curtains 17445_17925 .
+*PAR:	and his stool is tumbling over . 19547_23751
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|tumble-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 19547_19727 his 19848_20208 stool 21089_21549 is 21629_21769 tumbling 21929_22570 over 23251_23751 .
+*INV:	mhm . 24094_24311
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 24094_24311 .
+*INV:	anything else going on in the picture ? 25373_27254
+%mor:	pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|7|ROOT 2|1|ADVMOD 3|1|ACL 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+%wor:	anything 25373_25773 else 25833_26053 going 26093_26354 on 26414_26514 in 26574_26614 the 26634_26734 picture 26754_27254 ?
+*PAR:	anything else wrong with the picture ? [+ exc] 28576_30177
+%mor:	pron|anything-Ind-S1 adj|else-S1 adj|wrong-S1 adp|with det|the-Def-Art noun|picture ?
+%gra:	1|6|ROOT 2|1|ADVMOD 3|1|AMOD 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+%wor:	anything 28576_28996 else 29076_29316 wrong 29417_29857 with 29917_30097 the 30097_30177 picture ?
+*INV:	going on . 30878_31499
+%mor:	verb|go-Part-Pres-S adp|on .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%wor:	going 30878_31258 on 31338_31499 .
+*INV:	any more action in the picture . 31599_33169
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 noun|action adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|DET 2|3|AMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	any 31599_31719 more 31779_31939 action 32040_32461 in 32521_32581 the 32621_32701 picture 32762_33169 .
+*INV:	(.) okay . 40562_40883
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 40562_40883 .
+@End

@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/a-00089847-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|male|MCI||Participant|28||
+@Media:	033-3, audio
+@G:	Bill_Immediate
+*INV:	can you tell me anything you recall from it ? 524180_526380
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|recall-Fin-Ind-Pres-S2 adp|from pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|CASE 9|7|OBL 10|3|PUNCT
+%wor:	can 524180_524280 you 524280_524520 tell 524520_524740 me 524801_524861 anything 524961_525502 you 525522_525582 recall 525602_525942 from 526022_526380 it ?
+*PAR:	well , uncle Bill had returned on July the fourth . 526864_530269
+%mor:	intj|well cm|cm noun|uncle propn|Bill aux|have-Fin-Ind-Past-S3-irr verb|return-Part-Past-S adp|on propn|July det|the-Def-Art adj|fourth-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|3|FLAT 5|6|AUX 6|10|ROOT 7|8|CASE 8|6|OBL 9|10|DET 10|6|OBL-UNMARKED 11|6|PUNCT
+%wor:	well 526864_527084 , uncle 527124_527364 Bill 527444_527645 had 527685_527865 returned 527925_528426 on 528486_528566 July 528646_529087 the 529187_529307 fourth 529848_530269 .
+*PAR:	and &-uh he met his young &-uh nephew Bill who was so happy to see him because of their friendship &-uh when he was young . 530689_541345
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|meet-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 adj|young-S1 noun|nephew-Acc propn|Bill pron|who-Rel aux|be-Fin-Ind-Past-S3-irr adv|so adj|happy-S1 part|to verb|see-Inf-S pron|he-Prs-Acc-S3 adp|because adp|of pron|their-Prs-Gen-P3 noun|friendship adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|young-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|22|ROOT 4|6|NMOD-POSS 5|6|AMOD 6|3|OBJ 7|6|APPOS 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|6|ACL-RELCL 12|13|MARK 13|11|XCOMP 14|13|OBJ 15|18|CASE 16|15|FIXED 17|18|NMOD-POSS 18|13|OBL 19|22|ADVMOD 20|22|NSUBJ 21|22|COP 22|13|ADVCL 23|3|PUNCT
+%wor:	and 530689_530869 uh 531029_531149 he 531830_531930 met 532071_532291 his 532351_532531 young 532591_532852 uh 533032_533132 nephew 533212_533653 Bill 533893_534234 who 534394_534514 was 534574_534755 so 535356_535456 happy 535596_535916 to 535976_536057 see 536197_536397 him 536417_536537 because 536617_537258 of 537419_537579 their 537699_537919 friendship 538861_539462 uh 539802_540143 when 540163_540343 he 540443_540523 was 540623_540784 young 540864_541345 .
+*PAR:	and what he especially remembered was &-uh their fishing trips . 541665_545978
+%mor:	cconj|and pron|what-Int-S1 pron|he-Prs-Nom-S3 adv|especially verb|remember-Fin-Ind-Past-S3 aux|be-Fin-Ind-Past-S3-irr pron|their-Prs-Gen-P3 noun|fishing-Ger noun|trip-Plur .
+%gra:	1|9|CC 2|9|NSUBJ 3|5|NSUBJ 4|5|ADVMOD 5|2|ACL-RELCL 6|9|COP 7|9|NMOD-POSS 8|9|COMPOUND 9|9|ROOT 10|9|PUNCT
+%wor:	and 541665_541845 what 542006_542186 he 542246_542307 especially 542407_543029 remembered 543330_543891 was 543931_544152 uh 544333_544413 their 545015_545175 fishing 545275_545677 trips 545717_545978 .
+@G:	Bill_Delayed
+*INV:	that story ?
+%mor:	det|that-Def-Dem-Sing noun|story ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*PAR:	which story was that ? [+ exc] 896394_897314
+%mor:	det|which-Def-Int noun|story aux|be-Fin-Ind-Past-S3-irr pron|that-Dem ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	which 896394_896589 story 896609_896889 was 896949_897090 that 897110_897314 ?
+*INV:	the most recent one you heard . 897376_899691
+%mor:	det|the-Def-Art adv|most adj|recent-S1 noun|one pron|you-Prs-Nom-S2 verb|hear-Fin-Ind-Past-S2-irr .
+%gra:	1|4|DET 2|3|ADVMOD 3|4|AMOD 4|6|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+%wor:	the 897376_897410 most 898610_898870 recent 898950_899310 one 899390_899691 you heard .
+*PAR:	(..) no , I can't think of it . [+ exc] 906293_907253
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+%wor:	no 906293_906333 , I 906333_906353 can't 906373_906473 think 906493_906633 of 906653_906693 it 906753_907253 .
+@G:	Bill_Questions
+*INV:	can you recall who the story was about ? 908305_909540
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|recall-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|COP 8|3|PUNCT 9|3|PUNCT
+%wor:	can 908305_909540 you recall who the story was about ?
+*PAR:	hmhunh . [+ exc]
+%mor:	intj|hmhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	or what time of year it was when Bill returned to the states ? 912575_913826
+%mor:	cconj|or det|what-Def-Int noun|time adp|of noun|year pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|when propn|Bill verb|return-Fin-Ind-Past-S3 adp|to det|the-Def-Art noun|state-Plur ?
+%gra:	1|7|CC 2|3|DET 3|10|NSUBJ-OUTER 4|5|CASE 5|3|NMOD 6|7|NSUBJ 7|10|COP 8|10|ADVMOD 9|10|NSUBJ 10|13|ROOT 11|13|CASE 12|13|DET 13|10|OBL 14|10|PUNCT
+%wor:	or 912575_912615 what 912615_912695 time 912715_912795 of 912795_912955 year 912955_913136 it 913136_913216 was 913236_913356 when 913356_913477 Bill 913497_913697 returned 913717_913826 to the states ?
+*PAR:	oh , yeah , Bill re^pa^uh^tired [: retired] [* d:sw] to the States in the &-uh spring . 914238_918328
+%mor:	intj|oh cm|cm intj|yeah cm|cm propn|Bill verb|retire-Fin-Ind-Past-S3 adp|to det|the-Def-Art propn|State-Plur adp|in det|the-Def-Art noun|spring-Ger .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|3|PUNCT 5|6|NSUBJ 6|12|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|DET 12|6|OBL 13|6|PUNCT
+%wor:	oh 914238_914278 , yeah 914278_914419 , Bill 914419_914519 retired 914519_914800 to 914800_914860 the 914920_915000 States 915080_915581 in 915682_915822 the 916283_916443 uh 917806_917846 spring 917846_918328 .
+*PAR:	and he met &-uh his &-uh friend Bill who was glad to see him back because they had been fishing buddies . 918507_927160
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|meet-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|friend-Acc propn|Bill pron|who-Rel aux|be-Fin-Ind-Past-S3-irr adj|glad-S1 part|to verb|see-Inf-S pron|he-Prs-Acc-S3 adv|back sconj|because pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Past-P3-irr aux|be-Part-Past-S-irr verb|fishing-Part-Pres-S noun|buddy-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|19|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|5|APPOS 7|9|NSUBJ 8|9|COP 9|5|ACL-RELCL 10|11|MARK 11|9|XCOMP 12|11|OBJ 13|11|ADVMOD 14|19|MARK 15|19|NSUBJ 16|19|AUX 17|19|COP 18|19|AMOD 19|11|ADVCL 20|3|PUNCT
+%wor:	and 918507_918567 he 918587_918627 met 918707_919027 uh 919468_919528 his 919548_919829 uh 919829_919869 friend 920890_921251 Bill 921331_921591 who 921711_921811 was 921892_922012 glad 922092_922432 to 922513_922613 see 922973_923214 him 923314_923474 back 923594_924075 because 925116_925577 they 925597_925697 had 925757_925858 been 925918_926078 fishing 926158_926599 buddies 926739_927160 .
+@End

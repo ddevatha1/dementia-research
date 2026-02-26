@@ -1,0 +1,110 @@
+@UTF8
+@PID:	11312/a-00090687-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|58;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	071-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	real action . [+ exc] 340_780
+%mor:	adj|real-S1 noun|action .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	real 340_520 action 600_780 .
+*INV:	all the action . 1110_1730
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	all 1110_1180 the 1200_1401 action 1401_1730 .
+*PAR:	okay . [+ exc] 2862_3193
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2862_3193 .
+*PAR:	&-uh reaching with an arm is that considered action ? [+ exc] 3663_6473
+%mor:	verb|reach-Ger-S adp|with det|a-Ind-Art noun|arm aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing verb|consider-Part-Past-S noun|action ?
+%gra:	1|8|CSUBJ 2|4|CASE 3|4|DET 4|1|OBL 5|8|COP 6|8|DET 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+%wor:	uh 3663_3903 reaching 4524_4864 with 4884_4984 an 5124_5164 arm 5284_5404 is 5465_5525 that 5545_5685 considered 5725_6085 action 6145_6473 ?
+*INV:	+< mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay reaching with an arm . [+ gram] 6946_8070
+%mor:	intj|okay verb|reach-Part-Pres-S adp|with det|a-Ind-Art noun|arm .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	okay 6946_7186 reaching 7246_7527 with 7567_7687 an 7707_7787 arm 7867_8070 .
+*PAR:	finger on the face . [+ gram] 8447_9442
+%mor:	noun|finger adp|on det|the-Def-Art noun|face .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	finger 8447_8728 on 8808_8888 the 8908_8988 face 9048_9442 .
+*PAR:	the girl . [+ gram] 10049_10495
+%mor:	det|the-Def-Art noun|girl .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	the 10049_10109 girl 10169_10495 .
+*PAR:	&-uh cookie leaving the cookie jar . [+ gram] 11330_13633
+%mor:	noun|cookie verb|leave-Ger-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|ROOT 2|1|ACL 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|1|PUNCT
+%wor:	uh 11330_11530 cookie 12371_12632 leaving 12672_12912 the 12932_12992 cookie 13012_13272 jar 13292_13633 .
+*PAR:	boy <with cookie jar in other hand oh> [//] with cookie &+j &+i in each hand . [+ gram] 15024_18714
+%mor:	intj|boy adp|with noun|cookie adp|in det|each-Def-Tot noun|hand .
+%gra:	1|6|ROOT 2|3|CASE 3|1|OBL 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+%wor:	boy 15024_15244 with 15584_15725 cookie 15785_16065 jar 16065_16285 in 16386_16446 other 16726_16886 hand 16926_17167 oh 17247_17347 with 17347_17467 cookie 17487_17848 in 18088_18168 each 18228_18368 hand 18409_18714 .
+*PAR:	&-uh standing on stool . [+ gram] 19410_21202
+%mor:	verb|stand-Part-Pres-S adp|on noun|stool .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	uh 19410_19530 standing 20151_20532 on 20572_20672 stool 20752_21202 .
+*PAR:	but the stool's about to fall over . 21573_23288
+%mor:	cconj|but det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|fall-Inf-S adv|over .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ-OUTER 4|7|COP 5|7|ADVMOD 6|7|MARK 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+%wor:	but 21573_21733 the 21753_21814 stool's 22074_22354 about 22394_22615 to 22635_22695 fall 22755_22995 over 23055_23288 .
+*PAR:	&-uh let's go to mother . [+ exc] 25078_27155
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S adp|to noun|mother .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|CASE 5|3|OBL 6|1|PUNCT
+%wor:	uh 25078_25239 let's 26501_26661 go 26701_26781 to 26841_26901 mother 26961_27155 .
+*PAR:	the mother drying dishes . [+ gram] 27222_28524
+%mor:	det|the-Def-Art noun|mother verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	the 27222_27302 mother 27302_27542 drying 27722_28003 dishes 28043_28524 .
+*PAR:	water overflowing onto the floor . [+ gram] 29891_32070
+%mor:	noun|water verb|overflow-Ger-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+%wor:	water 29891_30131 overflowing 30811_31351 onto 31412_31552 the 31592_31672 floor 31712_32070 .
+*PAR:	&-uh (.) action . [+ exc] [+ gram] 36270_36620
+%mor:	noun|action .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 36270_36315 action 36335_36620 .
+*PAR:	well she's drying dishes . 37369_38289
+%mor:	intj|well pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	well 37369_37516 she's 37516_37676 drying 37676_37936 dishes 37976_38289 .
+*PAR:	I did say that . [+ exc] 38636_38957
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	I did 38636_38756 say 38796_38957 that .
+*PAR:	the window's open . 39857_40504
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 39857_39937 window's 39977_40257 open 40318_40504 .
+*PAR:	but that's not action . [+ exc] 40521_41311
+%mor:	cconj|but pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not noun|action .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	but 40521_40578 that's 40598_40758 not 40798_40918 action 41018_41311 .
+*PAR:	the curtains are blowing . 41585_42135
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	the 41585_41618 curtains 41618_41919 are 41939_42019 blowing 42019_42135 .
+*PAR:	let's say the curtain is blowing . 42259_43280
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|say-Inf-S det|the-Def-Art noun|curtain aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|1|PUNCT
+%wor:	let's 42259_42379 say 42399_42519 the 42559_42619 curtain 42659_42879 is 42919_42979 blowing 43039_43280 .
+*PAR:	(.) that's it . [+ exc] 46599_47089
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 46599_46719 it 46719_47089 .
+*PAR:	&-uh &-uh (.) it's how you define action I guess . [+ exc] 47324_49914
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|how pron|you-Prs-Nom-S2 verb|define-Fin-Ind-Pres-S2 noun|action-Acc pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|5|NSUBJ 5|3|ADVCL-RELCL 6|5|OBJ 7|8|NSUBJ 8|3|ADVCL-RELCL 9|3|PUNCT
+%wor:	uh 47324_47420 uh 47480_47560 it's 47721_48783 how 48843_48983 you 49003_49103 define 49103_49444 action 49504_49724 I 49724_49744 guess 49744_49914 .
+*INV:	okay good that's fine . 50568_51368
+%mor:	intj|okay adj|good-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|PARATAXIS 6|2|PUNCT
+%wor:	okay good that's 50568_50967 fine 50967_51368 .
+@End

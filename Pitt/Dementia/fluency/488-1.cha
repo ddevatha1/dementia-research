@@ -1,0 +1,146 @@
+@UTF8
+@PID:	11312/a-00089769-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|17||
+@Media:	488-1, audio
+@G:	foods
+*INV:	I'm going to give you one minute and I want you to tell me all of the things that you can think of to eat in one minute's time . 0_8162
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|one noun|minute cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of part|to verb|eat-Inf-S adp|in num|one noun|minute~part|s noun|time .
+%gra:	1|3|NSUBJ 2|3|AUX 3|31|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|NUMMOD 8|5|OBL-UNMARKED 9|11|CC 10|11|NSUBJ 11|3|CONJ 12|11|OBJ 13|14|MARK 14|11|XCOMP 15|14|IOBJ 16|14|OBJ 17|19|CASE 18|19|DET 19|16|NMOD 20|23|OBL 21|23|NSUBJ 22|23|AUX 23|19|ACL-RELCL 24|20|CASE 25|26|MARK 26|23|ADVCL 27|31|CASE 28|29|NUMMOD 29|31|NMOD-POSS 30|29|CASE 31|26|OBL 32|3|PUNCT
+%wor:	I'm 0_60 going 60_160 to 160_200 give 200_300 you 300_380 one 460_620 minute 700_1120 and 1280_1380 I 1460_1480 want 1500_1660 you 1700_1780 to 1800_1880 tell 1960_2240 me 2320_2420 all 3261_3421 of 3501_3581 the 3621_3701 things 3881_4241 that 4241_4381 you 4441_4541 can 4601_4761 think 4861_5141 of 5241_5441 to 5681_5841 eat 6262_6502 in 6882_6962 one 7102_7242 minute's 7262_7582 time 7662_8162 .
+*INV:	tell me all of the things you can think of to eat . 9057_11443
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|thing-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of part|to verb|eat-Inf-S .
+%gra:	1|12|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|OBL 11|12|MARK 12|9|ADVCL 13|1|PUNCT
+%wor:	tell 9057_9223 me 9243_9303 all 9403_9483 of 9483_9523 the 9523_9603 things 9663_9883 you 9903_9983 can 10003_10123 think 10203_10403 of 10463_10543 to 10623_10723 eat 10943_11443 .
+*INV:	ready ? 11902_12384
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ready 11902_12384 ?
+*INV:	go ahead name me some foods . 12744_14744
+%mor:	verb|go-Fin-Imp-S adv|ahead verb|name-Fin-Imp-S pron|I-Prs-Acc-S1 det|some-Def-Ind noun|food-Plur-Acc .
+%gra:	1|6|ROOT 2|1|ADVMOD 3|1|XCOMP 4|3|IOBJ 5|6|DET 6|3|OBJ 7|1|PUNCT
+%wor:	go 12744_12784 ahead 12844_13124 name 13644_13844 me 13864_13924 some 14004_14164 foods 14244_14744 .
+*PAR:	(.) corn . 17810_18270
+%mor:	noun|corn .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	corn 17810_18270 .
+*INV:	+< uhhuh , what else . 18500_19611
+%mor:	intj|uhhuh cm|cm pron|what-Int-S1 adv|else .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	uhhuh 18500_18891 , what 18891_19031 else 19111_19611 .
+*PAR:	apples . 21755_22234
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 21755_22234 .
+*INV:	uhhuh , what else . 22837_23536
+%mor:	intj|uhhuh cm|cm pron|what-Int-S1 adv|else .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	uhhuh , what 22837_22956 else 23036_23536 .
+*PAR:	(..) fish . 26421_26900
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 26421_26900 .
+*INV:	mhm , what else . 27200_28521
+%mor:	intj|mhm cm|cm pron|what-Int-S1 adj|else-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	mhm 27200_27801 , what 27801_27941 else 28021_28521 .
+*PAR:	and corn . 30965_32326
+%mor:	cconj|and noun|corn .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 30965_31345 corn 31826_32326 .
+*INV:	and what else ? 33170_34010
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	and 33170_33270 what 33330_33450 else 33510_34010 ?
+*INV:	(.) anything to eat . 39120_40360
+%mor:	pron|anything-Ind-S1 part|to verb|eat-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|ACL 4|1|PUNCT
+%wor:	anything 39120_39539 to 39599_39659 eat 39860_40360 .
+*INV:	(..) any other foods . 49192_50352
+%mor:	det|any-Def-Ind adj|other-S1 noun|food-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	any 49192_49332 other 49432_49632 foods 49852_50352 .
+*PAR:	(.) corn . 54559_55058
+%mor:	noun|corn .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	corn 54559_55058 .
+*INV:	mhm . 55580_55940
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 55580_55940 .
+*PAR:	+< beans . 55800_56221
+%mor:	noun|bean-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	beans 55800_56221 .
+*INV:	good . 56800_57141
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 56800_57141 .
+*INV:	(.) any other food ? 61809_62850
+%mor:	det|any-Def-Ind adj|other-S1 noun|food ?
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	any 61809_61929 other 62069_62270 food 62350_62850 ?
+*PAR:	(.) beans . 66217_66677
+%mor:	noun|bean-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	beans 66217_66677 .
+*INV:	mhm . 67038_67537
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 67038_67537 .
+*PAR:	corn . 68180_68659
+%mor:	noun|corn .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	corn 68180_68659 .
+*INV:	uhhuh . 69222_69700
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 69222_69700 .
+*PAR:	&=sighs . [+ exc]
+*INV:	okay , that's a minute . 73344_74545
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	okay 73344_73604 , that's 73665_73885 a 73925_73945 minute 74045_74545 .
+@G:	S
+*INV:	now I'm going to give you another minute and in that minute's time I want you to name as many words that you can think of that start with the letter s@l . 75206_84030
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|another-Def-Ind noun|minute cconj|and adp|in det|that-Def-Dem-Sing noun|minute~part|s noun|time pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adv|as adj|many-S1 noun|word-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of det|that-Def-Dem-Sing verb|start-Inf-S adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|34|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBL-UNMARKED 10|17|CC 11|15|CASE 12|13|DET 13|15|NMOD-POSS 14|13|CASE 15|17|OBL 16|17|NSUBJ 17|4|CONJ 18|17|OBJ 19|20|MARK 20|17|XCOMP 21|22|ADVMOD 22|23|AMOD 23|20|OBJ 24|27|OBL 25|27|NSUBJ 26|27|AUX 27|23|ACL-RELCL 28|24|CASE 29|30|DET 30|27|ADVCL 31|33|CASE 32|33|DET 33|30|OBL 34|33|CASE 35|4|PUNCT
+%wor:	now 75206_75326 I'm 75346_75426 going 75466_75606 to 75606_75646 give 75686_75846 you 75846_75946 another 75986_76366 minute 76466_76886 and 77066_77167 in 77227_77307 that 77347_77547 minute's 77607_77887 time 77947_78247 I 78467_78487 want 78527_78727 you 78767_78887 to 78907_78967 name 79047_79368 as 79528_79628 many 79748_80028 words 80668_81129 that 81149_81269 you 81309_81409 can 81449_81569 think 81649_81869 of 81929_82009 that 82009_82229 start 82309_82509 with 82549_82689 the 82709_82789 letter 82869_83130 s 83530_84030 .
+*INV:	all the words that start with s@l . 85031_87011
+%mor:	det|all-Def-Tot det|the-Def-Art noun|word-Plur pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with part|s .
+%gra:	1|3|DET-PREDET 2|3|DET 3|7|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBL 7|3|CASE 8|3|PUNCT
+%wor:	all 85031_85131 the 85271_85351 words 85391_85591 that 85591_85691 start 85751_86011 with 86051_86191 s 86511_87011 .
+*INV:	go ahead . 87164_87772
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	go 87164_87232 ahead 87272_87772 .
+*PAR:	salt ! 88292_88773
+%mor:	noun|salt !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salt 88292_88773 !
+*INV:	uhhuh , what else ?
+%mor:	intj|uhhuh cm|cm pron|what-Int-S1 adv|else ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	(.) sea .
+%mor:	noun|sea .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< any word .
+%mor:	det|any-Def-Ind noun|word .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	mhm . 95555_95616
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 95555_95616 .
+*PAR:	(.) and (..) salt . 99341_105086
+%mor:	cconj|and noun|salt .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 99341_99601 salt 104586_105086 .
+*INV:	mhm . 105467_105788
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 105467_105788 .
+@End

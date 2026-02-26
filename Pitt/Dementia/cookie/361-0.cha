@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00090537-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|female|PossibleAD||Participant|19||
+@Media:	361-0, audio
+@G:	Cookie
+*INV:	just tell me everything you see going on in the picture . 190_2400
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|2|PUNCT
+%wor:	just 190_310 tell 370_570 me 610_670 everything 770_1110 you 1130_1210 see 1250_1431 going 1471_1731 on 1831_1931 in 1931_1991 the 2011_2071 picture 2131_2400 .
+*PAR:	&=sighs the boy is snitching cookies . 5616_7046
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|snitch-Part-Pres-S noun|cookie-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the boy 5616_5875 is 5875_5995 snitching 6095_6555 cookies 6615_7046 .
+*PAR:	the sister's laughin(g) . 8077_9058
+%mor:	det|the-Def-Art noun|sister~part|s noun|laugh-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the sister's 8077_8537 laughin(g) 8617_9058 .
+*PAR:	the [/] the <bench [: stool] [* s:r-ret] he> [//] &-uh stool he's on is [/] is slanted . 11292_15859
+%mor:	det|the-Def-Art noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on aux|be-Fin-Ind-Pres-S3 verb|slant-Part-Past-S .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|NSUBJ 4|5|COP 5|2|ACL-RELCL 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	the 11292_11372 the 11552_11672 stool 12554_12914 he 12974_13035 uh 13075_13135 stool 13155_13315 he's 13335_13435 on 13435_13495 is 13596_13796 is 15058_15158 slanted 15359_15859 .
+*PAR:	&-uh (.) oh , <the mother then did> [//] the water &+s spilled over in the sink (.) on [/] &+t on to the floor . 19746_27940
+%mor:	intj|oh cm|cm det|the-Def-Art noun|water verb|spill-Fin-Ind-Past-S3 adp|over adp|in det|the-Def-Art noun|sink adp|on adp|to det|the-Def-Art noun|floor .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|DET 4|5|NSUBJ 5|13|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|OBL 11|13|CASE 12|13|DET 13|5|OBL 14|5|PUNCT
+%wor:	uh 19746_19846 oh 19846_19886 , the 19926_20006 mother 20066_20386 then 21308_21488 did 21548_21708 the 21748_21828 water 21888_22229 spilled 22329_23330 over 23370_23651 in 23711_23771 the 23791_23871 sink 23991_24251 on 26594_26694 on 27135_27235 to 27275_27375 the 27375_27455 floor 27495_27940 .
+*PAR:	and (.) there's dishes on the +... 30041_31440
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|dish-Plur adp|on det|the-Def-Art +...
+%gra:	1|3|CC 2|3|EXPL 3|6|ROOT 4|3|NSUBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	and there's 30041_30259 dishes 30319_30700 on 30780_30880 the 30940_31440 +...
+*PAR:	she's dryin(g) &-uh a plate . 33415_34785
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 33415_33535 dryin(g) 33595_34156 uh 34156_34296 a 34416_34436 plate 34516_34785 .
+*PAR:	curtains . [+ gram] 38346_38778
+%mor:	noun|curtain-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	curtains 38346_38778 .
+*PAR:	&-uh a good view just +... 40119_41409
+%mor:	det|a-Ind-Art adj|good-S1 noun|view adv|just +...
+%gra:	1|3|DET 2|3|AMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	uh 40119_40527 a 40527_40547 good 40647_40827 view 40908_41128 just 41148_41409 +...
+*PAR:	(..) and the +...
+%mor:	cconj|and det|the-Def-Art +...
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	(.) well , &-uh you can see the [/] &-uh <I guess> [//] the backyard . 56215_58137
+%mor:	intj|well cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|backyard-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	well 56215_56377 , uh 56377_57186 you 57186_57247 can 57307_57408 see 57408_57489 the 57489_57550 uh 57550_57611 I 57611_57631 guess 57651_57772 the 57772_57833 backyard 57833_58137 .
+*PAR:	and &-uh (..) &+d (.) I don't know if that would be a part of the house or a garage or &-uh &+th the walk . 67641_74308
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|that-Dem aux|would-Fin-S aux|be-Inf-S det|a-Ind-Art noun|part adp|of det|the-Def-Art noun|house cconj|or det|a-Ind-Art noun|garage cconj|or det|the-Def-Art noun|walk .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|20|ROOT 6|11|MARK 7|11|NSUBJ 8|11|AUX 9|11|COP 10|11|DET 11|5|CCOMP 12|14|CASE 13|14|DET 14|11|NMOD 15|17|CC 16|17|DET 17|14|CONJ 18|20|CC 19|20|DET 20|14|CONJ 21|5|PUNCT
+%wor:	and 67641_67701 uh 67701_67741 I 67741_67761 don't 67761_67861 know 67881_68001 if 68001_68061 that 68081_68281 would 68341_68501 be 68582_68682 a 68742_68762 part 68802_70624 of 70684_70764 the 70824_70904 house 70984_71404 or 71404_71485 a 71505_71525 garage 71605_72245 or 72245_72285 uh 72305_73166 the 73787_73867 walk 73947_74308 .
+*INV:	(..) okay that's fine . 86306_86816
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 86306_86387 that's 86408_86632 fine 86652_86816 .
+@End

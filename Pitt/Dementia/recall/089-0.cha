@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/a-00089883-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|87;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	089-0, audio
+@G:	George_Immediate
+*PAR:	and then +... 82546_83046
+%mor:	cconj|and adv|then +...
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 82546_82606 then 82606_83046 +...
+*PAR:	I forget how it started . [+ exc] 86554_87500
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Pres-S1 adv|how pron|it-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|NSUBJ 5|3|ADVCL-RELCL 6|2|PUNCT
+%wor:	I forget 86554_86895 how 86935_87076 it 87076_87136 started 87216_87500 .
+*PAR:	when they +/. 87699_88377
+%mor:	adv|when pron|they-Prs-Nom-P3 +/.
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	when 87699_87817 they 87877_88377 +/.
+*INV:	mhm . 88499_88798
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 88499_88798 .
+*PAR:	+, (.) Marilyn (..) and was it her brother ? 92063_98715
+%mor:	propn|Marilyn cconj|and aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 pron|her-Prs-Gen-S3 noun|brother ?
+%gra:	1|6|VOCATIVE 2|6|CC 3|6|COP 4|6|NSUBJ 5|6|NMOD-POSS 6|6|ROOT 7|6|PUNCT
+%wor:	Marilyn 92063_92623 and 97667_97768 was 97788_97968 it 98008_98108 her 98148_98248 brother 98308_98715 ?
+*INV:	okay . 99729_100186
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 99729_100186 .
+*PAR:	were going to the country . 104273_105655
+%mor:	aux|be-Fin-Ind-Past-P3-irr verb|go-Part-Pres-S adp|to det|the-Def-Art noun|country .
+%gra:	1|2|AUX 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	were 104273_104433 going 104453_104774 to 104854_104934 the 105014_105094 country 105174_105655 .
+*PAR:	(.) I think you said she took his hand because the streets were crowded . 111947_115652
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr pron|she-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|hand-Acc sconj|because det|the-Def-Art noun|street-Plur aux|be-Fin-Ind-Past-P3-irr verb|crowd-Part-Past-S .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|NSUBJ 6|4|CCOMP 7|8|NMOD-POSS 8|6|OBJ 9|13|MARK 10|11|DET 11|13|NSUBJ-PASS 12|13|AUX-PASS 13|6|ADVCL 14|2|PUNCT
+%wor:	I 111947_111967 think 111987_112167 you 112207_112307 said 112387_112608 she 112748_112868 took 112968_113149 his 113209_113369 hand 113469_113810 because 113910_114291 the 114351_114431 streets 114491_114892 were 114972_115112 crowded 115152_115652 .
+*INV:	mhm . 115814_116275
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 115814_116275 .
+*PAR:	(...) did I say they were going to the country ? [+ exc] 132054_133916
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|go-Part-Pres-S adp|to det|the-Def-Art noun|country ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+%wor:	did 132054_132154 I 132254_132274 say 132374_132534 they 132594_132695 were 132735_132875 going 132895_133135 to 133175_133256 the 133296_133376 country 133416_133916 ?
+*INV:	yes , mhm [/] mhm . 133997_134257
+%mor:	intj|yes cm|cm intj|mhm .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%wor:	yes 133997_134257 , mhm mhm .
+*PAR:	I guess that's about all I remember . [+ exc] 138364_139966
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|2|CCOMP 7|8|NSUBJ 8|6|ACL-RELCL 9|2|PUNCT
+%wor:	I 138364_138384 guess 138384_138564 that's 138664_139065 about 139065_139225 all 139265_139426 I 139446_139466 remember 139466_139966 .
+*PAR:	(.) I did say she took his hand . 147751_149474
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S pron|she-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|hand-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|NSUBJ 5|3|CCOMP 6|7|NMOD-POSS 7|5|OBJ 8|3|PUNCT
+%wor:	I 147751_147771 did 147831_147991 say 148091_148272 she 148392_148512 took 148612_148793 his 148833_148993 hand 149073_149474 .
+*INV:	that's right . 149494_150194
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 149494_149734 right 149815_150194 .
+*PAR:	(.) that's all I've got . [+ exc] 153321_153762
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S-irr .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	that's 153321_153542 all 153602_153762 I've got .
+*PAR:	I guess that's all I can remember . [+ exc] 154724_156080
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|2|PUNCT
+%wor:	I 154724_154744 guess 154744_154864 that's 154864_155085 all 155145_155265 I 155385_155405 can 155445_155586 remember 155646_156080 .
+*INV:	good , that's okay . 156467_157590
+%mor:	adj|good-S1 cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|5|ROOT 2|5|PUNCT 3|5|NSUBJ 4|5|COP 5|1|PARATAXIS 6|1|PUNCT
+%wor:	good 156467_156788 , that's 156908_157109 okay 157189_157590 .
+@End

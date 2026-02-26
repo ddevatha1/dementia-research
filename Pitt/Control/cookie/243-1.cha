@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/a-00090816-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|male|Control||Participant|27||
+@Media:	243-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 50_800
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 50_110 there's 110_370 the 410_490 picture 550_800 .
+*INV:	tell me everything you see going on in the picture .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	I see a boy &-um getting <in the> [/] in the cookie jar . 7000_9651
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boy-Acc verb|get-Ger-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|2|PUNCT
+%wor:	I see a boy um 7000_7100 getting 8242_8482 in 8502_8582 the 8582_8823 in 8863_8923 the 8963_9023 cookie 9063_9364 jar 9404_9651 .
+*PAR:	he's handing a [//] cookies to his sister . 11367_13851
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	he's 11367_11587 handing 11667_12108 a 12288_12308 cookies 12749_13089 to 13149_13230 his 13330_13470 sister 13570_13851 .
+*PAR:	his sister is standing on the floor receiving the cookies . 14080_17110
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|floor verb|receive-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVCL 9|10|DET 10|8|OBJ 11|4|PUNCT
+%wor:	his 14080_14160 sister 14200_14560 is 14680_14760 standing 14800_15201 on 15261_15341 the 15381_15461 floor 15541_15881 receiving 16262_16762 the 16762_16842 cookies 16902_17110 .
+*PAR:	the boy is standing on the stool and it is in the process of toppling over . 18003_22400
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|process sconj|of verb|topple-Ger-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|13|CC 9|13|NSUBJ 10|13|COP 11|13|CASE 12|13|DET 13|4|CONJ 14|15|MARK 15|13|ACL 16|15|COMPOUND-PRT 17|4|PUNCT
+%wor:	the 18003_18083 boy 18123_18284 is 18324_18404 standing 18464_18904 on 18964_19064 the 19084_19165 stool 19305_19685 and 19925_20025 it 20085_20166 is 20226_20346 in 20386_20446 the 20486_20566 process 20606_21146 of 21207_21287 toppling 21387_21907 over 22127_22400 .
+*PAR:	the cookie jar is &-uh quite full at the present time . 23449_26272
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adv|quite adj|full-S1 adp|at det|the-Def-Art adj|present-S1 noun|time .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|10|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|6|PUNCT
+%wor:	the 23449_23529 cookie 23589_23949 jar 23969_24370 is 24490_24710 uh 24870_24950 quite 25050_25351 full 25431_25651 at 25711_25771 the 25791_25851 present 25911_26131 time 26151_26272 .
+*PAR:	the lid is off the cookie jar . 26690_29370
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 26690_26750 lid 26870_27130 is 27350_27570 off 28411_28551 the 28591_28672 cookie 28752_29112 jar 29112_29370 .
+*PAR:	the mother is standing at the kitchen sink . 30180_32150
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|at det|the-Def-Art noun|kitchen noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	the 30180_30213 mother 30213_30453 is 30513_30594 standing 30654_31074 at 31114_31194 the 31214_31294 kitchen 31354_31735 sink 31915_32150 .
+*PAR:	she is wiping dishes . 32883_35918
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	she 32883_32976 is 33096_33316 wiping 33817_34377 dishes 35418_35918 .
+*PAR:	&-uh the sink is overflowing . 36694_38361
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	uh 36694_36780 the 36840_36920 sink 37100_37360 is 37501_37661 overflowing 37861_38361 .
+*PAR:	the water is running onto the floor splashing onto the floor . 39460_43640
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|onto det|the-Def-Art noun|floor verb|splash-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+%wor:	the 39460_39560 water 39780_40181 is 40241_40341 running 40441_40762 onto 40982_41382 the 41443_41523 floor 41583_41883 splashing 41963_42524 onto 42644_42945 the 43005_43065 floor 43205_43640 .
+*PAR:	&-uh there are other dishes . 44928_46917
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|other-S1 noun|dish-Plur .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|AMOD 4|2|NSUBJ 5|2|PUNCT
+%wor:	uh 44928_44968 there 45108_45369 are 45709_45969 other 46290_46510 dishes 46630_46917 .
+*PAR:	there's a dish and two other cups on the counter beside her . 47011_52520
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dish cconj|and num|two adj|other-S1 noun|cup-Plur adp|on det|the-Def-Art noun|counter adp|beside pron|her-Prs-Acc-S3 .
+%gra:	1|2|EXPL 2|13|ROOT 3|4|DET 4|2|NSUBJ 5|8|CC 6|8|NUMMOD 7|8|AMOD 8|4|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|13|CASE 13|11|NMOD 14|2|PUNCT
+%wor:	there's 47011_47191 a 47251_47271 dish 47432_47752 and 48013_48273 two 48553_48714 other 48794_48974 cups 49054_49415 on 49675_49815 the 49895_49976 counter 51117_51578 beside 51798_52319 her 52359_52520 .
+*PAR:	&-um in [//] <near her or> [//] over the sink is a window with curtains . 53955_59288
+%mor:	adp|over det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window adp|with noun|curtain-Plur .
+%gra:	1|3|CASE 2|3|DET 3|6|NMOD 4|6|COP 5|6|DET 6|8|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+%wor:	um 53955_54135 in 54957_55038 near 55519_55720 her 55800_56020 or 56281_56401 over 56502_56662 the 56682_56762 sink 56843_57063 is 57083_57184 a 57204_57224 window 57364_57765 with 58447_58688 curtains 58788_59288 .
+*PAR:	and &-uh the window is open . 60192_62258
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 60192_60473 uh 60533_60613 the 60994_61074 window 61134_61455 is 61536_61636 open 61856_62258 .
+*PAR:	and &-uh the [//] outside there is a tree and grass and shrubbery in sight . 63557_70607
+%mor:	cconj|and adv|outside pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree cconj|and noun|grass cconj|and noun|shrubbery adp|in noun|sight .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|12|ROOT 5|6|DET 6|4|NSUBJ 7|8|CC 8|6|CONJ 9|10|CC 10|6|CONJ 11|12|CASE 12|4|OBL 13|4|PUNCT
+%wor:	and 63557_63617 uh 63617_63657 the 64638_64778 outside 65099_65659 there 65680_65920 is 65920_66000 a 66060_66080 tree 66300_66781 and 67182_67442 grass 67562_68043 and 68724_68824 shrubbery 68864_69425 in 69986_70086 sight 70266_70607 .
+*PAR:	also a path and &-uh &-uh a window <into the> [//] into &-uh a garage or another portion of the house is visible . 71335_80805
+%mor:	adv|also det|a-Ind-Art noun|path cconj|and det|a-Ind-Art noun|window adp|into det|a-Ind-Art noun|garage cconj|or det|another-Def-Ind noun|portion adp|of det|the-Def-Art noun|house aux|be-Fin-Ind-Pres-S3 adj|visible-S1 .
+%gra:	1|17|ADVMOD 2|3|DET 3|17|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CC 11|12|DET 12|9|CONJ 13|15|CASE 14|15|DET 15|12|NMOD 16|17|COP 17|17|ROOT 18|17|PUNCT
+%wor:	also 71335_71555 a 71655_71675 path 71795_73036 and 73096_73297 uh 73317_73397 uh 73437_74178 a 74638_74658 window 74778_75219 into 75399_75779 the 75919_76039 into 77141_77441 uh 77441_77661 a 77701_77721 garage 78122_78662 or 78762_78902 another 79163_79403 portion 79443_79803 of 79823_79884 the 79904_79964 house 80024_80344 is 80404_80504 visible 80584_80805 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

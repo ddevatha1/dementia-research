@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090351-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|23||
+@Media:	035-0, audio
+@G:	Cookie
+*INV:	that's the picture .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&=laughs oh great &=laughs . [+ exc]
+%mor:	intj|oh adj|great-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	oh the boy is taking cookies . 8859_9788
+%mor:	intj|oh det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	oh 8859_8899 the 8899_8981 boy 9002_9063 is 9063_9124 taking 9124_9268 cookies 9288_9788 .
+*PAR:	&-uh and he's also going to fall off his stepstool . 11881_15841
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|off pron|his-Prs-Gen-S3 noun|stepstool .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|5|PUNCT
+%wor:	uh 11881_11921 and 11921_12061 he's 12361_12521 also 12622_12842 going 12922_13122 to 13122_13182 fall 13263_13443 off 13463_13763 his 13803_14044 stepstool 15426_15841 .
+*PAR:	&-uh his [//] &+sis I gather it's his sister is reaching for the cookies . 17469_23738
+%mor:	pron|I-Prs-Nom-S1 verb|gather-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|8|NSUBJ-OUTER 4|6|COP 5|6|NMOD-POSS 6|8|NSUBJ 7|8|AUX 8|2|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	uh 17469_18250 his 18270_18450 I 18931_18951 gather 19031_19391 it's 19431_19652 his 19652_19812 sister 19912_20353 is 20793_21094 reaching 22335_22656 for 22716_22856 the 22896_22996 cookies 23257_23738 .
+*PAR:	the mother is &-uh drying the dishes and obviously &-uh has her mind on somewhere [: something] [* s:r-ret] [//] &+el something else because the water's coming down off [//] out of the sink onto the floor . 24973_41273
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and adv|obviously verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|mind-Acc adp|on pron|something-Ind-S1 adj|else-S1 sconj|because det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|down adp|out adp|of det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|27|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|ADVMOD 9|4|CONJ 10|11|NMOD-POSS 11|9|OBJ 12|13|CASE 13|9|OBL 14|13|AMOD 15|19|MARK 16|17|DET 17|19|NSUBJ 18|19|AUX 19|9|ADVCL 20|19|COMPOUND-PRT 21|24|CASE 22|24|CASE 23|24|DET 24|19|OBL 25|27|CASE 26|27|DET 27|24|NMOD 28|4|PUNCT
+%wor:	the 24973_25053 mother 25133_25533 is 25794_26294 uh 26454_29198 drying 29198_29678 the 29718_29798 dishes 29899_30619 and 31501_31701 obviously 31841_32542 uh 32902_33183 has 33203_33363 her 33403_33503 mind 33603_33923 on 33984_34064 something 34144_34805 something 35005_35405 else 35465_35666 because 35686_36126 the 36206_36366 water's 36527_37007 coming 37468_37788 down 37868_38149 off 38669_38870 out 39090_39250 of 39290_39330 the 39350_39430 sink 39550_39831 onto 40451_40712 the 40772_40832 floor 40912_41273 .
+*PAR:	and she is also standing <in some> [//] in water . 41987_44747
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|also verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and 41987_42047 she 42067_42188 is 42268_42369 also 42449_42731 standing 42851_43334 in 43374_43454 some 43555_44279 in 44359_44420 water 44420_44747 .
+*PAR:	&-uh (..) I don't know . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*PAR:	that's [/] that's it . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	I didn't hear what he said then because <it's too> [//] it's +... [+ exc] 57444_63014
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|hear-Inf-S pron|what-Rel-S1 pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr adv|then sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|ADVMOD 9|11|MARK 10|11|NSUBJ 11|4|ADVCL 12|4|PUNCT
+%wor:	I 57444_57464 didn't 57484_57964 hear 57964_58104 what 58244_59005 he 59105_59225 said 59525_59705 then 59765_60066 because 60386_62107 it's 62248_62868 too 62868_62968 it's 62968_63014 +...
+*PAR:	(..) that is all that I can see here . [+ exc] 70174_71856
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adv|here .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|7|ADVMOD 9|3|PUNCT
+%wor:	that 70174_70434 is 70675_70795 all 70875_71175 that 71175_71395 I 71415_71435 can 71455_71615 see 71615_71695 here 71735_71856 .
+*INV:	okay . 72557_73057
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 72557_73057 .
+*INV:	thank you . 73103_73138
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	thank you 73103_73138 .
+@End

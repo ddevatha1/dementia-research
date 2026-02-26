@@ -1,0 +1,148 @@
+@UTF8
+@PID:	11312/a-00091367-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|11||
+@Media:	220-1, audio
+*INV:	pencil@q . 400_880
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 400_880 .
+*INV:	can you use that in a sentence for me ? 1422_3329
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S pron|that-Dem adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+%wor:	can 1422_1541 you 1581_1661 use 1762_1902 that 1922_2122 in 2162_2202 a 2282_2302 sentence 2383_2823 for 2883_3064 me 3104_3329 ?
+*INV:	pencil@q ? 3885_4385
+%mor:	q|pencil ?
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 3885_4385 ?
+*PAR:	(...) oh , I thought you were going to do them . [+ exc] 12298_13620
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr verb|go-Part-Pres-S part|to verb|do-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|10|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|4|PUNCT
+%wor:	oh 12298_12338 , I 12338_12358 thought 12398_12618 you 12658_12718 were 12778_12918 going 12938_13079 to 13099_13139 do 13199_13279 them 13399_13620 .
+*INV:	okay , now want you to do them . 13900_15350
+%mor:	intj|okay cm|cm adv|now verb|want-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|OBJ 9|4|PUNCT
+%wor:	okay 13900_14060 , now 14100_14260 want 14440_14661 you 14741_14861 to 14921_15001 do 15061_15141 them 15242_15350 .
+*INV:	I gave you the example now it's your turn . 15543_17845
+%mor:	pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|the-Def-Art noun|example-Acc adv|now pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|turn .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|ADVMOD 7|10|NSUBJ 8|10|COP 9|10|NMOD-POSS 10|2|PARATAXIS 11|2|PUNCT
+%wor:	I 15543_15562 gave 15622_15802 you 15822_15903 the 15943_16043 example 16103_16684 now 16724_16884 it's 16944_17084 your 17084_17265 turn 17345_17845 .
+*INV:	if I gave you the word table@q I would come up with a sentence like +"/. 18888_22293
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|the-Def-Art noun|word-Acc q|table pron|I-Prs-Nom-S1 aux|would-Fin-S verb|come-Inf-S adp|up adp|with det|a-Ind-Art noun|sentence adp|like +"/.
+%gra:	1|3|MARK 2|3|NSUBJ 3|10|ADVCL 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|FLAT 8|10|NSUBJ 9|10|AUX 10|15|ROOT 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|10|OBL 16|10|PUNCT
+%wor:	if 18888_18987 I 19128_19148 gave 19208_19388 you 19408_19488 the 19528_19588 word 19648_19829 table@q 19889_20690 I 20870_20890 would 20910_21070 come 21091_21231 up 21251_21331 with 21371_21471 a 21531_21551 sentence 21611_22052 like 22092_22293 +"/.
+*PAR:	+" your dinner is on the table . 22373_24014
+%mor:	pron|your-Prs-Gen-S2 noun|dinner aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	your 22373_22513 dinner 22573_22853 is 22953_23074 on 23174_23294 the 23354_23434 table 23514_24014 .
+*PAR:	yeah , mhm . [+ exc] 24476_25076
+%mor:	intj|yeah cm|cm intj|mhm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	yeah 24476_24576 , mhm 24576_25076 .
+*INV:	+< now your word is pencil@q . 24777_26338
+%mor:	adv|now pron|your-Prs-Gen-S2 noun|word aux|be-Fin-Ind-Pres-S3 q|pencil .
+%gra:	1|5|ADVMOD 2|3|NMOD-POSS 3|5|NSUBJ 4|5|COP 5|5|FLAT 6|5|PUNCT
+%wor:	now 24777_24896 your 24976_25177 word 25257_25537 is 25617_25718 pencil@q 25838_26338 .
+*INV:	I want you to come up with a sentence using the word pencil@q . 26920_29820
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|come-Inf-S adp|up adp|with det|a-Ind-Art noun|sentence verb|use-Ger-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|9|ACL 11|12|DET 12|10|OBJ 13|10|FLAT 14|2|PUNCT
+%wor:	I 26920_26960 want 26960_27100 you 27140_27240 to 27260_27300 come 27360_27500 up 27500_27600 with 27640_27760 a 27800_27820 sentence 27980_28500 using 28600_28860 the 28880_28960 word 29000_29240 pencil@q 29320_29820 .
+*PAR:	I gave you one before . [+ exc] 30941_32121
+%mor:	pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 num|one adv|before .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%wor:	I 30941_30961 gave 31021_31241 you 31261_31361 one 31461_31581 before 31621_32121 .
+*INV:	no , I want a sentence . 32842_34182
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|sentence-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	no 32842_32922 , I 33182_33202 want 33262_33422 a 33442_33462 sentence 33682_34182 .
+*PAR:	sentence . [+ exc] 34643_35143
+%mor:	noun|sentence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sentence 34643_35143 .
+*INV:	can you say something ? 35246_36217
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S pron|something-Ind-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	can 35246_35383 you 35423_35503 say 35563_35763 something 35883_36217 ?
+*INV:	a sentence that has the word pencil@q in it ? 36564_39065
+%mor:	det|a-Ind-Art noun|sentence pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|word-Acc q|pencil adp|in pron|it-Prs-Acc-S3 ?
+%gra:	1|2|DET 2|9|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|6|DET 6|4|OBJ 7|6|FLAT 8|9|CASE 9|4|OBL 10|2|PUNCT
+%wor:	a 36564_36583 sentence 36724_37164 that 37184_37304 has 37344_37524 the 37564_37644 word 37704_37924 pencil@q 38024_38604 in 38624_38724 it 38784_39065 ?
+*INV:	(..) remember how I gave you +//? 46528_47488
+%mor:	verb|remember-Fin-Imp-S adv|how pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 +//?
+%gra:	1|5|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ADVCL-RELCL 5|4|IOBJ 6|1|PUNCT
+%wor:	remember 46528_46888 how 46928_47088 I 47208_47228 gave 47268_47488 you +//?
+*INV:	<I used> [//] for me the word was table@q . 48028_50069
+%mor:	adp|for pron|I-Prs-Acc-S1 det|the-Def-Art noun|word aux|be-Fin-Ind-Past-S3-irr q|table .
+%gra:	1|2|CASE 2|6|OBL 3|4|DET 4|6|NSUBJ 5|6|COP 6|6|FLAT 7|6|PUNCT
+%wor:	I used 48028_48208 for 48328_48448 me 48528_48609 the 48889_48969 word 49009_49249 was 49309_49449 table@q 49569_50069 .
+*INV:	and I said +/. 50369_51200
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr +/.
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	and 50369_50469 I 50669_50689 said 50830_51200 +/.
+*INV:	+" the dinner is on the table . 51670_53070
+%mor:	det|the-Def-Art noun|dinner aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 51670_51750 dinner 51830_52130 is 52270_52370 on 52450_52510 the 52510_52570 table 52570_53070 .
+*PAR:	+< on the table . [+ exc] 52690_53471
+%mor:	adp|on det|the-Def-Art noun|table .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	on 52690_52730 the 52750_52831 table 52971_53471 .
+*PAR:	yeah . [+ exc] 53851_54100
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 53851_54100 .
+*INV:	well , I want you to say something with pencil@q . 54331_56832
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|say-Inf-S pron|something-Ind-S1 adp|with q|pencil .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|10|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|OBJ 9|10|CASE 10|8|FLAT 11|4|PUNCT
+%wor:	well 54331_54531 , I 54751_54771 want 54811_55012 you 55052_55132 to 55192_55252 say 55352_55492 something 55572_55972 with 56012_56212 pencil@q 56332_56832 .
+*PAR:	well , I can say the same thing . [+ exc] 58077_59515
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S verb|say-Inf-S det|the-Def-Art adj|same-S1 noun|thing-Acc-Ger .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+%wor:	well 58077_58193 , I 58353_58373 can 58413_58553 say 58633_58793 the 58833_58913 same 59013_59274 thing 59334_59515 .
+*PAR:	the dinner is on the table . [+ exc] 59614_61214
+%mor:	det|the-Def-Art noun|dinner aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 59614_59694 dinner 59774_60054 is 60174_60294 on 60394_60534 the 60574_60654 table 60714_61214 .
+*INV:	but you hafta use the word pencil@q instead of table@q . 61362_64062
+%mor:	cconj|but pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc q|pencil adv|instead adp|of q|table .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|6|FLAT 8|10|CASE 9|8|FIXED 10|4|FLAT 11|4|PUNCT
+%wor:	but 61362_61462 you 61482_61582 hafta 61602_61842 use 61943_62103 the 62123_62203 word 62243_62444 pencil@q 62504_63005 instead 63045_63366 of 63406_63486 table@q 63566_64062 .
+*PAR:	+< xxx , yeah . [+ exc] 64307_64444
+%mor:	cm|cm intj|yeah .
+%gra:	1|2|PUNCT 2|2|ROOT 3|2|PUNCT
+%wor:	, yeah 64307_64444 .
+*PAR:	a pencil@q . [+ exc] 64486_65000
+%mor:	det|a-Ind-Art q|pencil .
+%gra:	1|2|DET 2|2|FLAT 3|2|PUNCT
+%wor:	a 64486_64488 pencil@q 64648_65000 .
+*PAR:	yeah . [+ exc] 65528_65589
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 65528_65589 .
+*INV:	+< so , what can you say ? 65810_66871
+%mor:	adv|so cm|cm pron|what-Int-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%wor:	so , what 65810_65951 can 65991_66131 you 66171_66271 say 66371_66871 ?
+*INV:	how can you say it ? 67834_68917
+%mor:	adv|how aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	how 67834_67975 can 68035_68175 you 68195_68295 say 68375_68596 it 68676_68917 ?
+*INV:	(..) can you come up with a sentence using that word ? 77354_79755
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|come-Inf-S adp|up adp|with det|a-Ind-Art noun|sentence verb|use-Ger-S det|that-Def-Dem-Sing noun|word-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|7|ACL 9|10|DET 10|8|OBJ 11|3|PUNCT
+%wor:	can 77354_77474 you 77514_77594 come 77635_77775 up 77775_77856 with 77876_78036 a 78036_78056 sentence 78157_78619 using 78699_78960 that 79000_79181 word 79261_79755 ?
+*INV:	pencil@q . 80326_80815
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 80326_80815 .
+*PAR:	hm . [+ exc]
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(.) okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

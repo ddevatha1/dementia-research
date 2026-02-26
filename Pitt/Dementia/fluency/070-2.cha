@@ -1,0 +1,111 @@
+@UTF8
+@PID:	11312/a-00089641-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||female|ProbableAD||Participant|||
+@Media:	070-2, audio
+@G:	foods
+*INV:	you can begin now . 1020_2185
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you 1020_1080 can 1181_1302 begin 1322_1644 now 1685_2185 .
+*PAR:	bananas .
+%mor:	noun|banana-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) fruit .
+%mor:	noun|fruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) spaghetti . 16195_16635
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	spaghetti 16195_16635 .
+*PAR:	(..) hotdogs . 20303_20779
+%mor:	noun|hotdog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hotdogs 20303_20779 .
+*PAR:	(..) hamburgers . 26938_27436
+%mor:	noun|hamburger-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hamburgers 26938_27436 .
+*INV:	(...) any more ? 47282_47783
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any 47282_47342 more 47402_47783 ?
+*PAR:	hmhunh . [+ exc]
+%mor:	intj|hmhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	you still have some time . 49484_50505
+%mor:	pron|you-Prs-Nom-S2 adv|still verb|have-Fin-Ind-Pres-S2 det|some-Def-Ind noun|time-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	you still 49484_49724 have 49744_49884 some 49904_50084 time 50124_50505 .
+*INV:	you could get a couple more in there . 50645_52266
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|get-Inf-S det|a-Ind-Art noun|couple adj|more-Cmp-S1 adp|in adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|6|OBL-UNMARKED 6|3|OBJ 7|8|CASE 8|3|OBL 9|3|PUNCT
+%wor:	you 50645_50685 could 50725_50825 get 50865_51025 a 51045_51065 couple 51125_51365 more 51445_51726 in 51746_51786 there 51846_52266 .
+*PAR:	(..) fruit ? 52266_52526
+%mor:	noun|fruit ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fruit 52266_52526 ?
+*INV:	(..) anything else ? 62455_63345
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 62455_62835 else 62875_63345 ?
+*PAR:	jello . 63996_64495
+%mor:	noun|jello .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	jello 63996_64495 .
+*INV:	okay . 65917_66316
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 65917_66316 .
+@G:	S
+*PAR:	sistex [: sister] [*] . [+ exc] 69159_69658
+%mor:	noun|sister .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sister 69159_69658 .
+*INV:	pardon me ? 72101_72801
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	pardon 72101_72280 me 72320_72801 ?
+*PAR:	sistes [: sisters] [*] . 73181_73641
+%mor:	noun|sister-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sisters 73181_73641 .
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	sock . 79526_80006
+%mor:	noun|sock .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sock 79526_80006 .
+*PAR:	(..) steal . 84873_85373
+%mor:	noun|steal .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	steal 84873_85373 .
+*PAR:	(..) sit . 93205_93686
+%mor:	verb|sit-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sit 93205_93686 .
+*PAR:	(..) sat . 100278_100758
+%mor:	verb|sit-Fin-Ind-Past-S-irr .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sat 100278_100758 .
+*INV:	(...) anything else ? 115814_116634
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 115814_116094 else 116134_116634 ?
+*INV:	you have some more time . 119219_120280
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|some-Def-Ind adj|more-Cmp-S1 noun|time-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%wor:	you have 119219_119399 some 119439_119639 more 119639_119759 time 119800_120280 .
+*PAR:	(.) sistes [: sisters] [*] . 127272_127771
+%mor:	noun|sister-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sisters 127272_127771 .
+*INV:	okay , good . 132750_134326
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 132750_133258 , good 133826_134326 .
+@End

@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/a-00090355-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|23||
+@Media:	046-0, audio
+@G:	Cookie
+*INV:	there it is . 760_1410
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	there 760_1000 it 1000_1100 is 1160_1410 .
+*PAR:	go [/] &=clears throat go ? [+ exc]
+%mor:	noun|throat verb|go-Fin-Imp-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*INV:	go ?
+%mor:	verb|go-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	mother is washin(g) dishes . 7252_8893
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	mother 7252_7611 is 7651_7772 washin(g) 7892_8393 dishes 8393_8893 .
+*PAR:	the kids are lookin(g) for cookies . 9375_11117
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|look-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	the 9375_9455 kids 9555_9835 are 9875_9976 lookin(g) 10016_10396 for 10396_10536 cookies 10617_11117 .
+*PAR:	the little girl's cryin(g) (be)cause he ain't givin(g) her no cookies . 11992_15415
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~part|s verb|cry-Part-Pres-S sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not verb|give-Part-Pres-S pron|her-Prs-Acc-S3 det|no-Def-Neg noun|cookie-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NMOD-POSS 4|3|CASE 5|13|ROOT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ADVCL 11|10|IOBJ 12|13|DET 13|10|OBJ 14|5|PUNCT
+%wor:	the 11992_12092 little 12192_12472 girl's 12512_12873 cryin(g) 12973_13393 (be)cause 13413_13814 he 13834_13894 ain't 13994_14134 givin(g) 14154_14495 her 14495_14595 no 14675_14775 cookies 14915_15415 .
+*PAR:	and he gets the cookies down . 17219_20697
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 det|the-Def-Art noun|cookie-Plur-Acc adp|down .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+%wor:	and 17219_17459 he 19061_19141 gets 19201_19441 the 19501_19581 cookies 19681_20142 down 20242_20697 .
+*PAR:	and the mother's broke a plate . 21430_23820
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s verb|break-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|plate-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and the 21430_21504 mother's 21584_22025 broke 23026_23366 a 23386_23406 plate 23526_23820 .
+*PAR:	fell down . [+ gram] 25189_25890
+%mor:	verb|fall-Fin-Ind-Past-S1-irr adp|down .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%wor:	fell 25189_25409 down 25529_25890 .
+*PAR:	xxx just on this page ? [+ exc] 28455_29245
+%mor:	adv|just adp|on det|this-Def-Dem-Sing noun|page ?
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	just 28455_28675 on 28735_28795 this 28815_28995 page 29075_29245 ?
+*INV:	<on the> [//] &+ha yes just that one page . 29816_31278
+%mor:	intj|yes adv|just det|that-Def-Dem-Sing num|one noun|page .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|DET 4|5|NUMMOD 5|5|ROOT 6|5|PUNCT
+%wor:	on 29816_29896 the 29896_29956 yes 30196_30376 just 30416_30556 that 30576_30676 one 30756_30876 page 30896_31278 .
+*PAR:	that's it . [+ exc] 32928_33368
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 32928_33198 it 33298_33368 .
+*INV:	okay . 37325_37675
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 37325_37675 .
+*PAR:	&=laughs . [+ exc]
+*INV:	what's happening here ? 38490_39250
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	what's 38490_38622 happening 38662_38982 here 39042_39250 ?
+*PAR:	she broke [/] broke a plate or somethin(g) . 41144_43106
+%mor:	pron|she-Prs-Nom-S3 verb|break-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|plate-Acc cconj|or pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|4|CONJ 7|2|PUNCT
+%wor:	she 41144_41244 broke 41364_41664 broke 41744_42145 a 42165_42185 plate 42285_42665 or 42665_42705 somethin(g) 42705_43106 .
+*PAR:	went down the wrong way down there . [+ gram] 43690_45200
+%mor:	verb|go-Fin-Ind-Past-S1-irr adp|down det|the-Def-Art adj|wrong-S1 noun|way adp|down adv|there .
+%gra:	1|7|ROOT 2|1|COMPOUND-PRT 3|5|DET 4|5|AMOD 5|1|OBL 6|7|CASE 7|1|OBL 8|1|PUNCT
+%wor:	went 43690_43770 down 43770_43850 the 43870_43990 wrong 44010_44290 way 44290_44430 down 44430_44810 there 44850_45200 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	xxx just gettin(g) the water run over . 49433_50880
+%mor:	adv|just verb|get-Part-Pres-S det|the-Def-Art noun|water noun|run-Acc adp|over .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|COMPOUND-PRT 7|2|PUNCT
+%wor:	just gettin(g) 49433_49912 the 49912_49992 water 50133_50513 run 50533_50713 over 50773_50880 .
+*PAR:	she let the water run too fast . 53755_56435
+%mor:	pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|water-Acc verb|run-Inf-S adv|too adv|fast .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|2|XCOMP 6|7|ADVMOD 7|5|ADVMOD 8|2|PUNCT
+%wor:	she let the 53755_53834 water 53954_54315 run 54395_54555 too 54675_54855 fast 55935_56435 .
+*PAR:	&=laughs . [+ exc]
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 60808_60973
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 60808_60973 .
+@End

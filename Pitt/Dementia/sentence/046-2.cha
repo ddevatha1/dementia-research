@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/a-00091294-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|7||
+@Media:	046-2, audio
+*INV:	now then , I'm gonna give you three words . 3542_6743
+%mor:	adv|now adv|then cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|2|PUNCT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|7|PUNCT
+%wor:	now 3542_3722 then 3762_3922 , I'm 4823_4883 gonna 4943_5143 give 5163_5363 you 5383_5503 three 5883_6183 words 6243_6743 .
+*INV:	and I want you to put all three words into one sentence . 6904_10266
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|put-Inf-S det|all-Def-Tot num|three noun|word-Plur-Acc adp|into num|one noun|sentence .
+%gra:	1|3|CC 2|3|NSUBJ 3|12|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|DET 8|9|NUMMOD 9|6|OBJ 10|12|CASE 11|12|NUMMOD 12|6|OBL 13|3|PUNCT
+%wor:	and 6904_7004 I 7084_7104 want 7124_7284 you 7324_7404 to 7444_7504 put 7564_7724 all 7904_8045 three 8165_8425 words 8505_8965 into 9045_9225 one 9465_9626 sentence 9766_10266 .
+*INV:	chair@q doctor@q sit@q . 12309_16637
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 12309_13151 doctor@q 14313_14934 sit@q 16137_16637 .
+*INV:	can you put those words into a sentence for me ? 24161_26843
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|that-Def-Dem-Plur noun|word-Plur-Acc adp|into det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|10|CASE 10|8|NMOD 11|3|PUNCT
+%wor:	can 24161_24301 you 24341_24421 put 24441_24561 those 24601_24861 words 24881_25162 into 25202_25362 a 25442_25462 sentence 25562_26103 for 26163_26303 me 26343_26843 ?
+*PAR:	fray ? [+ exc] 26536_26923
+%mor:	intj|fray ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fray 26536_26923 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fray +... [+ exc] 31388_31888
+%mor:	intj|fray +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fray 31388_31888 +...
+@End

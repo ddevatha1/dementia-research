@@ -1,0 +1,187 @@
+@UTF8
+@PID:	11312/a-00089886-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|90;|female|ProbableAD||Participant|17||
+@Media:	091-2, audio
+@G:	George_Delayed
+*INV:	the little short story that I read you . 1436461_1438309
+%mor:	det|the-Def-Art adj|little-S1 adj|short-S1 noun|story pron|that-Rel pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 .
+%gra:	1|4|DET 2|4|AMOD 3|4|AMOD 4|8|ROOT 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|OBJ 9|4|PUNCT
+%wor:	the 1436461_1436521 little 1436581_1436781 short 1436842_1437042 story 1437122_1437422 that 1437462_1437583 I 1437663_1437683 read 1437743_1437903 you 1437983_1438309 .
+*PAR:	(.) hmhm . [+ exc] 1440106_1440492
+%mor:	intj|hmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hmhm 1440106_1440492 .
+*INV:	anything at all from the little short story ? 1441949_1444009
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot adp|from det|the-Def-Art adj|little-S1 adj|short-S1 noun|story ?
+%gra:	1|8|ROOT 2|3|CASE 3|1|NMOD 4|8|CASE 5|8|DET 6|8|AMOD 7|8|AMOD 8|1|NMOD 9|1|PUNCT
+%wor:	anything 1441949_1442349 at 1442389_1442470 all 1442530_1442610 from 1442610_1442810 the 1442830_1442910 little 1442970_1443191 short 1443271_1443491 story 1443591_1444009 ?
+*PAR:	I don't know anything about it . [+ exc] 1444713_1445925
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|anything-Ind-S1 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+%wor:	I 1444713_1444733 don't 1444773_1444913 know 1444913_1445033 anything 1445093_1445394 about 1445414_1445734 it 1445774_1445925 .
+*INV:	can you remember the story ? 1446015_1447316
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S det|the-Def-Art noun|story-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	can 1446015_1446155 you 1446175_1446255 remember 1446295_1446656 the 1446696_1446756 story 1446816_1447316 ?
+*PAR:	&=laughs you told me you read it so I must have had it . [+ exc] 1448779_1450882
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Past-S2-irr pron|I-Prs-Acc-S1 pron|you-Prs-Nom-S2 verb|read-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 sconj|so pron|I-Prs-Nom-S1 aux|must-Fin-S aux|have-Inf-S verb|have-Part-Past-S-irr pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|IOBJ 4|5|NSUBJ 5|2|CCOMP 6|5|OBJ 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|AUX 11|2|PARATAXIS 12|11|OBJ 13|2|PUNCT
+%wor:	you 1448779_1448859 told 1448919_1449119 me 1449159_1449219 you 1449379_1449459 read 1449540_1449720 it 1449780_1449860 so 1449920_1450000 I 1450181_1450201 must 1450241_1450441 have 1450481_1450581 had 1450601_1450801 it 1450841_1450882 .
+*PAR:	but I don't know what it is now . [+ exc] 1451060_1452612
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|now .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|6|ACL-RELCL 10|5|PUNCT
+%wor:	but 1451060_1451160 I 1451300_1451320 don't 1451360_1451520 know 1451520_1451620 what 1451660_1451801 it 1451841_1451941 is 1452001_1452141 now 1452241_1452612 .
+@G:	George_Questions
+*INV:	let me ask you some questions about the story . 1453524_1455825
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|ask-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind noun|question-Plur-Acc adp|about det|the-Def-Art noun|story .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|6|DET 6|3|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|1|PUNCT
+%wor:	let 1453524_1453643 me 1453663_1453723 ask 1453823_1453983 you 1454003_1454104 some 1454144_1454304 questions 1454344_1454885 about 1454925_1455165 the 1455185_1455265 story 1455325_1455825 .
+*INV:	see if it helps you to remember the story . 1455944_1457895
+%mor:	verb|see-Fin-Imp-S sconj|if pron|it-Prs-Nom-S3 verb|help-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 part|to verb|remember-Inf-S det|the-Def-Art noun|story-Acc .
+%gra:	1|9|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|9|DET 9|7|OBJ 10|1|PUNCT
+%wor:	see if it 1455944_1455946 helps 1455986_1456226 you 1456287_1456407 to 1456867_1456947 remember 1457007_1457368 the 1457408_1457508 story 1457588_1457895 .
+*INV:	can you remember who the story was about ? 1458190_1460151
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|COP 8|3|PUNCT 9|3|PUNCT
+%wor:	can 1458190_1458289 you 1458329_1458429 remember 1458449_1458790 who 1458850_1458930 the 1459030_1459110 story 1459190_1459411 was 1459471_1459591 about 1459651_1460151 ?
+*INV:	who was the story about ? 1460914_1462156
+%mor:	pron|who-Int aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|story adp|about ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+%wor:	who 1460914_1460973 was 1461033_1461153 the 1461173_1461253 story 1461333_1461614 about 1461694_1462156 ?
+*PAR:	about the bath . 1462675_1463617
+%mor:	adp|about det|the-Def-Art noun|bath .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	about 1462675_1462975 the 1463016_1463096 bath 1463136_1463617 .
+*INV:	okay . 1464077_1464498
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1464077_1464498 .
+*PAR:	is that what you said ? [+ exc] 1465558_1466405
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr ?
+%gra:	1|3|COP 2|3|MARK 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	is 1465558_1465598 that 1465598_1465738 what 1465758_1465919 you 1465939_1465999 said 1466099_1466405 ?
+*INV:	who [//] what is the story about ? 1467161_1468881
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|story adp|about ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|CASE 6|1|PUNCT
+%wor:	who 1467161_1467240 what 1467420_1467580 is 1467620_1467700 the 1467740_1467840 story 1467940_1468260 about 1468381_1468881 ?
+*PAR:	oh . [+ exc] 1469099_1469541
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 1469099_1469541 .
+*INV:	who was in the story ? 1469944_1470747
+%mor:	pron|who-Int aux|be-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|story ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	who was 1469944_1470082 in 1470122_1470202 the 1470222_1470322 story 1470382_1470747 ?
+*PAR:	oh , I don't know . [+ exc] 1471406_1472187
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	oh 1471406_1471503 , I 1471623_1471643 don't 1471663_1471843 know 1471863_1472187 .
+*INV:	what time of the year did George move in with his son's family ? 1474447_1477888
+%mor:	det|what-Def-Int noun|time adp|of det|the-Def-Art noun|year aux|do-Fin-Ind-Past-S3-irr propn|George verb|move-Inf-S adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|2|DET 2|8|OBL-UNMARKED 3|5|CASE 4|5|DET 5|2|NMOD 6|8|AUX 7|8|NSUBJ 8|14|ROOT 9|8|COMPOUND-PRT 10|14|CASE 11|12|NMOD-POSS 12|14|NMOD-POSS 13|12|CASE 14|8|OBL 15|8|PUNCT
+%wor:	what 1474447_1474586 time 1474626_1474886 of 1474906_1474966 the 1474986_1475066 year 1475146_1475366 did 1475446_1475587 George 1475627_1475987 move 1476047_1476287 in 1476327_1476387 with 1476447_1476607 his 1476647_1476788 son's 1476888_1477288 family 1477388_1477888 ?
+*INV:	what time of the year was it ? 1478529_1480070
+%mor:	det|what-Def-Int noun|time adp|of det|the-Def-Art noun|year aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 ?
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|ROOT 7|6|NSUBJ 8|6|PUNCT
+%wor:	what 1478529_1478669 time 1478709_1478969 of 1478989_1479049 the 1479069_1479129 year 1479209_1479450 was 1479550_1479770 it 1479850_1480070 ?
+*PAR:	George . [+ exc] 1480711_1481208
+%mor:	propn|George .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	George 1480711_1481208 .
+*INV:	when George moved in with his son's family . 1481532_1484271
+%mor:	adv|when propn|George verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|9|ROOT 4|3|COMPOUND-PRT 5|9|CASE 6|7|NMOD-POSS 7|9|NMOD-POSS 8|7|CASE 9|3|OBL 10|3|PUNCT
+%wor:	when 1481532_1481653 George 1481713_1482093 moved 1482153_1482434 in 1482474_1482554 with 1482614_1482754 his 1482814_1482994 son's 1483134_1483635 family 1483775_1484271 .
+*INV:	can you tell me what time of the year it was ? 1485858_1487593
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|what-Def-Int noun|time-Acc adp|of det|the-Def-Art noun|year pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|NSUBJ 11|6|ACL-RELCL 12|3|PUNCT
+%wor:	can 1485858_1485918 you 1485918_1486018 tell 1486038_1486178 me 1486198_1486239 what 1486299_1486419 time 1486459_1486659 of 1486679_1486739 the 1486739_1486799 year 1486859_1487020 it 1487060_1487120 was 1487160_1487593 ?
+*PAR:	in the spring . 1487961_1488603
+%mor:	adp|in det|the-Def-Art noun|spring-Ger .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	in 1487961_1488021 the 1488021_1488101 spring 1488161_1488603 .
+*INV:	okay . 1488877_1489062
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1488877_1489062 .
+*INV:	what were George's stories about ? 1491700_1493561
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur adp|about ?
+%gra:	1|6|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|CASE 7|1|PUNCT
+%wor:	what 1491700_1491820 were 1491860_1492000 George's 1492040_1492460 stories 1492560_1493001 about 1493061_1493561 ?
+*INV:	George told some stories . 1496827_1498366
+%mor:	propn|George verb|tell-Fin-Ind-Past-S3-irr det|some-Def-Ind noun|story-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	George 1496827_1497125 told 1497205_1497506 some 1497566_1497746 stories 1497866_1498366 .
+*INV:	can you tell me what they were about ? 1498509_1500029
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|3|PUNCT 9|3|PUNCT
+%wor:	can 1498509_1498627 you 1498647_1498727 tell 1498767_1498927 me 1498927_1498987 what 1499027_1499127 they 1499167_1499287 were 1499327_1499508 about 1499548_1500029 ?
+*PAR:	I don't know . [+ exc] 1501490_1502175
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 1501490_1501510 don't 1501550_1501710 know 1501750_1502175 .
+*INV:	okay . 1502752_1503251
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1502752_1503251 .
+*INV:	what did Melanie ask George to do ? 1504794_1506982
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+%wor:	what 1504794_1504914 did 1504954_1505094 Melanie 1505174_1505634 ask 1505695_1505935 George 1506015_1506375 to 1506435_1506515 do 1506596_1506982 ?
+*PAR:	melon ? [+ exc] 1508437_1508874
+%mor:	noun|melon ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	melon 1508437_1508874 ?
+*INV:	what did Melanie ask George to do ? 1509438_1512601
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+%wor:	what 1509438_1509559 did 1509619_1509759 Melanie 1509939_1510540 ask 1510940_1511261 George 1511381_1511861 to 1511962_1512042 do 1512142_1512601 ?
+*PAR:	I have no idea . [+ exc] 1513363_1514331
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|no-Def-Neg noun|idea-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	I 1513363_1513383 have 1513383_1513523 no 1513563_1513643 idea 1513844_1514331 .
+*INV:	why did George hold Melanie's hand tightly ? 1516847_1519010
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr propn|George verb|hold-Inf-S propn|Melanie~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	why 1516847_1517007 did 1517047_1517167 George 1517187_1517488 hold 1517528_1517728 Melanie's 1517788_1518229 hand 1518269_1518529 tightly 1518589_1519010 ?
+*PAR:	so she wouldn't fall . 1521293_1522295
+%mor:	adv|so pron|she-Prs-Nom-S3 aux|would-Fin-S~part|not verb|fall-Inf-S .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	so 1521293_1521353 she 1521453_1521533 wouldn't 1521613_1521873 fall 1521893_1522295 .
+*INV:	why did Melanie dislike the city ? 1528601_1530457
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|dislike-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	why 1528601_1528761 did 1528801_1528921 Melanie 1529001_1529442 dislike 1529482_1529922 the 1529942_1530023 city 1530143_1530457 ?
+*INV:	she didn't like the city , can you tell me why ? 1530828_1532942
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|why ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|6|DET 6|4|OBJ 7|10|PUNCT 8|10|AUX 9|10|NSUBJ 10|4|PARATAXIS 11|10|IOBJ 12|10|ADVMOD 13|4|PUNCT
+%wor:	she 1530828_1530924 didn't 1531004_1531264 like 1531304_1531524 the 1531544_1531624 city 1531725_1531945 , can 1532025_1532185 you 1532185_1532245 tell 1532245_1532405 me 1532445_1532505 why 1532586_1532942 ?
+*PAR:	Melanie didn't like the city ? [+ exc] 1534073_1535600
+%mor:	propn|Melanie aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	Melanie 1534073_1534568 didn't 1534588_1534828 like 1534848_1535048 the 1535068_1535148 city 1535249_1535600 ?
+*INV:	right . 1535776_1536030
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 1535776_1536030 .
+*INV:	can you tell me why ? 1536237_1537179
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|why ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|IOBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	can 1536237_1536357 you 1536357_1536478 tell 1536478_1537179 me why ?
+*PAR:	too many people . 1537663_1538623
+%mor:	adv|too adj|many-S1 noun|person-Plur .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	too 1537663_1537783 many 1537803_1538024 people 1538125_1538623 .
+*PAR:	too much confusion . 1538828_1539768
+%mor:	adv|too adj|much-S1 noun|confusion .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	too 1538828_1538968 much 1539008_1539209 confusion 1539290_1539768 .
+*INV:	+< mhm . 1539952_1540174
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 1539952_1540174 .
+@End

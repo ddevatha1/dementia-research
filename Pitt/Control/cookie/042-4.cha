@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00090668-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|59;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	042-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	&-uh the sink is overflowing . 510_2472
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	uh 510_550 the 1431_1491 sink 1571_1772 is 1812_1892 overflowing 1972_2472 .
+*PAR:	&-uh mother is drying a dish . 3935_5497
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	uh 3935_4096 mother 4096_4336 is 4396_4436 drying 4476_4837 a 4877_4897 dish 4997_5497 .
+*PAR:	&-um okay the boy is falling off the stool while he's getting a cookie out o(f) the [/] &+k the &-uh kitchen cupboard there . 6841_14614
+%mor:	intj|okay det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool sconj|while pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|kitchen noun|cupboard adv|there .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|20|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|14|DET 14|12|OBJ 15|19|CASE 16|19|CASE 17|19|DET 18|19|COMPOUND 19|12|OBL 20|12|ADVMOD 21|5|PUNCT
+%wor:	um 6841_7241 okay 8243_8643 the 8744_8824 boy 8884_9144 is 9284_9405 falling 9485_9785 off 9805_9906 the 9946_10006 stool 10126_10507 while 10627_10827 he's 10847_10947 getting 10987_11228 a 11248_11268 cookie 11328_11669 out 11749_11849 o(f) 11869_11949 the 11949_12009 the 13011_13111 uh 13211_13311 kitchen 13331_13652 cupboard 13792_14153 there 14213_14614 .
+*PAR:	the girl is reaching up for a cookie . 15165_18188
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 15165_15225 girl 15265_15505 is 15565_15645 reaching 15745_16106 up 16206_16346 for 17348_17548 a 17588_17608 cookie 17688_18188 .
+*PAR:	&-um let's see . [+ exc] 19451_21975
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	um 19451_19691 let's 20432_21434 see 21614_21975 .
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	dishes on the counter but there's no action with them I guess &=laughs . [+ gram] 30726_33136
+%mor:	noun|dish-Plur adp|on det|the-Def-Art noun|counter cconj|but pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg noun|action adp|with pron|they-Prs-Acc-P3 pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|13|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|CC 6|7|EXPL 7|1|CONJ 8|9|DET 9|7|NSUBJ 10|11|CASE 11|9|NMOD 12|13|NSUBJ 13|7|PARATAXIS 14|1|PUNCT
+%wor:	dishes 30726_30966 on 31026_31086 the 31086_31146 counter 31206_31506 but 31526_31626 there's 31666_31827 no 31827_31867 action 32007_32287 with 32307_32447 them 32447_32587 I 32727_32747 guess 32787_33136 .
+*INV:	okay . 33377_33608
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 33377_33608 .
+*PAR:	+< &-uh guess that's all I see . [+ exc] 34370_35307
+%mor:	verb|guess-Fin-Imp-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|6|NSUBJ 6|4|ACL-RELCL 7|1|PUNCT
+%wor:	uh 34370_34509 guess 34529_34669 that's 34689_34829 all 34869_34970 I 35010_35030 see 35150_35307 .
+*INV:	okay good . 35702_35990
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay good 35702_35990 .
+@End

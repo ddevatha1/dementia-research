@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00091361-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|86;|male|ProbableAD||Participant|19||
+@Media:	212-3, audio
+*INV:	use the word pencil@q in a sentence . 2105_4068
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	use 2105_2265 the 2285_2365 word 2405_2606 pencil@q 2706_3287 in 3328_3408 a 3448_3468 sentence 3568_4068 .
+*PAR:	I like this new pencil . 5854_7057
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing adj|new-S1 noun|pencil-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%wor:	I 5854_5874 like 5914_6114 this 6154_6295 new 6395_6495 pencil 6575_7057 .
+*INV:	use the word tree@q in a sentence . 13299_15299
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|tree adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	use 13299_13479 the 13519_13619 word 13659_13879 tree@q 13999_14539 in 14559_14619 a 14679_14699 sentence 14799_15299 .
+*PAR:	the tree in my backyard has grown fast . 17700_20281
+%mor:	det|the-Def-Art noun|tree adp|in pron|my-Prs-Gen-S1 noun|backyard aux|have-Fin-Ind-Pres-S3 verb|grow-Part-Past-S-irr adj|fast-S1 .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|7|AUX 7|8|ROOT 8|7|XCOMP 9|7|PUNCT
+%wor:	the 17700_17780 tree 17900_18141 in 18201_18261 my 18301_18461 backyard 18541_19101 has 19141_19281 grown 19361_19661 fast 19781_20281 .
+*INV:	(..) use the words child@q and hospital@q in a sentence . 31078_34402
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Plur-Acc q|child cconj|and q|hospital adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|6|CC 6|4|FLAT 7|9|CASE 8|9|DET 9|1|OBL 10|1|PUNCT
+%wor:	use 31078_31238 the 31278_31378 words 31458_31879 child@q 32039_32640 and 32680_32800 hospital@q 32881_33622 in 33662_33722 a 33782_33802 sentence 33902_34402 .
+*PAR:	my child was born in the hospital . 36646_38408
+%mor:	pron|my-Prs-Gen-S1 noun|child aux|be-Fin-Ind-Past-S3-irr verb|bear-Part-Past-S adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	my 36646_36807 child 36887_37187 was 37227_37347 born 37407_37628 in 37668_37728 the 37768_37848 hospital 37908_38408 .
+*INV:	(.) use the words cold@q and winter@q in a sentence . 44779_47923
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Plur-Acc q|cold cconj|and q|winter adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|6|CC 6|4|FLAT 7|9|CASE 8|9|DET 9|1|OBL 10|1|PUNCT
+%wor:	use 44779_44939 the 44959_45059 words 45099_45440 cold@q 45540_46241 and 46281_46441 winter@q 46541_47122 in 47162_47222 a 47282_47302 sentence 47423_47923 .
+*PAR:	it's cold in the winter . 48364_49724
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cold-S1 adp|in det|the-Def-Art noun|winter .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	it's 48364_48504 cold 48584_48924 in 48964_49044 the 49064_49164 winter 49224_49724 .
+*INV:	(.) use the words chair@q doctor@q and sit@q in a sentence . 56708_61010
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Plur-Acc q|chair q|doctor cconj|and q|sit adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|10|ROOT 2|3|DET 3|1|OBJ 4|5|FLAT 5|3|FLAT 6|7|CC 7|5|FLAT 8|10|CASE 9|10|DET 10|1|OBL 11|1|PUNCT
+%wor:	use 56708_56868 the 56888_56988 words 57028_57328 chair@q 57489_57929 doctor@q 58489_59189 and 59250_59430 sit@q 59610_59890 in 60270_60350 a 60390_60410 sentence 60510_61010 .
+*PAR:	I hadta sit in a doctor's chair . 61811_63753
+%mor:	pron|I-Prs-Nom-S1 aux|hadt-Fin-Ind-Pres-S1 verb|sit-Inf-Pres-S adp|in det|a-Ind-Art noun|doctor~part|s noun|chair .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|8|CASE 5|6|DET 6|8|NMOD-POSS 7|6|CASE 8|3|OBL 9|3|PUNCT
+%wor:	I 61811_61831 hadta 61871_62131 sit 62232_62412 in 62492_62532 a 62592_62612 doctor's 62692_63172 chair 63253_63753 .
+*INV:	bureau@q open@q and drawer@q . 72281_74643
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 72281_72741 open@q 73242_73662 and 73923_74083 drawer@q 74143_74643 .
+*PAR:	I opened the drawers of my bureau . 76045_79309
+%mor:	pron|I-Prs-Nom-S1 verb|open-Fin-Ind-Past-S1 det|the-Def-Art noun|drawer-Plur-Acc adp|of pron|my-Prs-Gen-S1 noun|bureau .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|2|PUNCT
+%wor:	I 76045_76065 opened 76165_76486 the 76506_76586 drawers 77728_78228 of 78409_78509 my 78569_78729 bureau 78809_79309 .
+@End

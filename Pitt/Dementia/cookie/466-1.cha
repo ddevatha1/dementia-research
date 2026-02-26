@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00090550-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|21||
+@Media:	466-1, audio
+@G:	Cookie
+*INV:	the picture . 250_790
+%mor:	det|the-Def-Art noun|picture .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	the 250_390 picture 390_790 .
+*PAR:	(.) what ? [+ exc] 4176_4379
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	what 4176_4379 ?
+*INV:	tell me what you see going on in the picture . 5518_7486
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 5518_5698 me 5718_5798 what 5838_5958 you 5998_6099 see 6179_6359 going 6459_6720 on 6780_6880 in 6920_6980 the 7000_7080 picture 7120_7486 .
+*PAR:	the boy's &-uh handing &-uh some cookies to the little girl . 10686_13831
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|4|OBL 11|4|PUNCT
+%wor:	the 10686_10766 boy's 10846_11327 uh 11467_11587 handing 11707_12128 uh 12348_12448 some 12488_12649 cookies 12689_13029 to 13089_13169 the 13210_13290 little 13310_13470 girl 13510_13831 .
+*PAR:	and &-um the stool is tipping over . 15503_18093
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+%wor:	and 15503_15744 um 15884_16185 the 16286_16366 stool 16426_16768 is 16908_17089 tipping 17430_17751 over 17832_18093 .
+*PAR:	and &-uh (..) &-hm the water's overrunning onto the floor . 20230_34528
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overrunn-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 20230_20350 uh 20390_20450 hm 20470_30764 the 32266_32366 water's 32426_32826 overrunning 32886_33527 onto 33607_33808 the 33868_33968 floor 34028_34528 .
+*INV:	do you see anything else ? 52163_53173
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|4|AMOD 6|3|PUNCT
+%wor:	do 52163_52203 you 52203_52303 see 52363_52483 anything 52503_52804 else 52844_53173 ?
+*INV:	anything else going on in the picture that you wanna mention ? 56653_58999
+%mor:	pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture pron|that-Rel pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|mention-Inf-S ?
+%gra:	1|11|ROOT 2|1|ADVMOD 3|1|ACL 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|11|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|1|PUNCT
+%wor:	anything 56653_56954 else 56994_57355 going 57355_57595 on 57635_57776 in 57796_57836 the 57856_57936 picture 57936_58197 that 58197_58317 you 58337_58417 wanna 58437_58578 mention 58618_58999 ?
+*INV:	(...) is there anything else you wanna mention ?
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|mention-Inf-S ?
+%gra:	1|7|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|1|PUNCT
+*PAR:	she's standing in a puddle of water . 76092_78202
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%wor:	she's 76092_76281 standing 76301_76701 in 76741_76841 a 76921_76941 puddle 77441_77701 of 77741_77781 water 77781_78202 .
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) I guess that's about all . [+ exc] 94365_95415
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+%wor:	I 94365_94385 guess 94425_94627 that's 94627_94930 about 94991_95334 all 95334_95415 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

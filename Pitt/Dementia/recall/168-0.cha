@@ -1,0 +1,180 @@
+@UTF8
+@PID:	11312/a-00089911-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|20||
+@Media:	168-0, audio
+@G:	George_Delayed
+*INV:	anything at all from the story . 1446382_1448063
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot adp|from det|the-Def-Art noun|story .
+%gra:	1|6|ROOT 2|3|CASE 3|1|NMOD 4|6|CASE 5|6|DET 6|1|NMOD 7|1|PUNCT
+%wor:	anything 1446382_1446702 at 1446762_1446902 all 1446942_1447043 from 1447103_1447223 the 1447263_1447363 story 1447563_1448063 .
+*PAR:	+< , oh my . [+ exc]
+%mor:	cm|cm intj|oh pron|my-Prs-Gen-S1 .
+%gra:	1|3|PUNCT 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) something about &-uh &-uh Thanksgiving . 1453693_1458339
+%mor:	pron|something-Ind-S1 adp|about noun|Thanksgiving-Ger .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	something 1453693_1454133 about 1454173_1454474 uh 1454574_1454634 uh 1454694_1454814 Thanksgiving 1457839_1458339 .
+*INV:	mhm . 1458681_1459180
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 1458681_1459180 .
+*PAR:	+< &-uh the man &-uh was holdin(g) a child's hand . 1460303_1466699
+%mor:	det|the-Def-Art noun|man aux|be-Fin-Ind-Past-S3-irr verb|hold-Part-Pres-S det|a-Ind-Art noun|child~part|s noun|hand-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|DET 6|8|NMOD-POSS 7|6|CASE 8|4|OBJ 9|4|PUNCT
+%wor:	uh 1460303_1460643 the 1462063_1462143 man 1462223_1462643 uh 1463224_1464144 was 1464444_1464664 holdin(g) 1464704_1465024 a 1465024_1465044 child's 1465144_1465624 hand 1466225_1466699 .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay . 1467457_1467883
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1467457_1467883 .
+*PAR:	+< and they went (.) to the city . 1467883_1471726
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|to det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	and they 1467883_1468005 went 1468125_1468425 to 1470946_1471026 the 1471086_1471166 city 1471286_1471726 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	can you think of anything else ? 1476110_1477775
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|CASE 5|3|OBL 6|5|AMOD 7|3|PUNCT
+%wor:	can 1476110_1476670 you 1476810_1476871 think 1476871_1477011 of 1477031_1477091 anything 1477111_1477411 else 1477451_1477775 ?
+*INV:	okay , I have some questions now . 1480996_1482605
+%mor:	intj|okay cm|cm pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|some-Def-Ind noun|question-Plur-Acc adv|now .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%wor:	okay 1480996_1481136 , I 1481496_1481516 have 1481536_1481636 some 1481676_1481817 questions 1481837_1482377 now 1482437_1482605 .
+@G:	George_Questions
+*INV:	and see if you can answer them . 1482938_1484102
+%mor:	cconj|and verb|see-Fin-Imp-S sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S verb|answer-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|CC 2|7|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|6|OBJ 8|2|PUNCT
+%wor:	and 1482938_1483038 see 1483078_1483218 if 1483238_1483298 you 1483338_1483418 can 1483458_1483599 answer 1483679_1483879 them 1483919_1484102 .
+*INV:	can you tell me who is the story about ? 1484102_1486380
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|who-Int aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|story adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|8|NSUBJ 6|8|COP 7|8|DET 8|3|CCOMP 9|3|PUNCT 10|3|PUNCT
+%wor:	can 1484102_1484199 you 1484239_1484320 tell 1484360_1484540 me 1484580_1484640 who 1484740_1484860 is 1485241_1485321 the 1485361_1485441 story 1485501_1485801 about 1485881_1486380 ?
+*PAR:	who is the +/? [+ exc] 1488645_1489408
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-S3 det|the-Def-Art +/?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	who 1488645_1488745 is 1489105_1489145 the 1489145_1489408 +/?
+*INV:	+< what were their names ? 1489408_1490067
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr pron|their-Prs-Gen-P3 noun|name-Plur ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+%wor:	what were their 1489408_1489526 names 1489586_1490067 ?
+*PAR:	oh , is this that first &-uh thing ? [+ exc] 1491129_1492705
+%mor:	intj|oh cm|cm aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 det|that-Def-Dem-Sing adj|first-S1 noun|thing-Ger ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|COP 4|7|NSUBJ 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%wor:	oh 1491129_1491209 , is 1491229_1491309 this 1491349_1491529 that 1491529_1491689 first 1491750_1492130 uh 1492190_1492290 thing 1492350_1492705 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I [/] &+c I [/] I don't think I can &-uh remember their names . [+ exc] 1495975_1496576
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 aux|can-Fin-S verb|remember-Inf-S pron|their-Prs-Gen-P3 noun|name-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|NMOD-POSS 9|7|OBJ 10|4|PUNCT
+%wor:	I I I 1495975_1495995 don't 1496015_1496175 think 1496215_1496416 I 1496556_1496576 can uh remember their names .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< I don't +/. [+ exc] 1502304_1502492
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not +/.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I 1502304_1502324 don't 1502364_1502492 +/.
+*INV:	George was one of them . 1502584_1503595
+%mor:	propn|George aux|be-Fin-Ind-Past-S3-irr num|one adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	George 1502584_1502985 was 1503025_1503125 one 1503245_1503345 of 1503385_1503425 them 1503465_1503595 .
+*INV:	he told some stories . 1503986_1505227
+%mor:	pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr det|some-Def-Ind noun|story-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	he 1503986_1504066 told 1504166_1504406 some 1504466_1504647 stories 1504727_1505227 .
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what were the stories that George told about ? 1505409_1507991
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr det|the-Def-Art noun|story-Plur pron|that-Rel propn|George verb|tell-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|8|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|5|CASE 9|1|PUNCT
+%wor:	what 1505409_1505530 were 1505590_1505751 the 1505772_1505852 stories 1505973_1506397 that 1506417_1506538 George 1506578_1506901 told 1506982_1507406 about 1507506_1507991 ?
+*PAR:	(...) &-hm (...) I can't really think of anything . [+ exc] 1523799_1525701
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adv|really verb|think-Inf-S adp|of pron|anything-Ind-S1 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	hm 1523799_1524079 I 1524179_1524219 can't 1524279_1524560 really 1524640_1524880 think 1525000_1525220 of 1525581_1525701 anything .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	he [//] &+a Melanie was the little girl . 1526802_1528731
+%mor:	propn|Melanie aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	he 1526802_1526862 Melanie 1527363_1527884 was 1527924_1528044 the 1528084_1528144 little 1528204_1528424 girl 1528464_1528731 .
+*INV:	and she asked George to do something . 1528765_1530542
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|ask-Fin-Ind-Past-S3 propn|George part|to verb|do-Inf-S pron|something-Ind-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|3|PUNCT
+%wor:	and 1528765_1528865 she 1528905_1529005 asked 1529145_1529366 George 1529386_1529646 to 1529726_1529786 do 1529886_1529986 something 1530147_1530542 .
+*INV:	can you tell me what she asked George to do ? 1530542_1532470
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 pron|she-Prs-Nom-S3 verb|ask-Fin-Ind-Past-S3 propn|George part|to verb|do-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|IOBJ 5|7|OBJ 6|7|NSUBJ 7|3|CCOMP 8|7|IOBJ 9|10|MARK 10|7|XCOMP 11|3|PUNCT
+%wor:	can 1530542_1530647 you 1530667_1530747 tell 1530787_1530927 me 1530968_1531028 what 1531108_1531248 she 1531328_1531408 asked 1531528_1531749 George 1531769_1532029 to 1532109_1532169 do 1532249_1532470 ?
+*PAR:	(.) something about Grandma . 1535413_1536510
+%mor:	pron|something-Ind-S1 adp|about propn|Grandma .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	something 1535413_1535673 about 1535673_1535934 Grandma 1536014_1536510 .
+*INV:	okay . 1536936_1537435
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1536936_1537435 .
+*INV:	&+Geor &-you_know you said George held her hand tightly . 1538979_1540945
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr propn|George verb|hold-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hand-Acc adv|tightly .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|2|PUNCT
+%wor:	you_know 1538979_1539179 you 1539259_1539359 said 1539439_1539620 George 1539660_1539940 held 1539980_1540160 her 1540220_1540321 hand 1540401_1540621 tightly 1540661_1540945 .
+*INV:	can you tell me why ? 1541023_1542243
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|why ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|IOBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	can 1541023_1541162 you 1541202_1541282 tell 1541302_1541482 me 1541502_1541563 why 1541743_1542243 ?
+*INV:	why would George hold her hand tightly ? 1542396_1543917
+%mor:	adv|why aux|would-Fin-S propn|George verb|hold-Inf-S pron|her-Prs-Gen-S3 noun|hand-Acc adv|tightly ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%wor:	why 1542396_1542604 would 1542644_1542784 George 1542824_1542985 hold 1542985_1543165 her 1543205_1543285 hand 1543325_1543505 tightly 1543546_1543917 ?
+*PAR:	&-uh I think &-uh they were in a city and there was a lot of traffic . 1544028_1547811
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adp|in det|a-Ind-Art noun|city cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|lot adp|of noun|traffic .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|2|CCOMP 8|10|CC 9|10|EXPL 10|2|CONJ 11|12|DET 12|10|NSUBJ 13|14|CASE 14|12|NMOD 15|2|PUNCT
+%wor:	uh 1544028_1544487 I 1544868_1544888 think 1544968_1545188 uh 1545188_1545328 they 1545809_1545909 were 1545929_1546049 in 1546049_1546089 a 1546150_1546170 city 1546270_1546490 and 1546550_1546630 there 1546630_1546771 was 1546771_1546851 a 1546911_1546931 lot 1546991_1547151 of 1547191_1547251 traffic 1547311_1547811 .
+*INV:	okay , good . 1548015_1548712
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 1548015_1548393 , good 1548453_1548712 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	Melanie didn't like the city . 1552319_1553902
+%mor:	propn|Melanie aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	Melanie 1552319_1552740 didn't 1552800_1553080 like 1553140_1553381 the 1553401_1553481 city 1553621_1553902 .
+*INV:	can you tell me why she didn't like the city ? 1554004_1555701
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|why pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|9|ADVMOD 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|3|CCOMP 10|11|DET 11|9|OBJ 12|3|PUNCT
+%wor:	can 1554004_1554124 you 1554164_1554244 tell 1554284_1554424 me 1554444_1554504 why 1554564_1554745 she 1554805_1554885 didn't 1554925_1555125 like 1555125_1555285 the 1555305_1555365 city 1555465_1555701 ?
+*PAR:	the horns and the &-uh things from the cars . 1556988_1560211
+%mor:	det|the-Def-Art noun|horn-Plur cconj|and det|the-Def-Art noun|thing-Plur adp|from det|the-Def-Art noun|car-Plur .
+%gra:	1|2|DET 2|8|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+%wor:	the 1556988_1557108 horns 1557248_1558069 and 1558169_1558329 the 1558389_1558510 uh 1558710_1558790 things 1559130_1559371 from 1559411_1559531 the 1559571_1559651 cars 1559711_1560211 .
+*INV:	okay . 1561213_1561713
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1561213_1561713 .
+*INV:	good . 1562555_1563016
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 1562555_1563016 .
+@End

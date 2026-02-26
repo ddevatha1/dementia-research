@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/a-00089937-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@Media:	213-3, audio
+@G:	George_Immediate
+*INV:	okay . 1972663_1972917
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1972663_1972917 .
+*INV:	now tell me everything you can remember . 1973186_1974856
+%mor:	adv|now verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|2|IOBJ 4|2|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|2|PUNCT
+%wor:	now 1973186_1973283 tell 1973343_1973524 me 1973544_1973604 everything 1973684_1974024 you 1974064_1974144 can 1974164_1974304 remember 1974364_1974856 .
+*PAR:	(...) okay , there was a father there . 1984796_1987279
+%mor:	intj|okay cm|cm pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|father adv|there .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|7|ROOT 5|6|DET 6|4|NSUBJ 7|4|ADVMOD 8|4|PUNCT
+%wor:	okay 1984796_1985376 , there 1985517_1985697 was 1985717_1985877 a 1985977_1985997 father 1986157_1986618 there 1986898_1987279 .
+*PAR:	he had a daughter . 1988621_1989401
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|daughter-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	he 1988621_1988661 had 1988661_1988781 a 1988801_1988821 daughter 1988901_1989401 .
+*PAR:	(.) and the little girl was talking about going to the country . 1991668_1994694
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Past-S3-irr verb|talk-Part-Pres-S sconj|about verb|go-Part-Pres-S adp|to det|the-Def-Art noun|country .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|8|MARK 8|6|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|6|PUNCT
+%wor:	and 1991668_1991728 the 1991728_1991788 little 1991848_1992029 girl 1992109_1992470 was 1992570_1992691 talking 1992771_1993212 about 1993232_1993493 going 1993553_1993873 to 1993894_1993974 the 1994014_1994094 country 1994194_1994694 .
+*INV:	&=coughs .
+*PAR:	hm . [+ exc]
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	(..) <there was something> [//] there was a lot of other things but &-um +... [+ exc] 2014144_2016966
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|lot adp|of adj|other-S1 noun|thing-Plur cconj|but +...
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|AMOD 7|4|NMOD 8|2|CC 9|2|PUNCT
+%wor:	there 2014144_2014303 was 2014303_2014423 something 2014503_2014923 there 2015003_2015164 was 2015164_2015264 a 2015284_2015304 lot 2015344_2015524 of 2015564_2015624 other 2015684_2015864 things 2015944_2016265 but 2016325_2016445 um 2016485_2016966 +...
+*PAR:	&-um I &+ca can't remember anything else . [+ exc] 2025537_2027738
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|remember-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+%wor:	um 2025537_2025617 I 2025637_2025657 can't 2025758_2026302 remember 2026584_2026986 anything 2027027_2027329 else 2027329_2027738 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	that's good then . 2028376_2029121
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 adv|then .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	that's good 2028376_2028939 then 2028939_2029121 .
+@End

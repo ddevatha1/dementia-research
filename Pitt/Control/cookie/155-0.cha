@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/a-00090769-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|59;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	155-0, audio
+@G:	Cookie
+*PAR:	well , I see the sink overflowin(g) . 2590_3923
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|sink verb|overflow-Ger-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+%wor:	well 2590_2691 , I 2691_2712 see 2752_2834 the 2854_2935 sink 3159_3382 overflowin(g) 3423_3923 .
+*PAR:	the mother is doing the dishes .
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	<the children are> [//] the boy is up on the &+s stool . 11834_15218
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 11834_11914 children 12274_12555 are 12555_12615 the 12655_12795 boy 12875_12935 is 12935_12975 up 12975_13035 on 13075_13115 the 13356_13436 stool 14718_15218 .
+*PAR:	and the stool's falling over but he's grabbing cookies out of the cookie jar . 16003_18463
+%mor:	cconj|and det|the-Def-Art noun|stool~part|s noun|falling-Ger adp|over cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|grab-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|16|ROOT 6|5|ADVMOD 7|10|CC 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|10|OBJ 12|16|CASE 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|5|PUNCT
+%wor:	and the 16003_16059 stool's 16220_16640 falling 16680_17061 over 17061_17161 but 17161_17261 he's 17281_17441 grabbing 17441_17702 cookies 17722_17982 out 18002_18463 of the cookie jar .
+*PAR:	and the girl is reaching up for a cookie . 22809_24110
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 22809_22869 the 22869_22929 girl 22949_23049 is 23089_23129 reaching 23129_23470 up 23470_23510 for 23510_23570 a 23570_23590 cookie 23610_24110 .
+*PAR:	but nobody seems in charge .
+%mor:	cconj|but pron|nobody-Neg-S1 verb|seem-Fin-Ind-Pres-S3 adp|in noun|charge .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	and the woman is standing in water . 35715_36972
+%mor:	cconj|and det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and the woman 35715_35754 is 35794_35854 standing 35955_36295 in 36455_36495 water 36495_36972 .
+*PAR:	and the cookie jar lid is off [//] falling off . 42901_44146
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar noun|lid aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off .
+%gra:	1|7|CC 2|5|DET 3|4|COMPOUND 4|5|COMPOUND 5|7|NSUBJ 6|7|AUX 7|8|ROOT 8|7|COMPOUND-PRT 9|7|PUNCT
+%wor:	and the cookie jar lid is off 42901_43145 falling 43185_43546 off 43646_44146 .
+*INV:	that's all ? 58750_59060
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 58750_58870 all 58890_59060 ?
+*PAR:	the water's runnin(g) . 59226_59712
+%mor:	det|the-Def-Art noun|water~part|s noun|running-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the water's runnin(g) 59226_59712 .
+@End

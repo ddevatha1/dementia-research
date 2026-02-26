@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/a-00090665-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|female|Control||Participant|30||
+@Media:	042-1, audio
+@G:	Cookie
+*INV:	there it is .
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh the little boy is on the &-uh stool &-uh which is tipping over . 5846_10010
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|3|DET 2|3|AMOD 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|11|ROOT 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|7|PUNCT
+%wor:	uh 5846_5886 the 6006_6066 little 6066_6287 boy 6347_6607 is 6687_6767 on 6868_7008 the 7068_7148 uh 7368_7609 stool 7669_8109 uh 8590_8770 which 8830_9031 is 9051_9151 tipping 9191_9511 over 9591_10010 .
+*PAR:	and he's getting into the cookie jar which is up in the cabinet . 10274_13236
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adv|up adp|in det|the-Def-Art noun|cabinet .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|4|PUNCT
+%wor:	and 10274_10372 he's 10372_10513 getting 10553_10793 into 10853_11033 the 11093_11174 cookie 11334_11654 jar 11674_11955 which 12055_12235 is 12255_12335 up 12375_12475 in 12515_12576 the 12596_12656 cabinet 12736_13236 .
+*PAR:	&-uh the lid is off the jar . 14626_15576
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|jar .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	uh 14626_14666 the 14706_14766 lid 14766_14846 is 14866_14946 off 15026_15126 the 15166_15226 jar 15306_15576 .
+*PAR:	he has a cookie in one hand . 15747_16859
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in num|one noun|hand .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NUMMOD 7|2|OBL 8|2|PUNCT
+%wor:	he 15747_15807 has 15827_15927 a 15947_15967 cookie 16047_16308 in 16388_16448 one 16588_16708 hand 16728_16859 .
+*PAR:	he's reaching for another one . 16988_18308
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|another-Def-Ind noun|one .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 16988_17129 reaching 17209_17509 for 17569_17729 another 17769_18070 one 18170_18308 .
+*PAR:	&-uh the little girl has her hand up for &-uh a cookie I guess to take from him . 18851_23286
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|for det|a-Ind-Art noun|cookie pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 part|to verb|take-Inf-S adp|from pron|he-Prs-Acc-S3 .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|16|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|DET 10|4|OBL 11|12|NSUBJ 12|10|ACL-RELCL 13|14|MARK 14|12|XCOMP 15|16|CASE 16|14|OBL 17|4|PUNCT
+%wor:	uh 18851_18911 the 18971_19031 little 19071_19251 girl 19331_19692 has 19872_20052 her 20092_20212 hand 20313_20673 up 21093_21194 for 21294_21474 uh 21534_21914 a 21914_21935 cookie 22035_22455 I 22475_22495 guess 22515_22655 to 22695_22756 take 22796_23016 from 23016_23156 him 23196_23286 .
+*PAR:	and one hand is up to her mouth like she's &-uh doesn't want mother to know . 23396_28423
+%mor:	cconj|and num|one noun|hand aux|be-Fin-Ind-Pres-S3 adv|up adp|to pron|her-Prs-Gen-S3 noun|mouth sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|want-Inf-S noun|mother-Acc part|to verb|know-Inf-S .
+%gra:	1|5|CC 2|3|NUMMOD 3|5|NSUBJ 4|5|COP 5|17|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|14|MARK 10|14|NSUBJ 11|14|AUX 12|14|AUX 13|14|ADVMOD 14|5|ADVCL 15|14|OBJ 16|17|MARK 17|14|XCOMP 18|5|PUNCT
+%wor:	and 23396_23476 one 23597_23697 hand 23717_23977 is 23997_24077 up 24137_24217 to 24257_24317 her 24378_24478 mouth 24618_25038 like 25899_26100 she's 26140_26440 uh 26520_26680 doesn't 27221_27461 want 27461_27601 mother 27622_27862 to 27902_27962 know 28022_28423 .
+*PAR:	&-uh mother's doing the dishes at the sink . 29054_31404
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|at det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	uh 29054_29114 mother's 29574_29855 doing 29915_30135 the 30155_30235 dishes 30375_30676 at 30716_30776 the 30796_30876 sink 31016_31404 .
+*PAR:	and the sink is overflowing . 31450_32498
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 31450_31477 the 31477_31537 sink 31617_31817 is 31857_31938 overflowing 31998_32498 .
+*PAR:	&-uh the water's overflowing onto the floor . 33440_35262
+%mor:	det|the-Def-Art noun|water~part|s verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	uh 33440_33560 the 33580_33640 water's 33680_33980 overflowing 33980_34421 onto 34421_34521 the 34561_34661 floor 34802_35262 .
+*PAR:	she's drying a dish . 35796_37016
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 35796_35943 drying 36003_36384 a 36424_36444 dish 36524_37016 .
+*PAR:	&-uh there's [//] &-uh it looks like two cups and a plate on the counter . 38107_41210
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|5|CASE 4|5|NUMMOD 5|2|OBL 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|2|PUNCT
+%wor:	uh 38107_38186 there's 38407_38707 uh 38747_38827 it 38847_38987 looks 39027_39168 like 39168_39328 two 39368_39528 cups 39588_39869 and 39989_40069 a 40089_40109 plate 40209_40449 on 40510_40550 the 40550_40650 counter 40710_41210 .
+*PAR:	outside the window it looks like a path . 42138_44098
+%mor:	adp|outside det|the-Def-Art noun|window pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|path .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	outside 42138_42418 the 42418_42498 window 42558_42918 it 42958_43058 looks 43058_43238 like 43258_43418 a 43418_43438 path 43598_44098 .
+*PAR:	and there's another window and some trees apparently and grass and some shrubs . 44470_50002
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|window cconj|and det|some-Def-Ind noun|tree-Plur adv|apparently cconj|and noun|grass cconj|and det|some-Def-Ind noun|shrub-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|14|ROOT 4|5|DET 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|ADVMOD 10|11|CC 11|5|CONJ 12|14|CC 13|14|DET 14|11|CONJ 15|3|PUNCT
+%wor:	and 44470_44499 there's 44499_44699 another 44719_45019 window 45079_45519 and 46520_46600 some 46640_46820 trees 46900_47641 apparently 47701_48201 and 48201_48361 grass 48461_49061 and 49141_49262 some 49282_49422 shrubs 49502_50002 .
+*PAR:	and <it's either> [//] I guess it's another part of the house (be)cause there's a curtain in the window . 50815_54465
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|part adp|of det|the-Def-Art noun|house sconj|because pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|curtain adp|in det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|NSUBJ 3|18|ROOT 4|7|NSUBJ 5|7|COP 6|7|DET 7|3|CCOMP 8|10|CASE 9|10|DET 10|7|NMOD 11|13|MARK 12|13|EXPL 13|7|ADVCL 14|15|DET 15|13|NSUBJ 16|18|CASE 17|18|DET 18|15|NMOD 19|3|PUNCT
+%wor:	and 50815_50943 it's 50963_51103 either 51183_51383 I 51843_51863 guess 51923_52063 it's 52103_52203 another 52223_52463 part 52503_52683 of 52704_52744 the 52764_52824 house 52864_53104 (be)cause 53104_53304 there's 53304_53444 a 53484_53504 curtain 53544_53844 in 53864_53904 the 53904_54004 window 54004_54465 .
+*PAR:	and there's curtains on her windows . 56378_57180
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|curtain-Plur adp|on pron|her-Prs-Gen-S3 noun|window-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|7|ROOT 4|3|NSUBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	and 56378_57180 there's curtains on her windows .
+*PAR:	I guess that's about it . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+*PAR:	she has an apron on . 60768_61270
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%wor:	she 60768_60828 has 60828_60889 an 60909_60969 apron 61009_61189 on 61189_61270 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

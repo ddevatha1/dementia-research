@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090794-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|male|Control||Participant|30||
+@Media:	208-0, audio
+@G:	Cookie
+*INV:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	ready ? [+ exc] 6572_6833
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ready 6572_6833 ?
+*PAR:	the boy is going after cookies in a cookie jar . 7735_11235
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|after noun|cookie-Plur adp|in det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|CASE 6|4|OBL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	the 7735_7795 boy 7856_8156 is 8257_8377 going 8437_8718 after 9561_9822 cookies 9982_10323 in 10343_10383 a 10424_10444 cookie 10504_10845 jar 10885_11235 .
+*PAR:	he's standing on a stool that's tilting over . 11594_14296
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|COMPOUND-PRT 11|3|PUNCT
+%wor:	he's 11594_11707 standing 11728_12109 on 12149_12209 a 12289_12309 stool 12370_12711 that's 12751_12891 tilting 13373_13694 over 13894_14296 .
+*PAR:	<the girl is> [//] the little girl is laughing . 16256_19079
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 16256_16336 girl 16376_16656 is 17317_17477 the 17798_17858 little 17858_18018 girl 18058_18278 is 18399_18499 laughing 18579_19079 .
+*PAR:	the mother is washing dishes . 19934_21783
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 19934_19981 mother 20041_20321 is 20702_20742 washing 20822_21223 dishes 21283_21783 .
+*PAR:	and the water is spilling over from the sink onto the floor . 22405_27832
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|from det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|5|PUNCT
+%wor:	and 22405_22485 the 22485_22565 water 22685_23025 is 23146_23246 spilling 23306_23747 over 24027_24307 from 24648_24848 the 24928_25008 sink 25569_25870 onto 26851_27111 the 27172_27232 floor 27332_27832 .
+*PAR:	and the window is open . 28980_32422
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 28980_29120 the 29460_29560 window 29560_30020 is 31301_31481 open 31922_32422 .
+*PAR:	and (.) she's drying the dishes evidently . 34084_41148
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adv|evidently .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%wor:	and 34084_34303 she's 38707_39107 drying 39647_40068 the 40068_40148 dishes 40208_40588 evidently 40648_41148 .
+*PAR:	and &-uh the curtains are open . 43948_46938
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 43948_44068 uh 44068_44109 the 45732_45812 curtains 45812_46172 are 46252_46393 open 46553_46938 .
+*PAR:	and there's two cups and a saucer on the sink . 48897_52284
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|saucer adp|on det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|EXPL 3|11|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+%wor:	and 48897_49018 there's 49018_49258 two 50300_50440 cups 50520_50841 and 50881_50981 a 51001_51021 saucer 51101_51582 on 51642_51743 the 51763_51843 sink 51963_52284 .
+*PAR:	and that is about all I can see . [+ exc] 59660_60590
+%mor:	cconj|and pron|that-Dem aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|CASE 5|8|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+%wor:	and 59660_59720 that 59741_59882 is 59922_60023 about 60064_60205 all 60266_60366 I 60427_60447 can 60548_60590 see .
+*INV:	okay . 61338_61558
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 61338_61558 .
+@End

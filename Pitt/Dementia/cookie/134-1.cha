@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00090407-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|23||
+@Media:	134-1, audio
+@G:	Cookie
+*INV:	what do you see goin(g) on there ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adv|there ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|XCOMP 6|1|CASE 7|5|ADVMOD 8|4|PUNCT
+*PAR:	a little boy is <tryin(g) to get the> [//] &-uh gettin(g) cookies out of the jar . 9454_13702
+%mor:	det|a-Ind-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|OBJ 7|10|CASE 8|7|FIXED 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	a 9454_9474 little 9474_9615 boy 9615_9675 is 9675_9715 tryin(g) 9715_9995 to 9995_10035 get 10095_10236 the 10336_10436 uh 10676_11117 gettin(g) 11979_12299 cookies 12299_12700 out 12900_13000 of 13020_13080 the 13141_13221 jar 13301_13702 .
+*PAR:	and his &-um stool is gettin(g) ready to fall . 13852_19242
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|XCOMP 7|8|MARK 8|6|XCOMP 9|5|PUNCT
+%wor:	and 13852_14272 his 14292_15374 um 15374_15414 stool 15414_15795 is 15895_16116 gettin(g) 18400_18680 ready 18680_18881 to 18881_18921 fall 18961_19242 .
+*PAR:	and the mother is washing dishes . 20844_23649
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 20844_21005 the 21125_21205 mother 21265_21586 is 21626_21766 washing 22828_23269 dishes 23309_23649 .
+*PAR:	and she would let [/] let the water run over the sink on the floor . 23770_26816
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|would-Fin-S verb|let-Inf-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over det|the-Def-Art noun|sink adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|13|CASE 12|13|DET 13|7|OBL 14|4|PUNCT
+%wor:	and 23770_23850 she 23930_24050 would 24050_24231 let 24311_24471 let 24611_24792 the 24832_24912 water 24952_25233 run 25273_25413 over 25493_25713 the 25754_25814 sink 25894_26174 on 26275_26395 the 26415_26475 floor 26535_26816 .
+*INV:	(.) anything else ? 30649_31489
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 30649_31009 else 31049_31489 ?
+*PAR:	(..) &-hm I guess that's all . [+ exc] 35642_42912
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+%wor:	hm 35642_38401 I 38461_38481 guess 39322_42728 that's 42728_42912 all .
+*INV:	okay . 43429_43850
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 43429_43850 .
+@End

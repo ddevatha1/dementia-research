@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/a-00090018-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|PossibleAD||Participant|29||
+@Media:	471-0, audio
+@G:	George_Immediate
+*INV:	okay , can you tell me anything you recall from that ? 554200_556478
+%mor:	intj|okay cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|recall-Fin-Ind-Pres-S2 adp|from pron|that-Dem ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|11|ROOT 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|11|CASE 11|9|OBL 12|5|PUNCT
+%wor:	okay 554200_554321 , can 554382_554523 you 554523_554624 tell 554624_554805 me 554805_554886 anything 554946_555329 you 555329_555450 recall 555450_555792 from 555893_556054 that 556095_556478 ?
+*INV:	do you recall anything from that story ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|recall-Inf-S pron|anything-Ind-S1 adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+*PAR:	a little girl around &-uh with her grandfather . 575230_577391
+%mor:	det|a-Ind-Art adj|little-S1 noun|girl adv|around adp|with pron|her-Prs-Gen-S3 noun|grandfather .
+%gra:	1|3|DET 2|3|AMOD 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|NMOD-POSS 7|3|NMOD 8|3|PUNCT
+%wor:	a 575230_575250 little 575250_575410 girl 575410_575690 around 575710_576390 uh 576450_576490 with 576490_576590 her 576610_576750 grandfather 576891_577391 .
+*PAR:	I [/] &-uh I don't have it up there . [+ exc] 582153_584063
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S pron|it-Prs-Acc-S3 adp|up adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|PUNCT
+%wor:	I 582153_582173 uh 582293_582373 I 582934_582954 don't 582994_583194 have 583234_583474 it 583474_583554 up 583594_583674 there 583734_584063 .
+*INV:	okay . 584063_584414
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 584063_584414 .
+@G:	George_Delayed
+*INV:	anything from that story ? 985740_986988
+%mor:	pron|anything-Ind-S1 adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	anything 985740_986020 from 986060_986240 that 986280_986440 story 986540_986988 ?
+*PAR:	no , I don't . [+ exc] 988922_989581
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	no 988922_989002 , I 989202_989222 don't 989262_989581 .
+@G:	George_Questions
+*INV:	do you recall who that story was about ? 990383_992203
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|recall-Inf-S pron|who-Int det|that-Def-Dem-Sing noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|COP 8|3|PUNCT 9|3|PUNCT
+%wor:	do 990383_990402 you 990402_990523 recall 990603_990943 who 990983_991063 that 991143_991223 story 991263_991563 was 991583_991703 about 991703_992203 ?
+*PAR:	(..) nope . [+ exc] 997207_997707
+%mor:	intj|nope .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	nope 997207_997707 .
+*INV:	okay . 998107_998508
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 998107_998508 .
+*INV:	what time of year did George move in with his son's family ? 998908_1002050
+%mor:	det|what-Def-Int noun|time adp|of noun|year aux|do-Fin-Ind-Past-S3-irr propn|George verb|move-Inf-S adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|2|DET 2|7|OBL-UNMARKED 3|4|CASE 4|2|NMOD 5|7|AUX 6|7|NSUBJ 7|13|ROOT 8|7|COMPOUND-PRT 9|13|CASE 10|11|NMOD-POSS 11|13|NMOD-POSS 12|11|CASE 13|7|OBL 14|7|PUNCT
+%wor:	what 998908_999028 time 999088_999328 of 999368_999448 year 999488_999668 did 999668_999828 George 999908_1000289 move 1000349_1000669 in 1000669_1000709 with 1000749_1000929 his 1000969_1001089 son's 1001149_1001450 family 1001550_1002050 ?
+*PAR:	(..) fall . 1002199_1002310
+%mor:	noun|fall .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fall 1002199_1002310 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what were George's stories about ? 1012043_1013680
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur adp|about ?
+%gra:	1|6|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|CASE 7|1|PUNCT
+%wor:	what 1012043_1012178 were 1012218_1012358 George's 1012378_1012799 stories 1012859_1013279 about 1013339_1013680 ?
+*PAR:	(.) hm I don't know . [+ exc] 1016026_1017087
+%mor:	intj|hm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	hm 1016026_1016286 I 1016526_1016546 don't 1016587_1017047 know 1017047_1017087 .
+*INV:	what did Melanie ask George to do ? 1018169_1020231
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+%wor:	what 1018169_1018268 did 1018288_1018469 Melanie 1018529_1018929 ask 1018989_1019229 George 1019289_1019790 to 1019850_1019970 do 1020010_1020231 ?
+*INV:	why was George holding Melanie's hand tightly ? 1031480_1034042
+%mor:	adv|why aux|be-Fin-Ind-Past-S3-irr propn|George verb|hold-Part-Pres-S propn|Melanie~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	why 1031480_1031620 was 1031680_1031800 George 1031900_1032260 holding 1032321_1032661 Melanie's 1032681_1033142 hand 1033182_1033482 tightly 1033542_1034042 ?
+*PAR:	so she wouldn't fall . 1035484_1036625
+%mor:	adv|so pron|she-Prs-Nom-S3 aux|would-Fin-S~part|not verb|fall-Inf-S .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	so 1035484_1035585 she 1035725_1035825 wouldn't 1035865_1036085 fall 1036125_1036625 .
+*INV:	okay . 1036834_1036945
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1036834_1036945 .
+*INV:	why did Melanie not like the city ? 1040831_1042734
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr propn|Melanie part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	why 1040831_1040991 did 1041031_1041172 Melanie 1041232_1041572 not 1041652_1041832 like 1041892_1042133 the 1042133_1042193 city 1042333_1042734 ?
+*PAR:	(..) too noisy . 1047138_1047803
+%mor:	adv|too adj|noisy-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	too 1047138_1047282 noisy 1047303_1047803 .
+@End

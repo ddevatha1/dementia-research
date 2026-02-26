@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/a-00090347-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|male|MCI||Participant|27||
+@Media:	033-1, audio
+@G:	Cookie
+*INV:	tell me everything that you see going on in the picture . 50_2380
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|11|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+%wor:	tell 50_150 me 150_210 everything 290_671 that 711_831 you 871_951 see 1092_1252 going 1352_1573 on 1633_1733 in 1793_1853 the 1873_1953 picture 2013_2380 .
+*INV:	what's happening in that picture ? 3216_4570
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	what's 3216_3396 happening 3476_3817 in 3857_3917 that 3937_4098 picture 4178_4570 ?
+*PAR:	<the man> [//] the [/] the boy's goin(g) into the cookie jar &=laughs . 5552_9888
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	the 5552_5561 man 5621_5982 the 6082_6162 the 6282_6382 boy's 6843_7424 goin(g) 8306_8587 into 8587_8767 the 8807_8887 cookie 9048_9368 jar 9388_9888 .
+*PAR:	and the mother is (.) standin(g) here [//] over here . 12693_17799
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|over adv|here .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and 12693_12753 the 12753_12813 mother 12853_13293 is 13353_13634 standin(g) 16717_17478 here 17478_17799 over here .
+*PAR:	cookie jar . [+ gram] 20642_21437
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	cookie 20642_21042 jar 21102_21437 .
+*PAR:	the guy's goin(g) into the cookie jar . 22764_24587
+%mor:	det|the-Def-Art noun|guy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	the 22764_22844 guy's 22905_23205 goin(g) 23265_23505 into 23505_23685 the 23725_23826 cookie 23866_24446 jar 24446_24587 .
+*PAR:	mother's [/] (..) mother's doin(g) the dishes (...) or just puttin(g) it on the table . 25815_44995
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|or adv|just verb|put-Part-Pres-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|ADVMOD 8|3|CONJ 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+%wor:	mother's 25815_26435 mother's 37146_37487 doin(g) 37527_37827 the 37827_37887 dishes 37887_38247 or 43953_44033 just 44074_44254 puttin(g) 44294_44614 it 44614_44654 on 44694_44794 the 44794_44854 table 44874_44995 .
+*PAR:	I don't know . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*PAR:	(...) oh oop xxx here . [+ jar] 58777_59918
+%mor:	intj|oh intj|oop adv|here .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+%wor:	oh 58777_58897 oop 58897_59418 here 59418_59918 .
+*PAR:	curtains . [+ gram] 62939_63419
+%mor:	noun|curtain-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	curtains 62939_63419 .
+*INV:	what's happening over here ? 70753_71450
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	what's 70753_70913 happening 70913_71253 over 71293_71450 here ?
+*PAR:	over here ? [+ exc] 73558_73854
+%mor:	adp|over adv|here ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	over 73558_73637 here 73657_73854 ?
+*INV:	uhhuh . 74300_74339
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 74300_74339 .
+*PAR:	(..) puttin(g) shoes on ? [+ gram] 90282_91122
+%mor:	verb|put-Part-Pres-S noun|shoe-Plur-Acc adp|on ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%wor:	puttin(g) 90282_90542 shoes 90542_90802 on 90842_91122 ?
+*INV:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that's it . [+ exc] 93220_93344
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's it 93220_93344 .
+*INV:	and what's happening here ? 93942_97409
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and what's 93942_96488 happening 96488_96909 here 96909_97409 ?
+*INV:	what's going on here ? 102884_105045
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+%wor:	what's 102884_103204 going 103524_104405 on 104405_104525 here 104545_105045 ?
+*PAR:	looks like water . [+ gram] 135789_136469
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like noun|water .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	looks 135789_135953 like 135953_136180 water 136180_136469 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what's it doing ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*PAR:	cleanin(g) dishes . [+ gram] 150993_151553
+%mor:	noun|cleaning-Ger noun|dish-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	cleanin(g) 150993_151337 dishes 151337_151553 .
+*INV:	mhm . 152025_152145
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 152025_152145 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	thank you .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+@End

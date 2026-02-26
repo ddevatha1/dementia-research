@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00090844-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|58;|female|Control||Participant|30||
+@Media:	296-0, audio
+@G:	Cookie
+*INV:	I want you to tell me all of the action you see going on in the picture . 250_3420
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|12|NSUBJ 12|10|ACL-RELCL 13|12|XCOMP 14|13|COMPOUND-PRT 15|17|CASE 16|17|DET 17|13|OBL 18|2|PUNCT
+%wor:	I 250_270 want 290_390 you 430_490 to 490_571 tell 611_771 me 791_852 all 952_1072 of 1072_1152 the 1173_1253 action 1433_1835 you 1915_2015 see 2115_2296 going 2376_2677 on 2737_2858 in 2918_2978 the 2998_3058 picture 3119_3420 .
+*PAR:	you have two children and the boy is on a stool getting to the cookie jar . 6844_15004
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 num|two noun|child-Plur-Acc cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool verb|get-Ger-S adp|to det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|NUMMOD 4|2|OBJ 5|11|CC 6|7|DET 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|DET 11|2|CONJ 12|11|ACL 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|2|PUNCT
+%wor:	you 6844_6924 have 6984_7364 two 8144_8304 children 8384_8885 and 9265_9505 the 9525_9805 boy 9905_10165 is 10605_10886 on 12767_12887 a 12947_12967 stool 13087_13487 getting 13767_14007 to 14067_14127 the 14187_14267 cookie 14327_14648 jar 14648_15004 .
+*PAR:	and the stool is tilting over and he's probably going to fall . 15148_18430
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S adp|over cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|5|COMPOUND-PRT 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|5|CONJ 12|13|MARK 13|11|XCOMP 14|5|PUNCT
+%wor:	and 15148_15248 the 15248_15308 stool 15408_15768 is 15928_16068 tilting 16388_16729 over 16789_17049 and 17149_17209 he's 17229_17349 probably 17409_17689 going 17689_17829 to 17829_18009 fall 18009_18430 .
+*PAR:	his mother in the meantime is wiping dishes , looking out what is obviously the kitchen window . 19824_28374
+%mor:	pron|his-Prs-Gen-S3 noun|mother adp|in det|the-Def-Art noun|meantime aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc cm|cm verb|look-Part-Pres-S adp|out pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adv|obviously det|the-Def-Art noun|kitchen noun|window .
+%gra:	1|2|NMOD-POSS 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX 7|17|ROOT 8|7|OBJ 9|10|PUNCT 10|7|ADVCL 11|10|COMPOUND-PRT 12|10|OBJ 13|17|COP 14|17|ADVMOD 15|17|DET 16|17|COMPOUND 17|12|ACL-RELCL 18|7|PUNCT
+%wor:	his 19824_19944 mother 20024_20284 in 20644_20704 the 20704_20784 meantime 20804_21485 is 21645_22025 wiping 23887_24287 dishes 24367_24807 , looking 25228_25508 out 25588_25748 what 26609_26729 is 26789_26849 obviously 26929_27269 the 27329_27409 kitchen 27490_27810 window 27890_28374 .
+*PAR:	she has the water on in the sink and the sink is overflowing . 29932_32533
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|water-Acc adp|on adp|in det|the-Def-Art noun|sink cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|4|DET 4|2|OBJ 5|2|COMPOUND-PRT 6|8|CASE 7|8|DET 8|2|OBL 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|COP 13|2|CONJ 14|2|PUNCT
+%wor:	she has 29932_30132 the 30152_30232 water 30292_30552 on 30672_30792 in 30872_30912 the 30912_30992 sink 31072_31293 and 31373_31473 the 31573_31633 sink 31673_31833 is 31893_31973 overflowing 32033_32533 .
+*PAR:	&-uh there are two cups and one plate sitting on the sink . 34992_38621
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and num|one noun|plate verb|sit-Ger-S adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|NUMMOD 7|4|CONJ 8|7|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	uh 34992_35032 there 35212_35393 are 35473_35633 two 35814_35994 cups 36054_36375 and 36415_36575 one 36636_36776 plate 36916_37217 sitting 37819_38079 on 38119_38220 the 38240_38320 sink 38420_38621 .
+*PAR:	(.) the little girl is laughing at the little boy who's getting into the cookie jar and is going to fall . 42787_50707
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at det|the-Def-Art adj|little-S1 noun|boy pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar cconj|and aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|21|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|12|NSUBJ 11|12|AUX 12|9|ACL-RELCL 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|19|CC 18|19|AUX 19|5|CONJ 20|21|MARK 21|19|XCOMP 22|5|PUNCT
+%wor:	the 42787_42867 little 42907_43107 girl 43167_43448 is 44150_44210 laughing 46095_46556 at 46817_46897 the 46917_46977 little 47017_47218 boy 47258_47539 who's 47659_48080 getting 48140_48361 into 48381_48541 the 48581_48641 cookie 48661_48942 jar 48942_49283 and 49503_49704 is 49764_49945 going 50025_50165 to 50185_50245 fall 50326_50707 .
+*INV:	(..) okay good . 63582_64522
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 63582_64113 good 64236_64522 .
+@End

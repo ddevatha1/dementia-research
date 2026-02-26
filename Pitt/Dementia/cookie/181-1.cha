@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/a-00090430-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|17||
+@Media:	181-1, audio
+@G:	Cookie
+*INV:	now I'm going to show you a picture . 400_1780
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|4|PUNCT
+%wor:	now 400_500 I'm 520_640 going 700_840 to 840_900 show 980_1140 you 1220_1320 a 1400_1420 picture 1540_1780 .
+*INV:	this picture has a lot of action going on in it . 2544_5154
+%mor:	det|this-Def-Dem-Sing noun|picture verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|action verb|go-Ger-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|11|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|7|ACL 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|3|PUNCT
+%wor:	this 2544_2740 picture 2820_3201 has 3221_3341 a 3421_3441 lot 3541_3761 of 3801_3861 action 3981_4421 going 4501_4821 on 4921_5081 in 5141_5154 it .
+*INV:	what I'm gonna have you do , is while the recorder's on , I want you to tell me all of the action you see going on in the picture . 5882_12173
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|have-Inf-S pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 cm|cm aux|be-Fin-Ind-Pres-S3 sconj|while det|the-Def-Art noun|recorder~aux|be-Fin-Ind-Pres-S3 adp|on cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|17|NSUBJ-OUTER 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|1|ACL-RELCL 6|7|NSUBJ 7|5|CCOMP 8|1|PUNCT 9|17|COP 10|14|MARK 11|12|DET 12|14|NSUBJ 13|14|COP 14|17|ADVCL 15|14|PUNCT 16|17|NSUBJ 17|32|ROOT 18|17|OBJ 19|20|MARK 20|17|XCOMP 21|20|IOBJ 22|20|OBJ 23|25|CASE 24|25|DET 25|22|NMOD 26|27|NSUBJ 27|25|ACL-RELCL 28|27|XCOMP 29|28|COMPOUND-PRT 30|32|CASE 31|32|DET 32|28|OBL 33|17|PUNCT
+%wor:	what 5882_6002 I'm 6102_6162 gonna 6162_6322 have 6422_6582 you 6602_6702 do 6782_6882 , is 7142_7242 while 7302_7522 the 7522_7602 recorder's 7642_8142 on 8203_8423 , I 8603_8623 want 8643_8823 you 8863_8923 to 8963_9023 tell 9103_9303 me 9343_9423 all 9603_9743 of 9803_9883 the 9923_10003 action 10183_10583 you 10683_10804 see 10944_11164 going 11344_11624 on 11684_11784 in 11804_11844 the 11864_11944 picture 12004_12173 .
+*INV:	tell me all the action . 12384_13405
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc .
+%gra:	1|5|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|1|PUNCT
+%wor:	tell 12384_12644 me 12704_12784 all 12904_13044 the 13104_13184 action 13284_13405 .
+*INV:	tell me all the action in that picture . 18551_19240
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+%wor:	tell 18551_19240 me all the action in that picture .
+*PAR:	a little boy is gettin(g) himself some cookies out o(f) the jar . 20393_22942
+%mor:	det|a-Ind-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|himself-Prs-Acc-reflx-S3 det|some-Def-Ind noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|5|IOBJ 7|8|DET 8|5|OBJ 9|12|CASE 10|12|CASE 11|12|DET 12|5|OBL 13|5|PUNCT
+%wor:	a 20393_20413 little 20413_20594 boy 20614_20794 is 20794_20914 gettin(g) 20934_21375 himself 21375_21695 some 21735_21876 cookies 21916_22276 out 22276_22336 o(f) 22417_22697 the 22697_22777 jar 22837_22942 .
+*PAR:	and the &+s stool is turnin(g) over on him (.) that he's standing on . 23238_26854
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Pres-S adp|over adp|on pron|he-Prs-Acc-S3 sconj|that pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|12|OBL 14|5|PUNCT
+%wor:	and 23238_23338 the 23358_23438 stool 23919_24179 is 24259_24380 turnin(g) 24480_24800 over 24800_24960 on 25041_25121 him 25141_25261 that 25261_26142 he's 26162_26262 standing 26303_26683 on 26743_26854 .
+*PAR:	he's handing the little girl some cookies out of the jar . 27945_30320
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art adj|little-S1 noun|girl-Acc det|some-Def-Ind noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|DET 8|3|OBJ 9|12|CASE 10|12|CASE 11|12|DET 12|3|OBL 13|3|PUNCT
+%wor:	he's 27945_28065 handing 28085_28426 the 28426_28486 little 28526_28726 girl 28846_29107 some 29307_29487 cookies 29507_29788 out 29888_30008 of 30008_30048 the 30068_30128 jar 30189_30320 .
+*PAR:	is that it ? [+ exc] 32412_32753
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 32412_32492 that 32492_32672 it 32692_32753 ?
+*INV:	tell me all the action you see . 34979_35278
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|7|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|1|PUNCT
+%wor:	tell 34979_35278 me all the action you see .
+*PAR:	and [//] well that's in the first one . 37781_39082
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art adj|first-S1 noun|one .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%wor:	and 37781_37901 well 38041_38161 that's 38181_38381 in 38602_38682 the 38722_38782 first 38822_39082 one .
+*PAR:	he's handing the little girl cookies out of the cookie jar . 40563_42619
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art adj|little-S1 noun|girl noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|DET 5|7|AMOD 6|7|COMPOUND 7|3|OBJ 8|12|CASE 9|12|CASE 10|12|DET 11|12|COMPOUND 12|3|OBL 13|3|PUNCT
+%wor:	he's 40563_40703 handing 40723_41024 the 41044_41104 little 41104_41304 girl 41304_41404 cookies 41404_41864 out 41944_42044 of 42084_42125 the 42125_42185 cookie 42245_42525 jar 42545_42619 .
+*PAR:	and he's on a stool and it's turning over . 42985_44438
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Pres-S adp|over .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|11|ROOT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|6|CONJ 11|10|COMPOUND-PRT 12|6|PUNCT
+%wor:	and 42985_43085 he's 43105_43225 on 43285_43406 a 43446_43466 stool 43506_43786 and 43826_43906 it's 43946_44066 turning 44106_44386 over 44426_44438 .
+*PAR:	and he's handing her some cookies . 45527_46849
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|her-Prs-Acc-S3 det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	and 45527_45668 he's 45708_45868 handing 45908_46228 her 46248_46368 some 46428_46568 cookies 46608_46849 .
+*PAR:	and in the second picture the little girl &-uh looks as though she's drying dishes . 47617_51917
+%mor:	cconj|and adp|in det|the-Def-Art adj|second-S1 noun|picture det|the-Def-Art adj|little-S1 noun|girl verb|look-Fin-Ind-Pres-S3 sconj|as sconj|though pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|9|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|9|OBL 6|8|DET 7|8|AMOD 8|9|NSUBJ 9|15|ROOT 10|15|MARK 11|15|MARK 12|15|NSUBJ 13|15|COP 14|15|AMOD 15|9|ADVCL 16|9|PUNCT
+%wor:	and 47617_47697 in 47717_47777 the 47817_47877 second 47977_48298 picture 48458_48859 the 49680_49760 little 49760_49900 girl 49920_50181 uh 50221_50341 looks 50481_50922 as 50982_51022 though 51042_51263 she's 51263_51383 drying 51423_51724 dishes 51764_51917 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< and &-uh <oh let me think> [//] the sink is running over on the floor . 54791_57501
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and uh oh let 54791_55129 me 55169_55250 think 55250_55470 the 55470_55530 sink 55530_55630 is 55650_55750 running 55811_56071 over 56131_56351 on 57113_57213 the 57253_57333 floor 57393_57501 .
+*PAR:	she has the spigots on . 57754_58736
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|spigot-Plur-Acc adp|on .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%wor:	she 57754_57854 has 57914_58074 the 58074_58134 spigots 58134_58515 on 58575_58736 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	a nice view from the window . [+ gram] 65536_66597
+%mor:	det|a-Ind-Art adj|nice-S1 noun|view adp|from det|the-Def-Art noun|window .
+%gra:	1|3|DET 2|3|AMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	a 65536_65556 nice 65556_65796 view 65836_65976 from 66016_66196 the 66316_66396 window 66396_66597 .
+*PAR:	&*INV:okay <is that> [/] is that it ? [+ exc] 72621_73301
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 72621_72661 that 72701_72842 is 72942_73042 that 73042_73301 it ?
+*PAR:	that's it . [+ exc] 73542_73910
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 73542_73822 it 73862_73910 .
+*INV:	okay , that's fine . 74263_75144
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 74263_74443 , that's 74563_74743 fine 74863_75144 .
+@End

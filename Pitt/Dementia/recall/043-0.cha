@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00089853-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|57;|male|ProbableAD||Participant|18||
+@Media:	043-0, audio
+@G:	George_Immediate
+*INV:	okay , tell me what you can remember of the story . 154223_156767
+%mor:	intj|okay cm|cm verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|of det|the-Def-Art noun|story .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|11|ROOT 4|3|IOBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	okay 154223_154484 , tell 155166_155306 me 155306_155367 what 155407_155507 you 155547_155627 can 155647_155768 remember 155788_156189 of 156229_156270 the 156270_156350 story 156430_156767 .
+*PAR:	little girl . 158136_158887
+%mor:	adj|little-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	little 158136_158417 girl 158477_158887 .
+*PAR:	her name was Melanie . 159099_160203
+%mor:	pron|her-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Past-S3-irr propn|Melanie .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	her 159099_159219 name 159279_159520 was 159520_159641 Melanie 159741_160203 .
+*PAR:	(..) she (.) went (.) with her grandfather . 165610_169154
+%mor:	pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|with pron|her-Prs-Gen-S3 noun|grandfather .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+%wor:	she 165610_165730 went 166531_166731 with 168053_168233 her 168253_168393 grandfather 168654_169154 .
+*PAR:	(...) I'm mixed up . [+ exc] 182734_183395
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|mix-Part-Past-S adp|up .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	I'm 182734_182794 mixed 182814_183054 up 183094_183395 .
+*INV:	okay , just anything else that comes to mind . 183956_188184
+%mor:	intj|okay cm|cm adv|just pron|anything-Ind-S1 adj|else-S1 pron|that-Rel verb|come-Fin-Ind-Pres-S3 adp|to noun|mind .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|9|ROOT 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|9|CASE 9|7|OBL 10|4|PUNCT
+%wor:	okay 183956_184317 , just 185419_185660 anything 186682_187003 else 187043_187243 that 187263_187363 comes 187383_187644 to 187684_187744 mind 187784_188184 .
+*INV:	remember individual words . 188987_190751
+%mor:	verb|remember-Fin-Imp-S adj|individual-S1 noun|word-Plur-Acc .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+%wor:	remember 188987_189408 individual 189869_190290 words 190330_190751 .
+*INV:	(..) give yourself a minute or two . 196734_197916
+%mor:	verb|give-Fin-Imp-S pron|yourself-Prs-Acc-reflx-S2 det|a-Ind-Art noun|minute-Acc cconj|or num|two .
+%gra:	1|6|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|6|CC 6|4|CONJ 7|1|PUNCT
+%wor:	give 196734_196854 yourself 196854_197134 a 197154_197174 minute 197234_197494 or 197514_197614 two 197654_197916 .
+*INV:	just think about it . 198016_198720
+%mor:	adv|just verb|think-Fin-Imp-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	just 198016_198134 think 198154_198314 about 198354_198635 it 198695_198720 .
+*INV:	(..) no , okay . 205038_205399
+%mor:	intj|no cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%wor:	no , okay 205038_205399 .
+@End

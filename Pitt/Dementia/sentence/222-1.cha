@@ -1,0 +1,206 @@
+@UTF8
+@PID:	11312/a-00091372-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|12||
+@Media:	222-1, audio
+*INV:	okay , good . 20_919
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 20_261 , good 682_919 .
+*INV:	pencil@q . 1285_1645
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 1285_1645 .
+*INV:	can you use that in a sentence ? 1746_3571
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S pron|that-Dem adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	can 1746_1867 you 1907_1987 use 2128_2288 that 2308_2790 in 2831_2871 a 2931_2951 sentence 3071_3571 ?
+*INV:	pencil@q . 4276_4776
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 4276_4776 .
+*PAR:	&-um well , a [/] &+p a pencil whenever we wanna <put something> [/] &-uh &-uh put something on &-you_know . [+ exc] 6502_15772
+%mor:	intj|well cm|cm det|a-Ind-Art noun|pencil adv|whenever pron|we-Prs-Nom-P1 aux|wanna-Fin-S verb|put-Inf-Ind-Pres-S1 pron|something-Ind-S1 adp|on .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|10|ROOT 5|8|ADVMOD 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|8|OBJ 10|8|ADVMOD 11|4|PUNCT
+%wor:	um 6502_6802 well 7484_7624 , a 7684_7704 a 7904_7924 pencil 7984_8525 whenever 8786_9146 we 9247_9327 wanna 9447_9687 put 10449_10609 something 10669_10909 uh 13734_14175 uh 14175_14215 put 14215_14375 something 14435_14796 on 14956_15197 you_know 15317_15772 .
+*INV:	+< okay . 15678_16178
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 15678_16178 .
+*PAR:	and that's what we can put it on . [+ exc] 15838_17421
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|we-Prs-Nom-P1 aux|can-Fin-S verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBJ 9|7|OBL 10|4|PUNCT
+%wor:	and 15838_15918 that's 15918_16078 what 16138_16259 we 16299_16359 can 16439_16559 put 16619_16779 it 16799_16900 on 16980_17421 .
+*INV:	alright , what I want you to do is &+t to use the word pencil@q . 17641_20850
+%mor:	intj|alright cm|cm pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|use-Inf-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|11|NSUBJ-OUTER 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|11|COP 10|11|MARK 11|14|ROOT 12|13|DET 13|11|OBJ 14|11|FLAT 15|11|PUNCT
+%wor:	alright 17641_17901 , what 17901_18021 I 18141_18161 want 18221_18401 you 18441_18541 to 18561_18621 do 18701_18782 is 18882_18982 to 19322_19442 use 19702_20002 the 20042_20122 word 20203_20443 pencil@q 20503_20850 .
+*INV:	remember the example table@q ? 20963_22724
+%mor:	verb|remember-Fin-Imp-S det|the-Def-Art noun|example q|table ?
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|FLAT 5|1|PUNCT
+%wor:	remember 20963_21343 the 21403_21484 example 21584_22124 table@q 22224_22724 ?
+*INV:	and we wanted to put table@q in a sentence . 23685_25966
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|want-Fin-Ind-Past-P1 part|to verb|put-Inf-S q|table adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|FLAT 7|9|CASE 8|9|DET 9|5|OBL 10|3|PUNCT
+%wor:	and 23685_23785 we 23825_23885 wanted 23945_24145 to 24186_24226 put 24306_24446 table@q 24566_25126 in 25146_25226 a 25286_25306 sentence 25466_25966 .
+*INV:	we said +"/. 26047_26607
+%mor:	pron|we-Prs-Nom-P1 verb|say-Fin-Ind-Past-P1-irr +"/.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	we 26047_26147 said 26287_26607 +"/.
+*INV:	+" the dinner is on the table . 26607_28648
+%mor:	det|the-Def-Art noun|dinner aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 26607_26627 dinner 26787_27108 is 27288_27408 on 27628_27848 the 27928_28008 table 28148_28648 .
+*PAR:	yeah . [+ exc] 29149_29590
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 29149_29590 .
+*INV:	that's a sentence and the word table@q is in there . 29810_33041
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|sentence cconj|and det|the-Def-Art noun|word q|table aux|be-Fin-Ind-Pres-S3 adp|in adv|there .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|11|ROOT 5|11|CC 6|7|DET 7|11|NSUBJ 8|7|FLAT 9|11|COP 10|11|CASE 11|4|CONJ 12|4|PUNCT
+%wor:	that's 29810_30050 a 30130_30150 sentence 30251_30832 and 30872_30952 the 30972_31052 word 31132_31372 table@q 31533_32174 is 32174_32294 in 32374_32494 there 32554_33041 .
+*INV:	now I want you to come up with a [/] a &+wor [//] a sentence using the word pencil@q . 33696_37942
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|come-Inf-S adp|up adp|with det|a-Ind-Art det|a-Ind-Art noun|sentence verb|use-Ger-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|15|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|COMPOUND-PRT 8|11|CASE 9|11|DET 10|11|DET 11|6|OBL 12|11|ACL 13|14|DET 14|12|OBJ 15|12|FLAT 16|3|PUNCT
+%wor:	now 33696_33836 I 33937_33957 want 33997_34177 you 34217_34297 to 34317_34357 come 34437_34598 up 34618_34738 with 34778_34918 a 35018_35038 a 35439_35459 &+wor 35459_35840 a 35940_35960 sentence 36100_36541 using 36641_36901 the 36921_37002 word 37082_37342 pencil@q 37442_37942 .
+*PAR:	pencil@q ? [+ exc] 38885_39350
+%mor:	q|pencil ?
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 38885_39350 ?
+*INV:	mhm . 39506_40006
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 39506_40006 .
+*PAR:	I mean , <I was> [//] with pencil we can &-uh &-um <put on a> [/] put on a piece of paper . 41113_47399
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm adp|with noun|pencil pron|we-Prs-Nom-P1 aux|can-Fin-S verb|put-Inf-S adp|on det|a-Ind-Art noun|piece adp|of noun|paper .
+%gra:	1|2|NSUBJ 2|8|PARATAXIS 3|2|PUNCT 4|5|CASE 5|8|OBL 6|8|NSUBJ 7|8|AUX 8|13|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|13|CASE 13|11|NMOD 14|8|PUNCT
+%wor:	I 41113_41133 mean 41194_41394 , I 41394_41414 was 41474_41634 with 41814_41954 pencil 41994_42455 we 42595_42675 can 42755_42915 uh 43075_43235 um 43255_44757 put 45598_45738 on 45818_45938 a 45998_46018 put 46118_46258 on 46318_46418 a 46458_46478 piece 46538_46779 of 46799_46859 paper 46899_47399 .
+*INV:	alright , that's what we do with a pencil but can you put the word pencil@q in a sentence ? 47660_51923
+%mor:	intj|alright cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 adp|with det|a-Ind-Art noun|pencil cconj|but aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|20|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|14|CC 12|14|AUX 13|14|NSUBJ 14|5|CONJ 15|16|DET 16|14|OBJ 17|14|FLAT 18|20|CASE 19|20|DET 20|14|OBL 21|5|PUNCT
+%wor:	alright 47660_47940 , that's 47980_48200 what 48220_48320 we 48360_48420 do 48520_48600 with 48700_48821 a 48881_48901 pencil 48961_49321 but 49361_49461 can 49521_49661 you 49721_49822 put 49902_50062 the 50102_50182 word 50242_50462 pencil@q 50542_51083 in 51103_51183 a 51243_51263 sentence 51423_51923 ?
+*INV:	in a sentence use the word pencil@q . 55190_57234
+%mor:	adp|in det|a-Ind-Art noun|sentence verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|3|CASE 2|3|DET 3|4|OBL 4|7|ROOT 5|6|DET 6|4|OBJ 7|6|FLAT 8|4|PUNCT
+%wor:	in 55190_55271 a 55331_55351 sentence 55491_56012 use 56112_56273 the 56313_56413 word 56453_56653 pencil@q 56734_57234 .
+*INV:	say the word pencil@q in a sentence for me . 57295_60402
+%mor:	verb|say-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|7|CASE 6|7|DET 7|1|OBL 8|9|CASE 9|7|NMOD 10|1|PUNCT
+%wor:	say 57295_57515 the 57636_57736 word 57796_58036 pencil@q 58137_58838 in 58958_59019 a 59119_59139 sentence 59319_59800 for 59840_60041 me 60081_60402 .
+*PAR:	well , whenever I wanna [/] wanna [/] wanna <put a> [//] put it on a piece of paper and then I can put one on there . [+ exc] 61502_68605
+%mor:	intj|well cm|cm adv|whenever pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|put-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adp|on det|a-Ind-Art noun|piece adp|of noun|paper cconj|and adv|then pron|I-Prs-Nom-S1 aux|can-Fin-S verb|put-Inf-S num|one adp|on adv|there .
+%gra:	1|17|DISCOURSE 2|1|PUNCT 3|17|ADVMOD 4|6|NSUBJ 5|6|AUX 6|3|ADVCL-RELCL 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|12|CASE 12|10|NMOD 13|17|CC 14|17|ADVMOD 15|17|NSUBJ 16|17|AUX 17|20|ROOT 18|17|OBJ 19|20|CASE 20|17|OBL 21|17|PUNCT
+%wor:	well 61502_61722 , whenever 61802_62202 I 62442_62462 wanna 62522_62723 wanna 63323_63523 wanna 63623_63803 put 63883_64023 a 64043_64063 put 64203_64323 it 64343_64423 on 64483_64543 a 64583_64603 piece 64683_64923 of 64943_65003 paper 65044_65484 and 66524_66624 then 66644_66804 I 66964_66984 can 67064_67204 put 67445_67605 one 67725_67845 on 67945_68065 there 68105_68605 .
+*INV:	uhhuh , that's what you do with a pencil . 68985_71766
+%mor:	intj|uhhuh cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|10|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+%wor:	uhhuh 68985_69385 , that's 70206_70466 what 70506_70626 you 70666_70766 do 70846_70926 with 71026_71206 a 71206_71226 pencil 71266_71766 .
+*INV:	I want you to use the word pencil@q in a sentence . 72567_75351
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|7|FLAT 9|11|CASE 10|11|DET 11|5|OBL 12|2|PUNCT
+%wor:	I 72567_72587 want 72668_72848 you 72928_73008 to 73028_73088 use 73409_73649 the 73669_73749 word 73809_74010 pencil@q 74090_74530 in 74571_74651 a 74691_74711 sentence 74851_75351 .
+*INV:	remember the example ? 75512_76713
+%mor:	verb|remember-Fin-Imp-S det|the-Def-Art noun|example-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	remember 75512_75973 the 76033_76133 example 76213_76713 ?
+*INV:	a sentence is something like +"/. 77735_79435
+%mor:	det|a-Ind-Art noun|sentence aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adp|like +"/.
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+%wor:	a 77735_77755 sentence 77936_78457 is 78497_78577 something 78657_79098 like 79158_79435 +"/.
+*INV:	the pencil is on the desk . 79739_81861
+%mor:	det|the-Def-Art noun|pencil aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|desk .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 79739_79819 pencil 79959_80480 is 80640_80760 on 80920_81081 the 81161_81241 desk 81361_81861 .
+*INV:	okay . 82783_83283
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 82783_83283 .
+*PAR:	the pencil is on the desk +/. [+ exc] 83705_85427
+%mor:	det|the-Def-Art noun|pencil aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|desk +/.
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 83705_83785 pencil 83845_84245 is 84426_84526 on 84606_84726 the 84766_84826 desk 84927_85427 +/.
+*INV:	+< right . 85668_86168
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 85668_86168 .
+*PAR:	yeah , because <we have> [/] we have some stuff at home . [+ exc] 85543_88446
+%mor:	intj|yeah cm|cm sconj|because pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|some-Def-Ind noun|stuff-Acc adp|at noun|home .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|MARK 4|5|NSUBJ 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+%wor:	yeah 85543_85663 , because 85743_86203 we 86264_86344 have 86444_86664 we 86884_86964 have 87065_87285 some 87325_87485 stuff 87545_87766 at 87826_87886 home 87946_88446 .
+*INV:	okay . 88767_89267
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 88767_89267 .
+*INV:	can you use the word tree@q in a sentence like that ? 89688_93075
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc q|tree adp|in det|a-Ind-Art noun|sentence adp|like pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|5|DET 5|3|OBJ 6|5|FLAT 7|9|CASE 8|9|DET 9|3|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+%wor:	can 89688_89848 you 89889_90009 use 90169_90389 the 90409_90509 word 90569_90810 tree@q 90910_91391 in 91511_91591 a 91651_91671 sentence 91791_92332 like 92392_92612 that 92652_93075 ?
+*PAR:	tree@q ? [+ exc] 93313_93700
+%mor:	q|tree ?
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 93313_93700 ?
+*INV:	tree@q . 93794_94228
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 93794_94228 .
+*INV:	mhm . 94228_94614
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 94228_94614 .
+*PAR:	tree@q . [+ exc] 95757_96257
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 95757_96257 .
+*INV:	in a sentence like , “the pencil is on the desk” . 96918_100762
+%mor:	adp|in det|a-Ind-Art noun|sentence intj|like cm|cm det|the-Def-Art noun|pencil aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|desk .
+%gra:	1|3|CASE 2|3|DET 3|11|OBL 4|11|DISCOURSE 5|4|PUNCT 6|7|DET 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|DET 11|11|ROOT 12|11|PUNCT
+%wor:	in 96918_97018 a 97078_97098 sentence 97258_97919 like 98540_98780 , the 98820_98900 pencil 98980_99461 is 99581_99701 on 99821_99961 the 100022_100102 desk 100262_100762 .
+*INV:	instead of pencil@q now I want you to use the word tree@q . 101663_104726
+%mor:	adv|instead adp|of q|pencil adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|the-Def-Art noun|word-Acc q|tree .
+%gra:	1|3|CASE 2|1|FIXED 3|6|FLAT 4|6|ADVMOD 5|6|NSUBJ 6|12|ROOT 7|6|OBJ 8|9|MARK 9|6|XCOMP 10|11|DET 11|9|OBJ 12|9|FLAT 13|6|PUNCT
+%wor:	instead 101663_101984 of 102024_102104 pencil@q 102184_102624 now 102624_102785 I 102825_102845 want 102925_103065 you 103085_103185 to 103205_103265 use 103405_103606 the 103626_103706 word 103766_104046 tree@q 104226_104726 .
+*PAR:	tree@q . [+ exc] 105668_106168
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 105668_106168 .
+*INV:	mhm . 106400_106889
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 106400_106889 .
+*PAR:	well , would that be &-um (.) <to get> [/] to get one of them things up in there . [+ exc] 107470_115202
+%mor:	intj|well cm|cm aux|would-Fin-S pron|that-Dem aux|be-Inf-S part|to verb|get-Inf-S num|one adp|of pron|they-Prs-Acc-P3 noun|thing-Plur-Acc adp|up adp|in adv|there .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|AUX 4|7|NSUBJ-OUTER 5|7|COP 6|7|MARK 7|14|ROOT 8|7|OBJ 9|10|CASE 10|8|NMOD 11|7|OBJ 12|7|COMPOUND-PRT 13|14|CASE 14|7|OBL 15|7|PUNCT
+%wor:	well 107470_107690 , would 107770_107891 that 107931_108071 be 108131_108231 um 108512_108912 to 111697_111757 get 111817_112017 to 112398_112458 get 112518_112678 one 112779_112879 of 112899_112939 them 112979_113179 things 113920_114281 up 114421_114541 in 114601_114702 there 114702_115202 .
+*INV:	okay , I want you to come up with a sentence for me . 116825_119550
+%mor:	intj|okay cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|come-Inf-S adp|up adp|with det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|13|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|13|CASE 13|11|NMOD 14|4|PUNCT
+%wor:	okay 116825_117065 , I 117186_117206 want 117246_117406 you 117446_117526 to 117566_117606 come 117666_117827 up 117847_117947 with 117947_118127 a 118127_118147 sentence 118328_118848 for 118908_119129 me 119209_119550 .
+*INV:	a sentence that has the word tree@q in it . 120812_123020
+%mor:	det|a-Ind-Art noun|sentence pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|word-Acc q|tree adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|DET 2|9|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|6|DET 6|4|OBJ 7|6|FLAT 8|9|CASE 9|4|OBL 10|2|PUNCT
+%wor:	a 120812_120832 sentence 120972_121433 that 121433_121573 has 121633_121893 the 121953_122034 word 122074_122294 tree@q 122354_122695 in 122715_122795 it 122835_123020 .
+*INV:	say something with the word tree@q in it . 123035_125619
+%mor:	verb|say-Fin-Imp-S pron|something-Ind-S1 adp|with det|the-Def-Art noun|word q|tree adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|8|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|5|FLAT 7|8|CASE 8|5|NMOD 9|1|PUNCT
+%wor:	say 123035_123236 something 123456_123957 with 123977_124117 the 124137_124217 word 124277_124498 tree@q 124578_124938 in 124958_125058 it 125119_125619 .
+*PAR:	with tree@q ? [+ exc] 127102_127740
+%mor:	adp|with q|tree ?
+%gra:	1|2|CASE 2|2|FLAT 3|2|PUNCT
+%wor:	with 127102_127302 tree@q 127362_127740 ?
+*INV:	mhm . 127763_128263
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 127763_128263 .
+*PAR:	(.) well , we wanna get something for [/] for the tree and for the [/] (.) &-uh the [//] to put something <on for> [/] on for that . 132806_145011
+%mor:	intj|well cm|cm pron|we-Prs-Nom-P1 aux|wanna-Fin-S verb|get-Inf-S pron|something-Ind-S1 adp|for det|the-Def-Art noun|tree cconj|and sconj|for part|to verb|put-Inf-S pron|something-Ind-S1 adp|on adp|for pron|that-Dem .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|13|CC 11|13|MARK 12|13|MARK 13|5|CONJ 14|13|OBJ 15|13|ADVMOD 16|17|CASE 17|13|OBL 18|5|PUNCT
+%wor:	well 132806_133026 , we 133146_133226 wanna 133306_133507 get 133587_133727 something 133787_134147 for 134207_134347 for 134567_134667 the 134687_134767 tree 134847_135207 and 136548_136668 for 136748_136848 the 136888_136988 uh 140850_141090 the 142670_142730 to 142751_142811 put 142811_142951 something 143011_143391 on 143511_143631 for 143731_144011 on 144151_144271 for 144371_144471 that 144511_145011 .
+*INV:	okay . 145216_145716
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 145216_145716 .
+@End

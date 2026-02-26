@@ -1,0 +1,119 @@
+@UTF8
+@PID:	11312/a-00091391-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|16||
+@Media:	269-1, audio
+@Comment:	No %wor tier due to "unspecified internal error" when running through Batchalign.
+*INV:	pencil . 0_1149
+%mor:	noun|pencil .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	can you use pencil@q in a sentence for me ? 1149_3228
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S q|pencil adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|FLAT 5|7|CASE 6|7|DET 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*PAR:	+< you sure can . [+ exc] 1149_3448
+%mor:	pron|you-Prs-Nom-S2 adj|sure-S1 aux|can-Fin-S .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|CCOMP 4|2|PUNCT
+*INV:	can you just use it in a sentence ? 3448_5821
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 adv|just verb|use-Inf-S pron|it-Prs-Acc-S3 adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	oh , just in a sentence . [+ exc] 5821_7028
+%mor:	intj|oh cm|cm adv|just adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+*INV:	+< right . 6500_7139
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	oh yes . [+ exc] 7028_7794
+%mor:	intj|oh intj|yes .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	I &-uh worked with a pencil today because I didn't have my +/. 7794_12713
+%mor:	pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Past-S1 adp|with det|a-Ind-Art noun|pencil noun|today sconj|because pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|have-Inf-S pron|my-Prs-Gen-S1 +/.
+%gra:	1|2|NSUBJ 2|12|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|OBL-UNMARKED 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|2|ADVCL 12|11|OBJ 13|2|PUNCT
+*INV:	+< okay . 11600_12297
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	how about tree@q ? 12297_13434
+%mor:	adv|how adp|about q|tree ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|FLAT 4|1|PUNCT
+*INV:	can you use +/? 13781_14942
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S +/?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR:	+< tree@q , did you say ? [+ exc] 14042_15424
+%mor:	q|tree cm|cm aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|5|FLAT 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*INV:	right . 15424_15946
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	yes . [+ exc] 15848_17334
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh <the trees are> [//] &+s &-uh the wind (i)s blowing so much that you &-uh are gonna have all our trees coming down or something . 17334_27275
+%mor:	det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S adv|so adj|much-S1 sconj|that pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 part|go verb|have-Inf-S det|all-Def-Tot pron|our-Prs-Gen-P1 noun|tree-Plur-Acc verb|come-Ger-S adp|down cconj|or pron|something-Ind-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|18|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ADVCL 12|14|DET-PREDET 13|14|NMOD-POSS 14|11|OBJ 15|14|ACL 16|15|COMPOUND-PRT 17|18|CC 18|15|CONJ 19|4|PUNCT
+*INV:	+< okay , how about child@q and hospital@q . 26400_28977
+%mor:	intj|okay cm|cm adv|how adp|about q|child cconj|and q|hospital .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|7|ROOT 4|5|CASE 5|3|FLAT 6|7|CC 7|5|FLAT 8|3|PUNCT
+*INV:	can you use both of them in a sentence for me ? 28977_30674
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|DET 9|3|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR:	oh yeah . [+ exc] 30674_31359
+%mor:	intj|oh intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	and &-uh the hospital +/. 31359_33936
+%mor:	cconj|and det|the-Def-Art noun|hospital +/.
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*INV:	short sentence . 33936_34935
+%mor:	adj|short-S1 noun|sentence .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*PAR:	&-uh &-uh &=sighs (.) &-uh the [/] the hospital decided that the &-uh doctor (woul)d have to put the child in the &-uh hospital . 34935_53975
+%mor:	det|the-Def-Art noun|hospital verb|decide-Fin-Ind-Past-S3 sconj|that det|the-Def-Art noun|doctor aux|would-Fin-S verb|have-Inf-S part|to verb|put-Inf-S det|the-Def-Art noun|child-Acc adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|3|NSUBJ 3|15|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|15|CASE 14|15|DET 15|10|OBL 16|3|PUNCT
+*INV:	how about cold@q and winter@q ? 53975_56459
+%mor:	adv|how adp|about q|cold cconj|and q|winter ?
+%gra:	1|5|ROOT 2|3|CASE 3|1|FLAT 4|5|CC 5|3|FLAT 6|1|PUNCT
+*PAR:	oh &=laughs . [+ exc] 56459_59060
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	my goodness , you've got the &+be worst <of them on> [//] of (th)em all right there &=laughs . [+ exc] 59060_64034
+%mor:	pron|my-Prs-Gen-S1 noun|goodness cm|cm pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr det|the-Def-Art adj|bad-Sup-S1 adp|of pron|they-Prs-Acc-P3 det|all-Def-Tot adv|right adv|there .
+%gra:	1|2|NMOD-POSS 2|6|VOCATIVE 3|2|PUNCT 4|6|NSUBJ 5|6|AUX 6|13|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|8|OBL 11|13|ADVMOD 12|13|ADVMOD 13|6|ADVMOD 14|6|PUNCT
+*INV:	how can you use those in a sentence ? 64034_65736
+%mor:	adv|how aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S pron|that-Dem-P1 adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	&-uh I can put in the +... [+ exc] 65736_69033
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|put-Inf-S adp|in det|the-Def-Art +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|COMPOUND-PRT 5|3|OBL 6|3|PUNCT
+*PAR:	it's [/] it's a cold day today and so cold that we will have to [/] to build up a fire . 69033_78378
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|cold-S1 noun|day noun|today cconj|and adv|so adj|cold-S1 sconj|that pron|we-Prs-Nom-P1 aux|will-Fin-S verb|have-Inf-S part|to verb|build-Inf-S adp|up det|a-Ind-Art noun|fire-Acc .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|18|ROOT 6|5|OBL-UNMARKED 7|9|CC 8|9|ADVMOD 9|5|CONJ 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|CCOMP 14|15|MARK 15|13|XCOMP 16|15|COMPOUND-PRT 17|18|DET 18|15|OBJ 19|5|PUNCT
+*INV:	okay . 78378_79005
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	now I'm gonna give you three words . 79005_80967
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+*INV:	I want you to try and use them all in a sentence . 80967_82604
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|try-Inf-S cconj|and verb|use-Inf-S pron|they-Prs-Acc-P3 det|all-Def-Tot adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|CC 7|5|CONJ 8|7|OBJ 9|8|DET 10|12|CASE 11|12|DET 12|7|OBL 13|2|PUNCT
+*PAR:	okay . [+ exc] 82604_83336
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	chair@q doctor@q and sit@q . 83336_86042
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+*PAR:	the baby was sick and the &-uh &+doc we hadta get the doctor . 86042_96084
+%mor:	det|the-Def-Art noun|baby aux|be-Fin-Ind-Past-S3-irr adj|sick-S1 cconj|and det|the-Def-Art pron|we-Prs-Nom-P1 aux|hadt-Fin-Ind-Pres-P1 verb|get-Inf-S det|the-Def-Art noun|doctor-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|11|ROOT 5|9|CC 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|CONJ 10|11|DET 11|9|OBJ 12|4|PUNCT
+*INV:	okay . 96084_96592
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and &-uh was there one more ? 96592_98290
+%mor:	cconj|and aux|be-Fin-Ind-Past-S3-irr adv|there num|one adj|more-Cmp-S1 ?
+%gra:	1|3|CC 2|3|COP 3|5|ROOT 4|5|NUMMOD 5|3|ADVMOD 6|3|PUNCT
+*INV:	+< okay . 97654_98290
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

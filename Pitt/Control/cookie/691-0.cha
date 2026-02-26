@@ -1,0 +1,96 @@
+@UTF8
+@PID:	11312/a-00090873-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|female|Control||Participant|29||
+@Media:	691-0, audio
+@G:	Cookie
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*INV:	the picture .
+%mor:	det|the-Def-Art noun|picture .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*PAR:	alright . [+ exc] 2463_2638
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 2463_2638 .
+*PAR:	the little boy [//] girl's reaching up there . 3525_5354
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~part|s verb|reach-Part-Pres-S adp|up adv|there .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|3|CASE 5|7|ROOT 6|5|COMPOUND-PRT 7|5|ADVMOD 8|5|PUNCT
+%wor:	the 3525_3605 little 3645_3865 boy 3905_4146 girl's 4206_4486 reaching 4526_4847 up 4887_5007 there 5067_5354 .
+*PAR:	and she's got her finger to her lips . 5370_6780
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+%wor:	and 5370_5408 she's 5428_5568 got 5608_5729 her 5749_5829 finger 5869_6109 to 6190_6270 her 6350_6450 lips 6490_6780 .
+*PAR:	and the boy's <on a stool> [//] standing on a stool but its gonna fall pretty soon . 6831_9880
+%mor:	cconj|and det|the-Def-Art noun|boy~part|s verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool cconj|but pron|its-Prs-Gen-S3 adv|gonna verb|fall-Fin-Ind-S adv|pretty adv|soon .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|14|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|CC 10|12|NSUBJ 11|12|ADVMOD 12|5|CONJ 13|14|ADVMOD 14|12|ADVMOD 15|5|PUNCT
+%wor:	and 6831_6911 the 6911_6971 boy's 6971_7272 on 7332_7392 a 7452_7472 stool 7552_7893 standing 8033_8354 on 8354_8414 a 8434_8454 stool 8474_8634 but 8634_8694 its 8714_8814 gonna 8854_9035 fall 9135_9375 pretty 9456_9656 soon 9716_9880 .
+*PAR:	he's reaching for cookies . 9957_11118
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	he's 9957_10097 reaching 10137_10417 for 10457_10558 cookies 10618_11118 .
+*PAR:	and the mother has their [: her] [* s:r] back to (th)em . 11980_13223
+%mor:	cconj|and det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 adv|back adp|to pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|4|ADVMOD 7|8|CASE 8|4|OBL 9|4|PUNCT
+%wor:	and 11980_12120 the 12161_12221 mother 12261_12481 has 12501_12661 her 12702_12782 back 12822_13042 to 13042_13082 (th)em 13082_13223 .
+*PAR:	she doesn't see them but her [//] she hasn't payed any attention to her sink . 13328_16228
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|see-Inf-S pron|they-Prs-Acc-P3 cconj|but pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3~part|not verb|pay-Part-Past-S det|any-Def-Ind noun|attention-Acc adp|to pron|her-Prs-Gen-S3 noun|sink .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|15|ROOT 5|4|OBJ 6|10|CC 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|CONJ 11|12|DET 12|10|OBJ 13|15|CASE 14|15|NMOD-POSS 15|10|OBL 16|4|PUNCT
+%wor:	she 13328_13388 doesn't 13428_13688 see 13728_13828 them 13848_13948 but 13988_14268 her 14328_14448 she 14548_14628 hasn't 14708_14969 payed 14989_15149 any 15169_15229 attention 15249_15609 to 15649_15709 her 15769_15869 sink 15989_16228 .
+*PAR:	it's running all over the place . 16330_17690
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	it's 16330_16449 running 16489_16750 all 16790_16910 over 16950_17070 the 17090_17150 place 17230_17690 .
+*PAR:	her window is open . 18360_19350
+%mor:	pron|her-Prs-Gen-S3 noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	her 18360_18451 window 18491_18771 is 18831_18951 open 19031_19350 .
+*PAR:	and there's a nice garden and a garage out back . 19392_21732
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|garden cconj|and det|a-Ind-Art noun|garage adv|out adv|back .
+%gra:	1|3|CC 2|3|EXPL 3|11|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|11|ADVMOD 11|3|ADVMOD 12|3|PUNCT
+%wor:	and 19392_19471 there's 19471_19651 a 19711_19731 nice 19771_20052 garden 20352_20692 and 20752_20832 a 20872_20892 garage 20972_21332 out 21392_21513 back 21573_21732 .
+*PAR:	she's drying some dishes . 21913_23707
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|some-Def-Ind noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 21913_22113 drying 22693_22993 some 23053_23194 dishes 23234_23707 .
+*PAR:	she has an apron on . 23795_24910
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%wor:	she 23795_23854 has 23894_24014 an 24054_24114 apron 24254_24494 on 24634_24910 .
+*PAR:	her &+s dress is sleeveless . 25207_26415
+%mor:	pron|her-Prs-Gen-S3 noun|dress aux|be-Fin-Ind-Pres-S3 adj|sleeveless-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	her 25207_25295 dress 25475_25715 is 25755_25835 sleeveless 25915_26415 .
+*PAR:	has a pretty nice kitchen &-like &-uh pretty nice curtains on it . [+ gram] 27807_32436
+%mor:	verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adv|pretty adj|nice-S1 noun|kitchen adv|pretty adj|nice-S1 noun|curtain-Plur-Acc adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|10|ROOT 2|8|DET 3|4|ADVMOD 4|8|AMOD 5|8|COMPOUND 6|7|ADVMOD 7|8|AMOD 8|1|OBJ 9|10|CASE 10|1|OBL 11|1|PUNCT
+%wor:	has 27807_27927 a 27947_27967 pretty 27987_28167 nice 28167_28387 kitchen 28467_28848 like 28908_29809 uh 30110_30190 pretty 30550_30751 nice 30771_31031 curtains 31512_31912 on 32012_32153 it 32213_32436 .
+*PAR:	and &-um <the jar> [//] the cookie jar lid is off . 34556_39203
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar noun|lid aux|be-Fin-Ind-Pres-S3 adv|off .
+%gra:	1|7|CC 2|5|DET 3|4|COMPOUND 4|5|COMPOUND 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	and 34556_34796 um 34856_35097 the 37019_37080 jar 37180_37400 the 37801_37861 cookie 37901_38221 jar 38241_38461 lid 38562_38742 is 38782_38902 off 39002_39203 .
+*PAR:	she has a couple cups and she has a couple plates but she better mop up that floor &=laughs . 42391_46091
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|couple noun|cup-Plur-Acc cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|couple noun|plate-Plur-Acc cconj|but pron|she-Prs-Nom-S3 adv|well verb|mop-Inf-S adp|up det|that-Def-Dem-Sing noun|floor-Acc .
+%gra:	1|2|NSUBJ 2|18|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|8|CC 7|8|NSUBJ 8|2|CONJ 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|15|CC 13|15|NSUBJ 14|15|ADVMOD 15|2|CONJ 16|15|COMPOUND-PRT 17|18|DET 18|15|OBJ 19|2|PUNCT
+%wor:	she 42391_42451 has 42451_42511 a 42551_42571 couple 42611_42891 cups 42931_43331 and 43351_43451 she 43491_43551 has 43571_43671 a 43711_43731 couple 43771_44032 plates 44072_44472 but 44532_44672 she 44752_44852 better 44912_45112 mop 45152_45353 up 45413_45513 that 45553_45733 floor 45773_46091 .
+*PAR:	the little girl has socks and shoes on and a short dress and <long hair> [//] medium long hair . 51230_55500
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 noun|sock-Plur-Acc cconj|and noun|shoe-Plur adp|on cconj|and det|a-Ind-Art adj|short-S1 noun|dress cconj|and adj|medium-S1 adj|long-S1 noun|hair .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|16|ROOT 5|4|OBJ 6|7|CC 7|5|CONJ 8|4|ADVMOD 9|12|CC 10|12|DET 11|12|AMOD 12|5|CONJ 13|16|CC 14|16|AMOD 15|16|AMOD 16|12|CONJ 17|4|PUNCT
+%wor:	the 51230_51317 little 51317_51457 girl 51457_51617 has 51637_51757 socks 51817_52097 and 52137_52237 shoes 52277_52577 on 52658_52798 and 52858_52938 a 52978_52998 short 53058_53278 dress 53338_53578 and 53638_53718 long 53738_53958 hair 53998_54279 medium 54479_54779 long 54919_55139 hair 55179_55500 .
+*PAR:	and the boy has his shorts on and a short sleeved s:irt [: shirt] [* p:n] so it must be summer . 56180_60360
+%mor:	cconj|and det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|short-Plur-Acc adp|on cconj|and det|a-Ind-Art adj|short-S1 adj|sleeved-S1 noun|shirt sconj|so pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S noun|summer .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|17|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|12|CC 9|12|DET 10|12|AMOD 11|12|AMOD 12|6|CONJ 13|17|MARK 14|17|NSUBJ 15|17|AUX 16|17|COP 17|4|PARATAXIS 18|4|PUNCT
+%wor:	and 56180_56260 the 56260_56340 boy 56340_56520 has 56560_56700 his 56740_56880 shorts 56940_57280 on 57360_57520 and 57580_57680 a 57760_57780 short 58060_58260 sleeved 58340_58661 shirt 59241_59481 so 59521_59581 it 59621_59661 must 59681_59841 be 59861_59921 summer 60001_60360 .
+*PAR:	trees are in bloom outside and the flowers out there . 62162_64897
+%mor:	noun|tree-Plur aux|be-Fin-Ind-Pres-P3 adp|in noun|bloom adv|outside cconj|and det|the-Def-Art noun|flower-Plur adp|out adv|there .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|10|ROOT 5|4|ADVMOD 6|8|CC 7|8|DET 8|4|CONJ 9|10|ADVMOD 10|8|ADVMOD 11|4|PUNCT
+%wor:	trees 62162_62402 are 62442_62522 in 62542_62582 bloom 62642_62842 outside 62922_63403 and 63403_63463 the 63463_63543 flowers 63703_64183 out 64263_64383 there 64443_64897 .
+*INV:	okay that's fine . 69037_69705
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay that's 69037_69205 fine 69205_69705 .
+@End

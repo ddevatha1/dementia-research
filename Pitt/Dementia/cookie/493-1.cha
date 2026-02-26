@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00090561-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|76;|female|ProbableAD||Participant|15||
+@Media:	493-1, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at that picture . 910_2830
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+%wor:	I'd 910_970 like 990_1210 for 1230_1330 you 1370_1450 to 1450_1510 take 1570_1791 a 1811_1831 look 1891_2051 at 2071_2131 that 2171_2352 picture 2412_2830 .
+*INV:	I want you to tell me everything that's going on in that picture . 3974_6708
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%wor:	I 3974_3994 want 4034_4174 you 4194_4294 to 4314_4375 tell 4415_4595 me 4635_4695 everything 4835_5236 that's 5256_5436 going 5496_5797 on 5877_6017 in 6077_6157 that 6197_6357 picture 6417_6708 .
+*INV:	everything that's happening in that picture . 7179_8895
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|7|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+%wor:	everything 7179_7539 that's 7559_7719 happening 7779_8220 in 8260_8320 that 8380_8541 picture 8601_8895 .
+*PAR:	well I know she's got a wreath or something there to put up maybe on a window . 9562_13846
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|wreath-Acc cconj|or pron|something-Ind-S1 adv|there part|to verb|put-Inf-S adp|up adv|maybe adp|on det|a-Ind-Art noun|window .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|18|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|DET 8|6|OBJ 9|10|CC 10|8|CONJ 11|10|ADVMOD 12|13|MARK 13|6|ADVCL 14|13|COMPOUND-PRT 15|18|ADVMOD 16|18|CASE 17|18|DET 18|13|OBL 19|3|PUNCT
+%wor:	well 9562_9842 I 10023_10043 know 10063_10243 she's 10343_10704 got 10764_10964 a 11224_11244 wreath 11325_11665 or 11725_11785 something 11865_12206 there 12246_12466 to 12626_12687 put 12767_12927 up 12967_13047 maybe 13107_13348 on 13448_13508 a 13548_13568 window 13628_13846 .
+*PAR:	I don't know . [+ exc] 14089_14710
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 14089_14109 don't 14129_14289 know 14329_14710 .
+*PAR:	and there's some [//] &-uh <two saucers or> [//] two dishes . 15792_20122
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|dish-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 15792_15872 there's 15892_16092 some 16132_16353 uh 17214_17295 two 17415_17555 saucers 17635_18277 or 18377_18477 two 18557_18798 dishes 19700_20122 .
+*PAR:	and I don't know what that is . [+ exc] 20822_21933
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|5|PUNCT
+%wor:	and 20822_20922 I 21022_21062 don't 21062_21183 know 21183_21283 what 21303_21443 that 21483_21704 is 21784_21933 .
+*PAR:	it could be &-uh to throw them things around . [+ exc] 22004_26139
+%mor:	pron|it-Prs-Nom-S3 aux|could-Fin-S aux|be-Inf-S part|to verb|throw-Inf-S pron|they-Prs-Acc-P3 noun|thing-Plur-Acc adv|around .
+%gra:	1|5|NSUBJ-OUTER 2|5|AUX 3|5|COP 4|5|MARK 5|8|ROOT 6|5|IOBJ 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+%wor:	it 22004_22085 could 22145_22305 be 22345_22445 uh 22666_22706 to 24069_24149 throw 24249_24470 them 24530_24710 things 25612_25872 around 25913_26139 .
+*PAR:	I don't know . [+ exc] 26333_26875
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 26333_26353 don't 26353_26534 know 26554_26875 .
+*PAR:	and over here is your spigot (.) as was your water . 27973_32243
+%mor:	cconj|and adv|over adv|here aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|spigot sconj|as aux|be-Fin-Ind-Past-S3-irr pron|your-Prs-Gen-S2 noun|water .
+%gra:	1|3|CC 2|3|ADVMOD 3|10|ROOT 4|3|COP 5|6|NMOD-POSS 6|3|NSUBJ 7|10|MARK 8|10|COP 9|10|NMOD-POSS 10|3|ADVCL 11|3|PUNCT
+%wor:	and 27973_28073 over 28093_28233 here 28273_28413 is 28433_28493 your 28513_28653 spigot 28713_29214 as 31256_31396 was 31436_31596 your 31616_31736 water 31776_32243 .
+*PAR:	it must have run over . 32717_33643
+%mor:	pron|it-Prs-Nom-S3 aux|must-Fin-S aux|have-Inf-S verb|run-Part-Past-S-irr adp|over .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	it 32717_32777 must 32777_33018 have 33038_33158 run 33178_33358 over 33438_33643 .
+*PAR:	I don't know . [+ exc] 33879_34468
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 33879_33899 don't 33919_34099 know 34119_34468 .
+*PAR:	and there's a cookie jar . 36641_37755
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|3|CC 2|3|EXPL 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|NSUBJ 7|3|PUNCT
+%wor:	and 36641_36741 there's 36741_36922 a 36962_36982 cookie 37042_37302 jar 37402_37755 .
+*PAR:	the &-uh little boy's gettin(g) the cookie jar . 37967_39607
+%mor:	det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+%wor:	the 37967_38043 uh 38083_38183 little 38183_38343 boy's 38383_38623 gettin(g) 38683_38904 the 38904_38964 cookie 38964_39264 jar 39304_39607 .
+*PAR:	one for his sister . [+ gram] 39825_40766
+%mor:	num|one adp|for pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|1|PUNCT
+%wor:	one 39825_39965 for 39985_40105 his 40125_40245 sister 40285_40766 .
+*PAR:	and he's almost upset here . 41578_43068
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|almost verb|upset-Part-Past-S-irr adv|here .
+%gra:	1|5|CC 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 41578_41658 he's 41678_41818 almost 41898_42238 upset 42299_42719 here 42779_43068 .
+*PAR:	so I don't know what to tell you . [+ exc] 44822_46341
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|8|MARK 8|6|ACL 9|8|IOBJ 10|5|PUNCT
+%wor:	so 44822_44922 I 45303_45323 don't 45343_45463 know 45463_45563 what 45603_45743 to 45783_45863 tell 45924_46124 you 46164_46341 .
+*PAR:	she's got a short apron on and a dress underneath it I think . 47386_52333
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art adj|short-S1 noun|apron-Acc adp|on cconj|and det|a-Ind-Art noun|dress adp|underneath pron|it-Prs-Acc-S3 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|14|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|ADVMOD 8|10|CC 9|10|DET 10|7|CONJ 11|12|CASE 12|10|NMOD 13|14|NSUBJ 14|3|PARATAXIS 15|3|PUNCT
+%wor:	she's 47386_47566 got 47626_47766 a 47786_47806 short 47946_48247 apron 49048_49428 on 49469_49689 and 50810_50911 a 50931_50951 dress 51011_51231 underneath 51331_51752 it 51792_51872 I 51992_52012 think 52072_52333 .
+*PAR:	the water's flowin(g) over . 55527_56867
+%mor:	det|the-Def-Art noun|water~part|s noun|flow-Ger adv|over .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 55527_55587 water's 55687_56048 flowin(g) 56108_56509 over 56509_56867 .
+*PAR:	there's two cups . 60397_61398
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 60397_60618 two 60658_60818 cups 60898_61398 .
+*PAR:	and that is [//] must be one of those they throw around . [+ es] 62542_64927
+%mor:	cconj|and pron|that-Dem aux|must-Fin-S aux|be-Inf-S num|one adp|of pron|that-Dem-P1 pron|they-Prs-Nom-P3 verb|throw-Fin-Ind-Pres-P3 adv|around .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|COP 5|10|ROOT 6|7|CASE 7|5|NMOD 8|9|NSUBJ 9|7|ACL-RELCL 10|9|ADVMOD 11|5|PUNCT
+%wor:	and 62542_62642 that 62682_62862 is 62902_63023 must 63123_63323 be 63363_63424 one 63584_63684 of 63744_63844 those 63885_64045 they 64065_64185 throw 64265_64526 around 64546_64927 .
+*INV:	okay thanks . 65147_66190
+%mor:	intj|okay noun|thanks .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 65147_65508 thanks 65789_66190 .
+@End

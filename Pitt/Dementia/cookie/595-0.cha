@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/a-00090593-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;|male|ProbableAD||Participant|16||
+@Media:	595-0, audio
+@G:	Cookie
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*INV:	see going on in the picture ?
+%mor:	verb|see-Fin-Imp-S verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|6|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+*PAR:	what's going +... [+ exc]
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S +...
+%gra:	1|3|OBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*PAR:	&=laughs boy's reaching a cookie jar . [+ gram]
+%mor:	noun|boy~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*PAR:	the [/] &+ta &+ta the stool is falling over . 12367_14230
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 12367_12448 the 12529_12732 stool 12772_13096 is 13137_13218 falling 13278_13764 over 13906_14230 .
+*PAR:	the &-uh girl is holding her hand up for a cookies . 15654_18454
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|for det|a-Ind-Art noun|cookie-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	the 15654_15754 uh 15754_16014 girl 16414_16655 is 16715_16795 holding 16855_17135 her 17155_17235 hand 17275_17536 up 17596_17676 for 17736_17876 a 17876_17896 cookies 17976_18454 .
+*PAR:	and [/] &-uh and then they wove in the picture mother the water is overflowing from the sink . [+ gram] 18537_23600
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|wove-Fin-Ind-Past-P3 adp|in det|the-Def-Art noun|picture noun|mother det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|15|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|10|DET 10|12|NSUBJ 11|12|AUX 12|8|ACL-RELCL 13|15|CASE 14|15|DET 15|12|OBL 16|4|PUNCT
+%wor:	and 18537_18697 uh 18877_18997 and 20138_20239 then 20239_20379 they 20419_20519 wove 20539_20759 in 20759_20819 the 20819_20879 picture 20939_21260 mother 21300_21560 the 21600_21660 water 21740_22021 is 22041_22081 overflowing 22141_22761 from 22781_22962 the 22962_23022 sink 23242_23600 .
+*PAR:	she's drying dishes . 24307_25344
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	she's 24307_24423 drying 24483_24804 dishes 24844_25344 .
+*PAR:	she's looking out a window . 25986_27057
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|a-Ind-Art noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	she's 25986_26125 looking 26125_26385 out 26465_26566 a 26606_26626 window 26706_27057 .
+*PAR:	water's on the floor . 28108_29208
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	water's 28108_28408 on 28488_28548 the 28548_28608 floor 28708_29208 .
+*PAR:	(..) she's lookin(g) out the +... 34553_35203
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT 6|3|PUNCT
+%wor:	she's 34553_34733 lookin(g) 34733_35203 out the +...
+*PAR:	well , there's [//] the [/] &+s the [/] &+s the [/] the curtains are pulled aside . 36414_39374
+%mor:	intj|well cm|cm det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|pull-Part-Past-S adv|aside .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	well 36414_36514 , there's 36514_36674 the 36774_36854 the 37095_37235 the 37315_37435 the 37835_37915 curtains 38035_38456 are 38496_38596 pulled 38616_38896 aside 38936_39374 .
+*PAR:	there's dishes on the table . 39737_41575
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|dish-Plur adp|on det|the-Def-Art noun|table .
+%gra:	1|2|EXPL 2|6|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	there's 39737_39897 dishes 39977_40297 on 40397_40478 the 40518_40598 table 41178_41575 .
+*PAR:	(..) and you can see the grass outside in the yard . 46443_48625
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|grass-Acc adv|outside adp|in det|the-Def-Art noun|yard .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	and 46443_46543 you 46543_46623 can 46623_46743 see 46803_46923 the 46963_47023 grass 47103_47443 outside 47544_48084 in 48084_48124 the 48124_48184 yard 48244_48625 .
+*PAR:	dish in her hand . [+ gram] 51063_52044
+%mor:	noun|dish adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|1|PUNCT
+%wor:	dish 51063_51223 in 51263_51344 her 51384_51484 hand 51544_52044 .
+*INV:	(.) okay that's fine . 56364_57084
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay that's 56364_56843 fine 56883_57084 .
+@End

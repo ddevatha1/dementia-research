@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/a-00090680-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|70;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	059-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	the little boy is getting a cookie out o(f) the cookie jar . 170_2910
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|7|DET 7|5|OBJ 8|12|CASE 9|12|CASE 10|12|DET 11|12|COMPOUND 12|5|OBL 13|5|PUNCT
+%wor:	the 170_230 little 310_550 boy 670_950 is 1010_1110 getting 1170_1550 a 1610_1630 cookie 1711_1971 out 2011_2071 o(f) 2071_2151 the 2151_2211 cookie 2291_2691 jar 2711_2910 .
+*PAR:	and the little girl's reaching for a cookie . 2972_4686
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	and 2972_3031 the 3051_3131 little 3192_3412 girl's 3452_3732 reaching 3792_4152 for 4232_4372 a 4392_4412 cookie 4472_4686 .
+*PAR:	and the little boy's (a)bout to fall off the stool . 4753_6994
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|11|ROOT 7|8|MARK 8|6|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|6|PUNCT
+%wor:	and 4753_4873 the 4873_4933 little 5013_5253 boy's 5253_5453 (a)bout 5453_5633 to 5673_5753 fall 5793_6013 off 6113_6213 the 6294_6394 stool 6494_6994 .
+*PAR:	and the lady is drying dishes . 7855_10835
+%mor:	cconj|and det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and 7855_8195 the 8235_8315 lady 8375_8755 is 8835_9175 drying 9976_10316 dishes 10356_10835 .
+*PAR:	and the water is overflowing in the sink . 10937_13858
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 10937_11057 the 11097_11197 water 11437_11897 is 12037_12217 overflowing 12297_12958 in 12998_13078 the 13118_13218 sink 13358_13858 .
+*PAR:	and &-hm I don't really know anything else going on . [+ exc] 14986_20332
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|really verb|know-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|10|ROOT 7|6|OBJ 8|7|AMOD 9|7|ACL 10|9|COMPOUND-PRT 11|6|PUNCT
+%wor:	and 14986_15547 hm 16428_16628 I 16968_16988 don't 17068_18310 really 18310_18450 know 18470_18570 anything 18610_19051 else 19111_19911 going 20012_20332 on .
+*PAR:	and the water's spilling out on to her floor . 22414_24436
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|on adp|to pron|her-Prs-Gen-S3 noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|COMPOUND-PRT 7|5|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|5|PUNCT
+%wor:	and 22414_22494 the 22514_22594 water's 22614_22814 spilling 22875_23155 out 23195_23315 on 23355_23455 to 23515_23635 her 23755_23876 floor 23936_24436 .
+*PAR:	&-hm I don't know if the wind's blowing or not . 25080_27580
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if det|the-Def-Art noun|wind~aux|be-Fin-Ind-Pres-S3 noun|blowing-Ger cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|9|MARK 6|7|DET 7|9|NSUBJ 8|9|COP 9|4|CCOMP 10|11|CC 11|9|CONJ 12|4|PUNCT
+%wor:	hm 25080_25237 I 25317_25337 don't 25597_25878 know 25878_26138 if 26158_26198 the 26258_26338 wind's 26378_26659 blowing 26759_27059 or 27059_27119 not 27179_27580 .
+*PAR:	and it [//] the activity , that's all I see . [+ exc] 29958_31627
+%mor:	cconj|and det|the-Def-Art noun|activity cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|DET 3|7|DISLOCATED 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|9|ROOT 8|9|NSUBJ 9|7|ACL-RELCL 10|7|PUNCT
+%wor:	and 29958_30038 it 30078_30118 the 30138_30198 activity 30198_30680 , that's 30740_30961 all 30981_31101 I 31142_31162 see 31302_31627 .
+*INV:	okay . 31675_31985
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 31675_31985 .
+@End

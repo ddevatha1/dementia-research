@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/a-00090072-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|72;|male|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	676-0, audio
+@G:	Unknown_Immediate
+*PAR:	nothing . [+ exc] 1005808_1005990
+%mor:	pron|nothing-Neg-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	nothing 1005808_1005990 .
+*INV:	do you know who the story was about ? 1008152_1009834
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|COP 8|3|PUNCT 9|3|PUNCT
+%wor:	do 1008152_1008192 you 1008212_1008272 know 1008292_1008412 who 1008452_1008532 the 1008592_1008652 story 1008813_1009113 was 1009173_1009294 about 1009334_1009834 ?
+*PAR:	not necessarily . [+ exc] 1011638_1012338
+%mor:	part|not adv|necessarily .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	not 1011638_1011798 necessarily 1011838_1012338 .
+*PAR:	doesn't mean anything to me . [+ exc] 1013841_1015024
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|mean-Inf-S pron|anything-Ind-S1 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|6|ROOT 4|3|OBJ 5|6|CASE 6|4|NMOD 7|3|PUNCT
+%wor:	doesn't 1013841_1014082 mean 1014082_1014262 anything 1014302_1014623 to 1014663_1014723 me 1014763_1015024 .
+*INV:	0 .
+%exp:	silence .
+*INV:	mkay .
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	no delayed return to this task was found .
+@End

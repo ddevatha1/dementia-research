@@ -1,0 +1,239 @@
+@UTF8
+@PID:	11312/a-00089782-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|15||
+@Media:	563-0, audio
+@G:	animals
+*INV:	xxx I'm going to give one minute and I want you to tell me as many animals you think of in a minute's time . 80_7083
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S num|one noun|minute cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|as adj|many-S1 noun|animal-Plur-Acc pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 adp|of adp|in det|a-Ind-Art noun|minute~part|s noun|time .
+%gra:	1|3|NSUBJ 2|3|AUX 3|25|ROOT 4|5|MARK 5|3|XCOMP 6|7|NUMMOD 7|5|OBL-UNMARKED 8|10|CC 9|10|NSUBJ 10|3|CONJ 11|10|OBJ 12|13|MARK 13|10|XCOMP 14|13|IOBJ 15|16|ADVMOD 16|17|AMOD 17|13|OBJ 18|19|NSUBJ 19|17|ACL-RELCL 20|19|OBL 21|25|CASE 22|23|DET 23|25|NMOD-POSS 24|23|CASE 25|19|OBL 26|3|PUNCT
+%wor:	I'm 80_140 going 140_940 to 960_1040 give 1180_1400 one 1700_1901 minute 2021_2481 and 2681_2781 I 2801_2821 want 2921_3181 you 3181_3241 to 3261_3341 tell 3421_3702 me 3722_3782 as 3842_3942 many 4022_4222 animals 4482_5062 you 5122_5563 think 5603_5823 of 5903_6003 in 6043_6123 a 6163_6183 minute's 6223_6583 time 6583_7083 .
+*INV:	I want you to name as many animals . 7724_9505
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|as adj|many-S1 noun|animal-Plur .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|AMOD 8|5|OBL 9|2|PUNCT
+%wor:	I want 7724_7924 you 7944_8004 to 8044_8104 name 8144_8404 as 8424_8524 many 8564_8785 animals 9025_9505 .
+*PAR:	+< what kind ? [+ exc] 9502_10105
+%mor:	det|what-Def-Int noun|kind ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	what 9502_9545 kind 9605_10105 ?
+*INV:	any kind of animals except for fish and birds . 11187_13867
+%mor:	det|any-Def-Ind noun|kind adp|of noun|animal-Plur adp|except adp|for noun|fish-Plur cconj|and noun|bird-Plur .
+%gra:	1|2|DET 2|9|ROOT 3|4|CASE 4|2|NMOD 5|7|CASE 6|7|CASE 7|4|NMOD 8|9|CC 9|7|CONJ 10|2|PUNCT
+%wor:	any 11187_11326 kind 11406_11626 of 11646_11746 animals 11786_12227 except 12287_12667 for 12747_12887 fish 12947_13187 and 13207_13327 birds 13367_13867 .
+*INV:	no fish , no birds . 14269_15289
+%mor:	det|no-Def-Neg noun|fish-Plur cm|cm det|no-Def-Neg noun|bird-Plur .
+%gra:	1|2|DET 2|5|ROOT 3|5|PUNCT 4|5|DET 5|2|APPOS 6|2|PUNCT
+%wor:	no 14269_14329 fish 14329_14429 , no 14629_14729 birds 14789_15289 .
+*PAR:	+< dogs . [+ exc] 15291_15790
+%mor:	noun|dog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dogs 15291_15790 .
+*PAR:	+< cats . [+ exc] 15912_16411
+%mor:	noun|cat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cats 15912_16411 .
+*INV:	+< yeah that's the stuff . 16772_17214
+%mor:	intj|yeah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|stuff .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	yeah that's 16772_17213 the 17213_17214 stuff .
+*PAR:	+< rats . [+ exc]
+%mor:	noun|rat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	ready ?
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	dogs . 20118_20617
+%mor:	noun|dog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dogs 20118_20617 .
+*PAR:	cats . 21222_21679
+%mor:	noun|cat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cats 21222_21679 .
+*PAR:	&-uh squirrels . 23663_24845
+%mor:	noun|squirrel-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 23663_23963 squirrels 24364_24845 .
+*PAR:	holy cats I know more (th)an that . [+ exc] 27931_30145
+%mor:	adj|holy-S1 noun|cat-Plur-Acc pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adj|more-Cmp-S1 adp|than pron|that-Dem .
+%gra:	1|2|AMOD 2|4|OBJ 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|CASE 7|5|OBL 8|4|PUNCT
+%wor:	holy 27931_28271 cats 28391_28752 I 28892_28912 know 28932_29112 more 29172_29393 (th)an 29393_29713 that 29813_30145 .
+*PAR:	(..) see my mind's a blank . [+ exc] 35264_36622
+%mor:	verb|see-Fin-Imp-S pron|my-Prs-Gen-S1 noun|mind~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|blank .
+%gra:	1|6|ROOT 2|3|NMOD-POSS 3|6|NSUBJ 4|6|COP 5|6|DET 6|1|CCOMP 7|1|PUNCT
+%wor:	see 35264_35461 my 35501_35662 mind's 35722_35982 a 36042_36062 blank 36122_36622 .
+*PAR:	(..) are you timing me too ? [+ exc] 41310_42552
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|timing-Part-Pres-S pron|I-Prs-Acc-S1 adv|too ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	are 41310_41410 you 41430_41530 timing 41590_42051 me 42091_42171 too 42271_42552 ?
+*INV:	for a minute . 43333_43376
+%mor:	adp|for det|a-Ind-Art noun|minute .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	for 43333_43376 a minute .
+*PAR:	oh my god . [+ exc] 44135_44386
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|god .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+%wor:	oh 44135_44174 my 44174_44214 god 44214_44386 .
+*INV:	give you a minute . 44475_45074
+%mor:	verb|give-Fin-Imp-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute-Acc .
+%gra:	1|4|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+%wor:	give you 44475_44514 a 44514_44534 minute 44574_45074 .
+*PAR:	huh . [+ exc]
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	why xxx +/? [+ exc]
+%mor:	adv|why +/?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< animals that you can think of . 49200_49278
+%mor:	noun|animal-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|6|ROOT 2|5|OBJ 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|2|CASE 7|1|PUNCT
+%wor:	animals that you can think of 49200_49278 .
+*INV:	name all the animals you can think of . 51981_52481
+%mor:	verb|name-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|8|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|1|PUNCT
+%wor:	name all the animals you can think of 51981_52481 .
+*PAR:	wild animals too ? 54023_55039
+%mor:	adj|wild-S1 noun|animal-Plur adv|too ?
+%gra:	1|2|AMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	wild 54023_54344 animals 54404_54804 too 54904_55039 ?
+*INV:	uhhuh , sure . 55204_56306
+%mor:	intj|uhhuh cm|cm adj|sure-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	uhhuh 55204_55565 , sure 55825_56306 .
+*PAR:	I can't think of any now &=laughs . 57688_59169
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|any-Def-Ind adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|CASE 6|4|OBL 7|4|ADVMOD 8|4|PUNCT
+%wor:	I 57688_57708 can't 57708_57928 think 57948_58128 of 58188_58288 any 58348_58569 now 58669_59169 .
+*PAR:	(.) and you're timing me too ? [+ exc] 64677_65993
+%mor:	cconj|and pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|timing-Part-Pres-S pron|I-Prs-Acc-S1 adv|too ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	and 64677_64777 you're 64797_64957 timing 64977_65437 me 65498_65578 too 65678_65993 ?
+*INV:	I gave you a minute . 66158_66957
+%mor:	pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBL-UNMARKED 6|2|PUNCT
+%wor:	I gave 66158_66399 you 66399_66499 a 66519_66539 minute 66659_66957 .
+*INV:	xxx name as many +/. 67240_67761
+%mor:	noun|name adp|as adj|many-S1 +/.
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	name 67240_67660 as 67760_67761 many +/.
+*PAR:	honey , is that necessary ? [+ exc] 68301_69262
+%mor:	noun|honey cm|cm aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|necessary-S1 ?
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	honey 68301_68441 , is 68481_68521 that 68521_68722 necessary 68762_69262 ?
+*PAR:	nobody's gonna know <if I don't> [/] &+tr if I cheat . 71327_74010
+%mor:	pron|nobody-Neg-S1~aux|be-Fin-Ind-Pres-S3 part|go verb|know-Inf-S sconj|if pron|I-Prs-Nom-S1 verb|cheat-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|4|PUNCT
+%wor:	nobody's 71327_71687 gonna 71747_71968 know 72048_72228 if 72268_72368 I 72508_72528 don't 72548_72849 if 73129_73249 I 73390_73410 cheat 73510_74010 .
+*INV:	just say as many animals as you can think of . 76275_79298
+%mor:	adv|just verb|say-Fin-Imp-S adv|as adj|many-S1 noun|animal-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|4|ADVMOD 4|5|AMOD 5|2|OBJ 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|2|ADVCL 10|9|OBL 11|2|PUNCT
+%wor:	just 76275_76655 say 76655_76855 as 76875_76955 many 77035_77235 animals 77516_77916 as 77977_78077 you 78157_78237 can 78277_78417 think 78477_78718 of 78798_79298 .
+*PAR:	yeah , but they gotta be the animals that I seen and [/] and played with . [+ exc] 81664_87593
+%mor:	intj|yeah cm|cm cconj|but pron|they-Prs-Nom-P3 aux|getta-Fin-S aux|be-Inf-S det|the-Def-Art noun|animal-Plur pron|that-Rel pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1-irr cconj|and verb|play-Fin-Ind-Past-S3 adp|with .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|CC 4|8|NSUBJ 5|8|AUX 6|8|COP 7|8|DET 8|14|ROOT 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|13|CC 13|11|CONJ 14|13|OBL 15|8|PUNCT
+%wor:	yeah 81664_81804 , but 81844_81944 they 81984_82164 gotta 82244_82525 be 82685_82785 the 82906_83006 animals 83186_83607 that 83707_83867 I 84488_84508 seen 85550_85951 and 86031_86191 and 86351_86492 played 86672_86992 with 87093_87593 .
+*INV:	just any name of any animal .
+%mor:	adv|just det|any-Def-Ind noun|name adp|of det|any-Def-Ind noun|animal .
+%gra:	1|3|ADVMOD 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	rabbit .
+%mor:	noun|rabbit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	right .
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	squirrel .
+%mor:	noun|squirrel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	F
+*INV:	alright , let's try this one . 99233_99815
+%mor:	intj|alright cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|try-Inf-S det|this-Def-Dem-Sing noun|one-Acc .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%wor:	alright 99233_99553 , let's 99713_99815 try this one .
+*INV:	in a minute's time I want you to name as many words as you can think of beginning with the letter f@l . 101055_106874
+%mor:	adp|in det|a-Ind-Art noun|minute~part|s noun|time pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|5|CASE 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|7|OBL 6|7|NSUBJ 7|23|ROOT 8|7|OBJ 9|10|MARK 10|7|XCOMP 11|12|ADVMOD 12|13|AMOD 13|10|OBJ 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|10|ADVCL 18|19|MARK 19|17|ADVCL 20|22|CASE 21|22|DET 22|19|OBL 23|19|OBL-UNMARKED 24|7|PUNCT
+%wor:	in 101055_101115 a 101175_101195 minute's 101255_101595 time 101655_101996 I 102096_102116 want 102156_102316 you 102336_102456 to 102476_102556 name 102616_102857 as 102897_102977 many 103057_103297 words 103518_103898 as 103958_104038 you 104098_104178 can 104218_104339 think 104399_104599 of 104639_104719 beginning 104799_105260 with 105280_105440 the 105500_105580 letter 105660_105960 f 106401_106874 .
+*INV:	the letter f@l . 107522_108391
+%mor:	det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|DET 2|3|ROOT 3|2|NMOD-UNMARKED 4|2|PUNCT
+%wor:	the 107522_107582 letter 107662_107943 f 108363_108391 .
+*PAR:	mhm . [+ exc] 108483_108925
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 108483_108925 .
+*INV:	okay , all the words that start with f@l . 109204_111187
+%mor:	intj|okay cm|cm det|all-Def-Tot det|the-Def-Art noun|word-Plur pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with propn|for .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET-PREDET 4|5|DET 5|9|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBL 9|7|OBL 10|5|PUNCT
+%wor:	okay 109204_109404 , all 109485_109585 the 109585_109665 words 109745_109965 that 109965_110065 start 110145_110426 with 110486_110686 f 110846_111187 .
+*PAR:	(...) family . 117613_118093
+%mor:	noun|family .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	family 117613_118093 .
+*INV:	+< mhm . 118090_118553
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 118090_118553 .
+*PAR:	fight . 120015_120515
+%mor:	verb|fight-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fight 120015_120515 .
+*PAR:	famous . 122258_122758
+%mor:	adj|famous-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	famous 122258_122758 .
+*PAR:	future . 124140_124640
+%mor:	noun|future .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	future 124140_124640 .
+*PAR:	fine . 126663_127163
+%mor:	adj|fine-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fine 126663_127163 .
+*PAR:	&-uh forget . 127472_130187
+%mor:	verb|forget-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 127472_128626 forget 129687_130187 .
+*PAR:	(.) final . 134816_135225
+%mor:	adj|final-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	final 134816_135225 .
+*PAR:	(.) finish . 138381_138860
+%mor:	noun|finish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	finish 138381_138860 .
+*PAR:	(.) &-uh (.) fence . 145891_146372
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh fence 145891_146372 .
+*PAR:	(..) flower . 156199_156659
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flower 156199_156659 .
+*PAR:	(..) father . 163843_164343
+%mor:	noun|father .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	father 163843_164343 .
+*INV:	(.) good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	that's a minute .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*PAR:	boy , I'm famous . [+ exc] 173472_174315
+%mor:	intj|boy cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|famous-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	boy 173472_173553 , I'm 173553_173733 famous 173853_174315 .
+@End

@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/a-00090586-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|female|PossibleAD||Participant|13||
+@Media:	580-0, audio
+@G:	Cookie
+*INV:	nope . 380_680
+%mor:	intj|nope .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	nope 380_680 .
+*INV:	I want you to look at this picture . 900_2641
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+%wor:	I 900_920 want 960_1140 you 1200_1280 to 1300_1380 look 1480_1661 at 1701_1781 this 1841_2021 picture 2141_2641 .
+*INV:	take a look at that picture and tell me everything you see going on there . 3922_7865
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|15|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|12|XCOMP 14|15|CASE 15|13|ADVMOD 16|1|PUNCT
+%wor:	take 3922_4122 a 4142_4162 look 4223_4343 at 4383_4463 that 4503_4663 picture 4743_5103 and 5123_5203 tell 5263_5484 me 5524_5584 everything 5744_6244 you 6304_6424 see 6544_6724 going 6805_7185 on 7245_7365 there 7545_7865 .
+*PAR:	+< &=laughs cookie jar &=laughs . [+ gram]
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*INV:	+< tell me everything that's happening in that picture . 9607_11849
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|9|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+%wor:	tell 9607_9767 me 9787_9847 everything 9907_10267 that's 10287_10467 happening 10527_11028 in 11088_11168 that 11208_11388 picture 11448_11849 .
+*PAR:	well , <the little boy's goin(g) up> [//] the [/] &+l &-uh the little boy went up on the little chair [* s:r] . 12718_17558
+%mor:	intj|well cm|cm det|the-Def-Art adj|little-S1 noun|boy verb|go-Fin-Ind-Past-S3-irr adp|up adp|on det|the-Def-Art adj|little-S1 noun|chair .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|11|ROOT 7|6|COMPOUND-PRT 8|11|CASE 9|11|DET 10|11|AMOD 11|6|OBL 12|6|PUNCT
+%wor:	well 12718_13038 , the 13158_13239 little 13319_13559 boy's 13619_13940 goin(g) 14020_14381 up 14381_14481 the 15002_15503 uh 15503_15623 the 15663_15723 little 15823_16044 boy 16124_16284 went 16344_16504 up 16544_16665 on 16745_16825 the 16845_16905 little 17005_17266 chair 17406_17558 .
+*PAR:	and he's halfway comin(g) down &=laughs like [//] though he's gonna fall down . 18135_21345
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|halfway verb|come-Part-Pres-S adp|down sconj|though pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|down .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|12|ROOT 6|5|COMPOUND-PRT 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|5|ADVCL 12|11|COMPOUND-PRT 13|5|PUNCT
+%wor:	and 18135_18207 he's 18288_18468 halfway 18508_18949 comin(g) 19049_19350 down 19350_19870 like 19931_20191 though 20211_20371 he's 20391_20532 gonna 20572_20772 fall 20812_21053 down 21113_21345 .
+*PAR:	and the little girl , they're trying to reach up that cookie jar . 21754_25421
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|try-Part-Pres-S part|to verb|reach-Inf-S adp|up det|that-Def-Dem-Sing noun|cookie noun|jar-Acc .
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|DISLOCATED 5|4|PUNCT 6|8|NSUBJ 7|8|AUX 8|14|ROOT 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|14|DET 13|14|COMPOUND 14|10|OBJ 15|8|PUNCT
+%wor:	and 21754_21874 the 21914_21974 little 22074_22315 girl 22415_22776 , they're 23257_23617 trying 23657_23958 to 23978_24018 reach 24078_24298 up 24359_24459 that 24539_24659 cookie 24719_25040 jar 25080_25421 .
+*PAR:	&-you_know he's [/] he's the one that's tryin(g) to get the cookie jar . 25653_28123
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|one pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|12|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|12|DET 11|12|COMPOUND 12|9|OBJ 13|4|PUNCT
+%wor:	you_know 25653_25893 he's 26033_26233 he's 26293_26474 the 26514_26574 one 26674_26814 that's 26834_26975 tryin(g) 26975_27255 to 27255_27295 get 27295_27415 the 27475_27535 cookie 27595_27896 jar 27916_28123 .
+*PAR:	and the next thing I guess eventually he'll fall down because <he's only on> [//] he's on two legs only out on the darn thing here &-you_know . 28237_36660
+%mor:	cconj|and det|the-Def-Art adj|next-S1 noun|thing-Ger pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adv|eventually pron|he-Prs-Nom-S3~aux|will-Fin-S verb|fall-Inf-S adp|down sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on num|two noun|leg-Plur adv|only adv|out adp|on det|the-Def-Art adj|darn-S1 noun|thing-Ger adv|here .
+%gra:	1|10|CC 2|4|DET 3|4|AMOD 4|10|OBL-UNMARKED 5|6|NSUBJ 6|4|ACL-RELCL 7|6|ADVMOD 8|10|NSUBJ 9|10|AUX 10|24|ROOT 11|10|COMPOUND-PRT 12|17|MARK 13|17|NSUBJ 14|17|COP 15|17|CASE 16|17|NUMMOD 17|10|ADVCL 18|19|ADVMOD 19|17|ADVMOD 20|23|CASE 21|23|DET 22|23|AMOD 23|19|OBL 24|23|ADVMOD 25|10|PUNCT
+%wor:	and 28237_28337 the 28337_28397 next 28397_28617 thing 28637_28777 I 28917_28937 guess 28977_29198 eventually 29799_30340 he'll 30420_30580 fall 30640_30840 down 30900_31201 because 31261_31782 he's 31842_31982 only 32042_32202 on 32363_32543 he's 32963_33124 on 33204_33304 two 33845_34005 legs 34065_34406 only 34526_34706 out 34806_34926 on 34966_35006 the 35067_35147 darn 35227_35467 thing 35567_35788 here 35848_36108 you_know 36208_36660 .
+*PAR:	and the mother or whatever she i(s) , she's doin(g) the dishes . 37010_40394
+%mor:	cconj|and det|the-Def-Art noun|mother cconj|or pron|whatever-Rel-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 cm|cm pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|11|CC 2|3|DET 3|11|DISLOCATED 4|5|CC 5|3|CONJ 6|7|NSUBJ 7|5|ACL-RELCL 8|3|PUNCT 9|11|NSUBJ 10|11|AUX 11|13|ROOT 12|13|DET 13|11|OBJ 14|11|PUNCT
+%wor:	and 37010_37110 the 37190_37250 mother 37350_37751 or 37911_38011 whatever 38071_38452 she 38552_38672 i(s) 38832_39213 , she's 39213_39393 doin(g) 39473_39734 the 39734_39814 dishes 39894_40394 .
+*PAR:	she's already cleaning the dishes . 41108_42748
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already verb|clean-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	she's 41108_41288 already 41348_41648 cleaning 41728_42128 the 42188_42269 dishes 42349_42748 .
+*PAR:	see , and she's got everything on her own side . 42889_45452
+%mor:	verb|see-Fin-Imp-S cm|cm cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|everything-Tot-S1 adp|on pron|her-Prs-Gen-S3 adj|own-S1 noun|side .
+%gra:	1|11|ROOT 2|6|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|1|CONJ 7|6|OBJ 8|11|CASE 9|11|NMOD-POSS 10|11|AMOD 11|6|OBL 12|1|PUNCT
+%wor:	see 42889_43069 , and 43169_43269 she's 43309_43470 got 43530_43690 everything 43750_44150 on 44450_44530 her 44591_44731 own 44831_44991 side 45111_45452 .
+*PAR:	so , now what else shall I do ? [+ exc] 45972_47238
+%mor:	adv|so cm|cm adv|now pron|what-Int-S1 adv|else aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|do-Inf-S ?
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|8|OBJ 5|4|ADVMOD 6|8|AUX 7|8|NSUBJ 8|8|ROOT 9|8|PUNCT
+%wor:	so 45972_46072 , now 46212_46372 what 46412_46572 else 46612_46772 shall 46792_46953 I 47093_47113 do 47173_47238 ?
+*INV:	that's all . 47393_47878
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 47393_47713 all 47813_47878 .
+*INV:	that's good . 48014_48600
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 48014_48254 good 48334_48600 .
+*INV:	very good . 49095_49175
+%mor:	adv|very adj|good-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	very good 49095_49175 .
+@End

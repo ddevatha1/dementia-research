@@ -1,0 +1,145 @@
+@UTF8
+@PID:	11312/a-00090526-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|80;|female|ProbableAD||Participant|19||
+@Media:	350-0, audio
+@G:	Cookie
+*INV:	what do you see going on (.) in that picture ? 180_1822
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+%wor:	what 180_260 do 260_300 you 300_360 see 460_620 going 660_1501 on 1561_1601 in 1781_1822 that picture ?
+*PAR:	girl washin(g) dishes . [+ gram] 2358_3348
+%mor:	noun|girl noun|washing-Ger noun|dish-Plur .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	girl 2358_2562 washin(g) 2623_3043 dishes 3043_3348 .
+*PAR:	I see that . [+ exc] 3524_4300
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I 3524_3544 see 3604_3784 that 3844_4300 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh what [//] the boy's putting up the cookie jar or getting cookies out of the cookie jar . 7368_12455
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S adp|up det|the-Def-Art noun|cookie noun|jar-Acc cconj|or verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|4|COMPOUND-PRT 6|8|DET 7|8|COMPOUND 8|4|OBJ 9|10|CC 10|4|CONJ 11|10|OBJ 12|16|CASE 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|4|PUNCT
+%wor:	uh 7368_7649 what 7689_7869 the 7889_7989 boy's 8089_8470 putting 8810_9110 up 9170_9251 the 9311_9391 cookie 9451_9771 jar 9871_10112 or 10112_10152 getting 10272_10512 cookies 10772_11133 out 11213_11373 of 11393_11453 the 11493_11553 cookie 11613_11934 jar 12034_12455 .
+*PAR:	and his little sister is begging him +"/. 13333_15033
+%mor:	cconj|and pron|his-Prs-Gen-S3 adj|little-S1 noun|sister aux|be-Fin-Ind-Pres-S3 verb|begg-Part-Pres-S pron|he-Prs-Acc-S3 +"/.
+%gra:	1|6|CC 2|4|NMOD-POSS 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	and 13333_13433 his 13453_13593 little 13653_13873 sister 13953_14313 is 14373_14473 begging 14593_14994 him 15014_15033 +"/.
+*PAR:	+" oh hurry up . 15350_16070
+%mor:	intj|oh verb|hurry-Fin-Imp-S adp|up .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%wor:	oh 15350_15354 hurry 15434_15734 up 15894_16070 .
+*PAR:	+" come on . 16209_16809
+%mor:	verb|come-Fin-Imp-S adp|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	come 16209_16314 on 16354_16809 .
+*PAR:	and he's got the foot stool . 18336_19876
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|foot noun|stool-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+%wor:	and 18336_18416 he's 18436_18576 got 18636_18816 the 18876_18956 foot 19076_19276 stool 19376_19876 .
+*PAR:	and his [//] her (..) big sister is washing the dishes . 20837_24660
+%mor:	cconj|and pron|her-Prs-Gen-S3 adj|big-S1 noun|sister aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|CC 2|4|NMOD-POSS 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	and 20837_20977 his 21057_21337 her 22538_22658 big 22738_22898 sister 23018_23419 is 23519_23619 washing 23719_24139 the 24159_24239 dishes 24319_24660 .
+*PAR:	that's the big sister or the mama <I don't know which that is> [//] is drying the dishes , putting them away . 24770_32781
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-S1 noun|sister cconj|or det|the-Def-Art noun|mama aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cm|cm verb|put-Part-Pres-S pron|they-Prs-Acc-P3 adv|away .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|16|ROOT 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|12|DET 12|10|OBJ 13|14|PUNCT 14|10|ADVCL 15|14|OBJ 16|14|ADVMOD 17|5|PUNCT
+%wor:	that's 24770_25210 the 25591_25671 big 25771_25931 sister 26011_26372 or 26392_26432 the 26432_26512 mama 26612_26853 I 26973_26993 don't 27013_27173 know 27173_27293 which 27333_27534 that 27614_27834 is 27934_28155 is 29697_29797 drying 29877_30298 the 30338_30418 dishes 30518_31039 , putting 31780_32081 them 32081_32221 away 32281_32781 .
+*PAR:	she's got the spigot on and the water's running . 33303_35868
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|spigot-Acc adp|on cconj|and det|the-Def-Art noun|water~part|s noun|running-Ger .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|11|CC 8|9|DET 9|11|NMOD-POSS 10|9|CASE 11|3|CONJ 12|3|PUNCT
+%wor:	she's 33303_33483 got 33543_33703 the 33743_33803 spigot 33903_34324 on 34424_34604 and 34685_34765 the 34785_34865 water's 34925_35386 running 35506_35868 .
+*PAR:	and there's her (.) cup . 37409_39232
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|cup .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|NMOD-POSS 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 37409_37569 there's 37629_37990 her 38070_38270 cup 39031_39232 .
+*PAR:	she hasn't them put up yet . 39401_41211
+%mor:	pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3~part|not pron|they-Prs-Acc-P3 verb|put-Part-Past-S-irr adp|up adv|yet .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|7|ROOT 6|5|COMPOUND-PRT 7|5|ADVMOD 8|5|PUNCT
+%wor:	she 39401_39501 hasn't 39561_40022 them 40082_40242 put 40262_40442 up 40482_40603 yet 40783_41211 .
+*PAR:	and he's up on the foot stoo(l) . 42085_43787
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|the-Def-Art noun|foot noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	and 42085_42205 he's 42225_42466 up 42526_42646 on 42706_42806 the 42846_42906 foot 42967_43187 stoo(l) 43287_43787 .
+*PAR:	and he's got the cookie jars . 44710_46251
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|cookie noun|jar-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+%wor:	and 44710_44810 he's 44830_44970 got 45050_45210 the 45270_45331 cookie 45391_45711 jars 45751_46251 .
+*INV:	okay what else is going on over here ? 46873_48429
+%mor:	intj|okay pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|2|ADVMOD 4|5|AUX 5|8|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|5|PUNCT
+%wor:	okay 46873_46993 what 47053_47174 else 47234_47434 is 47434_47514 going 47554_47755 on 47795_47875 over 47895_48115 here 48175_48429 ?
+*PAR:	he's gettin(g) the cookie jars . 49718_51238
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+%wor:	he's 49718_49898 gettin(g) 49958_50239 the 50239_50319 cookie 50319_50740 jars 50760_51238 .
+*INV:	uhuh , anything else going on ? 51661_52964
+%mor:	intj|uhuh cm|cm pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|3|AMOD 5|3|ACL 6|5|COMPOUND-PRT 7|3|PUNCT
+%wor:	uhuh 51661_51781 , anything 51781_52182 else 52242_52423 going 52463_52683 on 52743_52964 ?
+*PAR:	she's beggin(g) him for some . 53573_54943
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|begg-Part-Pres-S pron|he-Prs-Acc-S3 adp|for det|some-Def-Ind .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	she's 53573_53773 beggin(g) 53873_54333 him 54333_54393 for 54393_54493 some 54613_54943 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	beggin(g) him for some cookies . [+ gram] 56495_57437
+%mor:	verb|begg-Part-Pres-S pron|he-Prs-Acc-S3 adp|for det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%wor:	beggin(g) 56495_56835 him 56835_56895 for 56895_56996 some 57056_57216 cookies 57296_57437 .
+*INV:	+< what about over here ? 57476_57980
+%mor:	pron|what-Int-S1 adp|about adp|over adv|here ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|CASE 4|1|NMOD 5|1|PUNCT
+%wor:	what 57476_57556 about 57556_57676 over 57676_57756 here 57756_57980 ?
+*INV:	what else is going on over there ? 58137_59310
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|there ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|4|PUNCT
+%wor:	what 58137_58337 else 58337_58457 is 58457_58557 going 58597_58837 on 58877_58977 over 58977_59077 there 59077_59310 ?
+*PAR:	+< <she's washing the dishes> [//] &-uh she's drying the dishes . 59178_62150
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 59178_59418 washing 59478_59898 the 59918_59998 dishes 60078_60519 uh 60819_60919 she's 60979_61199 drying 61259_61640 the 61680_61760 dishes 61860_62150 .
+*PAR:	and she's got the water on in the sink . 62303_64333
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|water-Acc adp|on adp|in det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	and 62303_62400 she's 62420_62600 got 62661_62841 the 62921_63001 water 63061_63421 on 63521_63661 in 63721_63802 the 63842_63902 sink 64062_64333 .
+*INV:	uhhuh . 64852_64902
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 64852_64902 .
+*PAR:	+< and there's her cup sitting down there +/. 65083_67185
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|cup verb|sit-Part-S adp|down adv|there +/.
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|5|NMOD-POSS 5|3|NSUBJ 6|5|ACL 7|6|COMPOUND-PRT 8|6|ADVMOD 9|3|PUNCT
+%wor:	and 65083_65203 there's 65243_65483 her 65523_65643 cup 65723_65923 sitting 66064_66404 down 66524_66824 there 66884_67185 +/.
+*INV:	okay , anything else ? 68147_68927
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	okay 68147_68227 , anything 68227_68427 else 68427_68927 ?
+*PAR:	+, to be washed . 68887_69180
+%mor:	part|to aux|be-Inf-S verb|wash-Part-Past-S .
+%gra:	1|3|MARK 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+%wor:	to be washed 68887_69180 .
+*PAR:	no she has an apron on (..) and her shoes . 70309_75373
+%mor:	intj|no pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on cconj|and pron|her-Prs-Gen-S3 noun|shoe-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|9|CC 8|9|NMOD-POSS 9|6|CONJ 10|3|PUNCT
+%wor:	no 70309_70389 she 70509_70609 has 70689_70889 an 70949_71029 apron 71109_71470 on 71550_71830 and 74493_74593 her 74613_74733 shoes 74873_75373 .
+*PAR:	and the drapes are pulled back in one of the rooms . 77977_81879
+%mor:	cconj|and det|the-Def-Art noun|drape-Plur aux|be-Fin-Ind-Pres-P3 verb|pull-Part-Past-S adv|back adp|in num|one adp|of det|the-Def-Art noun|room-Plur .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|11|ROOT 6|5|ADVMOD 7|8|CASE 8|5|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|5|PUNCT
+%wor:	and 77977_78116 the 78296_79517 drapes 79517_79838 are 79878_79978 pulled 80018_80338 back 80378_80678 in 80758_80859 one 80979_81079 of 81119_81159 the 81179_81259 rooms 81379_81879 .
+*PAR:	see ? [+ exc] 83098_83418
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	see 83098_83418 ?
+*INV:	okay [/] okay . 83683_85147
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 83683_84406 okay 84647_85147 .
+@End

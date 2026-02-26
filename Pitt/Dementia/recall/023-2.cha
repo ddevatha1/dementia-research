@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00089837-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|80;|male|ProbableAD||Participant|||
+@Media:	023-2, audio
+@G:	George_Immediate
+*INV:	can you tell me anything at all from that story ? 722500_724671
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 adp|at det|all-Def-Tot adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|IOBJ 5|3|OBJ 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%wor:	can 722500_722740 you 722740_722820 tell 722880_723060 me 723100_723160 anything 723240_723620 at 723640_723700 all 723740_723860 from 723900_724061 that 724081_724241 story 724341_724671 ?
+*INV:	can you think of anything that I just told you about that story ? 730305_733087
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|anything-Ind-S1 pron|that-Rel pron|I-Prs-Nom-S1 adv|just verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|5|CASE 5|3|OBL 6|9|OBJ 7|9|NSUBJ 8|9|ADVMOD 9|5|ACL-RELCL 10|9|IOBJ 11|13|CASE 12|13|DET 13|9|OBL 14|3|PUNCT
+%wor:	can 730305_730405 you 730445_730505 think 730545_730685 of 730725_730785 anything 730865_731265 that 731285_731405 I 731485_731505 just 731545_731706 told 731766_732006 you 732026_732106 about 732146_732386 that 732426_732606 story 732706_733087 ?
+*INV:	anything ? 741864_742324
+%mor:	pron|anything-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	anything 741864_742324 ?
+*PAR:	well , it wouldn't bring too much xxx . [+ exc] 746708_750031
+%mor:	intj|well cm|cm pron|it-Prs-Nom-S3 aux|would-Fin-S~part|not verb|bring-Inf-S adv|too adj|much-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|ADVMOD 8|6|ADVMOD 9|6|PUNCT
+%wor:	well 746708_746948 , it 748690_748770 wouldn't 748790_749010 bring 749030_749271 too 749331_749471 much 749531_750031 .
+*INV:	it would ?
+%mor:	pron|it-Prs-Nom-S3 aux|would-Fin-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*PAR:	it wouldn't . [+ exc]
+%mor:	pron|it-Prs-Nom-S3 aux|would-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*INV:	can you tell me anything about that story ? 753795_755577
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|IOBJ 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+%wor:	can you 753795_753875 tell 753935_754115 me 754135_754195 anything 754255_754616 about 754636_754896 that 754936_755096 story 755176_755577 ?
+*INV:	anything at all . 756279_756982
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	anything 756279_756639 at 756659_756739 all 756799_756982 .
+*INV:	okay . 766874_767275
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 766874_767275 .
+@End

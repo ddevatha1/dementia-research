@@ -1,0 +1,177 @@
+@UTF8
+@PID:	11312/a-00089740-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|19||
+@Media:	346-0, audio
+*INV:	www .
+%exp:	previous task
+@G:	animals
+*INV:	xxx in one minute you can start now . 6645_8567
+%mor:	adp|in num|one noun|minute pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|CASE 2|3|NUMMOD 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	in 6645_6785 one 6905_7125 minute 7125_8366 you 8366_8426 can 8426_8486 start 8486_8567 now .
+*PAR:	everything but fish and birds ? [+ exc] 8732_10788
+%mor:	pron|everything-Tot-S1 cconj|but noun|fish-Plur cconj|and noun|bird-Plur ?
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	everything 8732_9067 but 9127_9247 fish 9327_9607 and 9627_9787 birds 10288_10788 ?
+*PAR:	cat . 12211_12671
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 12211_12671 .
+*PAR:	dog . 12671_13130
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 12671_13130 .
+*PAR:	elephant . 14914_15394
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 14914_15394 .
+*PAR:	squirrel . 15975_16475
+%mor:	noun|squirrel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	squirrel 15975_16475 .
+*PAR:	&-hm (.) birds . 18999_22242
+%mor:	noun|bird-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hm 18999_19019 birds 21742_22242 .
+*PAR:	rabbits . 25048_25527
+%mor:	noun|rabbit-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rabbits 25048_25527 .
+*PAR:	lions . 27271_27770
+%mor:	noun|lion-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lions 27271_27770 .
+*PAR:	tigers . 28152_28651
+%mor:	noun|tiger-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tigers 28152_28651 .
+*PAR:	elephants . 30094_30554
+%mor:	noun|elephant-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephants 30094_30554 .
+*PAR:	&-hm snakes . 33519_35240
+%mor:	noun|snake-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hm 33519_33658 snakes 34740_35240 .
+*PAR:	rats . 36443_36942
+%mor:	noun|rat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rats 36443_36942 .
+*PAR:	(..) &=laughs I think it's enough animals . [+ exc] 50156_51256
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|enough-S1 noun|animal-Plur .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|2|CCOMP 7|2|PUNCT
+%wor:	I 50156_50176 think 50176_50316 it's 50356_50476 enough 50496_50716 animals 50756_51256 .
+*INV:	any more +//? 51275_51477
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 +//?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any more 51275_51477 +//?
+*INV:	you got about fifteen seconds . 53140_53239
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr adv|about num|fifteen noun|second-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|ADVMOD 4|5|NUMMOD 5|2|OBJ 6|2|PUNCT
+%wor:	you got about fifteen seconds 53140_53239 .
+*PAR:	oh ! [+ exc]
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) birds . 56505_56985
+%mor:	noun|bird-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	birds 56505_56985 .
+*PAR:	(.) snakes . 60232_60731
+%mor:	noun|snake-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snakes 60232_60731 .
+*PAR:	squirrels . 62174_62655
+%mor:	noun|squirrel-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	squirrels 62174_62655 .
+*PAR:	(.) cows . 65620_66080
+%mor:	noun|cow-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cows 65620_66080 .
+*PAR:	horses . 66302_66720
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horses 66302_66720 .
+*PAR:	(.) sheep . 68344_68699
+%mor:	noun|sheep-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sheep 68344_68699 .
+*INV:	okay , good . 69045_69724
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 69045_69124 , good 69224_69724 .
+*PAR:	dogs . 70240_70605
+%mor:	noun|dog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dogs 70240_70605 .
+*INV:	+< that's good . 71106_71607
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 71106_71506 good 71506_71607 .
+*PAR:	+< cats .
+%mor:	noun|cat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	F
+*INV:	start with the letter f@l and you can start now . 72268_74649
+%mor:	verb|start-Fin-Imp-S adp|with det|the-Def-Art noun|letter noun|f cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|10|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|OBL-UNMARKED 6|9|CC 7|9|NSUBJ 8|9|AUX 9|1|CONJ 10|9|ADVMOD 11|1|PUNCT
+%wor:	start 72268_72387 with 72387_72487 the 72487_72568 letter 72628_72868 f 73148_73168 and 73408_73469 you 73489_73549 can 73589_73709 start 73789_74029 now 74149_74649 .
+*PAR:	flying . 75732_76231
+%mor:	verb|fly-Part-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flying 75732_76231 .
+*PAR:	flowers . 76486_76892
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flowers 76486_76892 .
+*PAR:	flies . 77529_77713
+%mor:	verb|fly-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flies 77529_77713 .
+*PAR:	fleas . 79056_79555
+%mor:	noun|flea-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fleas 79056_79555 .
+*PAR:	ugh xxx . [+ exc] 81119_81578
+%mor:	intj|ugh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ugh 81119_81578 .
+*PAR:	(.) oh boy ! [+ exc]
+%mor:	intj|oh intj|boy !
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	(.) float . 95667_96147
+%mor:	verb|float-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	float 95667_96147 .
+*PAR:	(..) &-um I give up . [+ exc] 105814_106534
+%mor:	pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 adp|up .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%wor:	um I 105814_105834 give 105874_106034 up 106034_106534 .
+*INV:	you got about thirty seconds . 106695_107195
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr adv|about num|thirty noun|second-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|ADVMOD 4|5|NUMMOD 5|2|OBJ 6|2|PUNCT
+%wor:	you got about thirty seconds 106695_107195 .
+*INV:	can you think of any words that begin with the letter f@l ? 108516_110740
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|NSUBJ 8|6|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|8|OBL-UNMARKED 13|3|PUNCT
+%wor:	can 108516_108616 you 108616_108696 think 108716_108856 of 108856_108896 any 108916_109037 words 109037_109297 that 109297_109378 begin 109398_109658 with 109658_109738 the 109738_109819 letter 109839_110079 f 110240_110740 ?
+*PAR:	fire . 111806_112304
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fire 111806_112304 .
+*PAR:	flowers . 114151_114649
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flowers 114151_114649 .
+*PAR:	(...) floor . 127231_127711
+%mor:	noun|floor .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	floor 127231_127711 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

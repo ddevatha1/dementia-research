@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00090323-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|53;|male|ProbableAD||Participant|23||
+@Media:	005-0, audio
+@G:	Cookie
+*INV:	this is the picture .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*INV:	just tell me what's happening in the picture .
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|2|IOBJ 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+*PAR:	the boy is slipping off the stool .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|slip-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	he's trying to steal cookie . 11731_13213
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|steal-Inf-S noun|cookie-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%wor:	he's 11731_11931 trying 12011_12292 to 12292_12352 steal 12432_12652 cookie 12732_13213 .
+*PAR:	the mother is &-uh working at the sink with the water running over . 16196_19376
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|work-Part-Pres-S adp|at det|the-Def-Art noun|sink adp|with det|the-Def-Art noun|water verb|run-Ger-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|10|ACL 12|11|ADVMOD 13|4|PUNCT
+%wor:	the 16196_16276 mother 16436_16716 is 16816_16916 uh 17116_17256 working 17357_17697 at 17737_17797 the 17837_17897 sink 17977_18237 with 18277_18377 the 18377_18437 water 18478_18698 running 18738_18978 over 19038_19376 .
+*PAR:	she's [//] &-uh the little girl is &-uh saying +"/. 22459_23022
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S +"/.
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	she's uh the little 22459_22641 girl 22641_22721 is 22721_22761 uh 22761_22801 saying 22801_23022 +"/.
+*PAR:	+" shh .
+%mor:	intj|shh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh the mother don't hear . 33508_35328
+%mor:	det|the-Def-Art noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|hear-Inf-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	uh 33508_33548 the 33548_34448 mother 34448_34688 don't 34728_34928 hear 34948_35328 .
+*PAR:	did I tell [//] say the sink was running over ? 41852_43579
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|the-Def-Art noun|sink aux|be-Fin-Ind-Past-S3-irr verb|run-Part-Pres-S adv|over ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|ADVMOD 9|3|PUNCT
+%wor:	did 41852_41951 I 42071_42091 tell 42111_42271 say 42331_42471 the 42491_42552 sink 42612_42772 was 42792_42892 running 42932_43152 over 43192_43579 ?
+*INV:	okay mhm you did . 43985_47073
+%mor:	intj|okay intj|mhm pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	okay 43985_45973 mhm 46333_46473 you 46493_46553 did 46573_47073 .
+*PAR:	mother's drying the dishes . 49336_50356
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 49336_49596 drying 49636_49796 the 49796_49856 dishes 49856_50356 .
+*PAR:	(...) I don't see anything else . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+*INV:	okay that's fine . 80963_82373
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 80963_81104 that's 81144_81889 fine 81889_82373 .
+@End

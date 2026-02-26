@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/a-00090705-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	096-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	what do I see going on ? [+ exc] 510_1620
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|see-Inf-S verb|go-Ger-S adp|on ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|4|PUNCT
+%wor:	what 510_590 do 590_630 I 770_790 see 890_1050 going 1130_1371 on 1531_1620 ?
+*PAR:	just [/] just start to describe it ? [+ exc] 1811_3665
+%mor:	adv|just verb|start-Fin-Imp-S part|to verb|describe-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%wor:	just 1811_2072 just 2072_2312 start 2532_2793 to 2873_2933 describe 3013_3554 it 3574_3665 ?
+*INV:	right . 3772_3912
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 3772_3912 .
+*PAR:	the girl wants a cookie . 4485_7255
+%mor:	det|the-Def-Art noun|girl verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	the 4485_4555 girl 4636_4956 wants 6378_6639 a 6679_6699 cookie 6799_7255 .
+*PAR:	and the boy's &+k tryin(g) to get a cookie out of the cookie jar . 7380_10544
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|14|CASE 11|14|CASE 12|14|DET 13|14|COMPOUND 14|7|OBL 15|5|PUNCT
+%wor:	and 7380_7520 the 7620_7700 boy's 7981_8321 tryin(g) 8521_8822 to 8822_8862 get 8962_9102 a 9162_9182 cookie 9262_9543 out 9623_9703 of 9703_9743 the 9743_9823 cookie 9883_10304 jar 10304_10544 .
+*PAR:	and the stool's fallin(g) over . 10665_12007
+%mor:	cconj|and det|the-Def-Art noun|stool~part|s verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 10665_10785 the 10785_10885 stool's 10885_11566 fallin(g) 11566_11866 over 11866_12007 .
+*PAR:	and the water &+s spigot's turned on . 14161_17521
+%mor:	cconj|and det|the-Def-Art noun|water noun|spigot~part|s verb|turn-Fin-Ind-Past-S3 adp|on .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|4|CASE 6|7|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+%wor:	and 14161_14501 the 14561_14681 water 15161_15542 spigot's 16542_16983 turned 17043_17323 on 17383_17521 .
+*PAR:	the water's overflowin(g) . 17583_18704
+%mor:	det|the-Def-Art noun|water~part|s noun|overflow-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 17583_17663 water's 17723_18104 overflowin(g) 18204_18704 .
+*PAR:	and the mother's doin(g) the dishes . 18996_20956
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 18996_19125 the 19185_19285 mother's 19505_19945 doin(g) 20025_20325 the 20325_20426 dishes 20506_20956 .
+*PAR:	and &-uh the windows open . 21066_24189
+%mor:	cconj|and det|the-Def-Art noun|window-Plur verb|open-Fin-Ind-Pres-P3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and 21066_21186 uh 22207_22327 the 23108_23208 windows 23268_23688 open 23808_24189 .
+*PAR:	and &-uh (.) it's spring outside somethin(g)'s growing . 24353_31236
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|spring-Ger adp|outside pron|something-Ind-S1~aux|be-Fin-Ind-Pres-S3 verb|grow-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|6|CASE 6|4|NMOD 7|8|AUX 8|4|ACL-RELCL 9|4|PUNCT
+%wor:	and 24353_24513 uh 24533_24573 it's 24593_29075 spring 29095_29415 outside 29515_30235 somethin(g)'s 30275_30736 growing 30736_31236 .
+*PAR:	the window's open . 32353_33517
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 32353_32417 window's 32477_32917 open 33017_33517 .
+*PAR:	anything else ? [+ exc] 36839_37380
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 36839_37219 else 37339_37380 ?
+*PAR:	she's drying the dishes . 37570_38400
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 37570_37759 drying 37779_38099 the 38139_38219 dishes 38239_38400 .
+*PAR:	has a dress on . [+ gram] 38654_39324
+%mor:	verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dress-Acc adp|on .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%wor:	has 38654_38754 a 38814_38834 dress 38914_39194 on 39315_39324 .
+*PAR:	her feet's [* m:a] in the water . [+ gram] 39455_40656
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|water .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	her 39455_39575 feet's 39615_39876 in 39936_39996 the 40016_40096 water 40156_40656 .
+*PAR:	(.) the lid's off the cookie jar . 42760_44198
+%mor:	det|the-Def-Art noun|lid~aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 42760_42840 lid's 42921_43141 off 43221_43361 the 43401_43461 cookie 43542_43882 jar 43882_44198 .
+*PAR:	and the kid has <a hand on> [//] <one hand> [//] in the right hand has gettin(g) a cookie and the left hand has one in . 44243_49662
+%mor:	cconj|and det|the-Def-Art noun|kid aux|have-Fin-Ind-Pres-S3 adp|in det|the-Def-Art adj|right-S1 noun|hand aux|have-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc cconj|and det|the-Def-Art adj|left-S1 noun|hand verb|have-Fin-Ind-Pres-S3 num|one adp|in .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|10|AUX 5|8|CASE 6|8|DET 7|8|AMOD 8|10|OBL 9|10|AUX 10|19|ROOT 11|12|DET 12|10|OBJ 13|17|CC 14|16|DET 15|16|AMOD 16|17|NSUBJ 17|10|CONJ 18|17|OBJ 19|17|ADVMOD 20|10|PUNCT
+%wor:	and 44243_44303 the 44303_44363 kid 44443_44603 has 44663_44804 a 44924_44944 hand 45004_45224 on 45264_45405 one 45605_45725 hand 46166_46426 in 46486_46547 the 46767_46827 right 46927_47168 hand 47188_47388 has 47428_47588 gettin(g) 47668_48029 a 48029_48049 cookie 48049_48370 and 48390_48470 the 48490_48550 left 48610_48810 hand 48870_49051 has 49091_49271 one 49391_49511 in 49572_49662 .
+*PAR:	he's givin(g) [//] gonna give it to the sister . 49712_52258
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|give-Inf-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|sister .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	he's 49712_49852 givin(g) 49912_50152 gonna 50152_50373 give 50413_50573 it 50573_50633 to 50673_50773 the 50814_50914 sister 52056_52258 .
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+@End

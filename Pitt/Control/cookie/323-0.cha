@@ -1,0 +1,109 @@
+@UTF8
+@PID:	11312/a-00090859-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|57;|female|Control||Participant|30||
+@Media:	323-0, audio
+@G:	Cookie
+*INV:	good and there's the picture .
+%mor:	adj|good-S1 cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|6|ROOT 2|4|CC 3|4|EXPL 4|1|CONJ 5|6|DET 6|4|NSUBJ 7|1|PUNCT
+*PAR:	(..) first of all the sink is overflowing . 7574_9035
+%mor:	adj|first-S1 adp|of det|all-Def-Tot det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|7|NSUBJ 2|3|CASE 3|5|DET-PREDET 4|5|DET 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	first 7574_7734 of 7734_7774 all 7794_7894 the 7894_7994 sink 8075_8335 is 8355_8455 overflowing 8535_9035 .
+*PAR:	(.) mother is washing dishes or an adult is washing dishes . 12516_16506
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|or det|a-Ind-Art noun|adult aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|3|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|9|AUX 9|10|AMOD 10|3|OBJ 11|3|PUNCT
+%wor:	mother 12516_12816 is 13097_13277 washing 13437_13918 dishes 13978_14419 or 14479_14579 an 14659_14739 adult 14799_15200 is 15420_15500 washing 15581_15981 dishes 16021_16506 .
+*PAR:	there are two children in the cookie jar . 16961_19681
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|child-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|2|PUNCT
+%wor:	there 16961_17083 are 17083_17143 two 17283_17484 children 17584_18105 in 18605_18665 the 18686_18746 cookie 18846_19206 jar 19246_19681 .
+*PAR:	one of (th)em is on a stool . 20229_21389
+%mor:	num|one adp|of pron|they-Prs-Acc-P3 aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool .
+%gra:	1|7|NSUBJ 2|3|CASE 3|1|NMOD 4|7|COP 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+%wor:	one 20229_20348 of 20348_20388 (th)em 20388_20508 is 20508_20549 on 20609_20709 a 20769_20789 stool 20889_21389 .
+*PAR:	and the stool's overturning . 21872_23033
+%mor:	cconj|and det|the-Def-Art noun|stool~part|s noun|overturning-Ger .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and 21872_21971 the 21971_22031 stool's 22091_22452 overturning 22552_23033 .
+*PAR:	the little girl is reaching for a cookie from the little boy as the &+s &+s stool turn [//] falls over . 24629_32339
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie adp|from det|the-Def-Art adj|little-S1 noun|boy sconj|as det|the-Def-Art noun|stool verb|fall-Fin-Ind-Pres-S3 adv|over .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|NMOD 13|16|MARK 14|15|DET 15|16|NSUBJ 16|5|ADVCL 17|16|ADVMOD 18|5|PUNCT
+%wor:	the 24629_24709 little 24749_24949 girl 25029_25290 is 25390_25490 reaching 25570_25991 for 26111_26291 a 26351_26371 cookie 26452_26832 from 26892_27073 the 27133_27213 little 27253_27453 boy 27493_27914 as 28134_28255 the 28315_28415 stool 29577_29917 turn 31079_31420 falls 31680_31981 over 32061_32339 .
+*PAR:	there's a window . 33205_34144
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 33205_33483 a 33523_33543 window 33644_34144 .
+*PAR:	a::nd the bushes and path outside the window . [+ gram] 35864_39906
+%mor:	cconj|and det|the-Def-Art noun|bush-Plur cconj|and noun|path adp|outside det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|DET 3|8|ROOT 4|5|CC 5|3|CONJ 6|8|CASE 7|8|DET 8|3|NMOD 9|3|PUNCT
+%wor:	and 35864_36884 the 36884_36944 bushes 36984_37525 and 37745_37845 path 37965_38325 outside 38806_39246 the 39266_39326 window 39406_39906 .
+*PAR:	and a glimpse of another window . [+ gram] 40627_42228
+%mor:	cconj|and det|a-Ind-Art noun|glimpse adp|of det|another-Def-Ind noun|window .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	and 40627_40707 a 40747_40767 glimpse 40827_41167 of 41207_41267 another 41327_41648 window 41728_42228 .
+*PAR:	and another part of the house . [+ gram] 44070_45460
+%mor:	cconj|and det|another-Def-Ind noun|part adp|of det|the-Def-Art noun|house .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	and 44070_44190 another 44230_44510 part 44570_44750 of 44790_44850 the 44870_44950 house 45030_45460 .
+*PAR:	there are curtains with tie-backs . 45611_46765
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|with noun|tieback-Plur .
+%gra:	1|2|EXPL 2|5|ROOT 3|2|NSUBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+%wor:	there 45611_45791 are 45791_45891 curtains 45911_46491 with 46571_46765 tiebacks .
+*PAR:	there are dishes . 47473_48312
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|dish-Plur .
+%gra:	1|2|EXPL 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	there 47473_47672 are 47672_47772 dishes 47812_48312 .
+*PAR:	(.) <there is dish towels> [//] (.) there are dish towels . 50428_53618
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|dish noun|towel-Plur .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|COMPOUND 4|2|NSUBJ 5|2|PUNCT
+%wor:	there 50428_50668 is 50668_50768 dish 50888_51088 towels 51148_51769 there 52589_52749 are 52869_52990 dish 53030_53250 towels 53290_53618 .
+*PAR:	&-um (.) well maybe there are [* m:a] only one . [+ gram] 55303_60333
+%mor:	intj|well adv|maybe pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adv|only num|one .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|EXPL 4|6|ROOT 5|6|ADVMOD 6|4|NSUBJ 7|4|PUNCT
+%wor:	um 55303_55311 well 55311_58834 maybe 59275_59515 there 59575_59775 are 59795_59915 only 59915_60195 one 60255_60333 .
+*PAR:	there's at least only one dish towel . 60396_61988
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adp|at adj|least-Sup-S1 adv|only num|one noun|dish noun|towel .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|CASE 4|6|NMOD 5|6|ADVMOD 6|8|NUMMOD 7|8|COMPOUND 8|2|NSUBJ 9|2|PUNCT
+%wor:	there's 60396_60676 at 60716_60756 least 60796_60996 only 61036_61396 one 61436_61556 dish 61576_61797 towel 61837_61988 .
+*PAR:	<I thought I> [//] &+s I looked at one dish towel . [+ exc] 62057_64119
+%mor:	pron|I-Prs-Nom-S1 verb|look-Fin-Ind-Past-S1 adp|at num|one noun|dish noun|towel .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|NUMMOD 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+%wor:	I 62057_62077 thought 62137_62337 I 62337_62357 I 62517_62537 looked 62617_63198 at 63258_63338 one 63378_63538 dish 63578_63778 towel 63838_64119 .
+*PAR:	two cups a plate cabinets . [+ gram] 65595_68278
+%mor:	num|two noun|cup-Plur det|a-Ind-Art noun|plate noun|cabinet-Plur .
+%gra:	1|2|NUMMOD 2|5|NMOD-UNMARKED 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	two 65595_65755 cups 65795_66195 a 66656_66676 plate 66796_67177 cabinets 67778_68278 .
+*PAR:	(.) apron . [+ gram] 72204_72612
+%mor:	noun|apron .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apron 72204_72612 .
+*PAR:	(..) glass and trees . [+ gram] 78534_79556
+%mor:	noun|glass cconj|and noun|tree-Plur .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	glass 78534_78935 and 79015_79115 trees 79155_79556 .
+*PAR:	I don't think I can xxx +... [+ exc] 80149_80690
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 aux|can-Fin-S +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+%wor:	I 80149_80169 don't 80229_80369 think 80389_80610 I 80670_80690 can +...
+*PAR:	floor . [+ gram] 82113_82492
+%mor:	noun|floor .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	floor 82113_82492 .
+*PAR:	(.) counter space . [+ gram] 86543_87203
+%mor:	noun|counter noun|space .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	counter 86543_86882 space 86942_87203 .
+*INV:	(...) okay good . 97450_97561
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 97450_97551 good 97551_97561 .
+*PAR:	+< did I xxx +... [+ exc] 97904_98114
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 +...
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	did I 97904_98114 +...
+@End

@@ -1,0 +1,158 @@
+@UTF8
+@PID:	11312/a-00090384-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;00.|female|ProbableAD||Participant|||
+@Media:	076-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me all the action you see going on in the picture .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|12|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|1|PUNCT
+*PAR:	oh my . [+ exc]
+%mor:	intj|oh pron|my-Prs-Gen-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	you mean how much or just &+t the ones ? [+ exc] 4304_5886
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 adv|how adj|much-S1 cconj|or adv|just det|the-Def-Art noun|one-Plur ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|ADVMOD 4|2|OBJ 5|8|CC 6|8|ADVMOD 7|8|DET 8|4|CONJ 9|2|PUNCT
+%wor:	you 4304_4364 mean 4384_4545 how 4565_4705 much 4765_4985 or 5025_5085 just 5125_5285 the 5326_5386 ones 5386_5886 ?
+*INV:	+< just tell me all the action . 6043_6506
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|IOBJ 4|6|DET-PREDET 5|6|DET 6|2|OBJ 7|2|PUNCT
+%wor:	just tell me all the action 6043_6506 .
+*INV:	tell me what's going on . 7232_8269
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+%wor:	tell me what's 7232_8109 going 8109_8269 on .
+*PAR:	+< oh . [+ exc] 8420_8450
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 8420_8450 .
+*PAR:	there's [//] the sink is overflowing while she's wiping &-uh &-uh &+k &-uh a plate and not looking &=laughs . 9630_15110
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|plate-Acc cconj|and part|not verb|look-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|ADVCL 9|10|DET 10|8|OBJ 11|13|CC 12|13|ADVMOD 13|8|CONJ 14|4|PUNCT
+%wor:	there's 9630_9770 the 9910_9970 sink 10090_10310 is 10351_10451 overflowing 10651_11252 while 11272_11492 she's 11532_11712 wiping 11773_12113 uh 12113_12173 uh 12173_13054 uh 13054_13475 a 13475_13495 plate 14096_14416 and 14476_14577 not 14637_14797 looking 14857_15110 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	the little boy is hungry . 16906_18146
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adj|hungry-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 16906_16980 little 17020_17220 boy 17260_17521 is 17601_17681 hungry 17861_18146 .
+*PAR:	he wants to get some cookies . 18262_19470
+%mor:	pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%wor:	he 18262_18362 wants 18382_18582 to 18642_18722 get 18762_18903 some 18963_19123 cookies 19143_19470 .
+*PAR:	and he's standing on &-uh &-um a stool . 19564_22397
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 19564_19664 he's 19664_19784 standing 19824_20225 on 20285_20385 uh 20425_20525 um 21346_21386 a 21967_21987 stool 22067_22397 .
+*PAR:	and it's tipping over . 23049_23730
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	and 23049_23109 it's 23109_23209 tipping 23269_23529 over 23569_23730 .
+*PAR:	and I don't know whether he's gonna bring the cookie jar with him or what &=laughs . 24417_26807
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|bring-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc adp|with pron|he-Prs-Acc-S3 cconj|or pron|what-Int-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|17|ROOT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|CCOMP 11|13|DET 12|13|COMPOUND 13|10|OBJ 14|15|CASE 15|10|OBL 16|17|CC 17|15|CONJ 18|5|PUNCT
+%wor:	and 24417_24477 I 24497_24517 don't 24537_24637 know 24637_24717 whether 24757_24937 he's 24957_25098 gonna 25118_25298 bring 25318_25498 the 25518_25578 cookie 25638_25859 jar 25919_26139 with 26219_26340 him 26360_26460 or 26520_26600 what 26660_26807 .
+*PAR:	and the little girl is &-um &-uh holding up her hand wanting some . 29104_34584
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adp|up pron|her-Prs-Gen-S3 noun|hand-Acc verb|want-Part-Pres-S det|some-Def-Ind .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|6|COMPOUND-PRT 8|9|NMOD-POSS 9|6|OBJ 10|6|ADVCL 11|10|OBJ 12|6|PUNCT
+%wor:	and 29104_29204 the 29224_29284 little 29344_29524 girl 29585_29905 is 30025_30145 um 30286_30446 uh 31868_32870 holding 32930_33190 up 33210_33290 her 33330_33431 hand 33471_33771 wanting 34011_34312 some 34372_34584 .
+*PAR:	and he's gonna give to him [* s:r] . 34673_35714
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|give-Inf-S adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and 34673_34753 he's 34773_34913 gonna 34953_35173 give 35293_35494 to 35634_35714 him .
+*PAR:	but &-uh I don't know if she has a finger to her mouth but +... 35914_39160
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|mouth cconj|but +...
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|14|ROOT 6|8|MARK 7|8|NSUBJ 8|5|CCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|5|PUNCT 15|5|PUNCT
+%wor:	but 35914_36055 uh 36095_36195 I 37317_37337 don't 37357_37497 know 37497_37617 if 37637_37697 she 37717_37797 has 37837_37938 a 37978_37998 finger 38138_38398 to 38458_38539 her 38619_38719 mouth 38779_39059 but 39099_39160 +...
+*PAR:	and she knows that he's gonna be tipping over it looks like to me . 39510_42180
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|know-Fin-Ind-Pres-S3 sconj|that pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go aux|be-Inf-S verb|tip-Part-Pres-S adp|over pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|15|ROOT 4|9|MARK 5|9|NSUBJ 6|9|AUX 7|9|ADVMOD 8|9|AUX 9|3|CCOMP 10|9|COMPOUND-PRT 11|12|NSUBJ 12|9|CONJ 13|12|OBL 14|15|CASE 15|12|OBL 16|3|PUNCT
+%wor:	and 39510_39590 she 39610_39710 knows 39790_40110 that 40150_40390 he's 40410_40550 gonna 40590_40770 be 40770_40830 tipping 40930_41210 over 41270_41471 it 41491_41551 looks 41571_41751 like 41811_41991 to 42031_42091 me 42151_42180 .
+*INV:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	or maybe she's just not noticing it and making her mouth get ready for this good cookie . 43952_49553
+%mor:	cconj|or adv|maybe pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just part|not verb|notice-Part-Pres-S pron|it-Prs-Acc-S3 cconj|and verb|make-Part-Pres-S pron|her-Prs-Gen-S3 noun|mouth-Acc verb|get-Inf-S adj|ready-S1 adp|for det|this-Def-Dem-Sing adj|good-S1 noun|cookie .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|18|ROOT 8|7|OBJ 9|10|CC 10|7|CONJ 11|12|NMOD-POSS 12|10|OBJ 13|10|XCOMP 14|13|XCOMP 15|18|CASE 16|18|DET 17|18|AMOD 18|14|OBL 19|7|PUNCT
+%wor:	or 43952_44052 maybe 44092_44292 she's 44352_44532 just 44572_44772 not 44892_45032 noticing 45192_45673 it 45693_45793 and 45833_45953 making 46513_46813 her 46853_46953 mouth 47093_47353 get 48134_48274 ready 48334_48514 for 48574_48694 this 48714_48894 good 48994_49154 cookie 49254_49553 .
+*PAR:	I don't know which way it is for the little girl . [+ exc] 50035_51191
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|which-Def-Int noun|way-Acc pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|for det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|12|CASE 10|12|DET 11|12|AMOD 12|6|NMOD 13|4|PUNCT
+%wor:	I 50035_50055 don't 50055_50195 know 50195_50295 which 50335_50495 way 50555_50675 it 50695_50735 is 50775_50875 for 50915_51015 the 51035_51095 little 51135_51191 girl .
+*PAR:	(be)cause she's smiling . [+ gram] 52537_53297
+%mor:	sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|smile-Part-Pres-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	(be)cause 52537_52716 she's 52736_52876 smiling 52916_53297 .
+*PAR:	I think if she saw him falling over she'd do something to [/] to help him so he wouldn't get hurt . 53453_58533
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if pron|she-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 verb|fall-Ger-S adp|over pron|she-Prs-Nom-S3~aux|would-Fin-S verb|do-Inf-S pron|something-Ind-S1 part|to verb|help-Inf-S pron|he-Prs-Acc-S3 sconj|so pron|he-Prs-Nom-S3 aux|would-Fin-S~part|not aux|get-Inf-S verb|hurt-Part-Past-S-irr .
+%gra:	1|2|NSUBJ 2|21|ROOT 3|5|MARK 4|5|NSUBJ 5|11|ADVCL 6|5|OBJ 7|5|XCOMP 8|7|COMPOUND-PRT 9|11|NSUBJ 10|11|AUX 11|2|CCOMP 12|11|OBJ 13|14|MARK 14|12|ACL 15|14|OBJ 16|21|MARK 17|21|NSUBJ-PASS 18|21|AUX 19|21|ADVMOD 20|21|AUX-PASS 21|11|ADVCL 22|2|PUNCT
+%wor:	I 53453_53473 think 53473_53633 if 53673_53773 she 53853_53933 saw 54033_54174 him 54214_54314 falling 54374_54734 over 54795_54995 she'd 55075_55255 do 55816_55876 something 55976_56317 to 56357_56437 to 57178_57238 help 57318_57499 him 57539_57639 so 57699_57739 he 57759_57799 wouldn't 57839_58140 get 58180_58300 hurt 58360_58533 .
+*PAR:	I mean , she'd grab it or something . 58961_60243
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm pron|she-Prs-Nom-S3~aux|would-Fin-S verb|grab-Inf-S pron|it-Prs-Acc-S3 cconj|or pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|6|PARATAXIS 3|2|PUNCT 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|6|OBJ 8|9|CC 9|7|CONJ 10|6|PUNCT
+%wor:	I 58961_58981 mean 58981_59121 , she'd 59181_59321 grab 59482_59742 it 59782_59862 or 59962_60022 something 60022_60243 .
+*INV:	+< mhm . 60223_60390
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 60223_60390 .
+*PAR:	but she's just looking up at him &-you_know lookin(g) up at those good cookies and waitin(g) for them to come to her hand . 61084_66032
+%mor:	cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|look-Part-Pres-S adp|up adp|at pron|he-Prs-Acc-S3 verb|look-Part-Pres-S adp|up adp|at det|that-Def-Dem-Plur adj|good-S1 noun|cookie-Plur cconj|and verb|wait-Part-Pres-S sconj|for pron|they-Prs-Acc-P3 part|to verb|come-Inf-S adp|to pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|23|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|5|ADVCL 10|9|COMPOUND-PRT 11|14|CASE 12|14|DET 13|14|AMOD 14|9|OBL 15|16|CC 16|9|CONJ 17|20|MARK 18|20|NSUBJ 19|20|MARK 20|16|ADVCL 21|23|CASE 22|23|NMOD-POSS 23|20|OBL 24|5|PUNCT
+%wor:	but 61084_61184 she's 61204_61344 just 61344_61505 looking 61545_61785 up 61825_61925 at 61965_62045 him 62086_62266 you_know 62326_62546 lookin(g) 62566_62807 up 62807_62847 at 62847_62887 those 62907_63067 good 63107_63227 cookies 63327_63728 and 63768_63888 waitin(g) 64449_64770 for 64770_64870 them 64930_65050 to 65110_65190 come 65230_65391 to 65431_65491 her 65591_65671 hand 65751_66032 .
+*PAR:	but this little finger in her mouth is +... 67059_69479
+%mor:	cconj|but det|this-Def-Dem-Sing adj|little-S1 noun|finger adp|in pron|her-Prs-Gen-S3 noun|mouth aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|NSUBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|8|ROOT 9|8|PUNCT
+%wor:	but 67059_67159 this 67219_67359 little 67940_68160 finger 68260_68561 in 68621_68681 her 68721_68841 mouth 68881_69202 is 69262_69479 +...
+*PAR:	&-uh I'm not quite sure what it means . [+ exc] 69943_71279
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|quite adj|sure-S1 pron|what-Int-S1 pron|it-Prs-Nom-S3 verb|mean-Fin-Ind-Pres-S3 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|8|ROOT 6|8|OBJ 7|8|NSUBJ 8|5|CCOMP 9|5|PUNCT
+%wor:	uh I'm 69943_70023 not 70083_70203 quite 70263_70503 sure 70544_70724 what 70744_70864 it 70904_70964 means 71024_71279 .
+*PAR:	I think it means that it's gonna be good &=laughs . 71885_73567
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 verb|mean-Fin-Ind-Pres-S3 sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go aux|be-Inf-S adj|good-S1 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|NSUBJ 4|2|CCOMP 5|10|MARK 6|10|NSUBJ 7|10|AUX 8|10|ADVMOD 9|10|COP 10|4|CCOMP 11|2|PUNCT
+%wor:	I 71885_71905 think 71925_72086 it 72106_72166 means 72206_72426 that 72446_72546 it's 72566_72647 gonna 72707_72907 be 72907_72967 good 73067_73567 .
+*INV:	+< mhm probably . 74109_74609
+%mor:	intj|mhm adv|probably .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	mhm probably 74109_74609 .
+*PAR:	yeah . [+ exc]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and &-uh I don't know whether the mother knows this is wet yet &=laughs . 76873_79637
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether det|the-Def-Art noun|mother verb|know-Fin-Ind-Pres-S3 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|wet-S1 adv|yet .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|13|ROOT 6|9|MARK 7|8|DET 8|9|NSUBJ 9|5|CCOMP 10|12|NSUBJ 11|12|COP 12|9|CCOMP 13|12|ADVMOD 14|5|PUNCT
+%wor:	and 76873_76933 uh 76993_77113 I 77233_77253 don't 77293_77473 know 77493_77614 whether 77634_77854 the 77874_77954 mother 78034_78255 knows 78315_78655 this 78735_78915 is 78996_79076 wet 79176_79376 yet 79456_79637 .
+*INV:	she's gonna find out isn't she ? 80780_82090
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|find-Inf-S adp|out aux|be-Fin-Ind-Pres-S3~part|not pron|she-Prs-Nom-S3 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|COMPOUND-PRT 6|4|CCOMP 7|8|ADVMOD 8|4|PARATAXIS 9|4|PUNCT
+%wor:	she's 80780_80940 gonna 80940_81220 find 81220_81460 out 81621_81681 isn't 81681_81781 she 81781_82090 ?
+*PAR:	+< she's thinking something else I think . 81881_83410
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|think-Part-Pres-S pron|something-Ind-S1 adj|else-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|3|PUNCT
+%wor:	she's 81881_82001 thinking 82081_82422 something 82502_82842 else 82902_83143 I 83243_83263 think 83343_83410 .
+*PAR:	I don't know what it is . [+ exc] 83724_84496
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+%wor:	I 83724_83744 don't 83764_83884 know 83884_84024 what 84064_84204 it 84244_84325 is 84385_84496 .
+*PAR:	+" <what are> [//] what's [//] what are we going to have for lunch ? 85710_87760
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|have-Inf-S adp|for noun|lunch ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+%wor:	what are 85710_85827 what's 85827_86107 what 86648_86728 are 86748_86828 we 86828_86868 going 86868_87008 to 87008_87048 have 87068_87229 for 87249_87369 lunch 87409_87760 ?
+*PAR:	or [/] &=laughs or she's got something in her mind (be)cause certainly she'd see this if she didn't hear it . 88751_93350
+%mor:	cconj|or pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|something-Ind-S1 adp|in pron|her-Prs-Gen-S3 noun|mind sconj|because adv|certainly pron|she-Prs-Nom-S3~aux|would-Fin-S verb|see-Inf-S pron|this-Dem-S1 sconj|if pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|hear-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|20|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|13|MARK 10|13|ADVMOD 11|13|NSUBJ 12|13|AUX 13|4|ADVCL 14|13|OBJ 15|19|MARK 16|19|NSUBJ 17|19|AUX 18|19|ADVMOD 19|13|ADVCL 20|19|OBJ 21|4|PUNCT
+%wor:	or or she's 88751_88911 got 88951_89091 something 89151_89452 in 89492_89552 her 89572_89672 mind 89712_89932 (be)cause 89932_90133 certainly 90173_90473 she'd 90533_90734 see 91735_91915 this 91975_92196 if 92256_92336 she 92556_92616 didn't 92676_92917 hear 92977_93177 it 93237_93350 .
+*INV:	okay . 93758_94239
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 93758_94239 .
+@End

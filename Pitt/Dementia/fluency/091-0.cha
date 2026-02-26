@@ -1,0 +1,144 @@
+@UTF8
+@PID:	11312/a-00089646-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|88;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	091-0, audio
+@G:	animals
+*PAR:	dog . 1181_1661
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 1181_1661 .
+*PAR:	cat . 2087_2582
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 2087_2582 .
+*PAR:	horse . 4085_4566
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 4085_4566 .
+*INV:	(...) any more ? 19805_20485
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any 19805_19925 more 19985_20485 ?
+*PAR:	(...) animals ? [+ exc] 25933_26432
+%mor:	noun|animal-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	animals 25933_26432 ?
+*INV:	mhm , as many animals as you can think of . 27916_29727
+%mor:	intj|mhm cm|cm adv|as adj|many-S1 noun|animal-Plur sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|AMOD 5|10|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ADVCL 10|9|OBL 11|5|PUNCT
+%wor:	mhm , as many 27916_28135 animals 28195_28556 as 28576_28656 you 28676_28756 can 28776_28896 think 28956_29177 of 29277_29727 .
+*PAR:	martian .
+%mor:	noun|martian .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) cow . 37995_38455
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 37995_38455 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) loud animals too ? [+ exc] 49225_50315
+%mor:	adj|loud-S1 noun|animal-Plur adv|too ?
+%gra:	1|2|AMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	loud 49225_49506 animals 49566_49967 too 50047_50315 ?
+*INV:	mhm . 50315_50707
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 50315_50707 .
+*PAR:	lion . 51309_51668
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lion 51309_51668 .
+*PAR:	(..) monkeys . 55012_55472
+%mor:	noun|monkey-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	monkeys 55012_55472 .
+*INV:	(...) okay . 62638_63137
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 62638_63137 .
+@G:	F
+*INV:	now then this time +//. 63698_65206
+%mor:	adv|now adv|then det|this-Def-Dem-Sing noun|time +//.
+%gra:	1|4|ROOT 2|4|ADVMOD 3|4|DET 4|1|OBL-UNMARKED 5|1|PUNCT
+%wor:	now 63698_63899 then 63939_64119 this 64859_64979 time 65039_65206 +//.
+*INV:	okay , when you're ready . 65220_66399
+%mor:	intj|okay cm|cm adv|when pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|ready-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	okay 65220_65520 , when 65600_65720 you're 65760_65900 ready 65900_66399 .
+*PAR:	the day Friday . 66981_67881
+%mor:	det|the-Def-Art noun|day propn|Friday .
+%gra:	1|2|DET 2|3|ROOT 3|2|NMOD-UNMARKED 4|2|PUNCT
+%wor:	the 66981_67061 day 67121_67281 Friday 67401_67881 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	friends . 69605_70085
+%mor:	noun|friend-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	friends 69605_70085 .
+*PAR:	(..) fun . 72871_73370
+%mor:	noun|fun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fun 72871_73370 .
+*PAR:	(...) friction . 84453_84933
+%mor:	noun|friction .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	friction 84453_84933 .
+*PAR:	(..) Fonda . 90600_91080
+%mor:	propn|Fonda .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Fonda 90600_91080 .
+*PAR:	(..) that's it . [+ exc] 91586_97807
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 91586_97247 it 97307_97807 .
+*INV:	any more ? 98489_99209
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any 98489_98649 more 98709_99209 ?
+*INV:	got a few seconds left yet . 99571_101392
+%mor:	verb|get-Fin-Ind-Past-S1-irr det|a-Ind-Art adj|few-S1 noun|second-Plur-Acc verb|leave-Part-Past-S-irr adv|yet .
+%gra:	1|6|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|XCOMP 6|5|ADVMOD 7|1|PUNCT
+%wor:	got 99571_99651 a 99691_99711 few 99751_99891 seconds 100011_100492 left 100572_100832 yet 100892_101392 .
+*PAR:	beginning with the letter f@l ? [+ exc] 102515_103781
+%mor:	verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f ?
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|OBL-UNMARKED 6|1|PUNCT
+%wor:	beginning 102515_102855 with 102895_103015 the 103015_103076 letter 103116_103376 f 103696_103781 ?
+*INV:	mhm . 103877_104137
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 103877_104137 .
+*PAR:	fun@q and friction@q I gave . [+ exc] 108664_109898
+%mor:	q|fun cconj|and q|friction pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr .
+%gra:	1|5|FLAT 2|3|CC 3|1|FLAT 4|5|NSUBJ 5|1|PARATAXIS 6|1|PUNCT
+%wor:	fun@q 108664_108924 and 108924_109044 friction@q 109064_109505 I 109585_109605 gave 109665_109898 .
+*PAR:	and that's the mud coming in my mind again . [+ exc] 110086_112108
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|mud verb|come-Ger-S adp|in pron|my-Prs-Gen-S1 noun|mind adv|again .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|10|ROOT 6|5|ACL 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|6|ADVMOD 11|5|PUNCT
+%wor:	and 110086_110166 that's 110166_110426 the 110446_110506 mud 110546_110706 coming 110766_111007 in 111027_111107 my 111147_111267 mind 111307_111568 again 111608_112108 .
+*PAR:	fun@q friction@q . [+ exc] 113470_114391
+%mor:	q|fun q|friction .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	fun@q 113470_113891 friction@q 113891_114391 .
+*PAR:	(.) fussy . 116336_116796
+%mor:	adj|fussy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fussy 116336_116796 .
+*PAR:	(.) the day Friday@q I gave . 119379_120961
+%mor:	det|the-Def-Art noun|day q|Friday pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|FLAT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	the 119379_119459 day 119539_119700 Friday@q 119780_120300 I 120400_120420 gave 120461_120961 .
+*PAR:	(..) &+fun &-uh fundamental &=laughs .
+%mor:	adj|fundamental-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	www .
+%exp:	next task
+@End

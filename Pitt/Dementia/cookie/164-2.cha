@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/a-00090419-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|55;|male|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	164-2, audio
+@G:	Cookie
+*PAR:	oh &=clears:throat the little boy's got on the stepstool to get a [/] &+j a cookie . 830_8170
+%mor:	intj|oh det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adp|on det|the-Def-Art noun|stepstool part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|13|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|11|MARK 11|6|ADVCL 12|13|DET 13|11|OBJ 14|6|PUNCT
+%wor:	oh 830_870 the 870_930 little 930_1070 boy's 1110_1431 got 1511_1732 on 1932_2073 the 2093_2193 stepstool 3877_4519 to 6283_6363 get 6423_6584 a 6624_6644 a 7566_7586 cookie 7686_8170 .
+*PAR:	it's gonna fall off . 9591_10614
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|fall-Inf-S adp|off .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	it's 9591_9671 gonna 9731_9932 fall 9992_10293 off 10413_10614 .
+*PAR:	and the [/] the mother's doin(g) dishes . 13870_16116
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|is verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 13870_14131 the 14211_14291 the 14371_15014 mother's 15074_15395 doin(g) 15395_15616 dishes 15616_16116 .
+*PAR:	and she's runnin(g) the water on the floor . 17407_18987
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S det|the-Def-Art noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	and 17407_17462 she's 17482_17742 runnin(g) 17803_18023 the 18023_18104 water 18104_18364 on 18405_18465 the 18485_18545 floor 18605_18987 .
+*PAR:	(.) the little sister's &+t tryin(g) to quiet him down . 25127_29457
+%mor:	det|the-Def-Art adj|little-S1 noun|sister~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|quiet-Inf-S pron|he-Prs-Acc-S3 adp|down .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|COMPOUND-PRT 10|5|PUNCT
+%wor:	the 25127_25187 little 25207_25427 sister's 25567_26067 tryin(g) 26427_26728 to 26728_26808 quiet 28569_28829 him 28869_29009 down 29089_29457 .
+*PAR:	(.) that's about it . [+ exc] 35433_35694
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	that's 35433_35553 about 35593_35694 it .
+*INV:	okay . 35873_35954
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 35873_35954 .
+@End

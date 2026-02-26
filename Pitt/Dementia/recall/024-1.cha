@@ -1,0 +1,159 @@
+@UTF8
+@PID:	11312/a-00089838-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|51;|male|Memory||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	024-1, audio
+@G:	Bill_Immediate
+*PAR:	&-uh it's a story about &-uh a person by the name of uncle Bill returning to the States . 601101_607028
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|story adp|about det|a-Ind-Art noun|person adp|by det|the-Def-Art noun|name adp|of noun|uncle propn|Bill verb|return-Ger-S adp|to det|the-Def-Art propn|State-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|17|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CASE 9|10|DET 10|4|NMOD 11|12|CASE 12|10|NMOD 13|10|NMOD 14|10|ACL 15|17|CASE 16|17|DET 17|14|OBL 18|4|PUNCT
+%wor:	uh 601101_601201 it's 601221_601321 a 601341_601361 story 601461_601761 about 601822_602142 uh 602222_602302 a 603364_603384 person 603644_603984 by 604044_604145 the 604185_604265 name 604305_604505 of 604545_604625 uncle 604705_604946 Bill 605006_605246 returning 605346_605907 to 606047_606147 the 606227_606327 States 606528_607028 .
+*PAR:	&-uh it happened on the fourth of July . 607509_610153
+%mor:	pron|it-Prs-Nom-S3 verb|happen-Fin-Ind-Past-S3 adp|on det|the-Def-Art adj|fourth-S1 adp|of propn|July .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CASE 7|5|NMOD 8|2|PUNCT
+%wor:	uh 607509_607769 it 608590_608751 happened 608751_609071 on 609131_609211 the 609231_609291 fourth 609371_609632 of 609672_609712 July 609752_610153 .
+*PAR:	and &-uh &-uh his nephew Johnny was really looking forward to his return . 610633_616309
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|nephew propn|Johnny aux|be-Fin-Ind-Past-S3-irr adv|really verb|look-Part-Pres-S adv|forward adp|to pron|his-Prs-Gen-S3 noun|return .
+%gra:	1|7|CC 2|3|NMOD-POSS 3|7|NSUBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|11|ROOT 8|7|ADVMOD 9|11|CASE 10|11|NMOD-POSS 11|7|OBL 12|7|PUNCT
+%wor:	and 610633_610793 uh 612754_612854 uh 612854_612894 his 612954_613114 nephew 613194_613555 Johnny 613675_614015 was 614115_614235 really 614295_614516 looking 614576_614876 forward 614936_615336 to 615396_615496 his 615576_615736 return 615816_616309 .
+*PAR:	as were all the other relatives . 616437_617777
+%mor:	sconj|as aux|be-Fin-Ind-Past-P3-irr det|all-Def-Tot det|the-Def-Art adj|other-S1 noun|relative-Plur .
+%gra:	1|6|MARK 2|6|COP 3|6|DET-PREDET 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%wor:	as 616437_616557 were 616597_616777 all 616817_616917 the 616937_616997 other 617057_617218 relatives 617278_617777 .
+*PAR:	because Johnny remembered what [//] how many good times they had had before uncle Bill had left . 618579_623703
+%mor:	sconj|because propn|Johnny verb|remember-Fin-Ind-Past-S3 adv|how adj|many-S1 adj|good-S1 noun|time-Plur-Acc pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Past-P3-irr verb|have-Part-Past-S-irr sconj|before noun|uncle propn|Bill aux|have-Fin-Ind-Past-S3-irr verb|leave-Part-Past-S-irr .
+%gra:	1|3|MARK 2|3|NSUBJ 3|15|ROOT 4|5|ADVMOD 5|7|AMOD 6|7|AMOD 7|3|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|15|MARK 12|15|NSUBJ 13|15|NSUBJ 14|15|AUX 15|10|ADVCL 16|3|PUNCT
+%wor:	because 618579_618919 Johnny 618979_619279 remembered 619379_619820 what 619860_620000 how 620520_620640 many 620660_620820 good 621161_621321 times 621381_621721 they 621741_621841 had 621841_621921 had 621981_622161 before 622221_622622 uncle 622702_622922 Bill 622982_623182 had 623262_623402 left 623482_623703 .
+*PAR:	&-uh some of them were &-uh &-uh camping and trap fishing which they enjoyed a great deal . 625484_632362
+%mor:	det|some-Def-Ind adp|of pron|they-Prs-Acc-P3 aux|be-Fin-Ind-Past-P3-irr verb|camp-Part-Pres-S cconj|and noun|trap noun|fishing-Ger pron|which-Rel-S1 pron|they-Prs-Nom-P3 verb|enjoy-Fin-Ind-Past-P3 det|a-Ind-Art adj|great-S1 noun|deal-Acc .
+%gra:	1|5|NSUBJ 2|3|CASE 3|1|NMOD 4|5|AUX 5|14|ROOT 6|8|CC 7|8|COMPOUND 8|5|CONJ 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|14|DET 13|14|AMOD 14|11|OBJ 15|5|PUNCT
+%wor:	uh 625484_625524 some 625644_625864 of 625884_625944 them 625964_626124 were 626204_626464 uh 626564_626764 uh 627965_628005 camping 628185_628646 and 628686_628786 trap 628826_629086 fishing 629186_629566 which 630887_631087 they 631087_631227 enjoyed 631268_631688 a 631688_631708 great 631768_631988 deal 632048_632362 .
+*INV:	okay . 632362_632729
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 632362_632729 .
+@G:	Bill_Delayed
+*INV:	would you remember anything about that story ? 1199820_1201786
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+%wor:	would 1199820_1199960 you 1199960_1200060 remember 1200060_1200482 anything 1200502_1200823 about 1200843_1201103 that 1201124_1201264 story 1201344_1201786 ?
+*PAR:	&-uh yes , it was a &=clears:throat story about &-um uncle Bill coming from another country . 1202606_1216141
+%mor:	intj|yes cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|story adp|about noun|uncle propn|Bill verb|come-Ger-S adp|from det|another-Def-Ind noun|country .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|13|ROOT 7|9|CASE 8|9|COMPOUND 9|6|NMOD 10|6|ACL 11|13|CASE 12|13|DET 13|10|OBL 14|6|PUNCT
+%wor:	uh 1202606_1205329 yes 1206090_1206370 , it 1206450_1206530 was 1206570_1206710 a 1206811_1206831 story 1209774_1210034 about 1210114_1210514 um 1210635_1210675 uncle 1213898_1214158 Bill 1214218_1214439 coming 1214559_1214879 from 1214979_1215260 another 1215440_1215740 country 1215860_1216141 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh to [//] (.) coming home actually on the fourth of July . 1218341_1224531
+%mor:	verb|come-Part-Pres-S adv|home adv|actually adp|on det|the-Def-Art adj|fourth-S1 adp|of propn|July .
+%gra:	1|8|ROOT 2|1|ADVMOD 3|6|ADVMOD 4|6|CASE 5|6|DET 6|1|OBL 7|8|CASE 8|6|NMOD 9|1|PUNCT
+%wor:	uh 1218341_1218681 to 1218761_1218901 coming 1222423_1222683 home 1222743_1222963 actually 1223023_1223343 on 1223423_1223503 the 1223523_1223583 fourth 1223663_1223943 of 1224003_1224063 July 1224103_1224531 .
+*PAR:	and his relatives &=clears:throat and nephew Johnny was really looking forward to his arrival . 1225324_1230827
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|relative-Plur cconj|and noun|nephew propn|Johnny aux|be-Fin-Ind-Past-S3-irr adv|really verb|look-Part-Pres-S adv|forward adp|to pron|his-Prs-Gen-S3 noun|arrival .
+%gra:	1|9|CC 2|3|NMOD-POSS 3|9|NSUBJ 4|5|CC 5|3|CONJ 6|3|APPOS 7|9|AUX 8|9|ADVMOD 9|13|ROOT 10|9|ADVMOD 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|9|PUNCT
+%wor:	and 1225324_1225424 his 1225484_1225624 relatives 1225704_1226405 and 1227585_1227685 nephew 1227725_1228085 Johnny 1228205_1228545 was 1228646_1228806 really 1228946_1229206 looking 1229246_1229546 forward 1229606_1229966 to 1230006_1230106 his 1230166_1230306 arrival 1230386_1230827 .
+*INV:	carry on .
+%mor:	verb|carry-Fin-Imp-S adp|on .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*INV:	it is okay .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	&=clears:throat and &-um &-uh they [//] &-uh &-uh <the reason this> [//] &-uh they were all looking forward to his arrival but especially his nephew Johnny . 1235534_1243969
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adv|all verb|look-Part-Pres-S adv|forward adp|to pron|his-Prs-Gen-S3 noun|arrival cconj|but adv|especially pron|his-Prs-Gen-S3 noun|nephew propn|Johnny .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|14|ROOT 6|5|ADVMOD 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|13|CC 11|13|ADVMOD 12|13|NMOD-POSS 13|9|CONJ 14|13|APPOS 15|5|PUNCT
+%wor:	and 1235534_1235774 um 1236836_1237177 uh 1237257_1237297 they 1237357_1237597 uh 1239220_1239300 uh 1239300_1239340 the 1239380_1239461 reason 1239521_1239861 this 1239981_1240182 uh 1240562_1240603 they 1240623_1240743 were 1240763_1240863 all 1240923_1241023 looking 1241103_1241364 forward 1241404_1241684 to 1241705_1241785 his 1241825_1241905 arrival 1241945_1242286 but 1242286_1242406 especially 1242446_1243007 his 1243007_1243127 nephew 1243207_1243488 Johnny 1243588_1243969 .
+*PAR:	because Johnny remembered that [//] &-uh before he had left all the good times they had had together &-uh doing various different activities . 1244049_1255406
+%mor:	sconj|because propn|Johnny verb|remember-Fin-Ind-Past-S3 sconj|before pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|leave-Part-Past-S-irr det|all-Def-Tot det|the-Def-Art adj|good-S1 noun|time-Plur-Acc pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Past-P3-irr verb|have-Part-Past-S-irr adv|together verb|do-Part-Pres-S adj|various-S1 adj|different-S1 noun|activity-Plur-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|19|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|11|DET-PREDET 9|11|DET 10|11|AMOD 11|7|OBJ 12|14|NSUBJ 13|14|AUX 14|11|ACL-RELCL 15|14|ADVMOD 16|14|ADVCL 17|19|AMOD 18|19|AMOD 19|16|OBJ 20|3|PUNCT
+%wor:	because 1244049_1244549 Johnny 1245070_1245371 remembered 1245451_1246072 that 1246132_1246352 uh 1247774_1247814 before 1248916_1249297 he 1249337_1249397 had 1249417_1249537 left 1249597_1249838 all 1249938_1250038 the 1250078_1250138 good 1250218_1250399 times 1250459_1250899 they 1250899_1251020 had 1251020_1251120 had 1251180_1251360 together 1251420_1251881 uh 1252502_1253223 doing 1253323_1253624 various 1254084_1254485 different 1254545_1254866 activities 1254906_1255406 .
+*INV:	www carry on . 1260775_1261675
+%mor:	verb|carry-Fin-Imp-S adp|on .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%wor:	carry 1260775_1261135 on 1261175_1261675 .
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	doing various activities they had enjoyed &+tog so much together . 1270588_1273954
+%mor:	verb|do-Part-Pres-S adj|various-S1 noun|activity-Plur-Acc pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Past-P3-irr verb|enjoy-Part-Past-S adv|so adv|much adv|together .
+%gra:	1|6|ADVCL 2|3|AMOD 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|8|ADVMOD 8|6|ADVMOD 9|6|ADVMOD 10|6|PUNCT
+%wor:	doing 1270588_1270849 various 1270929_1271310 activities 1271450_1271971 they 1272011_1272131 had 1272151_1272251 enjoyed 1272271_1272712 so 1273152_1273252 much 1273353_1273573 together 1273633_1273954 .
+*PAR:	and had such a good time including trap fishing . 1274010_1276496
+%mor:	cconj|and verb|have-Fin-Ind-Past-S1-irr det|such-Def-Ind det|a-Ind-Art adj|good-S1 noun|time-Acc verb|include-Part-Pres-S noun|trap noun|fishing-Ger .
+%gra:	1|2|CC 2|9|ROOT 3|6|DET-PREDET 4|6|DET 5|6|AMOD 6|2|OBJ 7|9|CASE 8|9|COMPOUND 9|6|NMOD 10|2|PUNCT
+%wor:	and 1274010_1274070 had 1274090_1274190 such 1274230_1274450 a 1274490_1274510 good 1274590_1274770 time 1274830_1275070 including 1275110_1275570 trap 1275730_1276050 fishing 1276190_1276496 .
+*INV:	mhm , okay .
+%mor:	intj|mhm cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	I think that's all I remember but +... [+ exc] 1285714_1286755
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 cconj|but +...
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|NSUBJ 7|5|ACL-RELCL 8|2|CONJ 9|2|PUNCT
+%wor:	I think 1285714_1285854 that's 1285894_1286074 all 1286114_1286215 I 1286315_1286335 remember 1286375_1286755 but +...
+*INV:	let me see if we have got +... 1287755_1288616
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S sconj|if pron|we-Prs-Nom-P1 aux|have-Fin-Ind-Pres-P1 verb|get-Part-Past-S-irr +...
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|1|PUNCT
+%wor:	let 1287755_1287835 me 1287835_1287895 see 1287895_1288055 if 1288075_1288175 we 1288175_1288215 have 1288215_1288295 got 1288355_1288616 +...
+@G:	Bill_Questions
+*INV:	okay , the &-um the weekend that Johnny remembered <when they could go> [//] when they went &-um fishing together +... 1297167_1304197
+%mor:	intj|okay cm|cm det|the-Def-Art det|the-Def-Art noun|weekend pron|that-Rel propn|Johnny verb|remember-Fin-Ind-Past-S3 adv|when pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr noun|fishing-Acc-Ger adv|together +...
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|DET 5|13|ROOT 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|11|ADVMOD 10|11|NSUBJ 11|8|ADVCL 12|11|OBJ 13|11|ADVMOD 14|5|PUNCT
+%wor:	okay 1297167_1297367 , the 1297427_1297527 um 1297787_1297947 the 1299348_1299428 weekend 1299489_1299889 that 1299949_1300049 Johnny 1300129_1300409 remembered 1300469_1300930 when 1300970_1301090 they 1301130_1301230 could 1301290_1301470 go 1301530_1301630 when 1302271_1302391 they 1302411_1302531 went 1302571_1302951 um 1303032_1303192 fishing 1303452_1303772 together 1303832_1304197 +...
+*INV:	you remember what time of year that was ? 1304757_1306495
+%mor:	pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 det|what-Def-Int noun|time-Acc adp|of noun|year pron|that-Rel aux|be-Fin-Ind-Past-S3-irr ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|8|NSUBJ 8|4|ACL-RELCL 9|2|PUNCT
+%wor:	you 1304757_1304813 remember 1304813_1305073 what 1305093_1305213 time 1305253_1305494 of 1305514_1305594 year 1305654_1305854 that 1305914_1306074 was 1306114_1306495 ?
+*PAR:	(...) I'm gonna say summer . 1315245_1316163
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|say-Inf-S noun|summer .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBL-UNMARKED 6|4|PUNCT
+%wor:	I'm 1315245_1315325 gonna 1315325_1315526 say 1315526_1315647 summer 1315748_1316163 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I'm afraid I +/. [+ exc] 1317387_1318257
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|afraid-S1 pron|I-Prs-Nom-S1 +/.
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	I'm 1317387_1317459 afraid 1317519_1317821 I 1317821_1318257 +/.
+*INV:	okay , hafta go . 1318257_1318868
+%mor:	intj|okay cm|cm intj|hafta verb|go-Fin-Imp-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DISCOURSE 4|4|ROOT 5|4|PUNCT
+%wor:	okay , hafta 1318257_1318304 go 1318384_1318868 .
+@G:	George_Immediate
+*PAR:	okay , &-uh &-uh it's a storage [: story] [*] [//] story about [/] about a man named George Miller who moved in with his son's family &-um at Thanksgiving time or shortly thereafter . 1320370_1331724
+%mor:	intj|okay cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|story adp|about det|a-Ind-Art noun|man verb|name-Part-Past-S propn|George propn|Miller pron|who-Rel verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family adp|at propn|Thanksgiving noun|time cconj|or adv|shortly adv|thereafter .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|26|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|9|ACL 11|10|XCOMP 12|11|FLAT 13|14|NSUBJ 14|9|ACL-RELCL 15|14|COMPOUND-PRT 16|20|CASE 17|18|NMOD-POSS 18|20|NMOD-POSS 19|18|CASE 20|14|OBL 21|23|CASE 22|23|COMPOUND 23|14|OBL 24|26|CC 25|26|ADVMOD 26|23|CONJ 27|6|PUNCT
+%wor:	okay 1320370_1320750 , uh 1321010_1322352 uh 1322492_1322773 it's 1322813_1323013 a 1323053_1323073 story 1323153_1323614 story 1323634_1323894 about 1323914_1324014 about 1324014_1324275 a 1324835_1324855 man 1324936_1325136 named 1325196_1325436 George 1325456_1325817 Miller 1325877_1326177 who 1326257_1326357 moved 1326518_1326758 in 1326818_1326878 with 1326918_1327038 his 1327078_1327179 son's 1327239_1327539 family 1327619_1328020 um 1328921_1329241 at 1329642_1329722 Thanksgiving 1329762_1330363 time 1330423_1330703 or 1330723_1330803 shortly 1330843_1331164 thereafter 1331224_1331724 .
+*PAR:	and &-um &-um the member of the family &-uh his granddaughter by the name of Melanie &-uh really enjoyed his company and enjoyed listening to stories that he would tell of his boyhood life in the city . 1333206_1350555
+%mor:	cconj|and det|the-Def-Art noun|member adp|of det|the-Def-Art noun|family pron|his-Prs-Gen-S3 noun|granddaughter adp|by det|the-Def-Art noun|name adp|of propn|Melanie adv|really verb|enjoy-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|company-Acc cconj|and verb|enjoy-Fin-Ind-Past-S3 verb|listen-Ger-S adp|to noun|story-Plur pron|that-Rel pron|he-Prs-Nom-S3 aux|would-Fin-S verb|tell-Inf-S adp|of pron|his-Prs-Gen-S3 noun|boyhood noun|life adp|in det|the-Def-Art noun|city .
+%gra:	1|15|CC 2|3|DET 3|15|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|NMOD-POSS 8|3|APPOS 9|11|CASE 10|11|DET 11|3|NMOD 12|13|CASE 13|11|NMOD 14|15|ADVMOD 15|33|ROOT 16|17|NMOD-POSS 17|15|OBJ 18|19|CC 19|15|CONJ 20|19|XCOMP 21|22|CASE 22|20|OBL 23|26|OBJ 24|26|NSUBJ 25|26|AUX 26|22|ACL-RELCL 27|30|CASE 28|30|NMOD-POSS 29|30|COMPOUND 30|26|OBL 31|33|CASE 32|33|DET 33|26|OBL 34|15|PUNCT
+%wor:	and 1333206_1333446 um 1333486_1333886 um 1335547_1335627 the 1336067_1336147 member 1336207_1336487 of 1336487_1336547 the 1336547_1336627 family 1336687_1337128 uh 1337388_1337428 his 1337608_1337728 granddaughter 1337788_1338488 by 1338628_1338748 the 1338768_1338868 name 1338908_1339109 of 1339169_1339269 Melanie 1340189_1340709 uh 1341050_1341410 really 1342310_1342550 enjoyed 1342610_1343011 his 1343031_1343131 company 1343211_1343611 and 1344431_1344671 enjoyed 1345052_1345492 listening 1345572_1345952 to 1345992_1346072 stories 1346172_1346652 that 1346672_1346813 he 1346873_1346933 would 1347013_1347193 tell 1347273_1347633 of 1348333_1348433 his 1348493_1348654 boyhood 1349054_1349514 life 1349594_1349874 in 1349914_1349974 the 1350014_1350094 city 1350194_1350555 .
+*PAR:	&-uh especially &-uh stories about where he lived and the house he lived in . 1352135_1357107
+%mor:	adv|especially noun|story-Plur adp|about adv|where pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 cconj|and det|the-Def-Art noun|house pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 adp|in .
+%gra:	1|2|ADVMOD 2|12|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|4|ADVCL-RELCL 7|9|CC 8|9|DET 9|2|CONJ 10|11|NSUBJ 11|9|ACL-RELCL 12|11|OBL 13|2|PUNCT
+%wor:	uh 1352135_1352235 especially 1352295_1352935 uh 1353215_1353555 stories 1354376_1354716 about 1354776_1354996 where 1355016_1355196 he 1355236_1355296 lived 1355396_1355836 and 1355917_1356017 the 1356037_1356117 house 1356157_1356417 he 1356477_1356537 lived 1356617_1356857 in 1356897_1357107 .
+*PAR:	and she asked if some day they could go and see the house that he had grown up in . 1357107_1362120
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|ask-Fin-Ind-Past-S3 sconj|if det|some-Def-Ind noun|day pron|they-Prs-Nom-P3 aux|could-Fin-S verb|go-Inf-S cconj|and verb|see-Inf-S det|the-Def-Art noun|house-Acc pron|that-Rel pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|grow-Part-Past-S-irr adp|up adp|in .
+%gra:	1|3|CC 2|3|NSUBJ 3|19|ROOT 4|9|MARK 5|6|DET 6|9|OBL-UNMARKED 7|9|NSUBJ 8|9|AUX 9|3|CCOMP 10|11|CC 11|9|CONJ 12|13|DET 13|11|OBJ 14|17|OBJ 15|17|NSUBJ 16|17|AUX 17|13|ACL-RELCL 18|17|COMPOUND-PRT 19|3|PUNCT 20|3|PUNCT
+%wor:	and 1357107_1357137 she 1357157_1357257 asked 1357397_1357697 if 1357717_1357778 some 1358358_1358558 day 1358578_1358698 they 1358738_1358858 could 1358898_1359038 go 1360399_1360479 and 1360579_1360679 see 1360739_1360899 the 1360939_1361039 house 1361079_1361339 that 1361339_1361459 he 1361479_1361539 had 1361559_1361660 grown 1361700_1361960 up 1362020_1362120 in .
+*PAR:	so , one day he took her to the city . 1363541_1365382
+%mor:	adv|so cm|cm num|one noun|day pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|to det|the-Def-Art noun|city .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|NUMMOD 4|6|OBL-UNMARKED 5|6|NSUBJ 6|10|ROOT 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+%wor:	so 1363541_1363621 , one 1363761_1363881 day 1363921_1364061 he 1364141_1364201 took 1364301_1364481 her 1364501_1364581 to 1364641_1364721 the 1364761_1364841 city 1364961_1365382 .
+*PAR:	and she was very excited about going . 1365742_1370005
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adj|excited-S1 sconj|about verb|go-Part-Pres-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|7|ROOT 6|7|MARK 7|5|ADVCL 8|5|PUNCT
+%wor:	and 1365742_1366002 she 1366824_1366924 was 1367005_1367165 very 1367245_1367586 excited 1368889_1369430 about 1369450_1369731 going 1369791_1370005 .
+*PAR:	but the streets were so crowded . 1370573_1372738
+%mor:	cconj|but det|the-Def-Art noun|street-Plur aux|be-Fin-Ind-Past-P3-irr adv|so adj|crowded-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	but 1370573_1370733 the 1371334_1371415 streets 1371475_1371856 were 1371896_1372036 so 1372096_1372196 crowded 1372337_1372738 .
+*PAR:	and &-uh she became very nervous about [//] &-uh and uncomfortable &-uh with all the people &-uh in the streets . 1374019_1382929
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr adv|very adj|nervous-S1 cconj|and adj|uncomfortable-S1 adp|with det|all-Def-Tot det|the-Def-Art noun|person-Plur adp|in det|the-Def-Art noun|street-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|14|ROOT 4|5|ADVMOD 5|3|XCOMP 6|7|CC 7|5|CONJ 8|11|CASE 9|11|DET-PREDET 10|11|DET 11|7|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|3|PUNCT
+%wor:	and 1374019_1374179 uh 1374419_1374499 she 1374559_1374659 became 1374719_1375100 very 1375140_1375340 nervous 1375460_1375841 about 1375921_1376241 uh 1376461_1376521 and 1376541_1376641 uncomfortable 1376662_1377462 uh 1377462_1378864 with 1379445_1379645 all 1379765_1379905 the 1379965_1380065 people 1380205_1380626 uh 1381547_1381927 in 1382248_1382328 the 1382348_1382448 streets 1382508_1382929 .
+*PAR:	and &-uh she was quite happy when it became time to return home . 1383871_1391090
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|quite adj|happy-S1 adv|when pron|it-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr noun|time part|to verb|return-Inf-S adv|home .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|12|ROOT 6|8|ADVMOD 7|8|NSUBJ 8|5|ADVCL 9|8|XCOMP 10|11|MARK 11|9|ACL 12|11|ADVMOD 13|5|PUNCT
+%wor:	and 1383871_1384151 uh 1384272_1384432 she 1384974_1385074 was 1385174_1385355 quite 1386838_1387139 happy 1387179_1387500 when 1388322_1388443 it 1388483_1388563 became 1388623_1389124 time 1389646_1390007 to 1390067_1390147 return 1390207_1390668 home 1390769_1391090 .
+@End

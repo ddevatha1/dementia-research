@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/a-00089888-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||female|ProbableAD||Participant|||
+@Media:	094-2, audio
+@G:	George_Immediate
+*INV:	tell me as much of the story as you can think of . 635060_637206
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adv|as adj|much-S1 adp|of det|the-Def-Art noun|story sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|12|ROOT 2|1|IOBJ 3|4|ADVMOD 4|1|OBJ 5|7|CASE 6|7|DET 7|4|OBL 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|1|ADVCL 12|11|OBL 13|1|PUNCT
+%wor:	tell 635060_635160 me 635160_635240 as 635320_635420 much 635480_635680 of 635700_635760 the 635780_635860 story 635940_636220 as 636320_636380 you 636400_636500 can 636520_636660 think 636740_636961 of 637061_637206 .
+*PAR:	oh boy . [+ exc] 637401_637901
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 637401_637541 boy 637641_637901 .
+*INV:	anything at all from the story that you can think of . 641243_643452
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot adp|from det|the-Def-Art noun|story pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|11|ROOT 2|3|CASE 3|1|NMOD 4|6|CASE 5|6|DET 6|1|NMOD 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|7|CASE 12|1|PUNCT
+%wor:	anything 641243_641603 at 641643_641703 all 641783_641883 from 641883_642004 the 642024_642104 story 642204_642484 that 642504_642624 you 642644_642744 can 642764_642904 think 642964_643204 of 643264_643452 .
+*INV:	do you remember the story ? 643452_644926
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S det|the-Def-Art noun|story-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	do 643452_643785 you 643825_643945 remember 643945_644265 the 644305_644385 story 644445_644926 ?
+*PAR:	a family . 644985_645605
+%mor:	det|a-Ind-Art noun|family .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 644985_645005 family 645105_645605 .
+*INV:	uhhuh anything else ? 645926_647167
+%mor:	intj|uhhuh pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	uhhuh 645926_646466 anything 646486_646806 else 646826_647167 ?
+*PAR:	and &-uh there's &-uh the little child with [/] with a &-uh father . 647507_655953
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|little-S1 noun|child adp|with det|a-Ind-Art noun|father .
+%gra:	1|3|CC 2|3|EXPL 3|9|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+%wor:	and 647507_647807 uh 647867_648788 there's 649068_649508 uh 650429_650809 the 652190_652270 little 652391_652631 child 652711_653171 with 653211_653511 with 653511_653812 a 653852_653872 uh 653972_654973 father 655453_655953 .
+*PAR:	and there was a grandfather and Emily +... 657116_664202
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|grandfather cconj|and propn|Emily +...
+%gra:	1|3|CC 2|3|EXPL 3|7|ROOT 4|5|DET 5|3|NSUBJ 6|7|CC 7|5|CONJ 8|3|PUNCT
+%wor:	and 657116_657176 there 657176_657296 was 657416_657536 a 657696_657716 grandfather 657796_658617 and 661520_662921 Emily 663702_664202 +...
+*INV:	anything else ? 665035_669493
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 665035_668947 else 669007_669493 ?
+*PAR:	I can't think of anything else . [+ exc] 670088_671490
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|CASE 6|4|OBL 7|6|AMOD 8|4|PUNCT
+%wor:	I 670088_670108 can't 670168_670388 think 670428_670589 of 670629_670689 anything 670729_671029 else 671069_671490 .
+*INV:	okay , that's good . 673383_674230
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 673383_673524 , that's 673585_673867 good 673927_674230 .
+@End

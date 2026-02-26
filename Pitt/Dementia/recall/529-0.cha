@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/a-00090035-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|50;|female|MCI||Participant|27||
+@Media:	529-0, audio
+@G:	George_Immediate
+*INV:	okay , can you tell me everything you can remember about that story ? 1492020_1494949
+%mor:	intj|okay cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|13|ROOT 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|5|PUNCT
+%wor:	okay 1492020_1492240 , can 1492260_1492401 you 1492441_1492521 tell 1492561_1492722 me 1492742_1492802 everything 1492862_1493263 you 1493283_1493364 can 1493404_1493544 remember 1493584_1493986 about 1494046_1494246 that 1494286_1494447 story 1494487_1494949 ?
+*PAR:	(.) George Miller moved in <with his> [/] (.) &-um (.) with his (.) son . 1498732_1503256
+%mor:	propn|George propn|Miller verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|son .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	George 1498732_1499052 Miller 1499112_1499392 moved 1499472_1499733 in 1499793_1499893 with 1499973_1500153 his 1500233_1500493 um 1501434_1502575 with 1502575_1502656 his 1502676_1502736 son 1502756_1503256 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um (.) this &+gra granddaughter asked them about his childhood . 1513609_1521002
+%mor:	det|this-Def-Dem-Sing noun|granddaughter verb|ask-Fin-Ind-Past-S3 pron|they-Prs-Acc-P3 adp|about pron|his-Prs-Gen-S3 noun|childhood .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|IOBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	um 1513609_1513649 this 1513649_1516751 granddaughter 1517312_1518192 asked 1518312_1518573 them 1518573_1518713 about 1518793_1519173 his 1520274_1520414 childhood 1520514_1521002 .
+*PAR:	and (.) he told her about the house where he lived . 1524752_1527921
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|about det|the-Def-Art noun|house adv|where pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|3|IOBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|ADVMOD 9|10|NSUBJ 10|7|ACL-RELCL 11|3|PUNCT
+%wor:	and 1524752_1524898 he 1526079_1526139 told 1526219_1526439 her 1526459_1526539 about 1526539_1526760 the 1526800_1526880 house 1526960_1527260 where 1527320_1527500 he 1527520_1527560 lived 1527640_1527921 .
+*PAR:	and (.) he took her to see it . 1531685_1536130
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 part|to verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|MARK 6|3|ADVCL 7|6|OBJ 8|3|PUNCT
+%wor:	and 1531685_1531825 he 1533587_1533667 took 1533748_1533968 her 1534008_1534128 to 1535490_1535570 see 1535730_1535891 it 1535931_1536130 .
+*PAR:	and she was afraid of the city streets . 1538374_1541517
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|afraid-S1 adp|of det|the-Def-Art noun|city noun|street-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	and 1538374_1538494 she 1538555_1538655 was 1538735_1538915 afraid 1539095_1539596 of 1539756_1539856 the 1539957_1540077 city 1540758_1540978 streets 1541078_1541517 .
+*PAR:	but she didn't tell him . 1544723_1546126
+%mor:	cconj|but pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|tell-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+%wor:	but 1544723_1544824 she 1544884_1544964 didn't 1545024_1545244 tell 1545645_1545805 him 1545865_1546126 .
+@G:	George_Delayed
+*INV:	do you remember the story I read to you a little while ago ? 2256268_2259033
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S det|the-Def-Art noun|story-Acc pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr adp|to pron|you-Prs-Acc-S2 det|a-Ind-Art adj|little-S1 noun|while adv|ago ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|5|DET 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|CASE 9|7|OBL 10|12|DET 11|12|AMOD 12|13|OBL-UNMARKED 13|7|ADVMOD 14|3|PUNCT
+%wor:	do 2256268_2256308 you 2256308_2256388 remember 2256428_2256788 the 2256828_2256908 story 2256988_2257349 I 2257509_2257529 read 2257589_2257769 to 2257809_2257889 you 2257910_2258010 a 2258070_2258090 little 2258150_2258350 while 2258390_2258670 ago 2258690_2259033 ?
+*INV:	and I asked you to tell me everything that you remembered right after I read the story . 2259212_2262817
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Past-S2 adv|right sconj|after pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr det|the-Def-Art noun|story-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|17|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|15|ADVMOD 13|15|MARK 14|15|NSUBJ 15|11|ADVCL 16|17|DET 17|15|OBJ 18|3|PUNCT
+%wor:	and 2259212_2259271 I 2259371_2259391 asked 2259451_2259672 you 2259692_2259792 to 2259792_2259872 tell 2259932_2260112 me 2260152_2260192 everything 2260292_2260693 that 2260693_2260813 you 2260853_2260953 remembered 2261013_2261514 right 2261554_2261754 after 2261814_2261995 I 2262035_2262055 read 2262115_2262255 the 2262275_2262355 story 2262435_2262817 .
+*INV:	can you tell me everything you remember now from that story ? 2263401_2266080
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 adv|now adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|ADVMOD 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+%wor:	can 2263401_2263536 you 2263556_2263637 tell 2263657_2263837 me 2263857_2263917 everything 2263997_2264397 you 2264417_2264518 remember 2264578_2264978 now 2265018_2265218 from 2265279_2265399 that 2265439_2265599 story 2265679_2266080 ?
+*PAR:	(..) Mister Miller &=laughs went to his &-uh daughter inlaw's (.) to live . 2271684_2280592
+%mor:	propn|Mister propn|Miller verb|go-Fin-Ind-Past-S3-irr adp|to pron|his-Prs-Gen-S3 noun|daughter noun|inlaw~part|s part|to verb|live-Inf-S .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|10|ROOT 4|7|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|OBL 8|7|CASE 9|10|MARK 10|3|ADVCL 11|3|PUNCT
+%wor:	Mister 2271684_2271984 Miller 2272044_2272364 went 2274186_2274426 to 2274466_2274506 his 2274546_2274706 uh 2275827_2276348 daughter 2276348_2276648 inlaw's 2276668_2277068 to 2280091_2280171 live 2280251_2280592 .
+*PAR:	and (.) when he was there his granddaughter asked him to take (...) him [: her] [*] to see his [//] where he useta live . 2283633_2298321
+%mor:	cconj|and adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|there pron|his-Prs-Gen-S3 noun|granddaughter verb|ask-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 part|to verb|take-Inf-S pron|her-Prs-Acc-S3 part|to verb|see-Inf-S adv|where pron|he-Prs-Nom-S3 noun|useta verb|live-Fin-Ind-Pres-S3 .
+%gra:	1|8|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|8|ADVCL 6|7|NMOD-POSS 7|8|NSUBJ 8|18|ROOT 9|8|IOBJ 10|11|MARK 11|8|XCOMP 12|11|OBJ 13|14|MARK 14|11|ADVCL 15|18|ADVMOD 16|18|NSUBJ 17|18|NSUBJ 18|14|CCOMP 19|8|PUNCT
+%wor:	and 2283633_2283753 when 2286134_2286274 he 2286294_2286334 was 2286394_2286514 there 2286594_2286794 his 2286814_2286914 granddaughter 2286994_2287515 asked 2287635_2287955 him 2288035_2288135 to 2288395_2288495 take 2288615_2288975 her 2294138_2294238 to 2294378_2294458 see 2294578_2294779 his 2296239_2296459 where 2297240_2297420 he 2297460_2297520 useta 2297660_2297940 live 2297980_2298321 .
+*PAR:	his house . 2298361_2298936
+%mor:	pron|his-Prs-Gen-S3 noun|house .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%wor:	his 2298361_2298441 house 2298461_2298936 .
+*PAR:	and (.) so they got in the car and went (.) into the city . 2300944_2308735
+%mor:	cconj|and adv|so pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr adp|in det|the-Def-Art noun|car cconj|and verb|go-Fin-Ind-Past-P3-irr adp|into det|the-Def-Art noun|city .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|4|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+%wor:	and 2300944_2301064 so 2303287_2303407 they 2303487_2303628 got 2303648_2303848 in 2303888_2303928 the 2303948_2304008 car 2304068_2304329 and 2304709_2304769 went 2304769_2304969 into 2307933_2308154 the 2308194_2308274 city 2308394_2308735 .
+*PAR:	and she didn't tell him how frightened she was of the traffic and the noise in the city . 2311838_2320507
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|tell-Inf-S pron|he-Prs-Acc-S3 adv|how adj|frighten-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|of det|the-Def-Art noun|traffic cconj|and det|the-Def-Art noun|noise adp|in det|the-Def-Art noun|city .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|19|ROOT 6|5|IOBJ 7|8|ADVMOD 8|5|CCOMP 9|8|NSUBJ 10|8|COP 11|13|CASE 12|13|DET 13|8|OBL 14|16|CC 15|16|DET 16|13|CONJ 17|19|CASE 18|19|DET 19|16|NMOD 20|5|PUNCT
+%wor:	and 2311838_2311978 she 2313260_2313360 didn't 2313420_2313600 tell 2313660_2313921 him 2314342_2314482 how 2314562_2314702 frightened 2314782_2315183 she 2315243_2315343 was 2315423_2315704 of 2315784_2315904 the 2316084_2316184 traffic 2317467_2317987 and 2319089_2319189 the 2319229_2319309 noise 2319390_2319810 in 2319850_2319910 the 2319970_2320051 city 2320151_2320507 .
+*PAR:	it was a Friday . 2323316_2324106
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art propn|Friday .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	it was 2323316_2323496 a 2323556_2323576 Friday 2323676_2324106 .
+*INV:	okay . 2324539_2324597
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2324539_2324597 .
+@End

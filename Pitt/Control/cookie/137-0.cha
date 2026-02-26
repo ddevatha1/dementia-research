@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/a-00090744-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|71;|female|Control||Participant|29||
+@Media:	137-0, audio
+@G:	Cookie
+*INV:	there's the picture . 340_1140
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 340_560 the 560_640 picture 700_1140 .
+*PAR:	hm . [+ exc]
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc]
+*PAR:	this little boy has his hand in the cookie jar . 9369_12339
+%mor:	det|this-Def-Dem-Sing adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|10|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	this 9369_9494 little 9654_10015 boy 10115_10476 has 10476_11077 his 11077_11257 hand 11257_11377 in 11377_11417 the 11537_11697 cookie 11738_12038 jar 12058_12339 .
+*PAR:	he has gotten up on a stool which is tipping over . 12650_17454
+%mor:	pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adp|up adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|3|PUNCT
+%wor:	he 12650_12850 has 12850_12910 gotten 12910_13190 up 13230_13310 on 13370_13450 a 13470_13490 stool 13771_14111 which 14772_15012 is 15292_15392 tipping 16033_16534 over 16954_17454 .
+*PAR:	and sister is standing there &-uh wanting some cookies too . [+ gram] 19377_25644
+%mor:	cconj|and noun|sister aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there verb|want-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc adv|too .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|ADVMOD 6|4|ADVCL 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|4|PUNCT
+%wor:	and 19377_19597 sister 19917_20398 is 20738_20918 standing 20938_21819 there 22060_22400 uh 22520_24422 wanting 24442_24763 some 24843_25043 cookies 25043_25283 too 25423_25644 .
+%com:	phone buzzes and INV talks in background
+*PAR:	and all of this is &-uh behind the mother's back . 32315_36967
+%mor:	cconj|and det|all-Def-Tot adp|of pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adp|behind det|the-Def-Art noun|mother~part|s noun|back .
+%gra:	1|10|CC 2|10|NSUBJ 3|4|CASE 4|2|NMOD 5|10|COP 6|10|CASE 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|10|ROOT 11|10|PUNCT
+%wor:	and 32315_32415 all 32575_32775 of 32815_32955 this 32975_33275 is 33576_33696 uh 34517_34697 behind 35318_35858 the 36118_36198 mother's 36258_36599 back 36619_36967 .
+*PAR:	she's washing dishes and the &-uh water's running over . 38701_44049
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|water~part|s verb|run-Part-Pres-S adv|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|3|OBJ 5|9|CC 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|10|AMOD 10|3|ADVMOD 11|3|PUNCT
+%wor:	she's washing 38701_39161 dishes 39362_39802 and 39922_42024 the 42144_42204 uh 42405_42785 water's 42945_43406 running 43526_43826 over 43906_44049 .
+*PAR:	she must be daydreamin(g) . 44247_45267
+%mor:	pron|she-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S verb|daydream-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	she 44247_44327 must 44407_44587 be 44607_44687 daydreamin(g) 44767_45267 .
+*PAR:	the water's running &+o over onto the floor . 45389_48412
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 45389_45449 water's 45509_45829 running 45909_46230 over 46290_47631 onto 47691_47811 the 47832_47892 floor 47912_48412 .
+*PAR:	and she doesn't seem to notice it .
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to verb|notice-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+*PAR:	and there are a couple of dishes there .
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|couple adp|of noun|dish-Plur adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|3|ADVMOD 9|3|PUNCT
+*PAR:	she must be drying the dishes .
+%mor:	pron|she-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	they look dried on the counter . 63613_64714
+%mor:	pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Pres-P3 verb|dry-Part-Past-S adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+%wor:	they look 63613_63753 dried 63753_63854 on 63914_64014 the 64034_64094 counter 64214_64714 .
+*PAR:	the one in her hand I thought she had just taken out . 67721_69761
+%mor:	det|the-Def-Art noun|one adp|in pron|her-Prs-Gen-S3 noun|hand pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr adv|just verb|take-Part-Past-S-irr adp|out .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|7|NSUBJ 7|12|ROOT 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|7|CCOMP 12|11|COMPOUND-PRT 13|7|PUNCT
+%wor:	the one 67721_67881 in 68162_68342 her 68502_69761 hand I thought she had just taken out .
+*PAR:	and then back there's a yard . 71307_71929
+%mor:	cconj|and adv|then adv|back pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|yard .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|ADVMOD 4|5|EXPL 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+%wor:	and 71307_71448 then 71448_71528 back 71528_71628 there's 71628_71768 a 71768_71788 yard 71788_71929 .
+*PAR:	and a little &-uh sidewalk and another wing of the house through the window . [+ gram] 74457_78260
+%mor:	cconj|and det|a-Ind-Art adj|little-S1 noun|sidewalk cconj|and det|another-Def-Ind noun|wing-Ger adp|of det|the-Def-Art noun|house adp|through det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|13|ROOT 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CASE 12|13|DET 13|7|NMOD 14|4|PUNCT
+%wor:	and 74457_74537 a 74537_74557 little 74557_74697 uh 74697_74737 sidewalk 74737_76539 and 76539_76619 another 76619_76799 wing 76879_77080 of 77100_77160 the 77180_77260 house 77320_77500 through 77500_77660 the 77660_77720 window 77760_78260 .
+*PAR:	and <curtains> [/] &+sh curtains there she has a window above the sink which is nice . [+ gram] 81303_87030
+%mor:	cconj|and noun|curtain-Plur adv|there pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window-Acc adp|above det|the-Def-Art noun|sink pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|nice-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|2|ADVMOD 4|5|NSUBJ 5|13|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|NSUBJ 12|13|COP 13|10|ACL-RELCL 14|5|PUNCT
+%wor:	and curtains curtains there she has 81303_83046 a 83086_83106 window 85008_85369 above 85409_85629 the 85709_85789 sink 85809_85989 which 85989_86410 is 86430_86470 nice 86530_87030 .
+*PAR:	Dave Branton wrote a whole book called The window of the xxx . [+ exc] 92416_92655
+%mor:	propn|Dave propn|Branton verb|write-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|whole-S1 noun|book-Acc verb|call-Part-Past-S det|the-Def-Art noun|window adp|of det|the-Def-Art .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|11|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|6|ACL 8|9|DET 9|7|XCOMP 10|11|CASE 11|9|NMOD 12|3|PUNCT
+%wor:	Dave 92416_92655 Branton wrote a whole book called The window of the .
+*INV:	oh yeah +/?
+%mor:	intj|oh intj|yeah +/?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	she said xxx I enjoy . [+ exc]
+%mor:	pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|I-Prs-Nom-S1 verb|enjoy-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< what book did I miss ? [+ exc]
+%mor:	det|what-Def-Int noun|book-Acc aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|miss-Inf-S ?
+%gra:	1|2|DET 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*PAR:	anything ? [+ exc]
+%mor:	pron|anything-Ind-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< you did fine . 98486_98490
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr adj|fine-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%wor:	you 98486_98490 did fine .
+*PAR:	+< okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	that's great +/. 98823_99328
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|great-S1 +/.
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 98823_98867 great 98987_99328 +/.
+@End

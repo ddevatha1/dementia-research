@@ -1,0 +1,148 @@
+@UTF8
+@PID:	11312/a-00089768-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|ProbableAD||Participant|20||
+@Media:	488-0, audio
+@G:	animals
+*INV:	and you can begin now . 180_1460
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 180_260 you 260_340 can 400_520 begin 540_940 now 960_1460 .
+*PAR:	dog . 2862_3362
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 2862_3362 .
+*PAR:	cat . 4023_4523
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 4023_4523 .
+*PAR:	lion . 5091_5404
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lion 5091_5404 .
+*PAR:	elephant . 5946_6285
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 5946_6285 .
+*PAR:	girafft [: giraffe] [/] (..) girafft [: giraffe] . 7747_8967
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	giraffe 7747_8407 giraffe 8467_8967 .
+*PAR:	(.) cow . 15455_15935
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 15455_15935 .
+*PAR:	horse . 16716_17197
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 16716_17197 .
+*PAR:	mule . 18840_19339
+%mor:	noun|mule .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mule 18840_19339 .
+*PAR:	donkey . 21183_21682
+%mor:	noun|donkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	donkey 21183_21682 .
+*PAR:	(..) and (.) camel . 29698_30739
+%mor:	cconj|and noun|camel .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 29698_30239 camel 30239_30739 .
+*PAR:	(.) camel . [+ exc]
+%mor:	noun|camel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and (.) lion . 38450_41672
+%mor:	cconj|and noun|lion .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 38450_38730 lion 41172_41672 .
+*PAR:	(..) lion . [+ exc]
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) lion . [+ exc]
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) and (.) tiger . 60607_61166
+%mor:	cconj|and noun|tiger .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 60607_60666 tiger 60666_61166 .
+*INV:	good . 61850_61987
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 61850_61987 .
+*INV:	okay , now +/. 62581_63407
+%mor:	intj|okay cm|cm adv|now +/.
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|ADVMOD 4|1|PUNCT
+%wor:	okay 62581_62847 , now 62907_63407 +/.
+@G:	F
+*INV:	letter f@l . 63949_64405
+%mor:	noun|letter noun|f .
+%gra:	1|2|ROOT 2|1|NMOD-UNMARKED 3|1|PUNCT
+%wor:	letter f 63949_64405 .
+*INV:	and you can begin now . 64405_66070
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and you 64405_64428 can 64468_64608 begin 64628_65069 now 65589_66070 .
+*PAR:	fish . 67531_68030
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 67531_68030 .
+*PAR:	fire . 68589_68770
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fire 68589_68770 .
+*PAR:	(.) four . 70953_71413
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	four 70953_71413 .
+*PAR:	foot . 72091_72473
+%mor:	noun|foot .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foot 72091_72473 .
+*PAR:	foot +... [+ exc] 79017_79498
+%mor:	noun|foot +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foot 79017_79498 +...
+*PAR:	&-um (..) four . 84084_90134
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 84084_87671 four 89634_90134 .
+*PAR:	four@k . [+ exc] 91739_92220
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	four 91739_92220 .
+*PAR:	and &-um (..) fry . 94223_100647
+%mor:	cconj|and noun|fry .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 94223_94403 um 94583_94743 fry 100147_100647 .
+*PAR:	(..) fry . [+ exc] 104270_104770
+%mor:	noun|fry .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fry 104270_104770 .
+*PAR:	(.) and fill . 107492_108273
+%mor:	cconj|and verb|fill-Fin-Imp-S .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 107492_107612 fill 107792_108273 .
+*PAR:	(.) and fruit . 111616_112316
+%mor:	cconj|and noun|fruit .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 111616_111716 fruit 111816_112316 .
+*PAR:	(..) fruit . 117362_117861
+%mor:	noun|fruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fruit 117362_117861 .
+*PAR:	fish . 119544_120044
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 119544_120044 .
+*PAR:	(.) funny . 123008_123507
+%mor:	adj|funny-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	funny 123008_123507 .
+*INV:	okay , good . 123978_125691
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 123978_124149 , good 125310_125691 .
+@End

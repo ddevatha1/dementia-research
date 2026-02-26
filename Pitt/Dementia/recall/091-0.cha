@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00089884-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|88;|female|ProbableAD||Participant|19||
+@Media:	091-0, audio
+@G:	George_Immediate
+*INV:	can you tell me what you can remember about the story ? 121581_125084
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|the-Def-Art noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	can 121581_122281 you 122902_122982 tell 123022_123182 me 123202_123243 what 123283_123403 you 123423_123523 can 123563_123703 remember 123763_124164 about 124204_124424 the 124464_124544 story 124584_125084 ?
+*PAR:	George and his granddaughter went for a trip <to his [/] his farm> [//] his place . 125946_133235
+%mor:	propn|George cconj|and pron|his-Prs-Gen-S3 noun|granddaughter verb|go-Fin-Ind-Past-S3-irr adp|for det|a-Ind-Art noun|trip pron|his-Prs-Gen-S3 noun|place-Acc .
+%gra:	1|5|NSUBJ 2|4|CC 3|4|NMOD-POSS 4|1|CONJ 5|10|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|NMOD-POSS 10|5|OBJ 11|5|PUNCT
+%wor:	George 125946_126366 and 126386_126506 his 126526_126627 granddaughter 126687_127307 went 127388_127568 for 127648_127908 a 128068_128088 trip 129430_129630 to 129770_129870 his 129971_130291 his 131773_131913 farm 132013_132353 his 132414_132574 place 132754_133235 .
+*PAR:	(..) and he told her a story of his parents (.) her grandparents . 137058_141201
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 det|a-Ind-Art noun|story-Acc adp|of pron|his-Prs-Gen-S3 noun|parent-Plur pron|her-Prs-Gen-S3 noun|grandparent-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|11|NMOD-POSS 11|6|NMOD 12|3|PUNCT
+%wor:	and 137058_137138 he 137178_137258 told 137378_137698 her 137718_137818 a 137878_137898 story 137978_138419 of 138519_138599 his 138679_138899 parents 139660_140180 her 140501_140641 grandparents 140701_141201 .
+*PAR:	and she enjoyed it , I guess . 144544_146006
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|enjoy-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|PUNCT 6|7|NSUBJ 7|3|PARATAXIS 8|3|PUNCT
+%wor:	and 144544_144644 she 144704_144804 enjoyed 144885_145305 it 145345_145445 , I 145585_145605 guess 145665_146006 .
+*INV:	anything else ? 154193_155108
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 154193_154613 else 154693_155108 ?
+*PAR:	beg your pardon ? [+ exc] 156835_157338
+%mor:	verb|beg-Fin-Imp-S pron|your-Prs-Gen-S2 noun|pardon-Acc ?
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%wor:	beg 156835_156935 your 156935_157015 pardon 157015_157338 ?
+*INV:	can you remember anything else about the story ? 157338_159517
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adj|else-S1 adp|about det|the-Def-Art noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|4|AMOD 6|8|CASE 7|8|DET 8|4|NMOD 9|3|PUNCT
+%wor:	can 157338_157456 you 157496_157556 remember 157596_157896 anything 157976_158316 else 158376_158597 about 158637_158857 the 158877_158957 story 159017_159517 ?
+*PAR:	it was on &+we Thanksgiving . 160859_163000
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|on propn|Thanksgiving .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	it 160859_160919 was 160939_161059 on 161119_161239 Thanksgiving 162500_163000 .
+*INV:	mhm . 163362_163781
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 163362_163781 .
+*PAR:	and he told her the story of Thanksgiving . 164242_166123
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 det|the-Def-Art noun|story-Acc adp|of propn|Thanksgiving .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%wor:	and 164242_164362 he 164402_164462 told 164542_164782 her 164782_164882 the 164902_164982 story 165022_165343 of 165463_165563 Thanksgiving 165623_166123 .
+*INV:	mhm . 166370_166844
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 166370_166844 .
+*PAR:	and she remembered it . 167136_168286
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|remember-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	and she 167136_167225 remembered 167625_168105 it 168145_168286 .
+*INV:	mhm . 168848_169249
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 168848_169249 .
+*INV:	anything else at all that you can remember about the story ? 178452_181440
+%mor:	pron|anything-Ind-S1 adj|else-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|the-Def-Art noun|story ?
+%gra:	1|11|ROOT 2|1|AMOD 3|4|CASE 4|1|NMOD 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|1|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|1|PUNCT
+%wor:	anything 178452_178811 else 178851_179011 at 179011_179051 all 179091_179171 that 179191_179491 you 179991_180071 can 180091_180211 remember 180231_180632 about 180652_180852 the 180872_180952 story 181032_181440 ?
+*PAR:	that he told her ? [+ exc] 182033_183112
+%mor:	sconj|that pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|4|ROOT 4|3|IOBJ 5|3|PUNCT
+%wor:	that 182033_182192 he 182212_182272 told 182352_182612 her 182612_183112 ?
+*INV:	that they did or anything about the story at all . 183414_185898
+%mor:	sconj|that pron|they-Prs-Nom-P3 verb|do-Fin-Ind-Past-P3-irr cconj|or pron|anything-Ind-S1 adp|about det|the-Def-Art noun|story adp|at det|all-Def-Tot .
+%gra:	1|3|MARK 2|3|NSUBJ 3|10|ROOT 4|5|CC 5|3|CONJ 6|8|CASE 7|8|DET 8|5|NMOD 9|10|CASE 10|8|NMOD 11|3|PUNCT
+%wor:	that 183414_183514 they 183554_183674 did 183774_183954 or 184014_184094 anything 184154_184555 about 184575_184815 the 184855_184915 story 184975_185295 at 185295_185476 all 185556_185898 .
+*PAR:	and Thanksgiving . 186557_187257
+%mor:	cconj|and noun|Thanksgiving-Ger .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 186557_186697 Thanksgiving 186757_187257 .
+*PAR:	well , they'd have Thanksgiving dinner . 187558_189139
+%mor:	intj|well cm|cm pron|they-Prs-Nom-P3~aux|would-Fin-S verb|have-Inf-S noun|Thanksgiving-Ger noun|dinner-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|COMPOUND 7|5|OBJ 8|5|PUNCT
+%wor:	well 187558_187678 , they'd 187678_187838 have 187838_187998 Thanksgiving 188038_188579 dinner 188639_189139 .
+*PAR:	would they ? [+ exc] 189280_189811
+%mor:	aux|would-Fin-S pron|they-Prs-Nom-P3 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	would 189280_189399 they 189419_189811 ?
+*INV:	+< mhm . 189811_190280
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 189811_190280 .
+*INV:	okay . 190862_191361
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 190862_191361 .
+*PAR:	Thanksgiving afterwards . 191401_192482
+%mor:	noun|Thanksgiving-Ger adv|afterwards .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	Thanksgiving 191401_191902 afterwards 191982_192482 .
+@End

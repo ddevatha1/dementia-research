@@ -1,0 +1,187 @@
+@UTF8
+@PID:	11312/a-00089810-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|69;|female|PossibleAD||Participant|23||
+@Media:	681-0, audio
+@G:	animals
+*INV:	give you a minute name me all the animals you can think of . 2522_7163
+%mor:	verb|give-Fin-Imp-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute-Acc verb|name-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|13|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|XCOMP 6|5|IOBJ 7|9|DET-PREDET 8|9|DET 9|5|OBJ 10|12|NSUBJ 11|12|AUX 12|9|ACL-RELCL 13|12|OBL 14|1|PUNCT
+%wor:	give 2522_2742 you 2742_2862 a 2982_3002 minute 3002_4944 name 4944_5104 me 5164_5244 all 5464_5585 the 5685_5765 animals 5945_6405 you 6425_6526 can 6546_6666 think 6726_6926 of 6966_7163 .
+*INV:	ready ? 7186_7651
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ready 7186_7651 ?
+*INV:	go ahead . 8067_8452
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	go 8067_8167 ahead 8267_8452 .
+*PAR:	mhm . [+ exc] 8528_9027
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 8528_9027 .
+*PAR:	&-uh dog . 11270_13177
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 11270_11470 dog 12712_13177 .
+*PAR:	cat . 14173_14594
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 14173_14594 .
+*PAR:	&-um (.) a horse . 20298_23881
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	um 20298_23240 a 23280_23300 horse 23381_23881 .
+*PAR:	cow . 26484_26983
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 26484_26983 .
+*PAR:	&-um (.) pg . 32739_34725
+%mor:	noun|pg .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 32739_34444 pg 34444_34725 .
+*PAR:	&-uh &-uh (.) sheep . 47061_47782
+%mor:	noun|sheep-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 47061_47142 uh 47202_47282 sheep 47282_47782 .
+*PAR:	&-um (.) a camel . 57970_59050
+%mor:	det|a-Ind-Art noun|camel .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	um 57970_58430 a 58430_58450 camel 58550_59050 .
+*PAR:	&-uh &+ka &-uh kangaroo . 61871_62691
+%mor:	noun|kangaroo .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh uh 61871_62031 kangaroo 62191_62691 .
+*PAR:	I don't know if I said elephant@q or not . 66954_68638
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|elephant cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|7|FLAT 9|10|CC 10|8|CONJ 11|4|PUNCT
+%wor:	I don't 66954_67013 know 67033_67173 if 67173_67233 I 67273_67293 said 67393_67554 elephant@q 67654_68114 or 68114_68154 not 68154_68638 .
+*INV:	no , you didn't .
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	that's a minute . 71296_72135
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	that's 71296_71515 a 71555_71575 minute 71635_72135 .
+@G:	F
+*INV:	now I'm going to give you another minute's time . 73177_75197
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|another-Def-Ind noun|minute~part|s noun|time-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|11|NMOD-POSS 10|9|CASE 11|6|OBJ 12|4|PUNCT
+%wor:	now 73177_73237 I'm 73237_73297 going 73317_73437 to 73437_73477 give 73497_73637 you 73657_73717 another 73777_74177 minute's 74257_74618 time 74698_75197 .
+*INV:	and I want for you to name as many words as you can think of beginning with the letter f@l . 75398_80004
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 sconj|for pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|CC 2|3|NSUBJ 3|20|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|ADVMOD 9|10|AMOD 10|7|OBJ 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|7|ADVCL 15|16|MARK 16|14|ADVCL 17|19|CASE 18|19|DET 19|16|OBL 20|16|OBL-UNMARKED 21|3|PUNCT
+%wor:	and 75398_75478 I 75538_75558 want 75598_75758 for 75838_75938 you 75998_76079 to 76119_76179 name 76259_76579 as 76719_76839 many 76939_77159 words 77299_77620 as 77680_77760 you 77820_77920 can 77960_78100 think 78160_78380 of 78440_78520 beginning 78580_78961 with 79001_79141 the 79181_79281 letter 79341_79601 f 79841_80004 .
+*PAR:	mhm . [+ exc] 80004_80381
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 80004_80381 .
+*INV:	all of the words that start with the letter f@l . 81102_82988
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|word-Plur pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|10|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|NSUBJ 6|4|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|6|OBL-UNMARKED 11|1|PUNCT
+%wor:	all 81102_81222 of 81242_81302 the 81322_81402 words 81462_81682 that 81702_81822 start 81862_82123 with 82163_82263 the 82283_82363 letter 82423_82663 f 82703_82988 .
+*PAR:	alright . [+ exc] 82988_83323
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 82988_83323 .
+*INV:	no proper names of people or places and only one form of the word . 83865_88329
+%mor:	det|no-Def-Neg adj|proper-S1 noun|name-Plur adp|of noun|person-Plur cconj|or noun|place-Plur cconj|and adv|only num|one noun|form adp|of det|the-Def-Art noun|word .
+%gra:	1|3|DET 2|3|AMOD 3|14|ROOT 4|5|CASE 5|3|NMOD 6|7|CC 7|5|CONJ 8|11|CC 9|11|ADVMOD 10|11|NUMMOD 11|5|CONJ 12|14|CASE 13|14|DET 14|11|NMOD 15|3|PUNCT
+%wor:	no 83865_83925 proper 84065_84425 names 84485_84905 of 84945_85025 people 85105_85405 or 85445_85505 places 85565_86146 and 86766_86866 only 86886_87086 one 87286_87446 form 87546_87806 of 87866_87926 the 87966_88066 word 88167_88329 .
+*INV:	for instance if you gave me the word walk@q I wouldn't want you to give me walking@q and walked@q also . 88849_94122
+%mor:	adp|for noun|instance sconj|if pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Past-S2-irr pron|I-Prs-Acc-S1 det|the-Def-Art noun|word-Acc q|walk pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|give-Inf-S pron|I-Prs-Acc-S1 q|walking cconj|and q|walked adv|also .
+%gra:	1|2|CASE 2|13|OBL 3|5|MARK 4|5|NSUBJ 5|13|ADVCL 6|5|IOBJ 7|8|DET 8|5|OBJ 9|5|FLAT 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|21|ROOT 14|13|OBJ 15|16|MARK 16|13|XCOMP 17|16|IOBJ 18|16|FLAT 19|20|CC 20|18|FLAT 21|16|ADVMOD 22|13|PUNCT
+%wor:	for 88849_88947 instance 88967_89287 if 89327_89387 you 89407_89487 gave 89567_89727 me 89727_89787 the 89867_89967 word 90027_90308 walk@q 90428_91128 I 91188_91208 wouldn't 91228_91448 want 91468_91628 you 91688_91768 to 91768_91808 give 91808_91928 me 91948_92028 walking@q 92288_92849 and 92889_93009 walked@q 93089_93649 also 93709_94122 .
+*INV:	one form of the word . 94933_95829
+%mor:	num|one noun|form adp|of det|the-Def-Art noun|word .
+%gra:	1|2|NUMMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	one 94933_95050 form 95090_95270 of 95390_95430 the 95430_95490 word 95510_95829 .
+*PAR:	+< just one . [+ exc]
+%mor:	adv|just num|one .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*INV:	no proper names . 96094_97118
+%mor:	det|no-Def-Neg adj|proper-S1 noun|name-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	no 96094_96170 proper 96290_96590 names 96650_97118 .
+*INV:	everything that starts with f@l . 97475_98812
+%mor:	pron|everything-Tot-S1 pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with propn|for .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBL 5|3|OBL 6|1|PUNCT
+%wor:	everything 97475_97811 that 97811_97931 starts 97971_98231 with 98291_98431 f 98691_98812 .
+*PAR:	f@l . [+ exc]
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm . 99694_99836
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 99694_99836 .
+*INV:	I'll give you a minute . 100217_101006
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBL-UNMARKED 7|3|PUNCT
+%wor:	I'll 100217_100396 give 100436_100617 you 100637_100757 a 100757_100777 minute 100777_101006 .
+*INV:	ready ? 101620_101924
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ready 101620_101924 ?
+*INV:	go ahead . 101941_103119
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	go 101941_102763 ahead 102763_103119 .
+*PAR:	&-uh fish . 103907_106434
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 103907_104047 fish 105953_106434 .
+*INV:	mhm . 106439_106814
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 106439_106814 .
+*INV:	any word at all starting with f@l .
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot verb|start-Ger-S adp|with propn|for .
+%gra:	1|2|DET 2|7|ROOT 3|4|CASE 4|2|NMOD 5|2|ACL 6|5|OBL 7|5|OBL 8|2|PUNCT
+*PAR:	f@l . [+ exc]
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and an animal . [+ exc]
+%mor:	cconj|and det|a-Ind-Art noun|animal .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*INV:	no [/] no , any word at all .
+%mor:	intj|no cm|cm det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*PAR:	any . [+ exc]
+%mor:	det|any-Def-Ind .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	any word that starts with f@l .
+%mor:	det|any-Def-Ind noun|word pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with propn|for .
+%gra:	1|2|DET 2|6|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBL 6|4|OBL 7|2|PUNCT
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	a farm .
+%mor:	det|a-Ind-Art noun|farm .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fence . 134251_134732
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fence 134251_134732 .
+*INV:	mhm . 134772_135271
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 134772_135271 .
+*PAR:	fire . 138717_139197
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fire 138717_139197 .
+*PAR:	(..) fly . 149210_149709
+%mor:	verb|fly-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fly 149210_149709 .
+*INV:	okay , that's a minute . 164906_165754
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	okay 164906_165108 , that's 165168_165411 a 165431_165451 minute 165532_165754 .
+@End

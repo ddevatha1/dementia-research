@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/a-00090346-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|male|MCI||Participant|26||
+@Media:	033-0, audio
+@G:	Cookie
+*INV:	and there it is .
+%mor:	cconj|and pron|there-Int-S1 pron|it-Prs-Nom-S3 verb|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|CC 2|4|EXPL 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*PAR:	okay . [+ exc] 2543_2903
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2543_2903 .
+*PAR:	apparently a mother and a daughter and a son are in the kitchen . 3885_7771
+%mor:	adv|apparently det|a-Ind-Art noun|mother cconj|and det|a-Ind-Art noun|daughter cconj|and det|a-Ind-Art noun|son aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|13|ADVMOD 2|3|DET 3|13|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|9|CC 8|9|DET 9|3|CONJ 10|13|COP 11|13|CASE 12|13|DET 13|13|ROOT 14|13|PUNCT
+%wor:	apparently 3885_4466 a 4526_4546 mother 4646_4987 and 5047_5167 a 5187_5207 daughter 5267_5688 and 6129_6249 a 6289_6309 son 6490_6750 are 6850_6990 in 7010_7091 the 7111_7171 kitchen 7271_7771 .
+*PAR:	and the son is standing on the stool which is tilting . 8433_11659
+%mor:	cconj|and det|the-Def-Art noun|son aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|5|PUNCT
+%wor:	and 8433_8693 the 8733_8794 son 8934_9194 is 9395_9495 standing 9555_9996 on 10056_10136 the 10156_10216 stool 10296_10657 which 10717_10937 is 10977_11077 tilting 11178_11659 .
+*PAR:	and he has his hand in the cookie jar and handing one cookie to his sister . [+ gram] 12679_17719
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar cconj|and verb|hand-Part-Pres-S num|one noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|CC 2|3|NSUBJ 3|16|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|11|CC 11|3|CONJ 12|13|NUMMOD 13|11|OBJ 14|16|CASE 15|16|NMOD-POSS 16|11|OBL 17|3|PUNCT
+%wor:	and 12679_12779 he 12799_12859 has 12940_13241 his 13281_13401 hand 13462_13723 in 13783_13843 the 13863_13944 cookie 14004_14285 jar 14365_14807 and 15289_15570 handing 15711_16072 one 16213_16333 cookie 16393_16674 to 16775_16855 his 16955_17096 sister 17297_17719 .
+*PAR:	&-uh at the same time the mother is &-uh doing dishes and apparently looking out the windo(w) because &-uh she has &-uh allowed the sink to run over and it's &-uh &-uh cascading onto the floor and her feet . 17743_33763
+%mor:	adp|at det|the-Def-Art adj|same-S1 noun|time det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc cconj|and adv|apparently verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc sconj|because pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|allow-Part-Past-S det|the-Def-Art noun|sink-Acc part|to verb|run-Inf-S adp|over cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|cascade-Part-Pres-S adp|onto det|the-Def-Art noun|floor cconj|and pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|AUX 8|34|ROOT 9|8|OBJ 10|12|CC 11|12|ADVMOD 12|8|CONJ 13|12|COMPOUND-PRT 14|15|DET 15|12|OBJ 16|19|MARK 17|19|NSUBJ 18|19|AUX 19|8|ADVCL 20|21|DET 21|19|OBJ 22|23|MARK 23|19|XCOMP 24|23|COMPOUND-PRT 25|28|CC 26|28|NSUBJ 27|28|AUX 28|19|CONJ 29|31|CASE 30|31|DET 31|28|OBL 32|34|CC 33|34|NMOD-POSS 34|31|CONJ 35|8|PUNCT
+%wor:	uh 17743_17843 at 18724_18804 the 18864_18924 same 19004_19284 time 19345_19885 the 19985_20065 mother 20146_20486 is 20746_21247 uh 21507_21607 doing 21627_21928 dishes 21948_22388 and 22428_22528 apparently 22569_23029 looking 23109_23410 out 23470_23590 the 23650_23710 windo(w) 23770_25112 because 25112_25853 uh 25933_26073 she 26173_26273 has 26333_26574 uh 26614_26774 allowed 26834_27515 the 27575_27695 sink 28095_28356 to 28476_28576 run 29257_29437 over 29517_29838 and 30078_30238 it's 30278_30478 uh 30659_31079 uh 31319_31440 cascading 31440_32100 onto 32160_32341 the 32381_32461 floor 32541_32821 and 32901_33002 her 33142_33302 feet 33502_33763 .
+*PAR:	&-uh she has [/] &-uh (.) has &-uh dried a few dishes &-uh two cups and a plate and is &-uh attempting to dry another plate now . 34913_44103
+%mor:	pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|dry-Part-Past-S det|a-Ind-Art adj|few-S1 noun|dish-Plur-Acc num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|plate cconj|and aux|be-Fin-Ind-Pres-S3 verb|attempt-Part-Pres-S part|to verb|dry-Inf-S det|another-Def-Ind noun|plate-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|19|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|NUMMOD 8|3|OBJ 9|11|CC 10|11|DET 11|8|CONJ 12|14|CC 13|14|AUX 14|3|CONJ 15|16|MARK 16|14|XCOMP 17|18|DET 18|16|OBJ 19|16|ADVMOD 20|3|PUNCT
+%wor:	uh 34913_34953 she 34993_35073 has 35173_35393 uh 37115_37495 has 37515_37615 uh 37676_38556 dried 38617_39037 a 39117_39137 few 39237_39457 dishes 39678_40138 uh 40218_40318 two 40398_40559 cups 40619_40899 and 40959_41039 a 41079_41099 plate 41159_41500 and 41560_41660 is 41720_41900 uh 41900_41960 attempting 42000_42501 to 42561_42641 dry 42741_42981 another 43041_43322 plate 43382_43662 now 43702_44103 .
+*PAR:	and she's looking out into the yard which I could see the driveway and maybe the end of the house or the garage with a lot of shrubbery around it . 44765_53005
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out adp|into det|the-Def-Art noun|yard pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|could-Fin-S verb|see-Inf-S det|the-Def-Art noun|driveway-Acc cconj|and adv|maybe det|the-Def-Art noun|end adp|of det|the-Def-Art noun|house cconj|or det|the-Def-Art noun|garage adp|with det|a-Ind-Art noun|lot adp|of noun|shrubbery adp|around pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|31|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|12|OBJ 10|12|NSUBJ 11|12|AUX 12|8|ACL-RELCL 13|14|DET 14|12|OBJ 15|18|CC 16|18|ADVMOD 17|18|DET 18|14|CONJ 19|21|CASE 20|21|DET 21|18|NMOD 22|24|CC 23|24|DET 24|21|CONJ 25|27|CASE 26|27|DET 27|24|NMOD 28|29|CASE 29|27|NMOD 30|31|CASE 31|27|NMOD 32|4|PUNCT
+%wor:	and 44765_44845 she's 44885_45085 looking 45145_45445 out 45545_45705 into 45766_46046 the 46266_46346 yard 46426_46847 which 46887_47067 I 47147_47187 could 47187_47347 see 47407_47567 the 47587_47668 driveway 48068_48689 and 48949_49069 maybe 49129_49429 the 49529_49650 end 49950_50050 of 50090_50130 the 50150_50250 house 50290_50651 or 50711_50771 the 50791_50871 garage 50911_51411 with 51471_51632 a 51652_51672 lot 51712_51892 of 51912_51972 shrubbery 52012_52472 around 52532_52853 it 52913_53005 .
+*INV:	okay good . 54456_55456
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 54456_54915 good 55035_55456 .
+@End

@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/a-00090865-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|female|Control||Participant|28||
+@Media:	627-0, audio
+@G:	Cookie
+*INV:	what I want you to do is to look at this picture and tell me everything that you see going on . 1841_6810
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|9|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|COP 8|9|MARK 9|21|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|CC 14|9|CONJ 15|14|IOBJ 16|14|OBJ 17|20|OBJ 18|19|NSUBJ 19|16|ACL-RELCL 20|19|XCOMP 21|20|COMPOUND-PRT 22|9|PUNCT
+%wor:	what 1841_1941 I 2001_2021 want 2041_2201 you 2201_2281 to 2301_2361 do 2401_2501 is 3181_3262 to 3282_3362 look 3402_3542 at 3562_3622 this 3642_3782 picture 3842_4202 and 4923_5023 tell 5043_5203 me 5223_5283 everything 5403_5803 that 5823_5923 you 5923_6003 see 6043_6164 going 6204_6464 on 6564_6810 .
+*INV:	everything that you see happening in that picture . 7305_9720
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+%wor:	everything 7305_7625 that 7625_7725 you 7745_7825 see 7885_8005 happening 8065_8505 in 9046_9106 that 9146_9286 picture 9346_9720 .
+*PAR:	beginning now ? [+ exc] 11450_12050
+%mor:	verb|begin-Part-Pres-S adv|now ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	beginning 11450_11768 now 11808_12050 ?
+*INV:	yeah . 12268_12420
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 12268_12420 .
+*PAR:	boy is getting [//] reaching for cookies . [+ gram] 12828_14530
+%mor:	noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	boy 12828_13028 is 13088_13129 getting 13189_13489 reaching 13609_13889 for 13909_14009 cookies 14089_14530 .
+*PAR:	the stool is falling over . 14630_15920
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 14630_14710 stool 14770_15111 is 15191_15231 falling 15291_15672 over 15752_15920 .
+*PAR:	his sister is reaching at [//] &-uh for cookies . 16033_19278
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	his 16033_16193 sister 16513_16854 is 16874_16934 reaching 17034_17415 at 18317_18437 uh 18497_18598 for 18598_18698 cookies 18778_19278 .
+*PAR:	&-uh &+s woman's wiping the dishes . [+ gram] 21804_23502
+%mor:	noun|woman~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	uh 21804_21945 woman's 22125_22466 wiping 22526_22907 the 22927_22987 dishes 23067_23502 .
+*PAR:	the sink is running over . 23548_24851
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 23548_23628 sink 23708_23949 is 23989_24089 running 24189_24510 over 24590_24851 .
+*PAR:	&-um curtains &-um are blowing a little bit but not much . [+ gram] 28041_32821
+%mor:	noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S det|a-Ind-Art adj|little-S1 noun|bit cconj|but part|not adv|much .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|6|DET 5|6|AMOD 6|3|OBL-UNMARKED 7|9|CC 8|9|ADVMOD 9|3|CONJ 10|3|PUNCT
+%wor:	um 28041_28241 curtains 29561_30102 um 30862_30922 are 30962_31062 blowing 31082_31442 a 31482_31502 little 31542_31742 bit 31782_31922 but 31982_32082 not 32142_32303 much 32363_32821 .
+*PAR:	the boy is stepping on one of his own toes . 34830_37505
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|on num|one adp|of pron|his-Prs-Gen-S3 adj|own-S1 noun|toe-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|CASE 6|4|OBL 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|6|NMOD 11|4|PUNCT
+%wor:	the 34830_34904 boy 34944_35164 is 35224_35264 stepping 35344_35764 on 35844_35964 one 36324_36425 of 36445_36505 his 36545_36665 own 36725_36885 toes 37005_37505 .
+*PAR:	&-uh the little girl's telling him to +"/. 39504_42708
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to +"/.
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|IOBJ 7|5|XCOMP 8|5|PUNCT
+%wor:	uh 39504_41667 the 41667_41747 little 41747_41887 girl's 41887_42207 telling 42267_42587 him 42587_42647 to 42647_42708 +"/.
+*PAR:	+" be [/] &+q be quiet . 44010_44426
+%mor:	aux|be-Fin-Imp-S adj|quiet-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	be 44010_44050 be 44050_44110 quiet 44130_44426 .
+*PAR:	+" don't let mommy see . 44602_45432
+%mor:	aux|do-Fin-Imp-S~part|not verb|let-Fin-Imp-S noun|mommy-Acc verb|see-Inf-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%wor:	don't 44602_44751 let 44771_44871 mommy 44891_45011 see 45011_45432 .
+*INV:	and that's everything then ? 49479_50449
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1 adv|then ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and that's everything 49479_50449 then ?
+*PAR:	that's about it yeah . [+ exc] 50799_51480
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 intj|yeah .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+%wor:	that's 50799_50939 about 50959_51199 it 51199_51239 yeah 51239_51480 .
+@End

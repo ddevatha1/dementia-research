@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/a-00089906-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|84;|male|ProbableAD||Participant|17||
+@Media:	157-1, audio
+@G:	George_Immediate
+*INV:	can you tell me anything at all from that story ? 0_3050
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 adp|at det|all-Def-Tot adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|IOBJ 5|3|OBJ 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%wor:	can 0_781 you 781_881 tell 921_1181 me 1181_1221 anything 1702_2022 at 2022_2062 all 2303_2383 from 2383_2503 that 2503_2603 story 2683_3050 ?
+*PAR:	<I didn't> [//] I don't remember you doing that . [+ exc] 3124_5978
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S pron|you-Prs-Nom-S2 verb|do-Ger-S pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|NSUBJ 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+%wor:	I 3124_3144 didn't 3384_3584 I 3625_3645 don't 3705_4105 remember 4205_5888 you 5968_5978 doing that .
+*INV:	it was a little while ago . 6869_8274
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|little-S1 noun|while adv|ago .
+%gra:	1|6|NSUBJ 2|6|COP 3|5|DET 4|5|AMOD 5|6|OBL-UNMARKED 6|6|ROOT 7|6|PUNCT
+%wor:	it 6869_6929 was 6949_7009 a 7089_7109 little 7109_7510 while 8031_8274 ago .
+*PAR:	no . [+ exc] 8752_9252
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 8752_9252 .
+*INV:	remember me reading you a little story ? 9554_12034
+%mor:	verb|remember-Fin-Imp-S pron|I-Prs-Acc-S1 verb|read-Ger-S pron|you-Prs-Acc-S2 det|a-Ind-Art adj|little-S1 noun|story-Acc ?
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|7|DET 6|7|AMOD 7|3|OBJ 8|1|PUNCT
+%wor:	remember 9554_10815 me 10835_10895 reading 10955_11315 you 11355_11576 a 11576_11596 little 11676_12034 story ?
+*PAR:	no . [+ exc] 12897_12938
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 12897_12938 .
+@G:	George_Delayed
+*INV:	can you think of anything at all that you might have heard this afternoon from the short story ? 12938_17738
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|might-Fin-S aux|have-Inf-S verb|hear-Part-Past-S-irr det|this-Def-Dem-Sing noun|afternoon adp|from det|the-Def-Art adj|short-S1 noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|18|ROOT 4|5|CASE 5|3|OBL 6|7|CASE 7|5|NMOD 8|12|OBJ 9|12|NSUBJ 10|12|AUX 11|12|AUX 12|5|ACL-RELCL 13|14|DET 14|12|OBL-UNMARKED 15|18|CASE 16|18|DET 17|18|AMOD 18|12|OBL 19|3|PUNCT
+%wor:	can 12938_13078 you 13238_14719 think 14759_15019 of 15099_15299 anything 15720_17738 at all that you might have heard this afternoon from the short story ?
+*PAR:	from a short story ? [+ exc]
+%mor:	adp|from det|a-Ind-Art adj|short-S1 noun|story ?
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*PAR:	no xxx . [+ exc] 26429_26588
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 26429_26588 .
+*INV:	tell you what .
+%mor:	verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 pron|what-Int-S1 .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+@G:	George_Questions
+*INV:	let me ask you some questions to see if that helps you remember what the story was about . 27590_31740
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|ask-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind noun|question-Plur-Acc part|to verb|see-Inf-S sconj|if pron|that-Dem verb|help-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 verb|remember-Inf-S pron|what-Int-S1 det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about .
+%gra:	1|18|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|6|DET 6|3|OBJ 7|8|MARK 8|3|ADVCL 9|11|MARK 10|11|NSUBJ 11|8|CCOMP 12|11|OBJ 13|11|XCOMP 14|13|CCOMP 15|16|DET 16|14|NSUBJ 17|14|COP 18|14|CASE 19|1|PUNCT
+%wor:	let 27590_27810 me 27950_28070 ask 28350_28570 you 28690_29411 some 29471_30712 questions 30892_31740 to see if that helps you remember what the story was about .
+*INV:	can you tell me who is the story about ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|who-Int aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|story adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|8|NSUBJ 6|8|COP 7|8|DET 8|3|CCOMP 9|3|PUNCT 10|3|PUNCT
+*INV:	who are the names of the people in the story ?
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|name-Plur adp|of det|the-Def-Art noun|person-Plur adp|in det|the-Def-Art noun|story ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|10|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CASE 9|10|DET 10|7|NMOD 11|4|PUNCT
+*INV:	who is the story about ?
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|story adp|about ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+*PAR:	I don't know . [+ exc] 42299_42459
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I don't know 42299_42459 .
+*INV:	okay , what time of the year did George move in with his son's family ? 42560_46822
+%mor:	intj|okay cm|cm det|what-Def-Int noun|time-Acc adp|of det|the-Def-Art noun|year aux|do-Fin-Ind-Past-S3-irr propn|George verb|move-Inf-S adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|4|DET 4|10|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|AUX 9|10|NSUBJ 10|16|ROOT 11|10|COMPOUND-PRT 12|16|CASE 13|14|NMOD-POSS 14|16|NMOD-POSS 15|14|CASE 16|10|OBL 17|10|PUNCT
+%wor:	okay 42560_42640 , what 42640_42980 time 43040_43220 of 43220_43260 the 43360_43560 year 43660_44020 did 44040_44160 George 44180_44480 move 44520_44901 in 44921_45001 with 45201_45581 his 46361_46501 son's 46581_46822 family ?
+*PAR:	in the fall . 47422_48291
+%mor:	adp|in det|the-Def-Art noun|fall .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	in 47422_47462 the 47742_47802 fall 47842_48291 .
+*INV:	what were George's stories about ? 48975_50543
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur adp|about ?
+%gra:	1|6|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|CASE 7|1|PUNCT
+%wor:	what 48975_48983 were 48983_49123 George's 49303_49623 stories 49663_50043 about 50043_50543 ?
+*PAR:	about life and &-uh the [/] the last generation . 53185_54565
+%mor:	adp|about noun|life cconj|and det|the-Def-Art adj|last-S1 noun|generation .
+%gra:	1|2|CASE 2|6|ROOT 3|6|CC 4|6|DET 5|6|AMOD 6|2|CONJ 7|2|PUNCT
+%wor:	about life and uh the the 53185_53305 last 53305_53705 generation 54065_54565 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	which George was part of it .
+%mor:	pron|which-Rel-S1 propn|George aux|be-Fin-Ind-Past-S3-irr noun|part adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*INV:	what did Melanie ask George to do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+*PAR:	to either put up or shut up &=laughs . 67923_74528
+%mor:	part|to cconj|either verb|put-Inf-S adp|up cconj|or verb|shut-Inf-S adp|up .
+%gra:	1|3|MARK 2|3|CC-PRECONJ 3|7|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|6|COMPOUND-PRT 8|3|PUNCT
+%wor:	to 67923_68383 either 68503_69484 put 69904_70105 up 70245_71766 or 72166_72507 shut 73047_73988 up 74028_74528 .
+*INV:	why did George hold Melanie's hand tightly ? 75500_78379
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr propn|George verb|hold-Inf-S propn|Melanie~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	why did George 75500_76110 hold 76170_77231 Melanie's 77371_77892 hand 77952_78212 tightly 78252_78379 ?
+*PAR:	he liked her . 80314_80975
+%mor:	pron|he-Prs-Nom-S3 verb|like-Fin-Ind-Past-S3 pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	he 80314_80374 liked 80434_80734 her 80734_80975 .
+@End

@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00090838-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|Control||Participant|29||
+@Media:	280-0, audio
+@G:	Cookie
+*INV:	what do you see going on in that picture ? 670_2440
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+%wor:	what 670_770 do 770_810 you 830_910 see 990_1150 going 1190_1470 on 1530_1670 in 1710_1750 that 1790_1910 picture 1970_2440 ?
+*PAR:	oh I see the sink is running over . 3251_5790
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|ADVMOD 9|3|PUNCT
+%wor:	oh 3251_3511 I 3792_3812 see 4052_4212 the 4252_4332 sink 4452_4712 is 4852_5032 running 5113_5393 over 5453_5790 .
+*PAR:	and I see the stool is tipping over . 7454_9820
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|3|PUNCT
+%wor:	and 7454_7554 I 7614_7634 see 7734_7914 the 7974_8075 stool 8495_8775 is 8815_8895 tipping 8955_9275 over 9355_9820 .
+*PAR:	the little boy is trying to get cookies out . 9978_12478
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|out .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|COMPOUND-PRT 10|5|PUNCT
+%wor:	the 9978_10296 little 10296_10536 boy 10596_10816 is 10896_10936 trying 11037_11357 to 11357_11397 get 11397_11537 cookies 11617_12017 out 12117_12478 .
+*PAR:	the little girl is (.) reaching to get a cookie . 13050_17440
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+%wor:	the 13050_13130 little 13130_13330 girl 13330_13770 is 14030_14270 reaching 16111_16492 to 16552_16632 get 16692_16852 a 16892_16912 cookie 16972_17440 .
+*PAR:	the mother is drying dishes . 17652_19213
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the 17652_17732 mother 17792_18053 is 18073_18193 drying 18273_18633 dishes 18713_19213 .
+*PAR:	the window's open . 20494_21487
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 20494_20574 window's 20614_21014 open 21114_21487 .
+*PAR:	<did I say> [/] did I say she's washing ? [+ exc] 24456_25877
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|3|PUNCT
+%wor:	did 24456_24516 I 24636_24656 say 24656_24757 did 24757_24957 I 24977_24997 say 25137_25237 she's 25297_25437 washing 25517_25877 ?
+*PAR:	oh she's drying dishes now . 26037_27062
+%mor:	intj|oh pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc adv|now .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	oh 26037_26117 she's 26157_26277 drying 26317_26598 dishes 26598_26918 now 26958_27062 .
+*PAR:	that's goin(g) up . [+ es] 27309_27999
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|up .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	that's 27309_27518 goin(g) 27618_27938 up 27938_27999 .
+*PAR:	and she's standing in the water . 29301_30651
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 29301_29381 she's 29441_29621 standing 29641_30062 in 30082_30142 the 30162_30242 water 30302_30651 .
+*PAR:	I think the cupboard door is open . 38818_40380
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|DET 4|5|COMPOUND 5|7|NSUBJ 6|7|COP 7|2|CCOMP 8|2|PUNCT
+%wor:	I 38818_38838 think 38859_39179 the 39179_39239 cupboard 39299_39580 door 39620_39860 is 39900_39981 open 40081_40380 .
+*PAR:	and there's a cookie jar . 41236_42065
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|3|CC 2|3|EXPL 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|NSUBJ 7|3|PUNCT
+%wor:	and there's a cookie 41236_41564 jar 41584_42065 .
+*PAR:	the lid is leaning against the cookie jar . 44790_46637
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 verb|lean-Part-Pres-S adp|against det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	the 44790_44850 lid 44910_45070 is 45110_45210 leaning 45310_45630 against 45670_45950 the 46030_46090 cookie 46130_46410 jar 46430_46637 .
+*PAR:	this is curtains on the window . 48709_50412
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|curtain-Plur adp|on det|the-Def-Art noun|window .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	this 48709_49071 is 49132_49212 curtains 49212_49592 on 49652_49732 the 49752_49832 window 49912_50412 .
+*PAR:	I can see the grass and some shrubbery outside and the house next door . 53418_57856
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|grass-Acc cconj|and det|some-Def-Ind noun|shrubbery adv|outside cconj|and det|the-Def-Art noun|house adj|next-S1 noun|door .
+%gra:	1|3|NSUBJ 2|3|AUX 3|14|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|3|ADVMOD 10|14|CC 11|12|DET 12|14|COMPOUND 13|14|AMOD 14|5|CONJ 15|3|PUNCT
+%wor:	I 53418_53433 can 53473_53614 see 53714_53914 the 53974_54094 grass 54274_54934 and 55154_55294 some 55414_55594 shrubbery 55715_56155 outside 56255_56875 and 56935_56995 the 56995_57055 house 57095_57335 next 57395_57655 door 57675_57856 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	kitchen cabinets . [+ gram] 60164_61004
+%mor:	noun|kitchen noun|cabinet-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	kitchen 60164_60424 cabinets 60524_61004 .
+*PAR:	(.) is that it ? [+ exc] 65288_65486
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 65288_65326 that 65326_65486 it ?
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	they'll [//] I see three people in there , a mother and little boy and a girl . 69193_72389
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 num|three noun|person-Plur-Acc adp|in adv|there cm|cm det|a-Ind-Art noun|mother cconj|and adj|little-S1 noun|boy cconj|and det|a-Ind-Art noun|girl .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|4|NUMMOD 4|2|OBJ 5|6|CASE 6|2|OBL 7|9|PUNCT 8|9|DET 9|4|CONJ 10|12|CC 11|12|AMOD 12|9|CONJ 13|15|CC 14|15|DET 15|9|CONJ 16|2|PUNCT
+%wor:	they'll 69193_69407 I 69427_69447 see 69547_69667 three 69707_69907 people 69968_70248 in 70368_70448 there 70468_70708 , a 70708_70728 mother 70768_71028 and 71048_71108 little 71108_71808 boy 71848_72008 and 72048_72108 a 72128_72148 girl 72208_72389 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(.) is that it ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@End

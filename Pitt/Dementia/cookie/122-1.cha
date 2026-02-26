@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/a-00090403-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|71;|female|ProbableAD||Participant|17||
+@Media:	122-1, audio
+@G:	Cookie
+*INV:	tell me all the action goin(g) on in that picture . 2134_4318
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|5|ACL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 2134_2235 me 2235_2316 all 2397_2518 the 2579_2659 action 2761_3044 goin(g) 3064_3327 on 3327_3488 in 3488_3590 that 3590_3772 picture 3832_4318 .
+*INV:	(...) can you tell me the action that you see going on in that picture ? 19382_22543
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|action-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|14|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|10|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|3|PUNCT
+%wor:	can 19382_19502 you 19522_19602 tell 19682_19882 me 19922_19982 the 20042_20122 action 20302_20682 that 20702_20802 you 20862_20942 see 21042_21202 going 21262_21542 on 21583_21723 in 21763_21823 that 21843_22003 picture 22043_22543 ?
+*PAR:	I see a tad bit . [+ exc] 24104_24925
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|tad-S1 noun|bit-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%wor:	I 24104_24124 see 24224_24424 a 24424_24444 tad 24604_24724 bit 24804_24925 .
+*PAR:	and somebody is doin(g) [//] dryin(g) dishes . 26925_28838
+%mor:	cconj|and pron|somebody-Ind-S1 aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	and 26925_27005 somebody 27145_27485 is 27485_27585 doin(g) 27685_28106 dryin(g) 28106_28446 dishes 28446_28838 .
+*INV:	okay good . 29445_30287
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 29445_29746 good 29826_30287 .
+*PAR:	<no I can't> [/] no I can't get this very well , clear . [+ exc] 38451_40110
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|get-Inf-S pron|this-Dem-S1 adv|very adv|well cm|cm adj|clear-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|8|ADVMOD 8|5|ADVMOD 9|10|PUNCT 10|5|PARATAXIS 11|5|PUNCT
+%wor:	no 38451_38492 I 38552_38572 can't 38572_38732 no 38793_38873 I 38873_38893 can't 38893_38993 get 38993_39054 this 39074_39154 very 39154_39234 well 39234_39375 , clear 39616_40110 .
+*INV:	what else can you see going on in that picture ? 42124_44212
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|6|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|5|PUNCT
+%wor:	what 42124_42225 else 42285_42425 can 42465_42586 you 42606_42706 see 42766_42907 going 42967_43248 on 43328_43429 in 43509_43569 that 43589_43730 picture 43790_44212 ?
+*PAR:	(...) well someone's standing on a stool and the stool is gettin(g) ready to fall over . 50229_55174
+%mor:	intj|well pron|someone-Ind-S1~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|ready-S1 part|to verb|fall-Inf-S adv|over .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|12|XCOMP 14|15|MARK 15|13|XCOMP 16|15|ADVMOD 17|4|PUNCT
+%wor:	well 50229_50349 someone's 50409_50789 standing 50829_51330 on 51370_51470 a 51550_51570 stool 51670_52191 and 52291_52391 the 52411_52471 stool 52551_52912 is 52912_53052 gettin(g) 53152_53452 ready 53452_53672 to 53773_53853 fall 54333_54594 over 54674_55174 .
+*INV:	okay . 55836_55934
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 55836_55934 .
+*PAR:	(...) it's [//] &-mm &=sniff well somebody's dryin(g) dishes . 63516_66455
+%mor:	intj|well pron|somebody-Ind-S1~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|5|DISCOURSE 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	it's 63516_63596 mm 63596_63657 well 63657_63777 somebody's 63777_64220 dryin(g) 64260_66032 dishes 66032_66455 .
+*INV:	(..) can you see anything else goin(g) on over here ? 86999_91098
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|3|PUNCT
+%wor:	can 86999_87139 you 87159_87220 see 87501_87642 anything 87702_88105 else 88125_88668 goin(g) 88708_89553 on 89553_89734 over 90357_90538 here 90598_91098 ?
+*PAR:	no I don't see anything else goin(g) on over here . [+ exc] 102569_105452
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|over adv|here .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|11|ROOT 6|5|OBJ 7|6|AMOD 8|6|ACL 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|5|PUNCT
+%wor:	no 102569_102789 I 102889_102909 don't 103029_103250 see 103370_103530 anything 103570_103971 else 104031_104271 goin(g) 104311_104491 on 104491_104572 over 104612_104952 here 104952_105452 .
+*PAR:	I'm [/] I'm thinkin(g) now maybe the water's &+r overrunning . 105610_112223
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|think-Part-Pres-S adv|now adv|maybe det|the-Def-Art noun|water~part|s noun|overrunning-Acc-Ger .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|ADVMOD 5|9|ADVMOD 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|3|OBJ 10|3|PUNCT
+%wor:	I'm I'm 105610_109880 thinkin(g) 110180_110521 now 110521_110681 maybe 110741_111001 the 111041_111121 water's 111202_111822 overrunning 111822_112223 .
+*PAR:	I'm not too sure . [+ exc] 112509_113639
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|too adj|sure-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	I'm 112509_112684 not 112744_112924 too 113024_113185 sure 113305_113639 .
+*INV:	okay . 114007_114486
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 114007_114486 .
+*PAR:	there's some water on the floor here . 118926_120636
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|water adp|on det|the-Def-Art noun|floor adv|here .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|ADVMOD 9|2|PUNCT
+%wor:	there's 118926_119066 some 119086_119266 water 119266_119467 on 119507_119567 the 119567_119788 floor 119868_120269 here 120289_120636 .
+*PAR:	and there's some in the sink that's overrunnin(g) . 121231_123254
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind adp|in det|the-Def-Art noun|sink pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|overrunn-Part-Pres-S .
+%gra:	1|3|CC 2|3|EXPL 3|10|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|3|PUNCT
+%wor:	and there's 121231_121632 some 121672_121932 in 121952_121993 the 121993_122093 sink 122233_122494 that's 122494_122714 overrunnin(g) 122754_123254 .
+*INV:	okay good . 134840_135724
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 134840_135123 good 135224_135724 .
+@End

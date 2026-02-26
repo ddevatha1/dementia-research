@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/a-00090321-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|59;|male|ProbableAD||Participant|11||
+@Media:	001-2, audio
+@G:	Cookie
+*INV:	you see going on in the picture . 510_1790
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+%wor:	you 510_610 see 710_870 going 950_1230 on 1290_1370 in 1430_1470 the 1490_1570 picture 1610_1790 .
+*INV:	tell me all the action . 2031_3532
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc .
+%gra:	1|5|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|1|PUNCT
+%wor:	tell 2031_2191 me 2231_2291 all 2511_2671 the 2711_2811 action 3032_3532 .
+*PAR:	mhm . 3712_3972
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 3712_3972 .
+*INV:	okay ? 4493_4993
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 4493_4993 ?
+*PAR:	there's a young boy &-uh going in a cookie jar . 5273_10217
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|boy verb|go-Ger-S adp|in det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|10|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|2|PUNCT
+%wor:	there's 5273_5534 a 5594_5614 young 5914_6154 boy 6254_6574 uh 7815_8496 going 8516_8796 in 8836_8876 a 8916_8936 cookie 9317_9637 jar 9717_10217 .
+*PAR:	and there's a [/] &+lit a girl [//] young girl . 11178_13040
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|girl .
+%gra:	1|3|CC 2|3|EXPL 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|3|PUNCT
+%wor:	and 11178_11298 there's 11298_11458 a 11518_11538 a 11718_11738 girl 11819_12079 young 12219_12459 girl 12559_13040 .
+*PAR:	and I'm sayin(g) he's a boy (be)cause <you can> [//] &+hard it's hardly [//] hard to tell anymore . 14413_18873
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|say-Part-Pres-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 part|to verb|tell-Inf-S adv|anymore .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|8|NSUBJ 6|8|COP 7|8|DET 8|4|CCOMP 9|12|MARK 10|12|EXPL 11|12|COP 12|4|ADVCL 13|14|MARK 14|12|CSUBJ 15|14|ADVMOD 16|4|PUNCT
+%wor:	and 14413_14613 I'm 15415_15535 sayin(g) 15656_15916 he's 15916_16037 a 16077_16097 boy 16157_16458 (be)cause 16458_16959 you 16959_17039 can 17059_17219 it's 17239_17380 hardly 17420_17660 hard 18001_18162 to 18182_18242 tell 18302_18523 anymore 18583_18873 .
+*INV:	&=laughs .
+*PAR:	&-uh and he's [/] he's in the &+c &+t cookie jar . 20106_23475
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	uh 20106_20207 and 20227_21650 he's 21670_21891 he's 21951_22111 in 22131_22191 the 22592_22673 cookie 22733_23013 jar 23053_23475 .
+*PAR:	and there's a &+s stool that he is on and it already is starting to fall over . 23682_30392
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|on cconj|and pron|it-Prs-Nom-S3 adv|already aux|be-Fin-Ind-Pres-S3 verb|start-Part-Pres-S part|to verb|fall-Inf-S adv|over .
+%gra:	1|3|CC 2|3|EXPL 3|17|ROOT 4|5|DET 5|3|NSUBJ 6|9|OBJ 7|9|NSUBJ 8|9|COP 9|5|ACL-RELCL 10|14|CC 11|14|NSUBJ 12|14|ADVMOD 13|14|AUX 14|3|CONJ 15|16|MARK 16|14|XCOMP 17|16|ADVMOD 18|3|PUNCT
+%wor:	and 23682_23822 there's 23822_24002 a 24082_24102 stool 24503_24884 that 25585_25765 he 26146_26246 is 26366_26466 on 26867_27188 and 27688_27849 it 27909_27989 already 28269_28650 is 28890_28991 starting 29091_29492 to 29532_29592 fall 29712_30032 over 30113_30392 .
+*PAR:	and so is the water in the sink &-uh is &+ev overflowing in the sink . [+ gram] 30994_36504
+%mor:	cconj|and adv|so aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|10|CC 2|10|ADVMOD 3|10|COP 4|5|DET 5|10|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|10|AUX 10|13|ROOT 11|13|CASE 12|13|DET 13|10|OBL 14|10|PUNCT
+%wor:	and 30994_31094 so 31174_31275 is 31395_31475 the 31515_31595 water 31675_32116 in 32316_32396 the 32437_32517 sink 33078_33378 uh 33378_33418 is 34560_34680 overflowing 35161_35862 in 35923_35963 the 36003_36083 sink 36183_36504 .
+*INV:	okay anything else ?
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	&-hm I [/] I don't know about the [//] this hickey here I [//] whether that's more than what I said . [+ es] 42013_45667
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adp|about det|this-Def-Dem-Sing noun|hickey adv|here sconj|whether pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 adp|than pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|16|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVMOD 9|12|MARK 10|12|NSUBJ 11|12|COP 12|4|ADVCL 13|14|CASE 14|12|OBL 15|16|NSUBJ 16|14|ACL-RELCL 17|4|PUNCT
+%wor:	hm 42013_42053 I 42053_42073 I 42093_42113 don't 42113_42213 know 42213_42313 about 42353_42553 the 42593_42673 this 43093_43253 hickey 43293_43573 here 43633_43833 I 43953_43973 whether 44033_44254 that's 44294_44554 more 44654_44854 than 44874_44994 what 45114_45234 I 45314_45354 said 45434_45667 .
+*PAR:	&-uh like <it &-uh the wife or &+g , I mean> [//] &-uh the [/] the mother is near the girl . 46975_52597
+%mor:	sconj|like det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adp|near det|the-Def-Art noun|girl .
+%gra:	1|7|MARK 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+%wor:	uh like 46975_47215 it 47295_47335 uh 47375_47415 the 47515_47575 wife 47675_48035 or 48335_48416 &+g 48416_48556 , I 48676_48696 mean 48776_48936 uh 48976_49016 the 49016_49076 the 49596_49656 mother 49716_49976 is 51157_51437 near 51697_51897 the 51957_52037 girl 52097_52597 .
+*PAR:	and she's [//] &-uh &+w &-uh &+h she has [/] &-uh has +/. 52862_58232
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 +/.
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	and 52862_53042 she's 56905_58232 uh uh she has uh has +/.
+*PAR:	oh &-uh I [/] I can't think of the +... 60068_62270
+%mor:	intj|oh pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|the-Def-Art +...
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	oh 60068_60128 uh 60168_60928 I 61008_61028 I 61249_61269 can't 61329_61609 think 61689_61849 of 61889_61929 the 61929_62270 +...
+*PAR:	she has &-uh the she's tryin(g) to wipe [/] &-uh wipe dishes . 64904_70864
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|wipe-Inf-S noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|6|OBJ 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|2|PUNCT
+%wor:	she 64904_64964 has 65044_65244 uh 65264_65324 the 67268_67348 she's 67789_67970 tryin(g) 68030_68431 to 68431_68511 wipe 68811_69092 uh 69874_69914 wipe 69914_70174 dishes 70435_70864 .
+*INV:	okay . 71220_71716
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 71220_71716 .
+*PAR:	oh &+a and stop the water from going out . 71899_74689
+%mor:	intj|oh cconj|and verb|stop-Fin-Imp-S det|the-Def-Art noun|water-Acc sconj|from verb|go-Part-Pres-S adp|out .
+%gra:	1|3|DISCOURSE 2|3|CC 3|8|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|7|COMPOUND-PRT 9|3|PUNCT
+%wor:	oh 71899_72058 and 72298_72439 stop 72739_73060 the 73160_73240 water 73621_73962 from 74002_74142 going 74202_74483 out 74563_74689 .
+*INV:	okay . 75286_75784
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 75286_75784 .
+*INV:	okay good . 78787_80146
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 78787_79557 good 79821_80146 .
+@End

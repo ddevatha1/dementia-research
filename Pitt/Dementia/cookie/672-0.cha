@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/a-00090614-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|male|PossibleAD||Participant|18||
+@Media:	672-0, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at that picture and tell me everything that you see happening or going on in that picture . 460_6930
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S cconj|or verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|26|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|CCOMP 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|14|CC 14|3|CONJ 15|14|IOBJ 16|14|OBJ 17|20|OBJ 18|19|NSUBJ 19|16|ACL-RELCL 20|19|XCOMP 21|22|CC 22|20|CONJ 23|22|COMPOUND-PRT 24|26|CASE 25|26|DET 26|22|OBL 27|3|PUNCT
+%wor:	I'd 460_520 like 520_700 for 720_820 you 860_940 to 960_1000 take 1020_1241 a 1261_1281 look 1341_1501 at 1541_1601 that 1621_1802 picture 1842_2262 and 2823_2923 tell 2963_3164 me 3204_3264 everything 3384_3825 that 3845_3985 you 4025_4125 see 4225_4386 happening 4506_5107 or 5367_5447 going 5527_5868 on 5968_6128 in 6208_6289 that 6329_6489 picture 6549_6930 .
+*INV:	(..) what's happening in that picture ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	the water's overflowin(g) out of the sink . 18755_20153
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 18755_18835 water's 18835_18975 overflowin(g) 18975_19415 out 19415_19515 of 19535_19575 the 19595_19655 sink 19795_20153 .
+*PAR:	and he's fallin(g) off the chair [: stool] [* s:r] . 20221_21596
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 20221_20296 he's 20316_20456 fallin(g) 20636_20956 off 20956_21036 the 21036_21096 stool 21096_21596 .
+*INV:	mhm . 21683_21716
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 21683_21716 .
+*PAR:	that's it . [+ exc] 25646_26086
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 25646_25718 it 25718_26086 .
+*INV:	nothing else going on in there ? 26939_27687
+%mor:	pron|nothing-Neg-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in adv|there ?
+%gra:	1|6|ROOT 2|1|ADVMOD 3|1|ACL 4|3|COMPOUND-PRT 5|6|CASE 6|3|OBL 7|1|PUNCT
+%wor:	nothing else 26939_27279 going 27279_27519 on 27559_27687 in there ?
+*PAR:	he's fallin(g) off the chair [: stool] [* s:r] . 28680_29661
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 28680_28800 fallin(g) 28800_29080 off 29080_29180 the 29240_29300 stool 29300_29661 .
+*PAR:	and he's &+k reachin(g) for that &-uh &+w dishes or somethin(g) . 29703_33713
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|that-Def-Dem-Sing noun|dish-Plur cconj|or pron|something-Ind-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|7|CONJ 10|4|PUNCT
+%wor:	and 29703_29763 he's 29763_29843 reachin(g) 30183_30503 for 30503_30623 that 30663_30804 uh 32285_32325 dishes 32766_33166 or 33226_33306 somethin(g) 33366_33713 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and the girl is just lookin(g) up . 35934_37290
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 adv|just verb|look-Part-Pres-S adp|up .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+%wor:	and 35934_36049 the 36069_36149 girl 36149_36349 is 36349_36389 just 36409_36749 lookin(g) 36870_37210 up 37210_37290 .
+*PAR:	and (.) that's all . [+ exc] 37490_39698
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	and 37490_37670 that's 39212_39472 all 39512_39698 .
+*INV:	okay fine . 40024_40914
+%mor:	intj|okay adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 40024_40293 fine 40493_40914 .
+@End

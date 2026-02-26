@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/a-00090858-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|57;|male|Control||Participant|30||
+@Media:	322-2, audio
+@G:	Cookie
+*INV:	you can start now .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	okay . [+ exc] 2201_2421
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2201_2421 .
+*PAR:	the boy is taking cookies out of a closet with one hand trying to give the cookies to his sister with another (.) while he is falling off a three [/] three prong stool . 2638_15116
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|a-Ind-Art noun|closet adp|with num|one noun|hand verb|try-Part-Pres-S part|to verb|give-Inf-S det|the-Def-Art noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister adp|with det|another-Def-Ind sconj|while pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art num|three noun|prong noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|31|ROOT 5|4|OBJ 6|9|CASE 7|9|CASE 8|9|DET 9|4|OBL 10|12|CASE 11|12|NUMMOD 12|4|OBL 13|4|ADVCL 14|15|MARK 15|13|XCOMP 16|17|DET 17|15|OBJ 18|20|CASE 19|20|NMOD-POSS 20|15|OBL 21|22|CASE 22|15|OBL 23|26|MARK 24|26|NSUBJ 25|26|AUX 26|15|ADVCL 27|31|CASE 28|31|DET 29|31|NUMMOD 30|31|COMPOUND 31|26|OBL 32|4|PUNCT
+%wor:	the 2638_2718 boy 2758_3038 is 3138_3258 taking 3379_3839 cookies 3960_4560 out 4901_5061 of 5101_5181 a 5241_5262 closet 5382_6063 with 6804_7004 one 7144_7285 hand 7345_7665 trying 7725_8026 to 8026_8086 give 8146_8366 the 8486_8567 cookies 8627_9007 to 9087_9187 his 9268_9388 sister 9488_9909 with 9989_10129 another 10189_10550 while 11471_11751 he 11771_11832 is 11912_12012 falling 12132_12533 off 12613_12813 a 12913_12933 three 13093_13354 three 13674_13935 prong 14015_14395 stool 14616_15116 .
+*PAR:	his mother is washing dishes . 16195_18437
+%mor:	pron|his-Prs-Gen-S3 noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	his 16195_16355 mother 16475_16775 is 16955_17176 washing 17376_17876 dishes 17937_18437 .
+*PAR:	and the dishwasher is overflowing onto the floor . 19578_23522
+%mor:	cconj|and det|the-Def-Art noun|dishwasher aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 19578_20039 the 20199_20299 dishwasher 20359_21120 is 21160_21280 overflowing 21421_22302 onto 22482_22782 the 22842_22922 floor 23022_23522 .
+*PAR:	and the curtains are billowing . 24644_26527
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|billow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 24644_25025 the 25105_25185 curtains 25265_25826 are 25966_26086 billowing 26166_26527 .
+*PAR:	and the girl is eating (.) or toying . 27143_31473
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S cconj|or verb|toy-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CC 7|5|CONJ 8|5|PUNCT
+%wor:	and 27143_27283 the 27343_27483 girl 28005_28305 is 28405_28526 eating 28706_28987 or 30029_30190 toying 31212_31473 .
+*PAR:	it's difficult to tell . [+ exc] 31954_33264
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|difficult-S1 part|to verb|tell-Inf-S .
+%gra:	1|3|EXPL 2|3|COP 3|5|ROOT 4|5|MARK 5|3|CSUBJ 6|3|PUNCT
+%wor:	it's 31954_32034 difficult 32415_32856 to 32876_32956 tell 33016_33264 .
+*PAR:	that's the only action I see . [+ exc] 34044_35674
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-S1 noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|5|PUNCT
+%wor:	that's 34044_34279 the 34279_34379 only 34439_34580 action 34760_35141 I 35241_35261 see 35281_35674 .
+*INV:	okay , good . 36415_36745
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay , good 36415_36745 .
+@End

@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00090350-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;00.|male|MCI||Participant|||
+@Media:	033-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	&=clears:throat let's just take a look at that picture . 870_2551
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 adv|just verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|9|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|XCOMP 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|1|PUNCT
+%wor:	let's 870_1010 just 1050_1210 take 1230_1430 a 1450_1470 look 1530_1690 at 1710_1790 that 1810_1991 picture 2051_2551 .
+*INV:	and tell me everything that you see happening in that picture . 2972_5739
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|11|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	and 2972_3092 tell 3132_3352 me 3412_3472 everything 3572_3972 that 4012_4112 you 4132_4273 see 4353_4513 happening 4593_5073 in 5113_5193 that 5233_5414 picture 5454_5739 .
+*INV:	everything that's going on there . 6035_7822
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|1|PUNCT
+%wor:	everything 6035_6435 that's 6455_6675 going 6855_7135 on 7215_7355 there 7415_7822 .
+*PAR:	&=clears:throat (o)kay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&=clears:throat there are three persons in the kitchen . 10719_13061
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|three noun|person-Plur adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	there 10719_10899 are 10899_11019 three 11139_11399 persons 11779_12280 in 12340_12420 the 12440_12520 kitchen 12580_13061 .
+*PAR:	the little girl is instructing the little boy to take cookies out of the cookie jar on the second &-uh shelf of the cupboard . 14896_25906
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|instruct-Part-Pres-S det|the-Def-Art adj|little-S1 noun|boy-Acc part|to verb|take-Inf-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar adp|on det|the-Def-Art adj|second-S1 noun|shelf adp|of det|the-Def-Art noun|cupboard .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|23|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|10|MARK 10|5|XCOMP 11|10|OBJ 12|16|CASE 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|20|CASE 18|20|DET 19|20|AMOD 20|10|OBL 21|23|CASE 22|23|DET 23|20|NMOD 24|5|PUNCT
+%wor:	the 14896_14976 little 15016_15216 girl 15276_15616 is 15936_16277 instructing 16377_17118 the 17178_17318 little 17918_18118 boy 18199_18479 to 18659_18779 take 19239_19520 cookies 20040_20461 out 20561_20701 of 20721_20781 the 20801_20901 cookie 20961_21281 jar 21341_21742 on 22703_22783 the 22803_22903 second 23063_23563 uh 23583_23804 shelf 24084_24504 of 24604_24664 the 24704_24805 cupboard 25445_25906 .
+*PAR:	and at the same time his &-uh stool that he's standing on is about to collapse . 26296_33752
+%mor:	cconj|and adp|at det|the-Def-Art adj|same-S1 noun|time pron|his-Prs-Gen-S3 noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|collapse-Inf-S .
+%gra:	1|14|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|14|OBL 6|7|NMOD-POSS 7|14|NSUBJ 8|11|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|8|CASE 13|14|COP 14|16|ROOT 15|16|MARK 16|14|XCOMP 17|14|PUNCT
+%wor:	and 26296_26416 at 26456_26536 the 26596_26677 same 26797_27077 time 27158_27759 his 27980_28381 uh 30005_30065 stool 30225_30606 that 30666_30826 he's 30847_30967 standing 31007_31448 on 31568_31789 is 32130_32410 about 32470_32891 to 33032_33132 collapse 33252_33752 .
+*PAR:	the mother apparently is &-uh doing dishes and &-uh looking out the windo(w) . 35009_41376
+%mor:	det|the-Def-Art noun|mother adv|apparently aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc cconj|and verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|ADVMOD 4|5|AUX 5|11|ROOT 6|5|OBJ 7|8|CC 8|5|CONJ 9|8|COMPOUND-PRT 10|11|DET 11|8|OBJ 12|5|PUNCT
+%wor:	the 35009_35089 mother 35149_35529 apparently 36410_36931 is 37311_37692 uh 37852_37952 doing 38032_38313 dishes 38353_38954 and 39254_39554 uh 39554_39735 looking 40155_40475 out 40556_40676 the 40756_40816 windo(w) 40876_41376 .
+*PAR:	has the faucet &+ro &-uh on in the sink . [+ gram] 42258_45222
+%mor:	verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|faucet-Acc adp|on adp|in det|the-Def-Art noun|sink .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	has 42258_42498 the 42718_42778 faucet 42939_43399 uh 43559_43820 on 44220_44481 in 44601_44681 the 44741_44821 sink 44921_45222 .
+*PAR:	and the [//] apparently the plug is in and the water is cascading over the kitchen floor . 45581_54678
+%mor:	cconj|and adv|apparently det|the-Def-Art noun|plug aux|be-Fin-Ind-Pres-S3 adp|in cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|cascade-Part-Pres-S adp|over det|the-Def-Art noun|kitchen noun|floor .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|COP 6|15|ROOT 7|11|CC 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|CONJ 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|OBL 16|6|PUNCT
+%wor:	and 45581_45821 the 45981_46122 apparently 46583_47264 the 47404_47524 plug 48446_48767 is 48827_48967 in 49088_49308 and 49669_49789 the 49789_49869 water 49909_50230 is 50270_50310 cascading 50390_51192 over 51272_51492 the 51572_51693 kitchen 52875_53316 floor 54178_54678 .
+*PAR:	and &-uh it must be a warm sunny day because the windo(w) is open . 56974_63950
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S det|a-Ind-Art adj|warm-S1 adj|sunny-S1 noun|day sconj|because det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|8|CC 2|8|NSUBJ 3|8|AUX 4|8|COP 5|8|DET 6|8|AMOD 7|8|AMOD 8|13|ROOT 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|COP 13|8|ADVCL 14|8|PUNCT
+%wor:	and 56974_57214 uh 57335_57375 it 58397_58477 must 58557_58798 be 58878_58998 a 59319_59339 warm 59820_60161 sunny 60321_60682 day 61143_61444 because 61624_62346 the 62406_62546 windo(w) 62807_63208 is 63208_63328 open 63468_63950 .
+*PAR:	and I can see the shrubbery and what appears to be the end of the house maybe a garage door . 65294_71983
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|shrubbery-Acc cconj|and pron|what-Int-S1 verb|appear-Fin-Ind-Pres-S3 part|to aux|be-Inf-S det|the-Def-Art noun|end adp|of det|the-Def-Art noun|house adv|maybe det|a-Ind-Art noun|garage noun|door .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|20|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|8|ACL-RELCL 10|13|MARK 11|13|COP 12|13|DET 13|9|XCOMP 14|16|CASE 15|16|DET 16|13|NMOD 17|20|ADVMOD 18|20|DET 19|20|COMPOUND 20|13|APPOS 21|4|PUNCT
+%wor:	and 65294_65434 I 65574_65594 can 65694_65834 see 65974_66195 the 66315_66415 shrubbery 66495_66996 and 67256_67497 what 67757_67977 appears 68358_68878 to 68958_69019 be 69119_69219 the 69639_69740 end 69840_69960 of 70000_70040 the 70060_70160 house 70200_70561 maybe 70621_70881 a 70961_70981 garage 71041_71442 door 71502_71983 .
+*PAR:	and on the counter there are dishes that the mother has either washed or &+ha has dried and &-uh is still washing a plate . 73705_84825
+%mor:	cconj|and adp|on det|the-Def-Art noun|counter pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|dish-Plur pron|that-Rel det|the-Def-Art noun|mother aux|have-Fin-Ind-Pres-S3 cconj|either verb|wash-Part-Past-S cconj|or aux|have-Fin-Ind-Pres-S3 verb|dry-Part-Past-S cconj|and aux|be-Fin-Ind-Pres-S3 adv|still verb|wash-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|22|ROOT 7|6|NSUBJ 8|13|OBJ 9|10|DET 10|13|NSUBJ 11|13|AUX 12|13|CC-PRECONJ 13|7|ACL-RELCL 14|16|CC 15|16|AUX 16|13|CONJ 17|20|CC 18|20|AUX 19|20|ADVMOD 20|13|CONJ 21|22|DET 22|20|OBJ 23|6|PUNCT
+%wor:	and 73705_73805 on 73905_74005 the 74065_74165 counter 74446_74866 there 74967_75227 are 75347_75567 dishes 76229_76729 that 76749_76970 the 77330_77410 mother 77491_77831 has 77931_78232 either 78612_78913 washed 79193_79634 or 79714_79834 has 80295_80676 dried 81557_82118 and 82238_82378 uh 82619_82779 is 83540_83620 still 83660_83901 washing 83941_84321 a 84341_84361 plate 84502_84825 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	thanks .
+%mor:	noun|thanks .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

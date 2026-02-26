@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00090676-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;|male|Control||Participant|30||
+@Media:	056-0, audio
+@G:	Cookie
+*INV:	okay . 670_890
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 670_890 .
+*INV:	this is the picture . 1250_1764
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	this 1250_1351 is 1411_1471 the 1511_1571 picture 1611_1764 .
+*INV:	just tell me everything that's goin(g) on . 1871_3219
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|IOBJ 4|2|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|COMPOUND-PRT 9|2|PUNCT
+%wor:	just 1871_2032 tell 2052_2192 me 2192_2252 everything 2292_2572 that's 2572_2773 goin(g) 2813_3093 on 3093_3219 .
+*PAR:	&-uh going on or everything that I see whether it's going on or not ? [+ exc] 4235_6940
+%mor:	verb|go-Part-Pres-S adp|on cconj|or pron|everything-Tot-S1 pron|that-Rel pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 sconj|whether pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on cconj|or part|not ?
+%gra:	1|14|ROOT 2|1|COMPOUND-PRT 3|4|CC 4|1|CONJ 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|7|CCOMP 12|11|COMPOUND-PRT 13|14|CC 14|11|CONJ 15|1|PUNCT
+%wor:	uh going 4235_4515 on 4576_4736 or 4876_4956 everything 4996_5317 that 5357_5457 I 5537_5557 see 5677_5858 whether 5918_6138 it's 6138_6218 going 6258_6478 on 6519_6639 or 6679_6739 not 6779_6940 ?
+*INV:	whatever [//] both if you want . 7480_9178
+%mor:	det|both-Def-Tot sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|4|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|1|PUNCT
+%wor:	whatever 7480_7841 both 7941_8602 if 8642_8742 you 8782_8862 want 8902_9178 .
+*PAR:	okay . [+ exc] 9423_9751
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 9423_9751 .
+*PAR:	well mama's washin(g) the dishes and the sink's running over . 9964_13009
+%mor:	intj|well noun|mama~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|sink~part|s noun|running-Ger adp|over .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|6|DET 6|4|OBJ 7|11|CC 8|9|DET 9|11|NMOD-POSS 10|9|CASE 11|6|CONJ 12|11|ADVMOD 13|4|PUNCT
+%wor:	well 9964_10144 mama's 10685_11005 washin(g) 11086_11406 the 11406_11466 dishes 11506_11787 and 11807_11867 the 11867_11947 sink's 12027_12267 running 12347_12608 over 12688_13009 .
+*PAR:	and &-uh one of the youngsters is about to fall off a stool . 13776_18102
+%mor:	cconj|and num|one adp|of det|the-Def-Art noun|youngster-Plur aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|7|CC 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|COP 7|12|ROOT 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|7|PUNCT
+%wor:	and 13776_14036 uh 14096_14537 one 15318_15419 of 15439_15479 the 15499_15579 youngsters 15619_16180 is 16360_16440 about 16521_16781 to 16821_16881 fall 16981_17222 off 17282_17402 a 17482_17502 stool 17602_18102 .
+*PAR:	he's reaching in for the cookie jar and handing them to his sister who's got her finger at her nose for some reason . 18404_24295
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adv|in adp|for det|the-Def-Art noun|cookie noun|jar cconj|and verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|his-Prs-Gen-S3 noun|sister pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|finger-Acc adp|at pron|her-Prs-Gen-S3 noun|nose adp|for det|some-Def-Ind noun|reason .
+%gra:	1|3|NSUBJ 2|3|AUX 3|25|ROOT 4|3|ADVMOD 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|10|CC 10|3|CONJ 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|10|OBL 15|17|NSUBJ 16|17|AUX 17|14|ACL-RELCL 18|19|NMOD-POSS 19|17|OBJ 20|22|CASE 21|22|NMOD-POSS 22|17|OBL 23|25|CASE 24|25|DET 25|17|OBL 26|3|PUNCT
+%wor:	he's 18404_18564 reaching 18624_18925 in 18925_19005 for 19626_19726 the 19746_19826 cookie 19867_20167 jar 20167_20367 and 20408_20488 handing 20508_20788 them 20808_20928 to 20989_21049 his 21109_21249 sister 21329_21690 who's 22491_22591 got 22591_22652 her 22652_22712 finger 22772_23052 at 23072_23172 her 23172_23253 nose 23333_23613 for 23653_23794 some 23854_24094 reason 24094_24295 .
+*PAR:	&-uh (.) mom's feet are getting wet because of the sink running over . 28566_30983
+%mor:	noun|mom~part|s noun|foot-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adj|wet-S1 adp|because adp|of det|the-Def-Art noun|sink verb|run-Ger-S adp|over .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|5|XCOMP 7|10|CASE 8|7|FIXED 9|10|DET 10|5|OBL 11|10|ACL 12|11|COMPOUND-PRT 13|5|PUNCT
+%wor:	uh 28566_28606 mom's 28606_28846 feet 28886_29046 are 29086_29186 getting 29186_29447 wet 29487_29627 because 29667_29967 of 30027_30067 the 30087_30148 sink 30228_30408 running 30468_30728 over 30728_30983 .
+*PAR:	I don't see anything outside that's going on . 34650_35714
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adv|outside pron|that-Dem~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|4|OBJ 6|4|ADVMOD 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|9|COMPOUND-PRT 11|4|PUNCT
+%wor:	I don't see anything outside that's 34650_34873 going 35014_35214 on 35214_35714 .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< it's just normal .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just adj|normal-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*PAR:	okay ? [+ exc]
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	sure . 38838_38959
+%mor:	adj|sure-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sure 38838_38959 .
+@End

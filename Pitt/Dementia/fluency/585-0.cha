@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00089785-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|82;|female|PossibleAD||Participant|14||
+@Media:	585-0, audio
+@G:	animals
+*INV:	you can start now . 900_2280
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you 900_980 can 1020_1080 start 1080_1601 now 1801_2280 .
+*INV:	just say it to me . 3545_4461
+%mor:	adv|just verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%wor:	just 3545_3725 say 3745_3845 it 3845_3905 to 3925_3966 me 3966_4461 .
+*PAR:	+< oh . [+ exc] 4006_4501
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 4006_4501 .
+*PAR:	&-uh dog . 5689_6802
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 5689_6290 dog 6310_6802 .
+*INV:	mhm . 7085_7302
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 7085_7302 .
+*PAR:	(.) &-uh duck . 8835_13344
+%mor:	noun|duck .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 8835_11280 duck 12863_13344 .
+*PAR:	(.) &-hm <let's say> [/] let's say +... [+ exc] 22358_27103
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|say-Inf-S +...
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	hm 22358_22458 let's 22458_22898 say 22918_23179 let's 26222_26583 say 26603_27103 +...
+*INV:	(.) can you think of any more animals +/. 32532_33915
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 noun|animal-Plur +/.
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|3|PUNCT
+%wor:	can 32532_32670 you 32670_32750 think 32750_32931 of 32971_33051 any 33071_33211 more 33271_33431 animals 33571_33915 +/.
+*PAR:	oh , I know there's some more but +... [+ exc] 34172_36054
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind adj|more-Cmp-S1 cconj|but +...
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|9|ROOT 5|6|EXPL 6|4|CCOMP 7|8|DET 8|6|NSUBJ 9|4|PUNCT 10|4|PUNCT
+%wor:	oh 34172_34312 , I 34312_34332 know 34372_34573 there's 34633_34873 some 34893_35113 more 35133_35414 but 35554_36054 +...
+*PAR:	(..) a ham . 45198_46569
+%mor:	det|a-Ind-Art noun|ham .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 45198_45218 ham 46085_46569 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	let's +/. 61492_61800
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 +/.
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	let's 61492_61800 +/.
+*PAR:	+< donkey . 61733_62092
+%mor:	noun|donkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	donkey 61733_62092 .
+@G:	F
+*INV:	okay , good . 62195_63175
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 62195_62535 , good 62675_63175 .
+*INV:	you can start now . 63640_64981
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you can start 63640_64040 now 64481_64981 .
+*PAR:	four . 65767_66265
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	four 65767_66265 .
+*PAR:	&-um (.) &+f &-uh (.) fish . 76544_80169
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 76544_77145 uh 77305_77526 fish 79669_80169 .
+*PAR:	(.) &+f &-uh let's see . [+ exc] 91166_92608
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	uh 91166_91427 let's 92089_92608 see .
+*PAR:	fairy &=laughs . 95318_95818
+%mor:	noun|fairy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fairy 95318_95818 .
+*INV:	any word at all . 97465_98346
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	any word 97465_97665 at 97705_97785 all 97846_98346 .
+*PAR:	alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay . 124711_125128
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 124711_125128 .
+@End

@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/a-00089831-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|male|MCI||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	016-0, audio
+@G:	George_Immediate
+*PAR:	George [/] George &-uh Miller &-uh was asked by his granddaughter Melanie +//. 99821_107826
+%mor:	propn|George propn|Miller aux|be-Fin-Ind-Past-S3-irr verb|ask-Part-Past-S adp|by pron|his-Prs-Gen-S3 noun|granddaughter propn|Melanie +//.
+%gra:	1|4|NSUBJ-PASS 2|1|FLAT 3|4|AUX-PASS 4|8|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL-AGENT 8|7|APPOS 9|4|PUNCT
+%wor:	George 99821_100761 George 100761_101422 uh 101422_101482 Miller 102303_102683 uh 102763_102803 was 105125_105365 asked 105506_105846 by 105926_106106 his 106166_106326 granddaughter 106386_107147 Melanie 107327_107826 +//.
+*PAR:	(be)cause this is the place where he had come from or xxx . 107987_113513
+%mor:	sconj|because pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|place adv|where pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|come-Part-Past-S-irr adp|from cconj|or .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|DET 5|11|ROOT 6|9|ADVMOD 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|9|OBL 11|5|PUNCT 12|5|PUNCT
+%wor:	(be)cause 107987_108888 this 109429_109809 is 109849_109929 the 109989_110090 place 110150_110570 where 110750_111070 he 111210_111311 had 111471_111631 come 111771_111991 from 112051_112331 or 113052_113513 .
+*PAR:	and &-uh they went through the streets . 115757_117658
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|through det|the-Def-Art noun|street-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	and 115757_115817 uh 115817_115857 they 115857_115937 went 115997_116197 through 116277_116658 the 116738_116858 streets 117158_117658 .
+*PAR:	and George held her hand tightly . 118480_120782
+%mor:	cconj|and propn|George verb|hold-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hand-Acc adv|tightly .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%wor:	and 118480_118700 George 118780_119201 held 119281_119601 her 119661_119801 hand 119881_120222 tightly 120282_120782 .
+*PAR:	she was a little bit &-uh disturbed or afraid of the &-uh area she was going through until she came out to the country . 120964_130951
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|little-S1 noun|bit verb|disturb-Part-Past-S cconj|or adj|afraid-S1 adp|of det|the-Def-Art noun|area pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|through sconj|until pron|she-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3-irr adp|out adp|to det|the-Def-Art noun|country .
+%gra:	1|6|NSUBJ-PASS 2|6|AUX-PASS 3|5|DET 4|5|AMOD 5|6|OBL-UNMARKED 6|22|ROOT 7|8|CC 8|6|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|14|NSUBJ 13|14|AUX 14|11|ACL-RELCL 15|14|OBL 16|18|MARK 17|18|NSUBJ 18|14|ADVCL 19|18|COMPOUND-PRT 20|22|CASE 21|22|DET 22|18|OBL 23|6|PUNCT
+%wor:	she 120964_121024 was 121064_121204 a 121244_121264 little 121344_121544 bit 121564_121745 uh 121745_121785 disturbed 122966_123607 or 123687_123787 afraid 124288_124709 of 124789_124889 the 124969_125089 uh 127713_127753 area 127813_128073 she 128153_128254 was 128294_128414 going 128454_128714 through 128754_129035 until 129215_129475 she 129535_129635 came 129716_129976 out 130016_130156 to 130216_130296 the 130356_130437 country 130497_130951 .
+*INV:	uhhuh . 131057_131557
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 131057_131557 .
+*INV:	okay , thank you . 134142_135544
+%mor:	intj|okay cm|cm verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	okay 134142_134482 , thank 135103_135323 you 135363_135544 .
+@End

@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/a-00090405-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|24||
+@Media:	127-0, audio
+@G:	Cookie
+*INV:	here's the picture . 40_960
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%wor:	here's 40_960 the picture .
+*PAR:	(..) well , the mother's washing the dishes . 6524_7943
+%mor:	intj|well cm|cm det|the-Def-Art noun|mother~part|s verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|4|CASE 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	well 6524_6644 , the 6644_6704 mother's 6744_7044 washing 7124_7444 the 7444_7504 dishes 7584_7943 .
+*PAR:	and [/] an(d) the water's runnin(g) out o(f) the sink . 8005_10987
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 8005_8125 an(d) 8125_9405 the 9405_9466 water's 9526_9866 runnin(g) 9926_10266 out 10266_10386 o(f) 10386_10466 the 10466_10546 sink 10686_10987 .
+*INV:	can you see anything else going on in that picture ? 19688_21527
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|3|PUNCT
+%wor:	can 19688_19788 you 19808_19888 see 19908_20028 anything 20068_20348 else 20408_20569 going 20609_20789 on 20849_20949 in 20969_21009 that 21029_21149 picture 21190_21527 ?
+*PAR:	yeah , they're [//] he's standin(g) on a stool . 22191_24150
+%mor:	intj|yeah cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	yeah 22191_22371 , they're 22391_22571 he's 22872_23012 standin(g) 23052_23493 on 23493_23573 a 23633_23653 stool 23753_24150 .
+*PAR:	and it's [//] he's gonna fall . 24196_25655
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	and 24196_24254 it's 24274_24454 he's 24634_24794 gonna 24854_25055 fall 25155_25655 .
+*INV:	okay . 26947_27277
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 26947_27277 .
+*INV:	anything else ? 31744_32345
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 31744_32044 else 32124_32345 ?
+*PAR:	that's all (..) I can see . [+ exc] 34160_36773
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	that's 34160_34380 all 34420_34601 I 35944_35964 can 36004_36164 see 36284_36773 .
+*PAR:	she wants a cookie . 37974_38910
+%mor:	pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	she 37974_38069 wants 38129_38369 a 38389_38409 cookie 38490_38910 .
+*PAR:	an(d) the stool's fallin(g) over . 39015_41457
+%mor:	cconj|and det|the-Def-Art noun|stool~part|s verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	an(d) 39015_40033 the 40033_40113 stool's 40214_40635 fallin(g) 40715_41176 over 41176_41457 .
+*INV:	okay good . 48281_49271
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 48281_48584 good 48988_49271 .
+@End

@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/a-00091353-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@Media:	184-2, audio
+*INV:	pencil@q .
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	I have a pencil in my hand . 4209_5713
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|pencil-Acc adp|in pron|my-Prs-Gen-S1 noun|hand .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+%wor:	I 4209_4228 have 4288_4449 a 4469_4489 pencil 4549_4890 in 4970_5010 my 5050_5190 hand 5230_5713 .
+*INV:	(...) tree@q . 5813_6151
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 5813_6151 .
+*PAR:	the leaves have fallen off the tree . 22180_24245
+%mor:	det|the-Def-Art noun|leave-Plur aux|have-Fin-Ind-Pres-P3 verb|fall-Part-Past-S-irr adp|off det|the-Def-Art noun|tree .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 22180_22260 leaves 22340_22721 have 22782_22962 fallen 23002_23343 off 23404_23544 the 23604_23685 tree 23745_24245 .
+*INV:	(...) child@q hospital@q . 40705_42707
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 40705_42207 hospital@q 42207_42707 .
+*PAR:	the child is in the hospital . 45053_46534
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 45053_45132 child 45212_45593 is 45633_45753 in 45793_45913 the 45913_45974 hospital 46034_46534 .
+*INV:	(...) cold@q winter@q . 61497_63459
+%mor:	q|cold q|winter .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	cold@q 61497_62960 winter@q 62960_63459 .
+*PAR:	(..) the weatherman is predicting a cold winter . 67429_70413
+%mor:	det|the-Def-Art noun|weatherman aux|be-Fin-Ind-Pres-S3 verb|predict-Part-Pres-S det|a-Ind-Art adj|cold-S1 noun|winter-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%wor:	the 67429_67509 weatherman 67569_68070 is 68130_68230 predicting 68290_68851 a 68992_69012 cold 69172_69593 winter 69913_70413 .
+*INV:	(..) now I'm gonna give you three words . 87364_88725
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+%wor:	now 87364_87505 I'm 87505_87565 gonna 87565_87767 give 87767_87928 you 87948_88028 three 88109_88391 words 88451_88725 .
+*INV:	I want you to use them all for me in a sentence . 89245_90526
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S pron|they-Prs-Acc-P3 det|all-Def-Tot adp|for pron|I-Prs-Acc-S1 adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|OBJ 7|6|DET 8|9|CASE 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|2|PUNCT
+%wor:	I want you to use them 89245_89317 all 89418_89559 for 89660_89821 me 89861_89942 in 89982_90042 a 90082_90103 sentence 90103_90526 .
+*INV:	chair@q doctor@q sit@q .
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+*PAR:	the doctor told me to sit in the chair . 101037_102859
+%mor:	det|the-Def-Art noun|doctor verb|tell-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 part|to verb|sit-Inf-S adp|in det|the-Def-Art noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+%wor:	the 101037_101097 doctor 101157_101497 told 101537_101737 me 101757_101817 to 101877_101937 sit 102037_102198 in 102258_102318 the 102358_102418 chair 102478_102859 .
+*INV:	(...) bureau@q open@q drawer@q .
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+*PAR:	the first is door@q ? [+ exc] 123929_125170
+%mor:	det|the-Def-Art adj|first-S1 aux|be-Fin-Ind-Pres-S3 q|door ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|FLAT 5|4|PUNCT
+%wor:	the 123929_124009 first 124069_124349 is 124470_124570 door@q 124670_125170 ?
+*INV:	bureau@q +/. 126174_126673
+%mor:	q|bureau +/.
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	bureau@q 126174_126673 +/.
+*PAR:	bureau@q ! [+ exc] 127036_127535
+%mor:	q|bureau !
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	bureau@q 127036_127535 !
+*INV:	open@q drawer@q . 127677_129079
+%mor:	q|open q|drawer .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	open@q 127677_128598 drawer@q 128598_129079 .
+*PAR:	(..) will you open the bureau drawer ? 137286_139742
+%mor:	aux|will-Fin-S pron|you-Prs-Nom-S2 verb|open-Inf-S det|the-Def-Art noun|bureau noun|drawer-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+%wor:	will 137286_137407 you 137447_137548 open 137649_137971 the 138274_138355 bureau 138435_138778 drawer 139242_139742 ?
+@End

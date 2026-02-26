@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00090609-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|55;|female|ProbableAD||Participant|20||
+@Media:	651-0, audio
+@G:	Cookie
+*INV:	I just want you to tell me everything that you see happening in that picture . 250_4320
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|15|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|12|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|11|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|3|PUNCT
+%wor:	I 250_270 just 270_430 want 470_650 you 690_770 to 790_851 tell 931_1111 me 1171_1231 everything 1331_1932 that 2413_2533 you 2573_2673 see 2774_2934 happening 3034_3575 in 3615_3695 that 3715_3875 picture 3935_4320 .
+*INV:	everything that's going on there . 5177_6620
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|1|PUNCT
+%wor:	everything 5177_5538 that's 5558_5698 going 5778_6079 on 6159_6359 there 6399_6620 .
+*PAR:	&-hm (..) cookie jar . [+ gram] 11635_23855
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	hm 11635_11675 cookie 23067_23407 jar 23427_23855 .
+*INV:	mhm . 24050_24548
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 24050_24548 .
+*PAR:	<and he's stepping on a> [//] &+s well he's on a stool but it's [//] he's going overboard . 26291_35919
+%mor:	intj|well pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adv|overboard .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|11|ROOT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|6|CONJ 11|10|ADVMOD 12|6|PUNCT
+%wor:	and 26291_26491 he's 26551_26831 stepping 28613_29053 on 29113_29213 a 29273_29293 well 30494_30695 he's 30735_30875 on 31395_31495 a 31555_31575 stool 31676_32036 but 32877_33017 it's 33077_33317 he's 34919_35039 going 35099_35339 overboard 35419_35919 .
+*PAR:	and the water's running out of the sink . 38497_44447
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 38497_38817 the 38958_39058 water's 39919_40260 running 40340_40601 out 40681_40821 of 40881_40941 the 41001_41102 sink 43987_44447 .
+*PAR:	and &-uh let's see . [+ exc] 46452_50941
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%wor:	and 46452_47233 uh 47414_49899 let's 50359_50820 see 50840_50941 .
+*INV:	okay is that everything that you see happening ? 91247_93127
+%mor:	intj|okay aux|be-Fin-Ind-Pres-S3 sconj|that pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S ?
+%gra:	1|4|DISCOURSE 2|4|COP 3|4|MARK 4|8|ROOT 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|4|PUNCT
+%wor:	okay 91247_91387 is 91770_91910 that 91910_92071 everything 92132_92474 that 92474_92554 you 92554_92614 see 92614_92735 happening 92795_93127 ?
+*PAR:	yes . [+ exc] 93750_94241
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yes 93750_94241 .
+*INV:	okay fine . 94300_95250
+%mor:	intj|okay adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 94300_94525 fine 94948_95250 .
+@End

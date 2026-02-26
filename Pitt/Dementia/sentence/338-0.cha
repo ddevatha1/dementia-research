@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/a-00091410-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|MCI||Participant|30||
+@Media:	338-0, audio
+*INV:	pencil@q . 540_1040
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 540_1040 .
+*PAR:	you are writing with a pencil . 3382_4902
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|write-Part-Pres-S adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	you 3382_3502 are 3602_3722 writing 3742_4102 with 4142_4282 a 4322_4342 pencil 4402_4902 .
+*INV:	tree@q .
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	the tree in the backyard is a plum tree . 13172_15674
+%mor:	det|the-Def-Art noun|tree adp|in det|the-Def-Art noun|backyard aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plum noun|tree .
+%gra:	1|2|DET 2|9|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|9|COP 7|9|DET 8|9|COMPOUND 9|9|ROOT 10|9|PUNCT
+%wor:	the 13172_13232 tree 13312_13552 in 13612_13672 the 13692_13772 backyard 13812_14493 is 14533_14653 a 14693_14713 plum 14813_15053 tree 15174_15674 .
+*INV:	I'm going to give you two words and I'd like you to use them both for me in a sentence . 24003_27766
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc cconj|and pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|use-Inf-S pron|they-Prs-Acc-P3 det|both-Def-Tot adp|for pron|I-Prs-Acc-S1 adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|3|NSUBJ 2|3|AUX 3|22|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|12|CC 10|12|NSUBJ 11|12|AUX 12|3|CONJ 13|12|OBJ 14|15|MARK 15|12|XCOMP 16|15|OBJ 17|15|OBJ 18|19|CASE 19|15|OBL 20|22|CASE 21|22|DET 22|15|OBL 23|3|PUNCT
+%wor:	I'm 24003_24063 going 24103_24283 to 24323_24403 give 24483_24683 you 24683_24743 two 24884_25104 words 25164_25464 and 25464_25524 I'd 25524_25584 like 25584_25804 you 26145_26225 to 26265_26325 use 26385_26445 them 26485_26585 both 26665_26806 for 26806_26886 me 27006_27126 in 27166_27206 a 27206_27226 sentence 27266_27766 .
+*INV:	child@q hospital@q . 29709_31650
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 29709_31150 hospital@q 31150_31650 .
+*PAR:	the child hadta be taken (.) to the hospital for an illness . 33514_39020
+%mor:	det|the-Def-Art noun|child noun|hadta aux|be-Inf-S verb|take-Part-Past-S-irr adp|to det|the-Def-Art noun|hospital adp|for det|a-Ind-Art noun|illness .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+%wor:	the 33514_33594 child 33674_34074 hadta 34134_34395 be 34435_34515 taken 34635_35015 to 35336_35436 the 35496_35576 hospital 35656_36337 for 38179_38360 an 38400_38480 illness 38520_39020 .
+*INV:	cold@q winter@q . 44025_46145
+%mor:	q|cold q|winter .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	cold@q 44025_45651 winter@q 45651_46145 .
+*PAR:	it's very cold in the winter season . 47699_49727
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|cold-S1 adp|in det|the-Def-Art noun|winter noun|season .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	it's 47699_47859 very 47920_48161 cold 48321_48642 in 48703_48763 the 48783_48843 winter 48883_49164 season 49245_49727 .
+*INV:	(..) now I'm gonna give you three words . 58823_60581
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+%wor:	now 58823_58883 I'm 58883_58963 gonna 58963_59263 give 59403_59583 you 59583_59664 three 59784_60044 words 60144_60581 .
+*INV:	you can do the same thing . 61648_62815
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|do-Inf-S det|the-Def-Art adj|same-S1 noun|thing-Acc-Ger .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%wor:	you 61648_61726 can 61786_61967 do 62027_62107 the 62187_62267 same 62327_62567 thing 62607_62815 .
+*INV:	use them in a sentence . 62910_63832
+%mor:	verb|use-Fin-Imp-S pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%wor:	use 62910_63028 them 63068_63168 in 63168_63208 a 63208_63228 sentence 63348_63832 .
+*INV:	chair@q doctor@q sit@q . 65213_68255
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 65213_65691 doctor@q 66392_67814 sit@q 67834_68255 .
+*PAR:	the doctor usually asks you to sit in a chair to take your blood pressure . 70521_74543
+%mor:	det|the-Def-Art noun|doctor adv|usually verb|ask-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 part|to verb|sit-Inf-S adp|in det|a-Ind-Art noun|chair part|to verb|take-Inf-S pron|your-Prs-Gen-S2 noun|blood noun|pressure-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|15|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|MARK 12|7|ADVCL 13|15|NMOD-POSS 14|15|COMPOUND 15|12|OBJ 16|4|PUNCT
+%wor:	the 70521_70581 doctor 70661_71161 usually 71301_71621 asks 71801_72142 you 72182_72322 to 72402_72462 sit 72562_72722 in 72762_72842 a 72862_72882 chair 72982_73183 to 73263_73323 take 73403_73663 your 73663_73743 blood 73783_73983 pressure 74043_74543 .
+*INV:	bureau@q open@q drawer@q . 77308_82550
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 77308_80928 open@q 80928_82069 drawer@q 82069_82550 .
+*PAR:	the drawer in the bureau was left open by mistake . 84791_88852
+%mor:	det|the-Def-Art noun|drawer adp|in det|the-Def-Art noun|bureau aux|be-Fin-Ind-Past-S3-irr verb|leave-Part-Past-S-irr adj|open-S1 adp|by noun|mistake .
+%gra:	1|2|DET 2|7|NSUBJ-PASS 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX-PASS 7|10|ROOT 8|7|XCOMP 9|10|CASE 10|7|OBL-AGENT 11|7|PUNCT
+%wor:	the 84791_84871 drawer 84951_85354 in 85534_85615 the 85675_85776 bureau 85937_86318 was 86399_86540 left 86600_86841 open 87062_87384 by 88168_88268 mistake 88369_88852 .
+@End

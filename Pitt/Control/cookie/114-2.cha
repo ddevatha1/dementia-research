@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00090720-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;00.|female|Control||Participant|||
+@Media:	114-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	going on in the picture .
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*INV:	all of the action .
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um (.) you mean drying dishes ? [+ exc] [+ gram] 7368_8459
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 verb|drying-Ger-S noun|dish-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%wor:	um 7368_7428 you 7448_7508 mean 7508_7588 drying 7668_7989 dishes 8029_8459 ?
+*INV:	okay . 8803_9053
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 8803_9053 .
+*PAR:	&-uh overflowing [//] the water's overflowing out of the sink . 10391_13075
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	uh overflowing 10391_11132 the 11312_11392 water's 11432_11773 overflowing 11813_12293 out 12314_12434 of 12434_12474 the 12474_12554 sink 12634_13075 .
+*PAR:	climbing a stool . [+ gram] 13695_14896
+%mor:	verb|climb-Part-Pres-S det|a-Ind-Art noun|stool-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	climbing 13695_14196 a 14256_14276 stool 14396_14896 .
+*PAR:	getting a cookie . [+ gram] 16158_17358
+%mor:	verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	getting 16158_16498 a 16558_16578 cookie 16878_17358 .
+*PAR:	giving the cookie (.) to the girl . [+ gram] 22425_26343
+%mor:	verb|give-Part-Pres-S det|the-Def-Art noun|cookie-Acc adp|to det|the-Def-Art noun|girl .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%wor:	giving 22425_22745 the 22805_22885 cookie 22965_23346 to 25528_25628 the 25688_25768 girl 25848_26343 .
+*PAR:	raising her arm . [+ gram] 27903_29433
+%mor:	verb|raise-Part-Pres-S pron|her-Prs-Gen-S3 noun|arm-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%wor:	raising 27903_28371 her 28632_28792 arm 28992_29433 .
+*PAR:	&-uh stepping in the water . [+ gram] 32302_33768
+%mor:	verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	uh 32302_32362 stepping 32842_33203 in 33223_33303 the 33303_33363 water 33443_33768 .
+*PAR:	looking out the window . [+ gram] 35789_37009
+%mor:	verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|1|PUNCT
+%wor:	looking 35789_36127 out 36207_36328 the 36368_36448 window 36528_37009 .
+*PAR:	hm (.) that's about all I can see . [+ exc] 43323_45115
+%mor:	intj|hm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|CASE 5|8|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+%wor:	hm 43323_43543 that's 43764_43984 about 43984_44224 all 44285_44365 I 44365_44385 can 44445_44585 see 44685_45115 .
+*PAR:	is there more ? [+ exc] 45887_46365
+%mor:	aux|be-Fin-Ind-Pres-S3 adv|there adj|more-Cmp-S1 ?
+%gra:	1|3|COP 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	is there 45887_46067 more 46087_46365 ?
+*INV:	okay that's fine . 46671_47148
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay that's fine 46671_47148 .
+@End

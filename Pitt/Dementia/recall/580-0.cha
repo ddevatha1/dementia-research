@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00090044-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|female|PossibleAD||Participant|13||
+@Media:	580-0, audio
+@G:	Story_Immediate
+*INV:	www .
+%com:	task introduction .
+*PAR:	&-uh I shoulda been &+e &+ba listening better to you . [+ exc] 778903_782165
+%mor:	pron|I-Prs-Nom-S1 aux|shoulda-Fin-Ind-S1 aux|be-Part-Past-S-irr verb|listen-Part-Pres-S adj|good-Cmp-S1 adp|to pron|you-Prs-Acc-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|7|ROOT 5|4|XCOMP 6|7|CASE 7|4|OBL 8|4|PUNCT
+%wor:	uh 778903_778943 I 778983_779003 shoulda 779043_779283 been 779363_779543 listening 780925_781306 better 781566_781806 to 781926_782047 you 782147_782165 .
+*PAR:	then I woulda probably &-eh be able right away and tell you . [+ exc] [+ gram] 782307_786043
+%mor:	adv|then pron|I-Prs-Nom-S1 aux|woulda-Fin-S adv|probably aux|be-Inf-S adj|able-S1 adv|right adv|away cconj|and verb|tell-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|COP 6|11|ROOT 7|8|ADVMOD 8|6|ADVMOD 9|10|CC 10|6|CONJ 11|10|IOBJ 12|6|PUNCT
+%wor:	then 782307_782427 I 782547_782567 woulda 782607_782788 probably 782848_783328 eh 784149_784370 be 784570_784650 able 784750_784950 right 785111_785271 away 785291_785471 and 785511_785611 tell 785651_785832 you 785872_786043 .
+*PAR:	but right now I +//. [+ exc] 786043_786798
+%mor:	cconj|but adv|right adv|now pron|I-Prs-Nom-S1 +//.
+%gra:	1|3|CC 2|3|ADVMOD 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	but 786043_786132 right 786192_786412 now 786452_786653 I 786793_786798 +//.
+*PAR:	see , I was listening [/] listening [/] listening but (.) I don't know . [+ exc] 787374_791488
+%mor:	verb|see-Fin-Imp-S cm|cm pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|listen-Part-Pres-S cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|10|ROOT 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|1|PARATAXIS 6|10|CC 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|CONJ 11|1|PUNCT
+%wor:	see 787374_787514 , I 787694_787714 was 787774_787914 listening 788155_788575 listening 788635_789036 listening 789136_789596 but 789817_789997 I 789997_790017 don't 791078_791219 know 791219_791488 .
+*INV:	+< do you remember anything from it at all ? 791408_793462
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adp|from pron|it-Prs-Acc-S3 adp|at det|all-Def-Tot ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|CASE 6|4|NMOD 7|8|CASE 8|3|OBL 9|3|PUNCT
+%wor:	do you 791408_791419 remember 791539_791940 anything 792040_792500 from 792560_792741 it 792841_792961 at 793001_793101 all 793161_793462 ?
+*PAR:	honest to goodness , no . 793789_794751
+%mor:	adj|honest-S1 adp|to noun|goodness cm|cm intj|no .
+%gra:	1|5|ROOT 2|3|CASE 3|1|OBL 4|5|PUNCT 5|1|DISCOURSE 6|1|PUNCT
+%wor:	honest 793789_794070 to 794090_794130 goodness 794211_794492 , no 794572_794751 .
+*INV:	nothing ? 794929_795181
+%mor:	pron|nothing-Neg-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	nothing 794929_795181 ?
+*PAR:	unhunh no . 795698_796301
+%mor:	intj|unhunh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%wor:	unhunh 795698_796301 no .
+*PAR:	I shouldn't have <done that damn> [?] +... 796964_798409
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S~part|not aux|have-Inf-S verb|do-Part-Past-S-irr pron|that-Dem adv|damn +...
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+%wor:	I 796964_796984 shouldn't 796984_797245 have 797266_797406 done 797426_797748 that 797828_797909 damn 797949_798409 +...
+*INV:	mkay . 798409_798693
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mkay 798409_798693 .
+@G:	Story_Delayed
+*INV:	www .
+%com:	task introduction .
+*PAR:	unhunh .
+%mor:	intj|unhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< www .
+*PAR:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< www .
+*PAR:	unhunh .
+%mor:	intj|unhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	the investigator doesn't ask questions .
+@End

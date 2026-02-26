@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/a-00090613-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	bullets
+@ID:	eng|Pitt|PAR|58;|male|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	663-0, audio
+@G:	Cookie
+*PAR:	well , the boy on the chair [: stool] [* s:r] is &-uh fallin(g) , reachin(g) up for a cookie , handin(g) one to the girl . 920_7490
+%mor:	intj|well cm|cm det|the-Def-Art noun|boy adp|on det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S cm|cm verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie cm|cm verb|hand-Part-Pres-S num|one adp|to det|the-Def-Art noun|girl .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|4|DET 4|9|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|AUX 9|21|ROOT 10|11|PUNCT 11|9|ADVCL 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|17|PUNCT 17|11|ADVCL 18|17|OBJ 19|21|CASE 20|21|DET 21|17|OBL 22|9|PUNCT
+%wor:	well 920_1120 , the 1120_1200 boy 1260_1480 on 1580_1680 the 1720_1800 stool 1920_2281 is 2421_2641 uh 2761_2921 fallin(g) 3281_4783 , reachin(g) 4783_5103 up 5103_5183 for 5243_5363 a 5403_5423 cookie 5503_5864 , handin(g) 6204_6644 one 6644_6764 to 6784_6844 the 6904_7005 girl 7065_7490 .
+*PAR:	the lady is &-uh wiping a dish . 7725_10280
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 7725_7825 lady 7885_8206 is 8486_8706 uh 8846_8986 wiping 9487_9867 a 9947_9967 dish 10067_10280 .
+*PAR:	water runnin(g) on the floor . [+ gram] 10587_11980
+%mor:	noun|water verb|run-Ger-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+%wor:	water 10587_10928 runnin(g) 10988_11428 on 11428_11508 the 11548_11628 floor 11688_11980 .
+*PAR:	she's standin(g) in it . 12150_13090
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	she's 12150_12349 standin(g) 12389_12909 in 12909_12989 it 13029_13090 .
+*PAR:	(.) &-mm (.) trees outside , the lawn , shrubbery . [+ gram] 17108_19890
+%mor:	noun|tree-Plur adv|outside cm|cm det|the-Def-Art noun|lawn cm|cm noun|shrubbery .
+%gra:	1|7|ROOT 2|1|ADVMOD 3|5|PUNCT 4|5|DET 5|1|APPOS 6|7|PUNCT 7|5|CONJ 8|1|PUNCT
+%wor:	mm 17108_17208 trees 18668_18989 outside 19069_19549 , the 19569_19629 lawn 19669_19890 , shrubbery .
+*PAR:	a window outside that I can see . [+ gram] 22331_24331
+%mor:	det|a-Ind-Art noun|window adv|outside sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|2|DET 2|7|ROOT 3|2|ADVMOD 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|2|ACL 8|2|PUNCT
+%wor:	a 22331_22350 window 22450_22771 outside 22871_23411 that 23451_23571 I 23711_23731 can 23771_23911 see 24011_24331 .
+*PAR:	(.) that's about it dear . [+ exc] 27113_28073
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 adj|dear-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	that's 27113_27293 about 27333_27533 it 27533_27573 dear 27573_28073 .
+*INV:	+< that's fine . 27874_28134
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's fine 27874_28134 .
+@End

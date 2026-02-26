@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/a-00090592-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|49;|female|MCI||Participant|27||
+@Media:	594-0, audio
+@G:	Cookie
+*INV:	alright . 2030_2330
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 2030_2330 .
+*INV:	now I would like for you to take a look at this picture . 2671_6660
+%mor:	adv|now pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|8|MARK 6|8|NSUBJ 7|8|MARK 8|4|ADVCL 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|4|PUNCT
+%wor:	now 2671_2891 I 3091_3111 would 3131_3291 like 3331_3572 for 3612_3752 you 3792_3892 to 3952_4052 take 4193_4573 a 4613_4633 look 4733_5014 at 5995_6075 this 6115_6316 picture 6376_6660 .
+*INV:	take a look at that picture and tell me what you see going on in there . 7738_11396
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in adv|there .
+%gra:	1|16|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|12|XCOMP 14|13|COMPOUND-PRT 15|16|CASE 16|13|OBL 17|1|PUNCT
+%wor:	take 7738_7938 a 7958_7978 look 7998_8138 at 8158_8198 that 8218_8359 picture 8419_8819 and 9260_9380 tell 9440_9660 me 9721_9801 what 9901_10061 you 10121_10241 see 10361_10542 going 10622_10962 on 11042_11183 in 11183_11223 there 11223_11396 .
+*INV:	tell me everything that's happening in that picture . 11844_13927
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|9|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+%wor:	tell 11844_12004 me 12024_12084 everything 12164_12545 that's 12545_12705 happening 12825_13266 in 13306_13366 that 13406_13546 picture 13646_13927 .
+*PAR:	the boy is reaching for a cookie jar but the stool is falling . 16502_22430
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie noun|jar cconj|but det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|4|CONJ 14|4|PUNCT
+%wor:	the 16502_16582 boy 16682_17083 is 17363_17463 reaching 18044_18465 for 18525_18825 a 18886_18906 cookie 19046_19306 jar 19366_19747 but 21029_21149 the 21189_21270 stool 21390_21811 is 21911_22011 falling 22131_22430 .
+*PAR:	he was getting a cookie for his sister and for himself . 25356_30625
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|for pron|his-Prs-Gen-S3 noun|sister cconj|and adp|for pron|himself-Prs-Acc-reflx-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|11|CC 10|11|CASE 11|8|CONJ 12|3|PUNCT
+%wor:	he 25356_25417 was 25477_25637 getting 25697_25978 a 26018_26038 cookie 26098_26418 for 26478_26659 his 26699_26859 sister 27059_27520 and 29664_29764 for 29884_30065 himself 30125_30625 .
+*PAR:	oh my gosh look at the sink is overflowing . 32812_34556
+%mor:	intj|oh pron|my-Prs-Gen-S1 intj|gosh noun|look adp|at det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|9|DISCOURSE 2|4|NMOD-POSS 3|4|COMPOUND 4|9|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|COP 9|9|ROOT 10|9|PUNCT
+%wor:	oh 32812_32872 my 32872_32972 gosh 33012_33232 look 33252_33372 at 33392_33432 the 33452_33532 sink 33612_33832 is 33892_33992 overflowing 34073_34556 .
+*PAR:	and at the time she's dryin(g) a dish . 38649_42800
+%mor:	cconj|and adp|at det|the-Def-Art noun|time pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+%wor:	and 38649_38936 at 40177_40257 the 40318_40398 time 40478_40798 she's 40858_41058 dryin(g) 41118_42259 a 42259_42279 dish 42379_42800 .
+*PAR:	I don't know why she didn't turn the water off . [+ exc] 48156_50078
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|why pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|turn-Inf-S det|the-Def-Art noun|water-Acc adp|off .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|4|OBJ 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|5|ADVCL-RELCL 10|11|DET 11|9|OBJ 12|9|COMPOUND-PRT 13|4|PUNCT
+%wor:	I 48156_48176 don't 48176_48296 know 48296_48396 why 48416_48516 she 48636_48716 didn't 48716_48917 turn 48937_49137 the 49137_49197 water 49237_49558 off 49578_50078 .
+*PAR:	(.) now <what else did> [//] what did you tell me ? [+ exc] 53904_55233
+%mor:	adv|now pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|ADVMOD 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+%wor:	now 53904_54084 what 54165_54325 else 54385_54525 did 54565_54705 what 54765_54866 did 54886_54946 you 54946_55026 tell 55086_55233 me ?
+*INV:	just what's happening that's all . 55386_56829
+%mor:	adv|just pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|2|ADVMOD 2|4|OBJ 3|4|AUX 4|7|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|4|PUNCT
+%wor:	just 55386_55607 what's 55647_55827 happening 55907_56228 that's 56228_56528 all 56588_56829 .
+@End

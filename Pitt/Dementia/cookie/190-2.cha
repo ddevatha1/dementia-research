@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/a-00090441-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|||||Participant|||
+@Media:	190-2, audio
+@Comment:	Batchalign 0.7.17-post.10, ASR Engine rev. Unchecked output of ASR model.
+*INV:	everything that's going on . 336_1605
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|1|PUNCT
+%wor:	everything 336_698 that's 718_879 going 980_1323 on 1403_1605 .
+*PAR:	the boy is getting cookies and is falling off the &-uh his stand . 9565_16085
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc cconj|and aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art pron|his-Prs-Gen-S3 noun|stand .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|4|OBJ 6|8|CC 7|8|AUX 8|4|CONJ 9|12|CASE 10|12|DET 11|12|NMOD-POSS 12|8|OBL 13|4|PUNCT
+%wor:	the 9565_9665 boy 9705_9965 is 10045_10125 getting 10186_10446 cookies 10546_11067 and 11167_11307 is 11468_11688 falling 12229_12670 off 12770_12930 the 13010_13130 uh 13291_15554 his 15575_15735 stand 15795_16085 .
+*PAR:	the ladies washing dishes . 20222_21565
+%mor:	det|the-Def-Art noun|lady-Plur verb|wash-Ger-S noun|dish-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	the 20222_20322 ladies 20403_20823 washing 20903_21264 dishes 21304_21565 .
+*PAR:	and she let the water run all <over the> [/] over the top of the . 21825_25649
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|water-Acc verb|run-Inf-S adv|all adp|over det|the-Def-Art noun|top adp|of det|the-Def-Art .
+%gra:	1|3|CC 2|3|NSUBJ 3|12|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|10|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|12|CASE 12|10|NMOD 13|3|PUNCT
+%wor:	and 21825_21905 she 21945_22046 let 22147_22287 the 22328_22388 water 22469_22750 run 22811_22992 all 23072_23193 over 23253_23414 the 23435_23535 over 24340_24542 the 24582_24662 top 24763_25045 of 25085_25125 the 25165_25649 .
+*PAR:	the little girl , she wanted the cookie . 41748_43605
+%mor:	det|the-Def-Art adj|little-S1 noun|girl cm|cm pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Past-S3 det|the-Def-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|6|DISLOCATED 4|3|PUNCT 5|6|NSUBJ 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	the 41748_41828 little 41908_42129 girl 42209_42450 , she 42590_42711 wanted 42771_43112 the 43132_43212 cookie 43333_43605 .
+*PAR:	and he was getting the cookies . 44075_45525
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 44075_44195 he 44235_44296 was 44376_44516 getting 44597_44857 the 44918_44978 cookies 45078_45525 .
+*PAR:	and he's fallen over . 45560_47045
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Past-S-irr adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	and 45560_45640 he's 45700_45861 fallen 46423_46804 over 46864_47045 .
+*PAR:	and the wife she's washing the dishes . 55505_57405
+%mor:	cconj|and det|the-Def-Art noun|wife pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	and 55505_55585 the 55625_55705 wife 55786_56127 she's 56187_56428 washing 56509_56930 the 56930_57011 dishes 57111_57405 .
+*PAR:	and now she's wiping them off . 58657_60565
+%mor:	cconj|and adv|now pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S pron|they-Prs-Acc-P3 adp|off .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+%wor:	and 58657_58838 now 59320_59520 she's 59601_59801 wiping 59882_60163 them 60163_60283 off 60404_60565 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

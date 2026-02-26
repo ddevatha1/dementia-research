@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/a-00090582-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|15||
+@Media:	563-0, audio
+@G:	Cookie
+*INV:	one more thing and then we're done with this testing . 1510_3974
+%mor:	num|one adj|more-Cmp-S1 noun|thing-Ger cconj|and adv|then pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|done-S1 adp|with det|this-Def-Dem-Sing noun|testing-Ger .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|11|ROOT 4|8|CC 5|8|ADVMOD 6|8|NSUBJ 7|8|COP 8|3|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	one 1510_1650 more 1690_1870 thing 1911_2171 and 2211_2271 then 2271_2412 we're 2472_2632 done 2692_2973 with 3013_3194 this 3214_3394 testing 3474_3974 .
+*INV:	and I'm sure you're glad to hear that . 4216_6080
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|glad-S1 part|to verb|hear-Inf-S pron|that-Dem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|10|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|4|PUNCT
+%wor:	and 4216_4336 I'm 4336_4437 sure 4557_4777 you're 4838_4978 glad 5018_5299 to 5359_5459 hear 5539_5720 that 5800_6080 .
+*PAR:	oh , I don't mind it . [+ exc] 6502_7259
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|mind-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	oh 6502_6582 , I 6642_6682 don't 6702_6842 mind 6882_7083 it 7203_7259 .
+*INV:	what I want you to do is take a look at this picture . 7865_10291
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|13|ROOT 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|8|PUNCT
+%wor:	what 7865_7985 I 8065_8085 want 8125_8286 you 8326_8466 to 8506_8546 do 8546_8647 is 8747_8847 take 8907_9108 a 9168_9188 look 9248_9408 at 9448_9509 this 9569_9749 picture 9869_10291 .
+*INV:	I want you to tell me everything that you see happening in that picture . 11304_15134
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+%wor:	I 11304_11324 want 11344_11564 you 11604_11684 to 11704_11784 tell 11884_12104 me 12164_12264 everything 12464_13044 that 13064_13225 you 13225_13345 see 13445_13625 happening 13725_14285 in 14345_14425 that 14445_14685 picture 14745_15134 .
+*INV:	I want you to tell me everything that's going on in there . 15986_18307
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|13|CASE 13|10|OBL 14|2|PUNCT
+%wor:	I 15986_16006 want 16046_16226 you 16226_16306 to 16326_16366 tell 16386_16546 me 16546_16586 everything 16646_17047 that's 17067_17187 going 17247_17587 on 17667_17867 in 17907_18027 there 18027_18307 .
+*PAR:	the lady's a lousy dishwasher (be)cause her xxx is all over the floor &=laughs . 18850_22650
+%mor:	det|the-Def-Art noun|lady~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|lousy-S1 noun|dishwasher sconj|because pron|her-Prs-Acc-S3 aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|13|ROOT 7|13|MARK 8|13|NSUBJ 9|13|COP 10|13|ADVMOD 11|13|CASE 12|13|DET 13|6|ADVCL 14|6|PUNCT
+%wor:	the 18850_18928 lady's 19008_19388 a 19468_19488 lousy 19568_19948 dishwasher 20048_20789 (be)cause 20789_21489 her 21489_21569 is 21589_21629 all 21709_21809 over 21869_22029 the 22049_22129 floor 22229_22650 .
+*PAR:	I never do that do you ? [+ exc] 25386_26556
+%mor:	pron|I-Prs-Nom-S1 adv|never verb|do-Fin-Ind-Pres-S1 pron|that-Dem aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|ROOT 4|3|OBJ 5|3|PARATAXIS 6|3|PARATAXIS 7|3|PUNCT
+%wor:	I 25386_25406 never 25426_25666 do 25746_25847 that 25947_26167 do 26227_26308 you 26388_26556 ?
+*INV:	no . 26750_26988
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 26750_26988 .
+*PAR:	&=laughs and the boy is falling off of a stool stealing a cookie from the cookie jar . 28592_34982
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of det|a-Ind-Art noun|stool verb|steal-Ger-S det|a-Ind-Art noun|cookie-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|16|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|9|ACL 11|12|DET 12|10|OBJ 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|5|PUNCT
+%wor:	and 28592_28732 the 28773_28873 boy 29233_29514 is 29614_29755 falling 29915_30276 off 30356_30496 of 30616_30716 a 30797_30817 stool 30977_31558 stealing 32480_32941 a 32981_33001 cookie 33101_33602 from 33823_34003 the 34063_34143 cookie 34244_34604 jar 34665_34982 .
+*PAR:	and what else ? [+ exc] 36388_37090
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	and 36388_36649 what 36729_36889 else 36929_37090 ?
+*PAR:	and he's going to get hurt when the chair [: stool] [* s:r] &+fa &-uh tips over . 41480_46580
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|get-Inf-S verb|hurt-Part-Past-S-irr adv|when det|the-Def-Art noun|stool verb|tip-Fin-Ind-Pres-S3 adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|11|ADVMOD 9|10|DET 10|11|NSUBJ 11|6|ADVCL 12|11|COMPOUND-PRT 13|4|PUNCT
+%wor:	and 41480_41580 he's 41600_41760 going 41840_42281 to 42361_42461 get 42541_42721 hurt 42821_43122 when 43662_43822 the 43842_43923 stool 44083_44984 uh 45024_45124 tips 45785_46105 over 46205_46580 .
+*PAR:	and what else ? [+ exc] 49670_50391
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	and 49670_49930 what 50010_50190 else 50210_50391 ?
+*PAR:	(.) the little girl is asking for a cookie . 57053_60536
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	the 57053_57133 little 57213_57473 girl 57533_57813 is 58895_59015 asking 59175_59595 for 59696_59836 a 59896_59916 cookie 60036_60536 .
+*PAR:	the &+ma mother is doin(g) dishes . 63680_65803
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 63680_63780 mother 64361_64661 is 64741_64861 doin(g) 64941_65322 dishes 65322_65803 .
+*PAR:	and the water's runnin(g) out o(f) the sink all over the floor &=laughs . 66283_69347
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|13|ADVMOD 11|13|CASE 12|13|DET 13|5|OBL 14|5|PUNCT
+%wor:	and 66283_66383 the 66403_66483 water's 66563_66944 runnin(g) 67064_67484 out 67484_67625 o(f) 67645_67725 the 67725_67805 sink 67945_68225 all 68345_68465 over 68546_68726 the 68746_68826 floor 68986_69347 .
+*PAR:	some dishwasher &=laughs . [+ exc] 71230_72130
+%mor:	det|some-Def-Ind noun|dishwasher .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	some 71230_71510 dishwasher 71630_72130 .
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that's good . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	alrightie we're all done . 76536_77637
+%mor:	intj|alrightie pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|all verb|do-Part-Past-S-irr .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	alrightie 76536_76837 we're 76857_77037 all 77037_77137 done 77137_77637 .
+@End

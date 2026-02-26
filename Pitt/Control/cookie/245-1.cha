@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/a-00090818-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|70;|male|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	245-1, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 1750_2080
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1750_2080 .
+*PAR:	the boy is standing on a stool . 2190_4219
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 2190_2270 boy 2390_2670 is 2731_2791 standing 2851_3351 on 3451_3551 a 3631_3651 stool 3772_4219 .
+*PAR:	it is tilting over . 4272_5680
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S adv|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	it 4272_4372 is 4432_4532 tilting 4733_5133 over 5253_5680 .
+*PAR:	he's &+r reaching for &+k cookies in the cookie jar . 5754_10698
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|CASE 5|3|OBL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+%wor:	he's 5754_5974 reaching 7035_7475 for 7615_7856 cookies 8957_9437 in 9497_9577 the 9597_9657 cookie 9758_10198 jar 10198_10698 .
+*PAR:	and his sister is standing <beside him> [//] side him reaching up for some of the cookies . [+ gram] 11473_16533
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S noun|side-Acc pron|he-Prs-Acc-S3 verb|reach-Part-Pres-S adp|up adp|for det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|5|OBJ 7|5|OBJ 8|5|ADVCL 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|5|PUNCT
+%wor:	and 11473_11553 his 11573_11693 sister 11754_12135 is 12216_12276 standing 12336_12798 beside 12838_13360 him 13380_13521 side 14364_14665 him 14665_14806 reaching 14906_15207 up 15308_15428 for 15508_15589 some 15669_15850 of 15870_15930 the 15950_16031 cookies 16111_16533 .
+*PAR:	and &-uh the mother is standing &-uh right near them &-uh washing dishes in the sink . 18792_31002
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|right adp|near pron|they-Prs-Acc-P3 noun|washing-Ger noun|dish-Plur adp|in det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|10|ADVMOD 7|10|CASE 8|5|OBL 9|10|COMPOUND 10|5|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|5|PUNCT
+%wor:	and 18792_18952 uh 18992_19072 the 20793_20873 mother 20953_21254 is 21354_21514 standing 21574_22114 uh 23816_25477 right 25517_25777 near 26198_26418 them 26498_26758 uh 27078_27919 washing 27919_28379 dishes 29560_30041 in 30421_30501 the 30501_30581 sink 30781_31002 .
+*PAR:	and the water is running into the sink and the sink is flooding over &-uh with water . 31470_39010
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|into det|the-Def-Art noun|sink cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|flood-Part-Pres-S adp|over adp|with noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|16|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|5|CONJ 14|13|COMPOUND-PRT 15|16|CASE 16|13|OBL 17|5|PUNCT
+%wor:	and 31470_31530 the 31550_31610 water 31610_31910 is 31970_32050 running 32111_32451 into 33273_33513 the 33573_33673 sink 33773_34034 and 34114_34194 the 34194_34274 sink 34354_34595 is 34675_34775 flooding 34855_35236 over 35316_35596 uh 36959_38221 with 38221_38421 water 38561_39010 .
+*PAR:	and &-uh +... 40965_41319
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 40965_41166 uh 41246_41319 +...
+*PAR:	you want scenery description or anything like that ? [+ exc] 43810_45754
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 noun|scenery noun|description-Acc cconj|or pron|anything-Ind-S1 adp|like pron|that-Dem ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|COMPOUND 4|2|OBJ 5|6|CC 6|4|CONJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+%wor:	you 43810_43910 want 43950_44151 scenery 44231_44592 description 44672_45293 or 45293_45333 anything 45333_45553 like 45553_45653 that 45653_45754 ?
+*INV:	+< whatever you see going on , mhm .
+%mor:	pron|whatever-Int-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on cm|cm intj|mhm .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|7|PUNCT 7|1|DISCOURSE 8|1|PUNCT
+*PAR:	okay yeah . [+ exc]
+%mor:	intj|okay intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	outside the window where the mother is there's [/] &-uh there's a walkway &+li it looks like it's going out to a garage . 48547_57341
+%mor:	adp|outside det|the-Def-Art noun|window adv|where det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 pron|there-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walkway pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|out adp|to det|a-Ind-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|13|OBL 4|7|ADVMOD 5|6|DET 6|7|NSUBJ 7|3|ACL-RELCL 8|11|EXPL 9|11|COP 10|11|DET 11|3|ACL-RELCL 12|13|EXPL 13|21|ROOT 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|13|ADVCL 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|13|PUNCT
+%wor:	outside 48547_49027 the 49067_49148 window 49468_49829 where 49849_50009 the 50049_50129 mother 50189_50510 is 51712_51892 there's 51972_52293 uh 52293_52393 there's 53655_53836 a 53876_53896 walkway 53976_54517 it 54777_55018 looks 55058_55258 like 55298_55518 it's 55558_55659 going 55699_56019 out 56099_56220 to 56300_56420 a 56560_56580 garage 56841_57341 .
+*PAR:	and also one is &-uh on his kitchen sink area there's a [//] like a coffee cup &-uh two cups <and a> [/] and a plate . 58580_68500
+%mor:	cconj|and adv|also pron|one-Prs-S3 aux|be-Fin-Ind-Pres-S3 adp|on pron|his-Prs-Gen-S3 noun|kitchen noun|sink noun|area pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 intj|like det|a-Ind-Art noun|coffee noun|cup num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|9|CC 2|9|ADVMOD 3|9|NSUBJ 4|9|COP 5|9|CASE 6|9|NMOD-POSS 7|9|COMPOUND 8|9|COMPOUND 9|11|OBL 10|11|EXPL 11|20|ROOT 12|15|DISCOURSE 13|15|DET 14|15|COMPOUND 15|11|NSUBJ 16|17|NUMMOD 17|15|CONJ 18|20|CC 19|20|DET 20|17|CONJ 21|11|PUNCT
+%wor:	and 58580_58720 also 59160_59460 one 59661_59801 is 59881_60061 uh 60842_61322 on 61322_61442 his 61482_61623 kitchen 61703_62063 sink 62163_62403 area 62724_63024 there's 63104_63424 a 63484_63505 like 64225_64445 a 64465_64485 coffee 64586_64986 cup 65086_65326 uh 65747_66167 two 66307_66488 cups 66548_66928 and 67208_67348 a 67388_67408 and 67749_67929 a 67949_67969 plate 68069_68500 .
+*PAR:	and +... 70151_70452
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 70151_70452 +...
+*INV:	okay xxx .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	hey okay . [+ exc]
+%mor:	intj|hey intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	and I did say the &+sk stool is &-uh tilting &-uh +//. 78216_81406
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S +//.
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|DET 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|4|PUNCT
+%wor:	and 78216_78316 I 78356_78376 did 78537_78737 say 78797_78998 the 79038_79138 stool 79239_80402 is 80463_80623 uh 80703_80844 tilting 81085_81365 uh 81365_81406 +//.
+%com:	tape cuts off
+@End

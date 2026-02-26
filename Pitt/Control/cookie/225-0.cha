@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/a-00090804-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|Control||Participant|29||
+@Media:	225-0, audio
+@G:	Cookie
+*INV:	what do you see going on ? 1300_2170
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|4|PUNCT
+%wor:	what 1300_2170 do you see going on ?
+*PAR:	I see a little boy on a stool almost falling over , taking cookies out of the cookie jar . 4203_11872
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 noun|boy-Acc adp|on det|a-Ind-Art noun|stool adv|almost verb|fall-Part-Pres-S adp|over cm|cm verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|19|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|10|ADVMOD 10|2|ADVCL 11|10|COMPOUND-PRT 12|13|PUNCT 13|10|ADVCL 14|13|OBJ 15|19|CASE 16|19|CASE 17|19|DET 18|19|COMPOUND 19|13|OBL 20|2|PUNCT
+%wor:	I 4203_4223 see 4223_4303 a 4303_4323 little 4323_4523 boy 4603_4884 on 5124_5204 a 5284_5304 stool 5404_5905 almost 6305_6826 falling 7146_7547 over 7747_8127 , taking 9349_9729 cookies 10150_10590 out 10650_10770 of 10830_10870 the 10910_10970 cookie 11031_11351 jar 11431_11872 .
+*PAR:	and the little girl is putting her finger to her mouth <that she's> [//] &-uh to keep it quiet . 12665_19490
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|mouth part|to verb|keep-Inf-S pron|it-Prs-Acc-S3 adj|quiet-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|15|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|13|MARK 13|6|ADVCL 14|13|OBJ 15|13|XCOMP 16|6|PUNCT
+%wor:	and 12665_12745 the 12765_12845 little 12905_13125 girl 13185_13625 is 13986_14266 putting 14466_14726 her 14766_14887 finger 14947_15247 to 15327_15407 her 15487_15647 mouth 15707_16028 that 17049_17189 she's 17249_17449 uh 17449_17489 to 18450_18530 keep 18590_18770 it 18830_18910 quiet 18990_19490 .
+*PAR:	the &-uh mother is washing dishes . 20452_23654
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 20452_20552 uh 20852_21012 mother 21693_21993 is 22033_22133 washing 22213_22674 dishes 23154_23654 .
+*PAR:	she's drying the dishes and letting the water (.) &-uh <keep being> [//] &-uh keep on running <in the> [/] in the sink . 25329_33149
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|let-Part-Pres-S det|the-Def-Art noun|water-Acc verb|keep-Inf-S sconj|on verb|run-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|15|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|3|CONJ 8|9|DET 9|7|OBJ 10|7|XCOMP 11|12|MARK 12|10|ADVCL 13|15|CASE 14|15|DET 15|12|OBL 16|3|PUNCT
+%wor:	she's 25329_25549 drying 25629_26090 the 26311_26391 dishes 26451_26792 and 26852_26953 letting 26973_27233 the 27253_27334 water 27394_27735 uh 28356_29078 keep 29078_29459 being 29459_30963 uh 30983_31043 keep 31123_31304 on 31364_31464 running 31524_31805 in 31865_31945 the 31965_32046 in 32587_32667 the 32707_32768 sink 32888_33149 .
+*PAR:	and then water is running over and she is standing <in the sink [: water] [* s:r-ret]> [//] in the water that's &-uh running over . 33276_42326
+%mor:	cconj|and adv|then noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|5|COMPOUND-PRT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|16|NSUBJ 15|16|AUX 16|13|ACL-RELCL 17|16|ADVMOD 18|5|PUNCT
+%wor:	and 33276_33336 then 33336_33456 water 33516_33816 is 33896_34016 running 34617_34917 over 34997_35298 and 35398_35498 she 35578_35678 is 35738_35778 standing 35818_36379 in 37480_37560 the 37600_37660 water 37841_38181 in 38201_38321 the 38361_38441 water 38521_38882 that's 40003_40403 uh 40503_40704 running 41545_41865 over 41945_42326 .
+*PAR:	&-uh there's a window there she's looking at , at the grass and the flowers . 43841_49908
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window adv|there pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|at cm|cm adp|at det|the-Def-Art noun|grass cconj|and det|the-Def-Art noun|flower-Plur .
+%gra:	1|2|EXPL 2|16|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|8|OBL 10|13|PUNCT 11|13|CASE 12|13|DET 13|8|OBL 14|16|CC 15|16|DET 16|13|CONJ 17|2|PUNCT
+%wor:	uh 43841_43881 there's 44161_44341 a 44401_44421 window 44481_44842 there 45423_45743 she's 46164_46384 looking 46464_46804 at 46905_47105 , at 48006_48126 the 48226_48306 grass 48607_49027 and 49148_49268 the 49268_49328 flowers 49408_49908 .
+*PAR:	and the &-uh &-uh curtains seem to be shaking from the (.) wind and the air that's blowing in . 51767_65537
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur verb|seem-Fin-Ind-Pres-P3 part|to aux|be-Inf-S verb|shake-Part-Pres-S adp|from det|the-Def-Art noun|wind cconj|and det|the-Def-Art noun|air pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S adp|in .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|17|ROOT 5|7|MARK 6|7|AUX 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|13|CC 12|13|DET 13|10|CONJ 14|16|NSUBJ 15|16|AUX 16|13|ACL-RELCL 17|16|COMPOUND-PRT 18|4|PUNCT
+%wor:	and 51767_51947 the 52847_52967 uh 53308_54889 uh 54949_55129 curtains 56710_57251 seem 57851_58051 to 58171_58231 be 58291_58371 shaking 58772_59212 from 59352_59492 the 59552_59652 wind 61714_61974 and 63935_64035 the 64075_64156 air 64316_64436 that's 64556_64756 blowing 64816_65276 in 65376_65537 .
+*PAR:	the dishes that she's through (.) drying are sitting on the sink top . 66574_71684
+%mor:	det|the-Def-Art noun|dish-Plur pron|that-Rel pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|through verb|drying-Part-Pres-S aux|be-Fin-Ind-Pres-P3 verb|sit-Part-Pres-S adp|on det|the-Def-Art noun|sink noun|top .
+%gra:	1|2|DET 2|9|NSUBJ 3|7|OBJ 4|7|NSUBJ 5|7|AUX 6|7|CASE 7|2|ACL-RELCL 8|9|AUX 9|13|ROOT 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|OBL 14|9|PUNCT
+%wor:	the 66574_66634 dishes 66714_67054 that 67095_67235 she's 67295_67555 through 67636_68036 drying 68878_69419 are 69880_70000 sitting 70080_70401 on 70481_70561 the 70601_70702 sink 70882_71102 top 71203_71684 .
+*PAR:	and the little girl's raising her hands for the little boy to hand her a cookie . 75190_81579
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~aux|is verb|raise-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Plur-Acc sconj|for det|the-Def-Art adj|little-S1 noun|boy part|to verb|hand-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|4|CASE 6|17|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|14|MARK 10|12|DET 11|12|AMOD 12|14|NSUBJ 13|14|MARK 14|6|ADVCL 15|14|IOBJ 16|17|DET 17|14|OBJ 18|6|PUNCT
+%wor:	and 75190_75250 the 75250_75350 little 75390_75590 girl's 75650_76171 raising 76952_77373 her 77453_77613 hands 78134_78615 for 78735_78855 the 78916_78996 little 79056_79236 boy 79276_79496 to 79537_79597 hand 79697_79977 her 80037_80198 a 80959_80979 cookie 81079_81579 .
+*PAR:	and he has one cookie in his hand and he's going after another one . 82421_86288
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|after det|another-Def-Ind noun|one .
+%gra:	1|3|CC 2|3|NSUBJ 3|15|ROOT 4|5|NUMMOD 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|3|CONJ 13|15|CASE 14|15|DET 15|12|OBL 16|3|PUNCT
+%wor:	and 82421_82622 he 82802_82902 has 83102_83323 one 83463_83603 cookie 83663_84004 in 84044_84124 his 84184_84364 hand 84445_84745 and 84805_84885 he's 84885_85025 going 85066_85326 after 85406_85687 another 85767_86087 one 86187_86288 .
+*PAR:	&-uh he's ready to hand her a cookie . 90274_92844
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|hand-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|3|PUNCT
+%wor:	uh 90274_90314 he's 90334_90414 ready 90434_90634 to 90714_90774 hand 90835_91115 her 91155_91315 a 92337_92357 cookie 92477_92844 .
+*PAR:	mother is &-uh holding a dish cloth that she's drying the dishes with . 97957_103217
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S det|a-Ind-Art noun|dish noun|cloth-Acc pron|that-Rel pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|with .
+%gra:	1|3|NSUBJ 2|3|AUX 3|13|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|12|DET 12|10|OBJ 13|3|PUNCT 14|3|PUNCT
+%wor:	mother 97957_98248 is 98348_98668 uh 98769_99249 holding 99269_99710 a 99750_99770 dish 100872_101053 cloth 101113_101554 that 101694_101834 she's 101914_102095 drying 102155_102475 the 102475_102555 dishes 102615_103056 with 103116_103217 .
+*PAR:	she has a platter that she's drying . 103572_105572
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|platter-Acc pron|that-Rel pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|2|PUNCT
+%wor:	she 103572_103652 has 103792_103952 a 104172_104192 platter 104272_104693 that 104773_104913 she's 104953_105173 drying 105213_105572 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I don't see any other action . [+ exc] 111231_112841
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S det|any-Def-Ind adj|other-S1 noun|action-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%wor:	I don't 111231_111359 see 111780_111920 any 111920_112060 other 112160_112360 action 112480_112841 .
+*INV:	okay that's fine . 113913_114563
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 113913_114142 that's 114142_114382 fine 114462_114563 .
+@End

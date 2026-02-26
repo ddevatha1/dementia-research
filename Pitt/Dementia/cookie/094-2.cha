@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00090394-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;00.|female|ProbableAD||Participant|||
+@Media:	094-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	see going on in the picture . 330_1550
+%mor:	verb|see-Fin-Imp-S verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|6|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+%wor:	see 330_430 going 430_1550 on in the picture .
+*PAR:	what do I tell you when I see it ? [+ exc] 3634_4711
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 adv|when pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|4|IOBJ 6|8|ADVMOD 7|8|NSUBJ 8|4|ADVCL 9|8|OBJ 10|4|PUNCT
+%wor:	what 3634_3714 do 3734_3774 I 3774_3794 tell 3794_3974 you 4014_4074 when 4114_4235 I 4335_4355 see 4455_4595 it 4635_4711 ?
+*INV:	just tell me what you see . 5056_6397
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|2|PUNCT
+%wor:	just 5056_5256 tell 5316_5516 me 5556_5616 what 5676_5797 you 5837_5897 see 5897_6397 .
+*PAR:	+< as I see it ? [+ exc] 5977_6621
+%mor:	sconj|as pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	as 5977_6137 I 6297_6317 see 6417_6558 it 6598_6621 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh is there somethin(g) goin(g) on there or &+i +..? [+ exc] 9626_11286
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|something-Ind-S1 verb|go-Ger-S adp|on adv|there cconj|or +..?
+%gra:	1|7|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|1|CONJ 8|1|PUNCT
+%wor:	uh 9626_9862 is 10022_10142 there 10162_10302 somethin(g) 10323_10643 goin(g) 10643_10883 on 10883_11023 there 11043_11264 or 11264_11286 +..?
+*PAR:	oh that's just +... [+ exc] 11865_12626
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just +...
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	oh 11865_12045 that's 12285_12425 just 12465_12626 +...
+*INV:	right I'm just recording it so that I can remember what you said later on . 16194_16491
+%mor:	adv|right pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just verb|record-Part-Pres-S pron|it-Prs-Acc-S3 sconj|so sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S verb|remember-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr adv|late adp|on .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|16|ROOT 6|5|OBJ 7|11|MARK 8|7|FIXED 9|11|NSUBJ 10|11|AUX 11|5|ADVCL 12|11|OBJ 13|14|NSUBJ 14|12|ACL-RELCL 15|14|ADVMOD 16|14|OBL 17|5|PUNCT
+%wor:	right 16194_16491 I'm just recording it so that I can remember what you said later on .
+*INV:	can you tell me everything that you see going on in that picture ? 19238_20597
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|3|IOBJ 5|3|OBJ 6|9|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|3|PUNCT
+%wor:	can 19238_19298 you 19298_19358 tell 19358_19458 me 19458_19498 everything 19518_19718 that 19718_19798 you 19798_19858 see 19858_19938 going 19938_20059 on 20059_20099 in 20099_20139 that 20139_20219 picture 20219_20597 ?
+*PAR:	well , the first bad thing I see is <the water runnin(g) out o(f)> [//] the s:ink runnin(g) over . 20980_26768
+%mor:	intj|well cm|cm det|the-Def-Art adj|first-S1 adj|bad-S1 noun|thing-Ger pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|sink verb|run-Ger-S adv|over .
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|6|DET 4|6|AMOD 5|6|AMOD 6|11|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|11|COP 10|11|DET 11|13|ROOT 12|11|ACL 13|12|ADVMOD 14|11|PUNCT
+%wor:	well 20980_21260 , the 21360_21501 first 21521_21841 bad 22201_22422 thing 22482_22682 I 22822_22842 see 22942_23163 is 23283_23423 the 23483_23563 water 23623_23984 runnin(g) 24064_24444 out 24444_24585 o(f) 24585_24665 the 24665_24745 sink 25386_25706 runnin(g) 26247_26587 over 26587_26768 .
+*PAR:	and the little boy up stealin(g) cookies and givin(g) one to his sister . [+ gram] 28794_32043
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy adp|up verb|steal-Ger-S noun|cookie-Plur-Acc cconj|and verb|give-Part-Pres-S num|one adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|13|ROOT 5|4|COMPOUND-PRT 6|4|ACL 7|6|OBJ 8|9|CC 9|6|CONJ 10|9|OBJ 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|4|PUNCT
+%wor:	and 28794_28854 the 28854_28954 little 28954_29154 boy 29214_29514 up 29614_29734 stealin(g) 29974_30474 cookies 30474_30894 and 30934_30994 givin(g) 31054_31434 one 31434_31534 to 31534_31594 his 31635_31735 sister 31795_32043 .
+*PAR:	and mom is dryin(g) the dishes and standin(g) in the water . 33395_38689
+%mor:	cconj|and noun|mom aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+%wor:	and 33395_33635 mom 35136_35376 is 35436_35556 dryin(g) 36016_36356 the 36356_36416 dishes 36476_36936 and 36996_37096 standin(g) 37677_38177 in 38177_38237 the 38277_38337 water 38397_38689 .
+*PAR:	she's lookin(g) the other direction . 41649_42999
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S det|the-Def-Art adj|other-S1 noun|direction-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%wor:	she's 41649_41898 lookin(g) 41938_42198 the 42198_42258 other 42338_42498 direction 42538_42999 .
+*PAR:	and the little boy's fallin(g) off the stool xxx standin(g) up on to get the cookie . [+ gram] 44238_50858
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool verb|stand-Ger-S adp|up adp|on part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|16|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVCL 11|10|COMPOUND-PRT 12|10|OBL 13|14|MARK 14|10|ADVCL 15|16|DET 16|14|OBJ 17|6|PUNCT
+%wor:	and 44238_44298 the 44298_44358 little 44418_44619 boy's 44659_44900 fallin(g) 45000_45481 off 45481_45642 the 45722_45822 stool 46805_47126 standin(g) 49253_49774 up 49774_49875 on 49955_50075 to 50155_50216 get 50276_50416 the 50456_50516 cookie 50597_50858 .
+*PAR:	he's gonna get hurt (.) when he hits that sink . 54077_60877
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna aux|get-Inf-S verb|hurt-Part-Past-S-irr adv|when pron|he-Prs-Nom-S3 verb|hit-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|sink-Acc .
+%gra:	1|5|NSUBJ-PASS 2|5|AUX 3|5|ADVMOD 4|5|AUX-PASS 5|10|ROOT 6|8|ADVMOD 7|8|NSUBJ 8|5|ADVCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+%wor:	he's 54077_54197 gonna 54277_54497 get 54578_55279 hurt 55279_55480 when 57945_58125 he 58125_58205 hits 58386_58666 that 58686_60651 sink 60651_60877 .
+*PAR:	sounds like an airplane goin(g) crazy . [+ exc] 62951_64760
+%mor:	verb|sound-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|airplane verb|go-Ger-S adj|crazy-S1 .
+%gra:	1|6|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|4|ACL 6|5|XCOMP 7|1|PUNCT
+%wor:	sounds 62951_63316 like 63316_63477 an 63517_63557 airplane 63617_64058 goin(g) 64178_64519 crazy 64519_64760 .
+*INV:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	is there anything else that you needta say ?
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 aux|needta-Fin-S verb|say-Inf-S ?
+%gra:	1|8|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|3|ACL-RELCL 9|1|PUNCT
+*PAR:	&-um no . [+ exc]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) you can see out the window (.) out into the yard . 81077_82138
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|out det|the-Def-Art noun|window adp|out adp|into det|the-Def-Art noun|yard .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|COMPOUND-PRT 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%wor:	you 81077_81137 can 81137_81257 see 81257_81337 out 81337_81437 the 81457_81517 window 81517_81738 out 81738_81798 into 81818_81898 the 81898_81958 yard 82018_82138 .
+*PAR:	and you can see &-uh a window over there on the other side of the house . 82560_88048
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art noun|window-Acc adp|over adv|there adp|on det|the-Def-Art adj|other-S1 noun|side adp|of det|the-Def-Art noun|house .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|12|CASE 10|12|DET 11|12|AMOD 12|4|OBL 13|15|CASE 14|15|DET 15|12|NMOD 16|4|PUNCT
+%wor:	and 82560_83821 you 83841_84001 can 84061_84161 see 84262_84542 uh 85884_85964 a 85984_86004 window 86104_86545 over 86605_86846 there 86886_87106 on 87106_87166 the 87166_87246 other 87326_87567 side 87567_87707 of 87727_87787 the 87787_87847 house 87947_88048 .
+*INV:	(..) okay that's fine .
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+@End

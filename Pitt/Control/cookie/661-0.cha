@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00090867-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;|male|Control||Participant|29||
+@Media:	661-0, audio
+@G:	Cookie
+*INV:	and tell me everything you see happening in that picture . 320_3050
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|10|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+%wor:	and 320_400 tell 440_620 me 660_740 everything 840_1220 you 1260_1360 see 1440_1600 happening 1660_2140 in 2180_2260 that 2300_2521 picture 2761_3050 .
+*INV:	everything that's going on there . 3881_5138
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|1|PUNCT
+%wor:	everything 3881_4221 that's 4221_4381 going 4462_4742 on 4802_4962 there 5002_5138 .
+*PAR:	you mean right now tell you ? [+ exc] 5683_7273
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 adv|right adv|now verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 ?
+%gra:	1|2|NSUBJ 2|5|CCOMP 3|4|ADVMOD 4|5|ADVMOD 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+%wor:	you 5683_5742 mean 5782_5942 right 6002_6242 now 6322_6623 tell 6783_7023 you 7083_7273 ?
+*INV:	yeah mhm . 7683_8223
+%mor:	intj|yeah intj|mhm .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	yeah 7683_8223 mhm .
+*PAR:	&-uh the boy is stealing cookies out of the jar . 8403_11006
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|OBJ 6|9|CASE 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	uh 8403_8463 the 8584_8704 boy 8964_9184 is 9224_9264 stealing 9324_9684 cookies 9724_10104 out 10164_10284 of 10304_10344 the 10364_10444 jar 10544_11006 .
+*PAR:	and he's on a stool that's falling down . 11023_12993
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|down .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|10|ROOT 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|COMPOUND-PRT 11|6|PUNCT
+%wor:	and he's 11023_11125 on 11205_11285 a 11345_11365 stool 11505_11845 that's 11865_12065 falling 12125_12525 down 12585_12993 .
+*PAR:	and the girl is laughing at him . 13046_14787
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and 13046_13146 the 13166_13246 girl 13286_13566 is 13646_13726 laughing 13806_14306 at 14406_14546 him 14586_14787 .
+*PAR:	and the mother is washing dishes but she's preoccupied . 14871_18176
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|preoccupy-Part-Past-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|OBJ 7|10|CC 8|10|NSUBJ 9|10|AUX-PASS 10|5|CONJ 11|5|PUNCT
+%wor:	and 14871_14931 the 14951_15051 mother 15091_15412 is 15472_15612 washing 16173_16594 dishes 16654_17054 but 17115_17275 she's 17335_17595 preoccupied 17676_18176 .
+*PAR:	and the water is flowing over the sink . 18838_21054
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 18838_18938 the 18958_19058 water 19098_19439 is 19479_19579 flowing 19659_20080 over 20140_20380 the 20461_20541 sink 20641_21054 .
+*PAR:	and &-uh there's trouble galore . 21844_24140
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|trouble adj|galore-S1 .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|3|NSUBJ 5|3|XCOMP 6|3|PUNCT
+%wor:	and 21844_22244 uh 22284_22324 there's 22925_23205 trouble 23266_23646 galore 23686_24140 .
+*PAR:	the wind is blowing the &-uh curtains . 24188_26552
+%mor:	det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S det|the-Def-Art noun|curtain-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 24188_24287 wind 24368_24628 is 24668_24768 blowing 24828_25269 the 25329_25450 uh 25770_26051 curtains 26071_26552 .
+*PAR:	&-um (..) she is not paying any attention to her kids . 28523_39411
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S det|any-Def-Ind noun|attention-Acc adp|to pron|her-Prs-Gen-S3 noun|kid-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+%wor:	um 28523_28563 she 36509_36649 is 36930_37090 not 37170_37370 paying 37450_37790 any 37810_37910 attention 38030_38491 to 38531_38611 her 38671_38791 kids 38911_39411 .
+*PAR:	and &-um the boy in addition to stealing he's trying to give the girl a [/] a cookie . 41198_47864
+%mor:	cconj|and det|the-Def-Art noun|boy adp|in noun|addition sconj|to verb|steal-Ger-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|give-Inf-S det|the-Def-Art noun|girl det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|5|CASE 5|3|NMOD 6|7|MARK 7|5|ACL 8|10|NSUBJ 9|10|AUX 10|16|ROOT 11|12|MARK 12|10|XCOMP 13|14|DET 14|12|IOBJ 15|16|DET 16|12|OBJ 17|10|PUNCT
+%wor:	and 41198_41558 um 41618_42119 the 43580_43660 boy 43800_44101 in 44401_44501 addition 44541_44941 to 44961_45042 stealing 45102_45502 he's 45542_45722 trying 45762_46023 to 46043_46103 give 46183_46403 the 46423_46503 girl 46563_46904 a 46964_46984 a 47184_47204 cookie 47364_47864 .
+*PAR:	and &-uh the whole thing is goin(g) to collapse . 49046_51668
+%mor:	cconj|and det|the-Def-Art adj|whole-S1 noun|thing-Ger aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|collapse-Inf-S .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+%wor:	and 49046_49466 uh 49546_49987 the 49987_50107 whole 50187_50427 thing 50487_50707 is 50768_50828 goin(g) 50868_51068 to 51068_51108 collapse 51168_51668 .
+*PAR:	&-uh but aside from that they seem to be a fairly happy family . 54810_58237
+%mor:	cconj|but adv|aside adp|from sconj|that pron|they-Prs-Nom-P3 verb|seem-Fin-Ind-Pres-P3 part|to aux|be-Inf-S det|a-Ind-Art adv|fairly adj|happy-S1 noun|family .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|CASE 4|6|OBL 5|6|NSUBJ 6|12|ROOT 7|12|MARK 8|12|COP 9|12|DET 10|11|ADVMOD 11|12|AMOD 12|6|XCOMP 13|6|PUNCT
+%wor:	uh 54810_54890 but 54890_55090 aside 55271_55652 from 55692_55852 that 55892_56073 they 56113_56253 seem 56293_56474 to 56514_56594 be 56614_56694 a 56775_56795 fairly 56895_57236 happy 57316_57637 family 57737_58237 .
+*INV:	&=laughs .
+@End

@@ -1,0 +1,256 @@
+@UTF8
+@PID:	11312/a-00089803-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|87;|female|ProbableAD||Participant|24||
+@Media:	650-0, audio
+@G:	animals
+*INV:	ready ? 200_500
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ready 200_500 ?
+*INV:	I'm going to give you a minute . 500_1440
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBL-UNMARKED 9|3|PUNCT
+%wor:	I'm 500_580 going 640_760 to 760_800 give 840_1001 you 1001_1081 a 1141_1161 minute 1221_1440 .
+*INV:	and you start naming animals for me . 1502_3437
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|start-Fin-Ind-Pres-S2 verb|name-Ger-S noun|animal-Plur-Acc adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|4|OBJ 6|7|CASE 7|4|OBL 8|3|PUNCT
+%wor:	and 1502_1581 you 1601_1682 start 1802_2022 naming 2062_2402 animals 2543_2943 for 3023_3184 me 3244_3437 .
+*INV:	go ahead . 3437_4324
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	go 3437_3764 ahead 3824_4324 .
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um dog . 6569_6748
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um dog 6569_6748 .
+*PAR:	cat . 7170_7669
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 7170_7669 .
+*PAR:	&-uh oh (.) and &-uh horse . 9453_16464
+%mor:	intj|oh cconj|and noun|horse .
+%gra:	1|3|DISCOURSE 2|3|CC 3|3|ROOT 4|3|PUNCT
+%wor:	uh 9453_9513 oh 9774_10315 and 12658_12879 uh 12919_15944 horse 15964_16464 .
+*PAR:	cow . 17247_17726
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 17247_17726 .
+*PAR:	&-uh oh oh my gosh I can't do that . [+ exc] 23678_26241
+%mor:	intj|oh intj|oh pron|my-Prs-Gen-S1 intj|gosh pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|do-Inf-S pron|that-Dem .
+%gra:	1|8|DISCOURSE 2|8|DISCOURSE 3|4|NMOD-POSS 4|8|DISCOURSE 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|9|ROOT 9|8|OBJ 10|8|PUNCT
+%wor:	uh 23678_23758 oh 23818_23898 oh 23898_23938 my 23938_23978 gosh 24038_24339 I 25060_25080 can't 25180_25480 do 25520_25620 that 25741_26241 .
+*PAR:	&-uh my &+brai brain don't xxx +/. [+ exc] 31468_33851
+%mor:	pron|my-Prs-Gen-S1 noun|brain aux|do-Fin-Ind-Pres-S3~part|not +/.
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	uh my 31468_32089 brain 32990_33311 don't 33351_33851 +/.
+*INV:	+< just take your time and think of <some animals> [//] some more animals . 34292_37635
+%mor:	adv|just verb|take-Fin-Imp-S pron|your-Prs-Gen-S2 noun|time-Acc cconj|and verb|think-Fin-Imp-S adp|of det|some-Def-Ind adj|more-Cmp-S1 noun|animal-Plur .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|CC 6|2|CONJ 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|2|PUNCT
+%wor:	just 34292_34453 take 34574_34795 your 34815_34936 time 34976_35278 and 35319_35379 think 35419_35601 of 35661_35721 some 35782_35943 animals 36084_36628 some 36708_36910 more 36910_37071 animals 37171_37635 .
+*PAR:	&-uh oh (.) <I think I> [//] I think that my brains just went to sleep . [+ exc] 38896_55749
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that pron|my-Prs-Gen-S1 noun|brain-Plur adv|just verb|go-Fin-Ind-Past-P3-irr adp|to noun|sleep .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|10|ROOT 4|8|MARK 5|6|NMOD-POSS 6|8|NSUBJ 7|8|ADVMOD 8|3|CCOMP 9|10|CASE 10|8|OBL 11|3|PUNCT
+%wor:	uh 38896_39856 oh 39916_40237 I 46102_46122 think 46282_46882 I 51366_51386 I 51426_51446 think 51506_51746 that 51766_51866 my 51886_52066 brains 52327_52767 just 52907_53327 went 53548_53768 to 53788_53828 sleep 55249_55749 .
+*INV:	any other animals you can think of ? 58333_60512
+%mor:	det|any-Def-Ind adj|other-S1 noun|animal-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of ?
+%gra:	1|3|DET 2|3|AMOD 3|7|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|3|PUNCT
+%wor:	any 58333_58433 other 58533_58713 animals 59794_59934 you 59934_59994 can 59994_60315 think 60335_60512 of ?
+*PAR:	+< I can't . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	honestly I'm [/] I'm either hungry or [/] or +/. [+ exc] 61396_64099
+%mor:	adv|honestly pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 cconj|either adj|hungry-S1 cconj|or +/.
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|CC-PRECONJ 5|6|ROOT 6|5|CC 7|5|PUNCT
+%wor:	honestly 61396_61636 I'm 61656_61857 I'm 62638_62798 either 62818_63078 hungry 63178_63539 or 63539_63579 or 63599_64099 +/.
+*INV:	you getting pooped ? 64281_64799
+%mor:	pron|you-Prs-Nom-S2 aux|get-Part-Pres-S verb|poop-Part-Past-S ?
+%gra:	1|3|NSUBJ 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+%wor:	you getting 64281_64299 pooped 64299_64799 ?
+*PAR:	huh ? [+ exc]
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	are you getting pooped ? 65821_66709
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 aux|get-Part-Pres-S verb|poop-Part-Past-S ?
+%gra:	1|4|AUX 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%wor:	are you getting 65821_65921 pooped 66222_66709 ?
+*PAR:	yeah . [+ exc] 67044_67543
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 67044_67543 .
+*INV:	are you ? 67721_68344
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	are 67721_68344 you ?
+*PAR:	and &-uh +/. [+ exc] 68444_68658
+%mor:	cconj|and +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 68444_68504 uh 68504_68658 +/.
+*INV:	well , I'll tell you what . 69485_69868
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1~aux|will-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|what-Int-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|IOBJ 7|5|OBJ 8|5|PUNCT
+%wor:	well , I'll 69485_69868 tell you what .
+*INV:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	I didn't &-uh +/. 71928_72189
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not +/.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I 71928_71948 didn't 71988_72148 uh 72148_72189 +/.
+*INV:	+< <one two three four> [//] after five more tests we'll take a break and let you go to lunch , okay . 71838_79215
+%mor:	adp|after num|five adj|more-Cmp-S1 noun|test-Plur pron|we-Prs-Nom-P1~aux|will-Fin-S verb|take-Inf-S det|a-Ind-Art noun|break-Acc cconj|and verb|let-Inf-S pron|you-Prs-Acc-S2 verb|go-Inf-S adp|to noun|lunch cm|cm intj|okay .
+%gra:	1|4|CASE 2|4|NUMMOD 3|4|AMOD 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|17|ROOT 8|9|DET 9|7|OBJ 10|11|CC 11|7|CONJ 12|11|OBJ 13|11|XCOMP 14|15|CASE 15|13|OBL 16|17|PUNCT 17|7|DISCOURSE 18|7|PUNCT
+%wor:	one 71838_71898 two 72679_74302 three 74602_74843 four 74843_74923 after 74923_75203 five 75323_75684 more 75764_75964 tests 76024_76545 we'll 76625_76786 take 76826_77046 a 77086_77106 break 77166_77407 and 77467_77547 let 77567_77687 you 77727_77807 go 77847_77928 to 78008_78088 lunch 78148_78529 , okay 78729_79215 .
+*PAR:	+< oh , alright . [+ exc] 79650_79877
+%mor:	intj|oh cm|cm intj|alright .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh 79650_79690 , alright 79690_79877 .
+*INV:	+< so , if you'll cooperate with me for five more tests then you can go ahead to lunch . 79911_84157
+%mor:	adv|so cm|cm sconj|if pron|you-Prs-Nom-S2~aux|will-Fin-S verb|cooperate-Inf-S adp|with pron|I-Prs-Acc-S1 adp|for num|five adj|more-Cmp-S1 noun|test-Plur adv|then pron|you-Prs-Nom-S2 aux|can-Fin-S verb|go-Inf-S adv|ahead adp|to noun|lunch .
+%gra:	1|16|ADVMOD 2|1|PUNCT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|16|ADVCL 7|8|CASE 8|6|OBL 9|12|CASE 10|12|NUMMOD 11|12|AMOD 12|6|OBL 13|16|ADVMOD 14|16|NSUBJ 15|16|AUX 16|19|ROOT 17|16|ADVMOD 18|19|CASE 19|16|OBL 20|16|PUNCT
+%wor:	so 79911_79971 , if 79991_80051 you'll 80091_80251 cooperate 80271_80812 with 80832_80973 me 81013_81053 for 81173_81313 five 81393_81734 more 81814_81994 tests 82054_82515 then 82595_82715 you 82755_82836 can 82896_83036 go 83096_83176 ahead 83236_83457 to 83517_83597 lunch 83657_84157 .
+*PAR:	+< oh , uhhuh . [+ exc] 83977_84290
+%mor:	intj|oh cm|cm intj|uhhuh .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh 83977_84018 , uhhuh 84018_84290 .
+*INV:	alright . 84290_84599
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 84290_84599 .
+*INV:	and and we will bring you back some other time to finish the test .
+%mor:	cconj|and cconj|and pron|we-Prs-Nom-P1 aux|will-Fin-S verb|bring-Inf-S pron|you-Prs-Acc-S2 adv|back det|some-Def-Ind adj|other-S1 noun|time part|to verb|finish-Inf-S det|the-Def-Art noun|test-Acc .
+%gra:	1|5|CC 2|5|CC 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|5|OBJ 7|5|ADVMOD 8|10|DET 9|10|AMOD 10|5|OBL-UNMARKED 11|12|MARK 12|5|ADVCL 13|14|DET 14|12|OBJ 15|5|PUNCT
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	alright ?
+%mor:	intj|alright ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< &-uh &-uh I don't know what to say . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 part|to verb|say-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|MARK 7|5|ACL 8|4|PUNCT
+*PAR:	<I think> [//] &-you_know &-uh I really hadn't much time to eat . [+ exc] 93763_97452
+%mor:	pron|I-Prs-Nom-S1 adv|really verb|have-Fin-Ind-Past-S1-irr~part|not adj|much-S1 noun|time-Acc part|to verb|eat-Inf-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|8|ROOT 4|5|ADVMOD 5|6|AMOD 6|3|OBJ 7|8|MARK 8|6|ACL 9|3|PUNCT
+%wor:	I 93763_93783 think 93783_94023 you_know 94023_94423 uh 94423_94463 I 94604_94624 really 94704_95024 hadn't 95305_95665 much 95685_95925 time 96006_96486 to 96566_96687 eat 97007_97452 .
+*INV:	uhhuh . 97452_97847
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 97452_97847 .
+*PAR:	and <I've been> [//] &+tr &+th &-uh that now I'm getting hungry . [+ exc] 98225_102306
+%mor:	cconj|and sconj|that adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|get-Part-Pres-S adj|hungry-S1 .
+%gra:	1|6|CC 2|6|MARK 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|XCOMP 8|6|PUNCT
+%wor:	and 98225_98369 I've 98569_98689 been 98689_98890 uh 100492_100592 that 100592_100812 now 100972_101213 I'm 101233_101333 getting 101453_101733 hungry 101814_102306 .
+*INV:	okay . 102855_102909
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 102855_102909 .
+*PAR:	and so +/. [+ exc] 103055_104418
+%mor:	cconj|and adv|so +/.
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 103055_103135 so 103976_104418 +/.
+*INV:	+< well let's just do these five tests . 104037_105700
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 adv|just verb|do-Inf-S det|this-Def-Dem-Plur num|five noun|test-Plur-Acc .
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|XCOMP 6|8|DET 7|8|NUMMOD 8|5|OBJ 9|2|PUNCT
+%wor:	well 104037_104137 let's 104157_104257 just 104337_104537 do 104577_104677 these 104758_104978 five 105018_105298 tests 105338_105700 .
+*INV:	and then we will send you off for some lunch . 105819_107500
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 aux|will-Fin-S verb|send-Inf-S pron|you-Prs-Acc-S2 adp|off adp|for det|some-Def-Ind noun|lunch .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	and 105819_105919 then 105919_106119 we 106119_106200 will 106260_106380 send 106420_106560 you 106560_106640 off 106660_106880 for 106981_107201 some 107201_107361 lunch 107381_107500 .
+*PAR:	+< alright , xxx . [+ exc]
+%mor:	intj|alright cm|cm .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*INV:	okay ? 107902_108363
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 107902_108363 ?
+*PAR:	yeah , alright &=sighs . [+ exc] 109143_109410
+%mor:	intj|yeah cm|cm intj|alright .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	yeah 109143_109404 , alright 109404_109410 .
+@G:	F
+*INV:	+< alright , now I'm going to give you another minute . 109644_112266
+%mor:	intj|alright cm|cm adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|another-Def-Ind noun|minute-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|8|MARK 8|6|XCOMP 9|8|IOBJ 10|11|DET 11|8|OBJ 12|6|PUNCT
+%wor:	alright 109644_110124 , now 110124_110285 I'm 110365_110445 going 110485_110705 to 110725_110765 give 110825_110985 you 110985_111085 another 111226_111606 minute 111766_112266 .
+*INV:	and in this minute's time I want you to name for me as many words as you can think of that start with the letter f@l . 112907_120503
+%mor:	cconj|and adp|in det|this-Def-Dem-Sing noun|minute~part|s noun|time pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|for pron|I-Prs-Acc-S1 adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of det|that-Def-Dem-Sing verb|start-Inf-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|8|CC 2|6|CASE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|8|OBL 7|8|NSUBJ 8|27|ROOT 9|8|OBJ 10|11|MARK 11|8|XCOMP 12|13|CASE 13|11|OBL 14|15|ADVMOD 15|16|AMOD 16|11|OBJ 17|20|MARK 18|20|NSUBJ 19|20|AUX 20|11|ADVCL 21|20|OBL 22|23|DET 23|20|ADVCL 24|26|CASE 25|26|DET 26|23|OBL 27|8|PUNCT 28|8|PUNCT
+%wor:	and 112907_113027 in 113068_113208 this 113508_113708 minute's 113828_114209 time 114289_114729 I 114909_114929 want 114970_115150 you 115210_115290 to 115330_115410 name 115470_115710 for 115750_115870 me 115931_115991 as 116231_116371 many 116471_116691 words 116892_117352 as 117412_117512 you 117572_117692 can 117732_117873 think 117933_118153 of 118233_118353 that 118673_118794 start 118854_119134 with 119174_119314 the 119354_119454 letter 119514_119775 f 120075_120503 .
+*PAR:	&-hm . [+ exc] 120503_120596
+%wor:	hm 120503_120596 .
+*INV:	all the words that come to mind that start with the letter f@l . 122017_125139
+%mor:	det|all-Def-Tot det|the-Def-Art noun|word-Plur pron|that-Rel verb|come-Fin-Ind-Pres-P3 adp|to noun|mind pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|DET-PREDET 2|3|DET 3|13|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|OBL 8|9|NSUBJ 9|3|ACL-RELCL 10|12|CASE 11|12|DET 12|9|OBL 13|9|OBL-UNMARKED 14|3|PUNCT
+%wor:	all 122017_122117 the 122137_122197 words 122277_122557 that 122557_122657 come 122697_122897 to 122957_123037 mind 123097_123377 that 123417_123517 start 123597_123858 with 123898_124018 the 124058_124138 letter 124218_124458 f 124758_125139 .
+*PAR:	<well I> [//] fish@q I can think of . 125359_128200
+%mor:	q|fish pron|I-Prs-Nom-S1 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|5|FLAT 2|4|NSUBJ 3|4|AUX 4|1|PARATAXIS 5|4|OBL 6|1|PUNCT
+%wor:	well 125359_125599 I 125859_125879 fish@q 126539_127000 I 127100_127120 can 127200_127420 think 127680_127900 of 127980_128200 .
+*INV:	+< okay , go ahead . 128040_128615
+%mor:	intj|okay cm|cm verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	okay 128040_128120 , go 128260_128340 ahead 128400_128615 .
+*INV:	fish . 128881_129230
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 128881_129230 .
+*INV:	what else ? 129362_129788
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	what 129362_129481 else 129661_129788 ?
+*PAR:	and &-uh flower . 130082_132463
+%mor:	cconj|and verb|flower-Fin-Imp-S .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 130082_130342 uh 130882_130982 flower 131983_132463 .
+*INV:	mhm . 132963_133264
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 132963_133264 .
+*PAR:	and &-uh oh my gosh . [+ exc]
+%mor:	cconj|and intj|oh pron|my-Prs-Gen-S1 intj|gosh .
+%gra:	1|4|CC 2|4|DISCOURSE 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*PAR:	(.) I can't do it . [+ exc] 143175_143990
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	I 143175_143195 can't 143255_143435 do 143495_143656 it 143756_143990 .
+*PAR:	I [//] my xxx +/. [+ exc] 144116_144136
+%mor:	pron|my-Prs-Gen-S1 +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	I 144116_144136 my +/.
+*INV:	+< anything starting with f@l [/] f@l . 144577_145919
+%mor:	pron|anything-Ind-S1 verb|start-Ger-S adp|with propn|for .
+%gra:	1|4|ROOT 2|1|ACL 3|2|OBL 4|2|OBL 5|1|PUNCT
+%wor:	anything 144577_144937 starting 145218_145538 with 145538_145618 f 145618_145638 f 145838_145919 .
+*PAR:	+< &-uh &-uh &-uh I will tell you <I think I> [//] (.) &-uh <I think that> [//] &-uh my [//] &-uh because I'm hungry I think that I [//] &-uh my brain isn't working xxx . [+ exc] 150401_161307
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|hungry-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that pron|my-Prs-Gen-S1 noun|brain aux|be-Fin-Ind-Pres-S3~part|not verb|work-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|16|ROOT 4|3|IOBJ 5|8|MARK 6|8|NSUBJ 7|8|COP 8|3|ADVCL 9|10|NSUBJ 10|3|PARATAXIS 11|16|MARK 12|13|NMOD-POSS 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|10|CCOMP 17|3|PUNCT
+%wor:	uh 150401_150481 uh 150521_150581 uh 150581_150621 I 150621_150641 will 150641_150741 tell 150741_150961 you 150961_151021 I 151181_151201 think 151282_151502 I 156307_156327 uh 156327_156367 I 156387_156407 think 156407_156627 that 156687_156887 uh 157047_157108 my 157128_157288 uh 157708_157808 because 157808_158189 I'm 158229_158329 hungry 158449_158829 I 159010_159030 think 159090_159310 that 159330_159450 I 159810_159830 uh 159830_159870 my 159870_160031 brain 160111_160411 isn't 160471_160791 working 160811_161307 .
+*INV:	okay , well , let's just finish these tests . 162328_162693
+%mor:	intj|okay cm|cm intj|well cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 adv|just verb|finish-Inf-S det|this-Def-Dem-Plur noun|test-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|3|PUNCT 5|10|ROOT 6|5|OBJ 7|8|ADVMOD 8|5|XCOMP 9|10|DET 10|8|OBJ 11|5|PUNCT
+%wor:	okay , well , let's just finish these tests 162328_162693 .
+*INV:	think of anything that starts with f@l . 166801_167325
+%mor:	verb|think-Fin-Imp-S adp|of pron|anything-Ind-S1 pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with propn|for .
+%gra:	1|7|ROOT 2|3|CASE 3|1|OBL 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBL 7|5|OBL 8|1|PUNCT
+%wor:	think 166801_167021 of 167041_167081 anything 167141_167325 that starts with f .
+*PAR:	+< I can't think though . [+ exc] 167822_168331
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adv|though .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	I 167822_167842 can't 167902_168123 think 168143_168331 though .
+*PAR:	<I'm [/] I'm just> [/] (.) &-uh &-uh I'm just &-uh (.) blank . [+ exc] 174916_178919
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just adj|blank-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I'm 174916_175134 I'm 175314_175494 just 175654_176055 uh 176155_177537 uh 177658_177718 I'm 177798_177958 just 177958_178098 uh 178218_178258 blank 178419_178919 .
+*PAR:	<I [/] I can't> [//] &-uh (.) I wonder what happened to that brain anyway . [+ exc] 182365_190235
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 pron|what-Int-S1 verb|happen-Fin-Ind-Past-S3 adp|to det|that-Def-Dem-Sing noun|brain adv|anyway .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVMOD 9|2|PUNCT
+%wor:	I 182365_182385 I 182485_182505 can't 182505_182925 uh 183005_187812 I 187812_187832 wonder 187832_188093 what 188113_188273 happened 188333_188713 to 188753_188854 that 188914_189054 brain 189234_189695 anyway 189735_190235 .
+@End

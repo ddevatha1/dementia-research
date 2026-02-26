@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/a-00089842-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|male|MCI||Participant|29||
+@Media:	030-0, audio
+@G:	George_Immediate
+*INV:	remember ? 95660_96080
+%mor:	verb|remember-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	remember 95660_96080 ?
+*PAR:	&-um (.) George Miller (.) moved in with his (.) son . 97903_108014
+%mor:	propn|George propn|Miller verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|son .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	um 97903_98042 George 101426_101766 Miller 101887_102207 moved 105210_105491 in 105531_105611 with 105671_105911 his 105931_106131 son 107533_108014 .
+*PAR:	and (.) his (.) granddaughter Melanie (..) asked (.) about where he lived . 108794_123760
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|granddaughter propn|Melanie verb|ask-Fin-Ind-Past-S3 adp|about adv|where pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|3|APPOS 5|9|ROOT 6|7|CASE 7|5|OBL 8|9|NSUBJ 9|7|ADVCL-RELCL 10|5|PUNCT
+%wor:	and 108794_109074 his 111995_112355 granddaughter 114156_114836 Melanie 114936_115436 asked 120678_121098 about 121118_122859 where 122899_123099 he 123119_123199 lived 123319_123760 .
+*PAR:	(.) and on a Friday (.) he (.) started to take her (.) to the place (.) to show her where he lived . 126663_136314
+%mor:	cconj|and adp|on det|a-Ind-Art propn|Friday pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 part|to verb|take-Inf-S pron|her-Prs-Acc-S3 adp|to det|the-Def-Art noun|place part|to verb|show-Inf-S pron|her-Prs-Acc-S3 adv|where pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|NSUBJ 6|18|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|14|MARK 14|8|ADVCL 15|14|IOBJ 16|18|ADVMOD 17|18|NSUBJ 18|14|CCOMP 19|6|PUNCT
+%wor:	and 126663_126783 on 126843_126923 a 126983_127003 Friday 127063_127564 he 128965_129065 started 130647_131027 to 131088_131168 take 131268_131548 her 131568_131728 to 133170_133250 the 133290_133390 place 133450_133891 to 134952_135012 show 135092_135272 her 135332_135432 where 135513_135693 he 135733_135793 lived 135893_136314 .
+*PAR:	she was frightened (.) by the noises (.) but did not communicate &-uh this to her grandfather . 137616_145327
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|by det|the-Def-Art noun|noise-Plur cconj|but aux|do-Fin-Ind-Past-S3-irr part|not verb|communicate-Inf-S pron|this-Dem-S1 adp|to pron|her-Prs-Gen-S3 noun|grandfather .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|14|ROOT 4|6|CASE 5|6|DET 6|3|OBL-AGENT 7|10|CC 8|10|AUX 9|10|ADVMOD 10|3|CONJ 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|10|OBL 15|3|PUNCT
+%wor:	she 137616_137696 was 137756_137896 frightened 137956_138517 by 139078_139218 the 139258_139358 noises 139418_139919 but 141522_141642 did 141722_141882 not 141922_142083 communicate 142163_143044 uh 143485_144106 this 144226_144386 to 144446_144526 her 144607_144727 grandfather 144827_145327 .
+*INV:	anything else ? 148493_149034
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 148493_148753 else 148793_149034 ?
+*PAR:	(..) because it was the city and then they returned to the country . 157080_159494
+%mor:	sconj|because pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|city cconj|and adv|then pron|they-Prs-Nom-P3 verb|return-Fin-Ind-Past-P3 adp|to det|the-Def-Art noun|country .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|DET 5|12|ROOT 6|9|CC 7|9|ADVMOD 8|9|NSUBJ 9|5|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|5|PUNCT
+%wor:	because 157080_157402 it 157422_157503 was 157503_157604 the 157644_157704 city 157805_158027 and 158087_158188 then 158188_158289 they 158329_158430 returned 158490_158813 to 158813_158853 the 158893_158954 country 158994_159494 .
+*INV:	that's fine . 159545_160022
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's fine 159545_160022 .
+@G:	George_Delayed
+*INV:	xxx short story . 497580_498303
+%mor:	adj|short-S1 noun|story .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	short 497580_497760 story 497840_498303 .
+*PAR:	George Miller lived with his son . 499422_500402
+%mor:	propn|George propn|Miller verb|live-Fin-Ind-Past-S3 adp|with pron|his-Prs-Gen-S3 noun|son .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%wor:	George 499422_499722 Miller 499762_499982 lived 500002_500402 with his son .
+*INV:	+< that's the one .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|one .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*PAR:	and he [//] &-um his &-uh granddaughter Melanie wanted to know (.) where he had lived . 506390_512338
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|granddaughter propn|Melanie verb|want-Fin-Ind-Past-S3 part|to verb|know-Inf-S adv|where pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|live-Part-Past-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|3|APPOS 5|11|ROOT 6|7|MARK 7|5|XCOMP 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|7|CCOMP 12|5|PUNCT
+%wor:	and 506390_506611 he 506631_506711 um 506711_506831 his 506831_506891 uh 506891_506991 granddaughter 508172_508713 Melanie 508753_509174 wanted 509234_509574 to 509614_509694 know 509714_509955 where 511096_511296 he 511356_511436 had 511757_511897 lived 511977_512338 .
+*PAR:	and he took her (.) to his old neighborhood . 513280_516020
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 adj|old-S1 noun|neighborhood .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%wor:	and 513280_513400 he 513400_513440 took 513520_513700 her 513720_513840 to 514980_515080 his 515160_515300 old 515380_515500 neighborhood 515520_516020 .
+*PAR:	and she was frightened by the noise . 516104_517587
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|by det|the-Def-Art noun|noise .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL-AGENT 8|4|PUNCT
+%wor:	and 516104_516161 she 516201_516301 was 516381_516481 frightened 516541_516901 by 516921_517021 the 517041_517121 noise 517201_517587 .
+*PAR:	but she didn't tell him about the noise (.) in the city . 518428_523091
+%mor:	cconj|but pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|tell-Inf-S pron|he-Prs-Acc-S3 adp|about det|the-Def-Art noun|noise adp|in det|the-Def-Art noun|city .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|12|ROOT 6|5|IOBJ 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|5|PUNCT
+%wor:	but 518428_518542 she 518582_518662 didn't 518702_518922 tell 518942_519142 him 519202_519302 about 519362_519642 the 520022_520102 noise 520182_520583 in 522483_522563 the 522603_522683 city 522824_523091 .
+*PAR:	and then they returned to their home in the country . 523638_526424
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|return-Fin-Ind-Past-P3 adp|to pron|their-Prs-Gen-P3 noun|home adp|in det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|10|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	and 523638_523924 then 523924_524424 they 524464_524584 returned 524644_525084 to 525345_525405 their 525445_525605 home 525605_525705 in 525705_525745 the 525765_525825 country 525945_526424 .
+*INV:	okay , good . 526765_527586
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 526765_527025 , good 527185_527586 .
+@End

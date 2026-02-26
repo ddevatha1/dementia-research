@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/a-00089980-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|13||
+@Media:	319-0, audio
+@G:	George_Immediate
+*INV:	can you tell me anything about that story ? 1954680_1956287
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|IOBJ 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+%wor:	can 1954680_1954760 you 1954760_1954820 tell 1954840_1954980 me 1954980_1955040 anything 1955100_1955380 about 1955420_1955641 that 1955681_1955821 story 1955941_1956287 ?
+*PAR:	I'm gonna tell you the truth . [+ exc] 1957463_1958516
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|tell-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|truth-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	I'm 1957463_1957523 gonna 1957583_1957743 tell 1957743_1957923 you 1957943_1958043 the 1958063_1958123 truth 1958204_1958516 .
+*PAR:	I was trying to keep up with it . [+ exc] 1958604_1959944
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|try-Part-Pres-S part|to verb|keep-Inf-S adp|up adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|3|PUNCT
+%wor:	I 1958604_1958624 was 1958624_1958724 trying 1958764_1959024 to 1959024_1959065 keep 1959165_1959365 up 1959465_1959585 with 1959665_1959885 it 1959925_1959944 .
+*PAR:	I can't hold that in my head . [+ exc] 1960126_1961430
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|hold-Inf-S pron|that-Dem adp|in pron|my-Prs-Gen-S1 noun|head .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|4|PUNCT
+%wor:	I 1960126_1960146 can't 1960186_1960446 hold 1960446_1960646 that 1960666_1960847 in 1960847_1960887 my 1960907_1961167 head 1961167_1961430 .
+*PAR:	not right off . [+ exc] 1961648_1962475
+%mor:	part|not adv|right adp|off .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	not 1961648_1961848 right 1961948_1962188 off 1962268_1962475 .
+*INV:	can you think of anything ? 1962709_1963601
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|anything-Ind-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	can 1962709_1962849 you 1962869_1962949 think 1962969_1963129 of 1963149_1963229 anything 1963289_1963601 ?
+*INV:	just anything at all . 1963950_1965215
+%mor:	adv|just pron|anything-Ind-S1 adp|at det|all-Def-Tot .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	just 1963950_1964190 anything 1964511_1964891 at 1964931_1965011 all 1965051_1965215 .
+*INV:	it doesn't hafta be the whole story . 1965272_1966725
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not adv|hafta aux|be-Inf-S det|the-Def-Art adj|whole-S1 noun|story .
+%gra:	1|8|NSUBJ 2|8|AUX 3|8|ADVMOD 4|8|ADVMOD 5|8|COP 6|8|DET 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+%wor:	it 1965272_1965312 doesn't 1965312_1965572 hafta 1965592_1965832 be 1965852_1965912 the 1965972_1966032 whole 1966092_1966273 story 1966333_1966725 .
+*INV:	anything at all that you can think of from the story . 1966733_1968756
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|from det|the-Def-Art noun|story .
+%gra:	1|11|ROOT 2|3|CASE 3|1|NMOD 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|1|ACL-RELCL 8|4|CASE 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+%wor:	anything 1966733_1967054 at 1967074_1967134 all 1967194_1967274 that 1967274_1967354 you 1967374_1967454 can 1967474_1967594 think 1967654_1967854 of 1967895_1967995 from 1968055_1968255 the 1968315_1968375 story 1968455_1968756 .
+*PAR:	(.) &+s I don't know . [+ exc] 1972318_1973078
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 1972318_1972338 don't 1972338_1972498 know 1972578_1973078 .
+*PAR:	(i)t was somethin(g) (a)bout George . 1973203_1974631
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|something-Ind-S1 adp|about propn|George .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	(i)t was 1973203_1973399 somethin(g) 1973419_1973920 (a)bout 1973940_1974120 George 1974140_1974631 .
+*INV:	good , okay , anything else ? 1974631_1976581
+%mor:	adj|good-S1 cm|cm intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|6|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|3|PUNCT 5|1|PARATAXIS 6|5|AMOD 7|1|PUNCT
+%wor:	good 1974631_1974741 , okay 1974821_1975803 , anything 1975803_1976244 else 1976324_1976581 ?
+*PAR:	&-uh (..) I forgot . [+ exc] 1977506_1984044
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Past-S1-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	uh 1977506_1983335 I 1983415_1983435 forgot 1983575_1984044 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I just &-hm +... [+ exc] 1986365_1987060
+%mor:	pron|I-Prs-Nom-S1 adv|just +...
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	I just 1986365_1986560 hm 1986560_1987060 +...
+*INV:	that's fine . 1987365_1988006
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 1987365_1987613 fine 1987696_1988006 .
+@End

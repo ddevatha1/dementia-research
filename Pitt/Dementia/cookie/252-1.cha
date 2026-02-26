@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/a-00090479-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|male|ProbableAD||Participant|23||
+@Media:	252-1, audio
+@G:	Cookie
+*INV:	tell me .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+*PAR:	just start about anywhere ? [+ exc] 1481_2581
+%mor:	adv|just verb|start-Fin-Imp-S adp|about adv|anywhere ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	just 1481_1621 start 1641_1861 about 1881_2041 anywhere 2081_2581 ?
+*INV:	+< mhm wherever you like .
+%mor:	intj|mhm adv|wherever pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NSUBJ 4|2|ADVCL-RELCL 5|2|PUNCT
+*PAR:	&=sighs little girl . [+ gram] 6365_7092
+%mor:	adj|little-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	little 6365_6565 girl 6605_7092 .
+*PAR:	(.) &-um (.) falling stool . [+ gram] 9168_13411
+%mor:	verb|fall-Part-Pres-S noun|stool-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	um 9168_9488 falling 12491_12831 stool 12911_13411 .
+*PAR:	the young lad is gonna fall from the stool . 14813_17143
+%mor:	det|the-Def-Art adj|young-S1 noun|lad aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|from det|the-Def-Art noun|stool .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	the 14813_14873 young 14913_15113 lad 15193_15494 is 15594_15694 gonna 15734_15914 fall 15994_16295 from 16375_16555 the 16615_16695 stool 16876_17143 .
+*PAR:	his hands are touching the cookie jar and these cupboards . 18199_23826
+%mor:	pron|his-Prs-Gen-S3 noun|hand-Plur aux|be-Fin-Ind-Pres-P3 verb|touch-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc cconj|and det|this-Def-Dem-Plur noun|cupboard-Plur .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|10|CC 9|10|DET 10|7|CONJ 11|4|PUNCT
+%wor:	his 18199_18338 hands 18398_18739 are 18759_18859 touching 18899_19299 the 19360_19460 cookie 19660_20021 jar 20021_20341 and 22945_23045 these 23085_23286 cupboards 23326_23826 .
+*PAR:	(.) it shows the mother in the kitchen wiping dishes . 25746_30972
+%mor:	pron|it-Prs-Nom-S3 verb|show-Fin-Ind-Pres-S3 det|the-Def-Art noun|mother-Acc adp|in det|the-Def-Art noun|kitchen verb|wipe-Ger-S noun|dish-Plur .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|9|CASE 6|9|DET 7|9|COMPOUND 8|9|AMOD 9|2|OBL 10|2|PUNCT
+%wor:	it 25746_25786 shows 25786_25926 the 26006_26086 mother 26146_26467 in 27868_27949 the 28009_28109 kitchen 28549_28930 wiping 30012_30412 dishes 30472_30972 .
+*PAR:	(.) the water in the sink is overflowing . 32525_34197
+%mor:	det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	the 32525_32595 water 32675_32976 in 32996_33056 the 33076_33136 sink 33236_33476 is 33516_33617 overflowing 33697_34197 .
+*PAR:	the cups and dishes on the stand . [+ gram] 36361_39224
+%mor:	det|the-Def-Art noun|cup-Plur cconj|and noun|dish-Plur adp|on det|the-Def-Art noun|stand .
+%gra:	1|2|DET 2|7|ROOT 3|4|CC 4|2|CONJ 5|7|CASE 6|7|DET 7|2|NMOD 8|2|PUNCT
+%wor:	the 36361_36441 cups 36561_36961 and 37442_37562 dishes 37622_37983 on 38083_38223 the 38283_38383 stand 38724_39224 .
+*PAR:	(.) the &-uh sight through the window of green grass , bushes , window from the house with drapes . [+ gram] 43365_50961
+%mor:	det|the-Def-Art noun|sight adp|through det|the-Def-Art noun|window adp|of adj|green-S1 noun|grass cm|cm noun|bush-Plur cm|cm noun|window adp|from det|the-Def-Art noun|house adp|with noun|drape-Plur .
+%gra:	1|2|DET 2|17|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|8|CASE 7|8|AMOD 8|5|NMOD 9|10|PUNCT 10|8|CONJ 11|12|PUNCT 12|8|CONJ 13|15|CASE 14|15|DET 15|12|NMOD 16|17|CASE 17|15|NMOD 18|2|PUNCT
+%wor:	the 43365_43465 uh 43745_43866 sight 44487_44748 through 44808_45008 the 45008_45089 window 45149_45530 of 45650_45710 green 45830_46031 grass 46091_46632 , bushes 47615_48136 , window 49138_49459 from 49559_49720 the 49760_49840 house 49900_50241 with 50261_50401 drapes 50461_50961 .
+*PAR:	(...) it shows the roof of the house and the tree and drapes . 54944_60154
+%mor:	pron|it-Prs-Nom-S3 verb|show-Fin-Ind-Pres-S3 det|the-Def-Art noun|roof-Acc adp|of det|the-Def-Art noun|house cconj|and det|the-Def-Art noun|tree cconj|and noun|drape-Plur .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CC 9|10|DET 10|7|CONJ 11|12|CC 12|10|CONJ 13|2|PUNCT
+%wor:	it 54944_55024 shows 55064_55344 the 55384_55465 roof 56146_56366 of 56446_56527 the 56567_56647 house 56707_57148 and 58070_58230 the 58270_58370 tree 58490_58771 and 59472_59612 drapes 59673_60154 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+@End

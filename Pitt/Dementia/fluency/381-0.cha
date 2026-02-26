@@ -1,0 +1,134 @@
+@UTF8
+@PID:	11312/a-00089756-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	bullets
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|16||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	381-0, audio
+@G:	animals
+*PAR:	www .
+%exp:	previous task
+*INV:	go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	robin . 7266_7746
+%mor:	noun|robin .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	robin 7266_7746 .
+*PAR:	bluejay . 10089_10585
+%mor:	propn|bluejay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bluejay 10089_10585 .
+*PAR:	any animal you said ? [+ exc] 15453_16713
+%mor:	det|any-Def-Ind noun|animal pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr ?
+%gra:	1|2|DET 2|4|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+%wor:	any 15453_15593 animal 15713_16013 you 16073_16153 said 16213_16713 ?
+*INV:	+< any animal . 16454_17448
+%mor:	det|any-Def-Ind noun|animal .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any 16454_17448 animal .
+*PAR:	&-um lion . 18376_18915
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 18376_18415 lion 18415_18915 .
+*PAR:	(.) zebra . 21238_21738
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zebra 21238_21738 .
+*PAR:	(.) elephant . 25302_25801
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 25302_25801 .
+*PAR:	(..) cougar (...) . 31047_31547
+%mor:	noun|cougar .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cougar 31047_31547 .
+*INV:	any of the others you can think of ?
+%mor:	det|any-Def-Ind adp|of det|the-Def-Art noun|other-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of ?
+%gra:	1|8|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|1|PUNCT
+*PAR:	animals , huh . [+ exc]
+%mor:	noun|animal-Plur cm|cm intj|huh .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	<I gave> [/] I gave you lion@q , didn't I ? 63746_64729
+%mor:	pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 q|lion cm|cm aux|do-Fin-Ind-Past-S1-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|IOBJ 4|2|FLAT 5|6|PUNCT 6|2|PARATAXIS 7|6|ADVMOD 8|6|NSUBJ 9|2|PUNCT
+%wor:	I 63746_63767 gave 63767_63847 I 63867_63887 gave 63887_64007 you 64007_64067 lion@q 64067_64367 , didn't 64387_64729 I ?
+*PAR:	elephant . 65529_66028
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 65529_66028 .
+@G:	F
+*INV:	xxx .
+*PAR:	fur . 71655_72115
+%mor:	noun|fur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fur 71655_72115 .
+*PAR:	freeze . 74257_74737
+%mor:	verb|freeze-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	freeze 74257_74737 .
+*PAR:	freezer . 75819_76318
+%mor:	noun|freezer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	freezer 75819_76318 .
+*PAR:	(.) funnel . 80163_80662
+%mor:	noun|funnel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	funnel 80163_80662 .
+*PAR:	(...) you want more ? [+ exc] 95819_96539
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adj|more-Cmp-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	you 95819_95879 want 95899_96019 more 96039_96539 ?
+*INV:	any words you can think of . 96740_98199
+%mor:	det|any-Def-Ind noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|DET 2|6|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|5|OBL 7|2|PUNCT
+%wor:	any 96740_96819 words 96899_97159 you 97239_97339 can 97339_97399 think 97419_97659 of 97699_98199 .
+*PAR:	with f@l . [+ exc] 98640_99019
+%mor:	adp|with propn|for .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	with 98640_98800 f 98800_99019 .
+*INV:	right . 99019_99320
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 99019_99320 .
+*PAR:	fuzzy . 100521_101021
+%mor:	adj|fuzzy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fuzzy 100521_101021 .
+*PAR:	(.) frighten . 105664_106163
+%mor:	verb|frighten-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frighten 105664_106163 .
+*PAR:	(.) funny . 111127_111607
+%mor:	adj|funny-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	funny 111127_111607 .
+*PAR:	fierce . 114690_115189
+%mor:	adj|fierce-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fierce 114690_115189 .
+*PAR:	freezer . 119834_120313
+%mor:	noun|freezer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	freezer 119834_120313 .
+*PAR:	(.) more ? [+ exc] 125799_126116
+%mor:	adj|more-Cmp-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	more 125799_126116 ?
+*INV:	any you can think of . 126720_127441
+%mor:	det|any-Def-Ind pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBL 6|4|PUNCT
+%wor:	any 126720_127441 you can think of .
+*PAR:	(.) flan .
+%mor:	noun|flan .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay . 133648_134027
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 133648_134027 .
+@End

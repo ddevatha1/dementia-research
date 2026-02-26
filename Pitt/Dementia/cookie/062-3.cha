@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00090375-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|||||Participant|||
+@Media:	062-3, audio
+@Comment:	Batchalign 0.7.17-post.10, ASR Engine rev. Unchecked output of ASR model.
+*INV:	I want for you to look at this picture and tell me everything that you see going on in that picture . 2365_8405
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 sconj|for pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|21|ROOT 3|6|MARK 4|6|NSUBJ 5|6|MARK 6|2|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|11|CC 11|6|CONJ 12|11|IOBJ 13|11|OBJ 14|17|OBJ 15|16|NSUBJ 16|13|ACL-RELCL 17|16|XCOMP 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|2|PUNCT
+%wor:	I 2365_2385 want 2385_2585 for 2585_2725 you 2765_2865 to 2906_2986 look 3086_3266 at 3306_3386 this 3447_3627 picture 3727_4208 and 4669_4789 tell 4869_5090 me 5150_5230 everything 5450_6051 that 6232_6372 you 6412_6552 see 6673_6853 going 6953_7334 on 7494_7695 in 7775_7835 that 7875_8075 picture 8155_8405 .
+*INV:	everything that you see happening . 10760_12005
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|5|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+%wor:	everything 10760_11161 that 11181_11301 you 11341_11421 see 11482_11622 happening 11682_12005 .
+*PAR:	all the bad things . 12185_13045
+%mor:	det|all-Def-Tot det|the-Def-Art adj|bad-S1 noun|thing-Plur .
+%gra:	1|4|DET-PREDET 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	all 12185_12343 the 12343_12403 bad 12483_12724 things 12724_13045 .
+*PAR:	sinks overflowing to stools going over from cookie jar . 14695_21323
+%mor:	verb|sink-Fin-Ind-Pres-S3 verb|overflow-Ger-S adp|to noun|stool-Plur verb|go-Ger-S adp|over adp|from noun|cookie noun|jar .
+%gra:	1|9|ROOT 2|1|XCOMP 3|4|CASE 4|2|OBL 5|4|ACL 6|5|COMPOUND-PRT 7|9|CASE 8|9|COMPOUND 9|5|OBL 10|1|PUNCT
+%wor:	sinks 14695_14975 overflowing 15055_15896 to 15976_16076 stools 17378_18079 going 19241_19561 over 19661_19982 from 20122_20302 cookie 20482_20823 jar 20823_21323 .
+*PAR:	I guess the little girl she's saying give me . 27556_29979
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 det|the-Def-Art adj|little-S1 noun|girl-Acc pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S verb|give-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|DET 4|5|AMOD 5|9|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|2|CCOMP 10|9|IOBJ 11|2|PUNCT
+%wor:	I 27556_27576 guess 27596_27956 the 27976_28076 little 28117_28377 girl 28477_28577 she's 28637_28918 saying 28978_29218 give 29279_29479 me 29479_29979 .
+*PAR:	and the sink's overflowing . 33248_34507
+%mor:	cconj|and det|the-Def-Art noun|sink~part|s noun|overflow-Ger .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and the sink's 33248_33947 overflowing 34007_34507 .
+*INV:	I might not be very observant but I don't see anything else . 47396_50927
+%mor:	pron|I-Prs-Nom-S1 aux|might-Fin-S part|not aux|be-Inf-S adv|very adj|observant-S1 cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|ADVMOD 4|6|COP 5|6|ADVMOD 6|13|ROOT 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|CONJ 12|11|OBJ 13|12|AMOD 14|6|PUNCT
+%wor:	I 47396_47416 might 47416_47656 not 47757_48017 be 48138_48218 very 48358_48619 observant 48699_49341 but 49421_49541 I 49662_49682 don't 49722_49922 see 50022_50183 anything 50223_50704 else 50825_50927 .
+*INV:	okay , good . 51245_52708
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 51245_51747 , good 52208_52708 .
+@End

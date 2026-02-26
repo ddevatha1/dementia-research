@@ -1,0 +1,99 @@
+@UTF8
+@PID:	11312/a-00089914-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||female|MCI||Participant|||
+@Media:	172-2, audio
+@G:	George_Immediate
+*INV:	what do you remember from that story ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	&-hm . [+ exc]
+*PAR:	(.) oh , George Miller &-uh lived with <his family> [//] his son's family . 366264_370827
+%mor:	intj|oh cm|cm propn|George propn|Miller verb|live-Fin-Ind-Past-S3 adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|3|FLAT 5|10|ROOT 6|10|CASE 7|8|NMOD-POSS 8|10|NMOD-POSS 9|8|CASE 10|5|OBL 11|5|PUNCT
+%wor:	oh 366264_366304 , George 366324_366724 Miller 366864_367184 uh 368205_368245 lived 368405_368625 with 368665_368786 his 368826_368966 family 369026_369466 his 369866_369986 son's 370046_370287 family 370327_370827 .
+*PAR:	and they had a little daughter Melanie . 372069_374529
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr det|a-Ind-Art adj|little-S1 noun|daughter-Acc propn|Melanie .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|6|APPOS 8|3|PUNCT
+%wor:	and 372069_372328 they 372468_372608 had 372688_372888 a 373309_373329 little 373409_373629 daughter 373709_373989 Melanie 374029_374529 .
+*PAR:	and Melanie liked to hear the stories the grandfather told (.) about when he was younger . 375692_380921
+%mor:	cconj|and propn|Melanie verb|like-Fin-Ind-Past-S3 part|to verb|hear-Inf-S det|the-Def-Art noun|story-Plur-Acc det|the-Def-Art noun|grandfather verb|tell-Fin-Ind-Past-S3-irr adp|about adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|young-Cmp-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|15|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|DET 9|10|NSUBJ 10|7|ACL-RELCL 11|10|OBL 12|15|ADVMOD 13|15|NSUBJ 14|15|COP 15|10|ADVCL 16|3|PUNCT
+%wor:	and 375692_375772 Melanie 375792_376152 liked 376192_376412 to 376432_376493 hear 376553_376693 the 376733_376813 stories 376873_377334 the 377354_377434 grandfather 377514_378055 told 378115_378495 about 379657_379917 when 379937_380057 he 380117_380177 was 380278_380418 younger 380478_380921 .
+*PAR:	and &-uh one day the grandfather took Melanie &-um into the city . 382280_389350
+%mor:	cconj|and num|one noun|day det|the-Def-Art noun|grandfather verb|take-Fin-Ind-Past-S3-irr propn|Melanie-Acc adp|into det|the-Def-Art noun|city .
+%gra:	1|6|CC 2|3|NUMMOD 3|6|OBL-UNMARKED 4|5|DET 5|6|NSUBJ 6|10|ROOT 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+%wor:	and 382280_382581 uh 382641_382901 one 382921_383061 day 383101_383362 the 383722_383802 grandfather 383842_384403 took 384503_384663 Melanie 384723_385144 um 386626_386706 into 388649_388849 the 388889_388969 city 389029_389350 .
+*PAR:	(.) and Melanie was frightened . 391851_393031
+%mor:	cconj|and propn|Melanie aux|be-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%wor:	and 391851_391931 Melanie 391951_392331 was 392371_392471 frightened 392531_393031 .
+*PAR:	and then she was very glad to be back home . 393112_394691
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adj|glad-S1 part|to aux|be-Inf-S adv|back adv|home .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|10|ROOT 7|10|MARK 8|10|COP 9|10|ADVMOD 10|6|XCOMP 11|6|PUNCT
+%wor:	and then 393112_393151 she 393151_393231 was 393271_393412 very 393452_393612 glad 393672_393892 to 393932_393972 be 393992_394052 back 394132_394332 home 394392_394691 .
+*INV:	(.) okay . 394693_395132
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 394693_395132 .
+*INV:	anything else ? 399255_399776
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 399255_399536 else 399576_399776 ?
+*INV:	good . 400796_400937
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 400796_400937 .
+@G:	George_Delayed
+*INV:	now while I have the tape recorder on I'm going to ask you to think back to that little story that I told you . 788223_792964
+%mor:	adv|now sconj|while pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|the-Def-Art noun|tape noun|recorder-Acc sconj|on pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|think-Inf-S adv|back adp|to det|that-Def-Dem-Sing adj|little-S1 noun|story pron|that-Rel pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 .
+%gra:	1|11|ADVMOD 2|4|MARK 3|4|NSUBJ 4|11|ADVCL 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|25|ROOT 12|13|MARK 13|11|XCOMP 14|13|IOBJ 15|16|MARK 16|13|XCOMP 17|16|ADVMOD 18|21|CASE 19|21|DET 20|21|AMOD 21|16|OBL 22|24|OBJ 23|24|NSUBJ 24|21|ACL-RELCL 25|24|IOBJ 26|11|PUNCT
+%wor:	now 788223_788343 while 788403_788543 I 788603_788623 have 788663_788804 the 788804_788864 tape 788904_789084 recorder 789084_789384 on 789425_789505 I'm 789565_789645 going 789705_789825 to 789825_789925 ask 789925_790166 you 790166_790246 to 790286_790346 think 790406_790627 back 790707_791087 to 791167_791248 that 791288_791428 little 791448_791608 story 791708_792009 that 792049_792169 I 792249_792269 told 792329_792630 you 792650_792964 .
+*INV:	that little short story . 792964_794532
+%mor:	det|that-Def-Dem-Sing adj|little-S1 adj|short-S1 noun|story .
+%gra:	1|4|DET 2|4|AMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	that 792964_793071 little 793071_793591 short 793752_793952 story 794052_794532 .
+*INV:	and after I was through telling it to you I turned the tape recorder on and asked you to remember as much of the story as you could . 795014_799478
+%mor:	cconj|and sconj|after pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr sconj|through verb|tell-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|you-Prs-Acc-S2 pron|I-Prs-Nom-S1 verb|turn-Fin-Ind-Past-S1 det|the-Def-Art noun|tape noun|recorder-Acc adp|on cconj|and verb|ask-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 part|to verb|remember-Inf-S adv|as adj|much-S1 adp|of det|the-Def-Art noun|story sconj|as pron|you-Prs-Nom-S2 aux|could-Fin-S .
+%gra:	1|11|CC 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|MARK 6|11|ADVCL 7|6|OBJ 8|9|CASE 9|6|OBL 10|11|NSUBJ 11|28|ROOT 12|14|DET 13|14|COMPOUND 14|11|OBJ 15|11|COMPOUND-PRT 16|17|CC 17|11|CONJ 18|17|IOBJ 19|20|MARK 20|17|XCOMP 21|22|ADVMOD 22|20|OBJ 23|25|CASE 24|25|DET 25|22|OBL 26|28|MARK 27|28|NSUBJ 28|22|ADVCL 29|11|PUNCT
+%wor:	and 795014_795094 after 795134_795334 I 795374_795394 was 795394_795515 through 795555_795715 telling 795715_795975 it 795975_796015 to 796035_796116 you 796116_796176 I 796196_796216 turned 796256_796516 the 796536_796636 tape 796636_796757 recorder 796757_797037 on 797097_797157 and 797197_797277 asked 797318_797578 you 797598_797658 to 797658_797698 remember 797698_798019 as 798039_798119 much 798159_798339 of 798359_798419 the 798439_798499 story 798560_798840 as 798920_798980 you 799020_799120 could 799181_799478 .
+*INV:	I'm going to give you that again now . 799741_800964
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 pron|that-Dem adv|again adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|ADVMOD 9|5|ADVMOD 10|3|PUNCT
+%wor:	I'm 799741_799802 going 799802_799902 to 799902_799942 give 799942_800102 you 800122_800202 that 800222_800363 again 800403_800663 now 800723_800964 .
+*INV:	can you tell me as much of the story as you can remember . 801784_803443
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|as adj|much-S1 adp|of det|the-Def-Art noun|story sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|3|IOBJ 5|6|ADVMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|6|OBL 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|6|ADVCL 14|3|PUNCT
+%wor:	can 801784_801965 you 801985_803443 tell me as much of the story as you can remember .
+*PAR:	it was a [/] &+na a man named George Miller who lived with his son and family . 804968_808115
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|man verb|name-Part-Past-S propn|George propn|Miller pron|who-Rel verb|live-Fin-Ind-Past-S3 adp|with pron|his-Prs-Gen-S3 noun|son cconj|and noun|family .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|14|ROOT 5|4|ACL 6|5|XCOMP 7|6|FLAT 8|9|NSUBJ 9|6|ACL-RELCL 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|14|CC 14|12|CONJ 15|4|PUNCT
+%wor:	it 804968_805008 was 805008_805068 a 805068_805088 a 805108_805128 man 805128_805349 named 805409_805649 George 805689_806009 Miller 806070_806330 who 806410_806490 lived 806570_806770 with 806810_806951 his 806991_807111 son 807191_807411 and 807491_807591 family 807631_808115 .
+*PAR:	&-uh and the family was a little &-uh granddaughter whose name was Melanie . 809614_812818
+%mor:	cconj|and det|the-Def-Art noun|family aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|little-S1 noun|granddaughter pron|whose-Rel-S1 noun|name aux|be-Fin-Ind-Past-S3-irr propn|Melanie .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|11|ROOT 8|9|NMOD-POSS 9|11|NSUBJ 10|11|COP 11|7|ACL-RELCL 12|7|PUNCT
+%wor:	uh 809614_809654 and 809654_809734 the 809734_809794 family 809854_810154 was 810194_810295 a 810375_810395 little 810475_810935 uh 811035_811115 granddaughter 811136_811656 whose 811756_811956 name 811977_812157 was 812177_812277 Melanie 812357_812818 .
+*PAR:	and she liked to hear her grandfather tell the stories of when he was a little boy or &+h of his life . 813620_819702
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|like-Fin-Ind-Past-S3 part|to verb|hear-Inf-S pron|her-Prs-Gen-S3 noun|grandfather-Acc verb|tell-Inf-S det|the-Def-Art noun|story-Plur-Acc adp|of adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|little-S1 noun|boy cconj|or adp|of pron|his-Prs-Gen-S3 noun|life .
+%gra:	1|3|CC 2|3|NSUBJ 3|21|ROOT 4|5|MARK 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|5|XCOMP 9|10|DET 10|8|OBJ 11|17|MARK 12|17|ADVMOD 13|17|NSUBJ 14|17|COP 15|17|DET 16|17|AMOD 17|8|ADVCL 18|21|CC 19|21|CASE 20|21|NMOD-POSS 21|17|CONJ 22|3|PUNCT
+%wor:	and 813620_813700 she 813740_813820 liked 813880_814120 to 814160_814220 hear 814320_814460 her 814500_814600 grandfather 814640_815200 tell 815280_815480 the 815500_815580 stories 815701_816161 of 816221_816281 when 816341_816481 he 816541_816621 was 816701_816841 a 816921_816941 little 817001_817181 boy 817201_817461 or 818542_818642 of 819062_819162 his 819202_819342 life 819402_819702 .
+*PAR:	and one day the grandfather took the little girl to show him [: her] [* s] where he had &-uh lived before . 820683_827806
+%mor:	cconj|and num|one noun|day det|the-Def-Art noun|grandfather verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art adj|little-S1 noun|girl-Acc part|to verb|show-Inf-S pron|her-Prs-Acc-S3 adv|where pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|live-Part-Past-S adv|before .
+%gra:	1|6|CC 2|3|NUMMOD 3|6|OBL-UNMARKED 4|5|DET 5|6|NSUBJ 6|17|ROOT 7|9|DET 8|9|AMOD 9|6|OBJ 10|11|MARK 11|6|ADVCL 12|11|IOBJ 13|16|ADVMOD 14|16|NSUBJ 15|16|AUX 16|11|CCOMP 17|16|ADVMOD 18|6|PUNCT
+%wor:	and 820683_820783 one 820843_820943 day 820963_821143 the 821203_821283 grandfather 821323_821864 took 821944_822124 the 822204_822284 little 822324_822524 girl 822544_822804 to 822964_823124 show 823424_823604 her 823684_823825 where 823905_824145 he 824445_824525 had 824645_824825 uh 826086_826826 lived 826846_827166 before 827306_827806 .
+*PAR:	and it was in a city . 829049_830581
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|in det|a-Ind-Art noun|city .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	and 829049_829209 it 829269_829329 was 829851_830012 in 830052_830132 a 830172_830192 city 830313_830581 .
+*PAR:	and she became frightened of all the noise . 830654_832752
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|of det|all-Def-Tot det|the-Def-Art noun|noise .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|XCOMP 5|8|CASE 6|8|DET-PREDET 7|8|DET 8|4|OBL 9|3|PUNCT
+%wor:	and 830654_830774 she 830914_831015 became 831075_831496 frightened 831597_831998 of 831998_832078 all 832138_832259 the 832279_832359 noise 832419_832752 .
+*PAR:	and so she was glad to get back to her home in the country . 832860_835788
+%mor:	cconj|and adv|so pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|glad-S1 part|to verb|get-Inf-S adv|back adp|to pron|her-Prs-Gen-S3 noun|home adp|in det|the-Def-Art noun|country .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|14|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|11|CASE 10|11|NMOD-POSS 11|7|OBL 12|14|CASE 13|14|DET 14|7|OBL 15|5|PUNCT
+%wor:	and 832860_832981 so 833081_833201 she 833442_833543 was 833603_833723 glad 833783_834004 to 834064_834124 get 834144_834285 back 834325_834526 to 834586_834646 her 834726_834827 home 834927_835107 in 835127_835168 the 835208_835268 country 835288_835788 .
+@End

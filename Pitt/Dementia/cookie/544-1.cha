@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00090578-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|71;|male|ProbableAD||Participant|23||
+@Media:	544-1, audio
+@G:	Cookie
+*INV:	tell me everything that you see going on in this picture . 420_2610
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|11|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+%wor:	tell 420_540 me 560_620 everything 720_1040 that 1040_1140 you 1160_1240 see 1340_1460 going 1500_1781 on 1841_1961 in 2001_2041 this 2081_2201 picture 2261_2610 .
+*INV:	everything that you see happening there . 2982_4383
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|ACL 6|5|ADVMOD 7|1|PUNCT
+%wor:	everything 2982_3302 that 3302_3382 you 3382_3462 see 3522_3642 happening 3722_4142 there 4182_4383 .
+*PAR:	okay , the mommy is <washin(g) the> [//] dryin(g) the dishes . 5123_7974
+%mor:	intj|okay cm|cm det|the-Def-Art noun|mommy aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	okay 5123_5484 , the 5604_5684 mommy 5784_6064 is 6144_6244 washin(g) 6304_6745 the 6745_7145 dryin(g) 7145_7505 the 7505_7565 dishes 7565_7974 .
+*PAR:	the boy is takin(g) a cookie from the cookie jar . 8986_11285
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	the 8986_9066 boy 9106_9367 is 9447_9567 takin(g) 9707_10027 a 10027_10047 cookie 10087_10347 from 10387_10528 the 10568_10628 cookie 10708_11028 jar 11068_11285 .
+*PAR:	and he's gonna hand it to his little sister . 11300_13030
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|hand-Inf-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 adj|little-S1 noun|sister .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|5|OBL 11|5|PUNCT
+%wor:	and 11300_11348 he's 11348_11448 gonna 11468_11668 hand 11708_11929 it 11949_12029 to 12049_12129 his 12169_12249 little 12309_12509 sister 12569_13030 .
+*PAR:	and the bench [: stool] [* s:r] is toppling over as the kid is standing on . [+ gram] 13662_16142
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|topple-Part-Pres-S adp|over sconj|as det|the-Def-Art noun|kid aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|5|COMPOUND-PRT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|5|ADVCL 12|11|OBL 13|5|PUNCT
+%wor:	and 13662_13742 the 13742_13983 stool 14023_14204 is 14204_14264 toppling 14305_14706 over 14767_14927 as 14988_15048 the 15048_15128 kid 15189_15390 is 15410_15470 standing 15510_15912 on 15992_16142 .
+*PAR:	and the water's dripping out of the sink . 16876_18645
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|drip-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 16876_16977 the 16977_17057 water's 17117_17439 dripping 17479_17781 out 17841_17961 of 17981_18042 the 18062_18122 sink 18263_18645 .
+*PAR:	(.) okay ? [+ exc]
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

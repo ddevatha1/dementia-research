@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00091288-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|MCI||Participant|||
+@Media:	033-4, audio
+*INV:	alright , I'm gonna give you some words and I want you to make up <short sentences> [//] short complete sentences using these words . 1121_8111
+%mor:	intj|alright cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind noun|word-Plur-Acc cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|make-Inf-S adp|up adj|short-S1 adj|complete-S1 noun|sentence-Plur-Acc verb|use-Ger-S det|this-Def-Dem-Plur noun|word-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|22|ROOT 7|6|IOBJ 8|9|DET 9|6|OBJ 10|12|CC 11|12|NSUBJ 12|6|CONJ 13|12|OBJ 14|15|MARK 15|12|XCOMP 16|15|COMPOUND-PRT 17|19|AMOD 18|19|AMOD 19|15|OBJ 20|15|ADVCL 21|22|DET 22|20|OBJ 23|6|PUNCT
+%wor:	alright 1121_1341 , I'm 1401_1461 gonna 1461_1621 give 1661_1821 you 1842_1922 some 2042_2262 words 2362_2783 and 2803_2883 I 2943_2983 want 3003_3163 you 3163_3243 to 3263_3324 make 3404_3664 up 3724_3824 short 4004_4245 sentences 4565_5266 short 5567_5767 complete 5807_6248 sentences 6328_6928 using 7049_7309 these 7349_7589 words 7629_8111 .
+*INV:	put the word pencil@q in a sentence . 8472_10413
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	put 8472_8591 the 8631_8711 word 8751_8951 pencil@q 9071_9532 in 9652_9712 a 9792_9812 sentence 9913_10413 .
+*PAR:	the pencil was on the desk . 11857_13537
+%mor:	det|the-Def-Art noun|pencil aux|be-Fin-Ind-Past-S3-irr adp|on det|the-Def-Art noun|desk .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	the 11857_11935 pencil 12035_12436 was 12496_12636 on 12736_12857 the 12897_12977 desk 13037_13537 .
+*INV:	(..) tree@q .
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	trees grow very tall in Pennsylvania . 21397_23740
+%mor:	noun|tree-Plur verb|grow-Fin-Ind-Pres-P3 adv|very adj|tall-S1 adp|in propn|Pennsylvania .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|ADVMOD 4|2|XCOMP 5|6|CASE 6|2|OBL 7|2|PUNCT
+%wor:	trees 21397_21557 grow 21657_21937 very 22098_22418 tall 22579_22959 in 23079_23140 Pennsylvania 23240_23740 .
+*INV:	I'll give you two words now . 28889_30068
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|IOBJ 5|6|NUMMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+%wor:	I'll 28889_29050 give 29050_29150 you 29150_29210 two 29270_29450 words 29511_29831 now 29891_30068 .
+*INV:	child@q and hospital@q . 30653_32375
+%mor:	q|child cconj|and q|hospital .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	child@q 30653_31554 and 31594_31774 hospital@q 31875_32375 .
+*PAR:	the child was taken to the hospital after being struck by a car . 34800_38984
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Past-S3-irr verb|take-Part-Past-S-irr adp|to det|the-Def-Art noun|hospital sconj|after aux|be-Part-Pres-S verb|strike-Part-Past-S-irr adp|by det|a-Ind-Art noun|car .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|13|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|MARK 9|10|AUX-PASS 10|4|ADVCL 11|13|CASE 12|13|DET 13|10|OBL-AGENT 14|4|PUNCT
+%wor:	the 34800_34860 child 34960_35340 was 35400_35521 taken 35581_35921 to 35961_36021 the 36061_36161 hospital 36241_36962 after 37223_37483 being 37523_37744 struck 37804_38084 by 38184_38324 a 38384_38404 car 38485_38984 .
+*INV:	(...) cold@q and winter@q . 46515_47997
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 46515_47156 and 47216_47397 winter@q 47497_47997 .
+*PAR:	it was a cold win(t)er day when the mill burned down . 50263_54247
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|cold-S1 noun|winter noun|day adv|when det|the-Def-Art noun|mill verb|burn-Fin-Ind-Past-S3 adp|down .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|11|ROOT 7|10|ADVMOD 8|9|DET 9|10|NSUBJ 10|6|ADVCL 11|10|COMPOUND-PRT 12|6|PUNCT
+%wor:	it 50263_50323 was 50363_50503 a 50563_50583 cold 50683_51064 win(t)er 51184_51504 day 51885_52205 when 52585_52746 the 52786_52886 mill 52946_53166 burned 53326_53687 down 53747_54247 .
+*INV:	(..) I'll give you three words now . 66284_67945
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|IOBJ 5|6|NUMMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+%wor:	I'll 66284_66384 give 66384_66484 you 66484_66544 three 66624_66864 words 66944_67325 now 67445_67945 .
+*INV:	chair@q doctor@q and sit@q . 68687_71569
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 68687_69627 doctor@q 69788_70668 and 70729_70909 sit@q 71069_71569 .
+*PAR:	(..) the doctor asked me to sit in his chair . 78480_82985
+%mor:	det|the-Def-Art noun|doctor verb|ask-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 part|to verb|sit-Inf-S adp|in pron|his-Prs-Gen-S3 noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|3|PUNCT
+%wor:	the 78480_78560 doctor 78620_79281 asked 79721_79982 me 80122_80202 to 80522_80623 sit 80823_81063 in 81243_81384 his 82185_82365 chair 82485_82985 .
+*INV:	bureau@q open@q and drawer@q . 88615_90938
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 88615_89255 open@q 89576_90156 and 90216_90357 drawer@q 90457_90938 .
+*PAR:	in the bureau there was an open (.) drawer . 96590_99857
+%mor:	adp|in det|the-Def-Art noun|bureau pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|open-S1 noun|drawer .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL 4|5|EXPL 5|8|ROOT 6|8|DET 7|8|AMOD 8|5|NSUBJ 9|5|PUNCT
+%wor:	in 96590_96690 the 96730_96810 bureau 96890_97351 there 97351_97532 was 97552_97692 an 97732_97812 open 97892_98173 drawer 99375_99857 .
+@End

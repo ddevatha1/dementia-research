@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/a-00089859-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|26||
+@Media:	051-0, audio
+@G:	George_Immediate
+*INV:	tell me everything you can remember about the story ? 103000_104869
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|the-Def-Art noun|story ?
+%gra:	1|9|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+%wor:	tell 103000_103100 me 103100_103140 everything 103160_103420 you 103420_103500 can 103520_103620 remember 103660_104060 about 104120_104320 the 104340_104421 story 104481_104869 ?
+*INV:	any details at all . 105261_106204
+%mor:	det|any-Def-Ind noun|detail-Plur adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	any 105261_105401 details 105501_105902 at 105942_106022 all 106062_106204 .
+*PAR:	&-uh the grandfather . 106204_110345
+%mor:	det|the-Def-Art noun|grandfather .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	uh 106204_106242 the 109704_109784 grandfather 109845_110345 .
+*INV:	okay . 110965_111465
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 110965_111465 .
+*PAR:	and she's a little girl . 112106_113623
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and 112106_112386 she's 112887_113067 a 113087_113107 little 113127_113287 girl 113287_113623 .
+*PAR:	and she was afraid of the city . 114848_116630
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|afraid-S1 adp|of det|the-Def-Art noun|city .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 114848_115048 she 115168_115269 was 115349_115509 afraid 115589_115909 of 115929_115989 the 116009_116089 city 116149_116630 .
+*PAR:	didn't like the city . 117230_118023
+%mor:	aux|do-Fin-Ind-Past-S3-irr~part|not verb|like-Inf-S det|the-Def-Art noun|city-Acc .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	didn't 117230_117390 like 117390_117550 the 117550_117630 city 117670_118023 .
+*INV:	anything else ? 124534_125303
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 124534_124914 else 125014_125303 ?
+*INV:	okay , well , that's fine . 130297_131398
+%mor:	intj|okay cm|cm intj|well cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|3|PUNCT 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	okay 130297_130557 , well 130637_130757 , that's 130757_130997 fine 131097_131398 .
+@G:	George_Delayed
+*INV:	can remember about that story ? 810860_812252
+%mor:	aux|can-Fin-S verb|remember-Inf-S adp|about det|that-Def-Dem-Sing noun|story ?
+%gra:	1|2|AUX 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	can 810860_810960 remember 810980_811320 about 811340_811540 that 811580_811741 story 811821_812252 ?
+*PAR:	&=sighs a short time after Thanksgiving . 815085_816526
+%mor:	det|a-Ind-Art adj|short-S1 noun|time adp|after noun|Thanksgiving-Ger .
+%gra:	1|3|DET 2|3|AMOD 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	a short 815085_815325 time 815385_815645 after 815705_815946 Thanksgiving 816026_816526 .
+*PAR:	&-um George Miller &-uh had a visit from his granddaughter , Melanie . 817628_823054
+%mor:	propn|George propn|Miller verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|visit-Acc adp|from pron|his-Prs-Gen-S3 noun|granddaughter cm|cm propn|Melanie .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|10|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|10|PUNCT 10|8|APPOS 11|3|PUNCT
+%wor:	um 817628_817908 George 818609_818969 Miller 819049_819430 uh 819670_819830 had 820992_821152 a 821172_821192 visit 821232_821512 from 821572_821713 his 821753_821873 granddaughter 821953_822514 , Melanie 822554_823054 .
+*PAR:	and then took her to the city . 824256_825757
+%mor:	cconj|and adv|then verb|take-Fin-Ind-Past-S1-irr pron|her-Prs-Acc-S3 adp|to det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	and 824256_824356 then 824356_824436 took 824516_824716 her 824736_824816 to 824896_824997 the 825077_825157 city 825257_825757 .
+*PAR:	and she was happy to return to the country . 826800_828645
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|happy-S1 part|to verb|return-Inf-S adp|to det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%wor:	and 826800_826880 she 826880_827000 was 827040_827200 happy 827200_827460 to 827520_827600 return 827640_827980 to 828020_828080 the 828140_828200 country 828260_828645 .
+*PAR:	he held her hand &=laughs . 831341_832349
+%mor:	pron|he-Prs-Nom-S3 verb|hold-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hand-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%wor:	he 831341_831401 held 831461_831721 her 831741_831861 hand 831881_832349 .
+*INV:	anything else ? 832477_835122
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 832477_834582 else 834622_835122 ?
+*PAR:	(.) oh , (.) I do not recall . [+ exc] 837556_839877
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 part|not verb|recall-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	oh 837556_838844 , I 838884_838904 do 839004_839044 not 839164_839384 recall 839424_839877 .
+*INV:	okay . 840484_840905
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 840484_840905 .
+*INV:	oh , that's fine . 841660_842148
+%mor:	intj|oh cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	oh 841660_841700 , that's 841700_841964 fine 841985_842148 .
+*INV:	you got a lot . 842249_842960
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr det|a-Ind-Art noun|lot-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	you 842249_842371 got 842371_842513 a 842533_842553 lot 842614_842960 .
+@End

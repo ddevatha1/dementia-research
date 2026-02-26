@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/a-00089920-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||female|ProbableAD||Participant|||
+@Media:	181-2, audio
+@G:	George_Immediate
+*INV:	can you tell me anything you recall from that ? 635069_635573
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|recall-Fin-Ind-Pres-S2 adp|from pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|CASE 9|7|OBL 10|3|PUNCT
+%wor:	can 635069_635573 you tell me anything you recall from that ?
+*PAR:	this little girl <went to the> [//] &-uh went with her grandfather to visit his old home in the city xxx yeah . 638472_647118
+%mor:	det|this-Def-Dem-Sing adj|little-S1 noun|girl verb|go-Fin-Ind-Past-S3-irr adp|with pron|her-Prs-Gen-S3 noun|grandfather part|to verb|visit-Inf-S pron|his-Prs-Gen-S3 adj|old-S1 noun|home-Acc adp|in det|the-Def-Art noun|city intj|yeah .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|16|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|9|MARK 9|4|ADVCL 10|12|NMOD-POSS 11|12|AMOD 12|9|OBJ 13|15|CASE 14|15|DET 15|9|OBL 16|4|DISCOURSE 17|4|PUNCT
+%wor:	this 638472_638592 little 638752_638992 girl 638992_639092 went 640613_640713 to 640733_640773 the 640773_640833 uh 640833_640873 went 640873_640994 with 640994_641134 her 641154_641254 grandfather 641374_641894 to 642014_642094 visit 642895_643095 his 643155_643275 old 643355_643476 home 643516_643716 in 645417_645497 the 645497_645557 city 645617_645837 yeah 646618_647118 .
+*PAR:	she was &-uh afraid of the [/] the things she saw some of them . 649522_655194
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|afraid-S1 adp|of det|the-Def-Art noun|thing-Plur pron|she-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr det|some-Def-Ind adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|11|CASE 11|9|NMOD 12|3|PUNCT
+%wor:	she 649522_649602 was 649702_649862 uh 650082_650203 afraid 653127_653448 of 653468_653528 the 653548_653628 the 653848_653928 things 654009_654249 she 654289_654369 saw 654449_654650 some 654870_655050 of 655110_655170 them 655190_655194 .
+*PAR:	I guess that's about it . 663163_664145
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+%wor:	I 663163_663183 guess 663183_663363 that's 663363_663544 about 663584_664004 it 664024_664145 .
+*INV:	okay good . 664368_664714
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 664368_664490 good 664510_664714 .
+@G:	George_Delayed
+*INV:	I read you a short story and then I asked you to tell me anything you recalled from it . 1639304_1643893
+%mor:	pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art adj|short-S1 noun|story-Acc cconj|and adv|then pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|recall-Fin-Ind-Past-S2 adp|from pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|19|ROOT 3|2|IOBJ 4|6|DET 5|6|AMOD 6|2|OBJ 7|10|CC 8|10|ADVMOD 9|10|NSUBJ 10|2|CONJ 11|10|IOBJ 12|13|MARK 13|10|XCOMP 14|13|IOBJ 15|13|OBJ 16|17|NSUBJ 17|15|ACL-RELCL 18|19|CASE 19|17|OBL 20|2|PUNCT
+%wor:	I 1639304_1639324 read 1639364_1639524 you 1639544_1639664 a 1639664_1639684 short 1639784_1640024 story 1640124_1640485 and 1640545_1640605 then 1640605_1640705 I 1640825_1640845 asked 1640945_1641226 you 1641246_1641326 to 1641346_1641426 tell 1641987_1642207 me 1642227_1642287 anything 1642367_1642788 you 1642808_1642888 recalled 1642908_1643408 from 1643468_1643669 it 1643749_1643893 .
+*PAR:	short story ? [+ exc] 1648094_1648677
+%mor:	adj|short-S1 noun|story ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	short 1648094_1648334 story 1648394_1648677 ?
+*INV:	right . 1649315_1649536
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 1649315_1649536 .
+*PAR:	&=laughs I guess it wasn't so impressive because I've forgotten it . [+ exc] 1651677_1654586
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not adv|so adj|impressive-S1 sconj|because pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|forget-Part-Past-S-irr pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|ADVMOD 7|2|CCOMP 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|7|ADVCL 12|11|OBJ 13|2|PUNCT
+%wor:	I 1651677_1651697 guess 1651757_1651957 it 1651957_1652037 wasn't 1652077_1652377 so 1652377_1652477 impressive 1652577_1652997 because 1653138_1653498 I've 1653578_1653678 forgotten 1653698_1654158 it 1654178_1654586 .
+@G:	George_Questions
+*INV:	okay , can you recall who the story was about ? 1654880_1656820
+%mor:	intj|okay cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|recall-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|CCOMP 7|8|DET 8|6|NSUBJ 9|6|COP 10|5|PUNCT 11|5|PUNCT
+%wor:	okay , can 1654880_1654959 you 1654979_1655039 recall 1655079_1655459 who 1655499_1655599 the 1655659_1655740 story 1655840_1656100 was 1656140_1656280 about 1656320_1656820 ?
+*PAR:	hmhunh .
+%mor:	intj|hmhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what time of year did George move in with his son's family ? 1660584_1663845
+%mor:	det|what-Def-Int noun|time adp|of noun|year aux|do-Fin-Ind-Past-S3-irr propn|George verb|move-Inf-S adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|2|DET 2|7|OBL-UNMARKED 3|4|CASE 4|2|NMOD 5|7|AUX 6|7|NSUBJ 7|13|ROOT 8|7|COMPOUND-PRT 9|13|CASE 10|11|NMOD-POSS 11|13|NMOD-POSS 12|11|CASE 13|7|OBL 14|7|PUNCT
+%wor:	what 1660584_1660703 time 1660763_1661003 of 1661043_1661123 year 1661224_1661444 did 1661504_1661664 George 1661704_1662064 move 1662144_1662344 in 1662384_1662484 with 1662525_1662665 his 1662685_1662825 son's 1662905_1663245 family 1663345_1663845 ?
+*PAR:	I guess in the winter time . 1666710_1667659
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adp|in det|the-Def-Art noun|winter noun|time .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+%wor:	I 1666710_1666730 guess 1666730_1666910 in 1666970_1667030 the 1667050_1667110 winter 1667150_1667351 time 1667391_1667659 .
+*INV:	okay , what were George's stories about ? 1669134_1672738
+%mor:	intj|okay cm|cm pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur adp|about ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|COP 5|7|NMOD-POSS 6|5|CASE 7|3|NSUBJ 8|3|CASE 9|3|PUNCT
+%wor:	okay 1669134_1669293 , what 1670836_1670976 were 1671036_1671176 George's 1671216_1671677 stories 1671757_1672198 about 1672238_1672738 ?
+*PAR:	places he'd been probably . 1674882_1676203
+%mor:	noun|place-Plur pron|he-Prs-Nom-S3~aux|would-Fin-Ind-Past-S3 aux|be-Part-Past-S-irr adv|probably .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|ADVMOD 6|1|PUNCT
+%wor:	places 1674882_1675202 he'd 1675282_1675362 been 1675402_1675583 probably 1675703_1676203 .
+*INV:	what did Melanie ask George to do ? 1679388_1681790
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+%wor:	what 1679388_1679508 did 1679548_1679668 Melanie 1679788_1680228 ask 1680329_1680529 George 1680629_1681029 to 1681089_1681190 do 1681290_1681790 ?
+*PAR:	read her a story . 1682951_1683646
+%mor:	verb|read-Fin-Imp-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|story-Acc .
+%gra:	1|4|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+%wor:	read 1682951_1683132 her 1683132_1683192 a 1683192_1683212 story 1683252_1683646 .
+*INV:	okay , why did George hold Melanie's hand tightly ? 1684353_1690940
+%mor:	intj|okay cm|cm adv|why aux|do-Fin-Ind-Past-S3-irr propn|George verb|hold-Inf-S propn|Melanie~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|10|ROOT 7|9|NMOD-POSS 8|7|CASE 9|6|OBJ 10|6|ADVMOD 11|6|PUNCT
+%wor:	okay 1684353_1684633 , why 1688437_1688618 did 1688638_1688798 George 1688838_1689218 hold 1689258_1689479 Melanie's 1689539_1689999 hand 1690079_1690380 tightly 1690440_1690940 ?
+*PAR:	so that she wouldn't be frightened . 1692522_1693943
+%mor:	sconj|so sconj|that pron|she-Prs-Nom-S3 aux|would-Fin-S~part|not aux|be-Inf-S verb|frighten-Part-Past-S .
+%gra:	1|7|MARK 2|1|FIXED 3|7|NSUBJ-PASS 4|7|AUX 5|7|ADVMOD 6|7|AUX-PASS 7|7|ROOT 8|7|PUNCT
+%wor:	so 1692522_1692582 that 1692722_1692882 she 1692922_1693002 wouldn't 1693083_1693303 be 1693303_1693363 frightened 1693443_1693943 .
+*INV:	okay , why didn't Melanie like the city ? 1699008_1701468
+%mor:	intj|okay cm|cm adv|why aux|do-Fin-Ind-Past-S3-irr~part|not propn|Melanie verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|AUX 5|7|ADVMOD 6|7|NSUBJ 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+%wor:	okay 1699008_1699589 , why 1699589_1699790 didn't 1699870_1700130 Melanie 1700170_1700591 like 1700651_1700911 the 1700932_1701012 city 1701172_1701468 ?
+*PAR:	I guess she had lived in the country . 1703616_1705299
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|live-Part-Past-S adp|in det|the-Def-Art noun|country .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+%wor:	I 1703616_1703636 guess 1703696_1703976 she 1704077_1704197 had 1704257_1704357 lived 1704437_1704637 in 1704657_1704718 the 1704738_1704798 country 1704838_1705299 .
+@End

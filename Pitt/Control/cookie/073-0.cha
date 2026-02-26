@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/a-00090690-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|Control||Participant|29||
+@Media:	073-0, audio
+@G:	Cookie
+*INV:	and there's the picture .
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	just all of the action . [+ exc]
+%mor:	adv|just det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*PAR:	&=clears:throat (..) do you want me to describe &-uh everything ? [+ exc] 11635_12806
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|describe-Inf-S pron|everything-Tot-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|3|PUNCT
+%wor:	do 11635_11675 you 11675_11735 want 11735_11815 me 11815_11855 to 11975_12035 describe 12055_12316 uh 12316_12356 everything 12356_12806 ?
+*INV:	yeah tell me the action . 13057_13857
+%mor:	intj|yeah verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|action-Acc .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	yeah tell 13057_13117 me 13117_13157 the 13257_13357 action 13357_13857 .
+*PAR:	+< or just the action ? [+ exc] 13878_14740
+%mor:	cconj|or adv|just det|the-Def-Art noun|action ?
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	or just 13878_13978 the 14018_14098 action 14319_14740 ?
+*INV:	+< yeah you can just &-you_know +...
+%mor:	intj|yeah pron|you-Prs-Nom-S2 aux|can-Fin-S adv|just +...
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	okay &=clears: throat . [+ exc]
+%mor:	intj|okay noun|throat .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*INV:	what's going on in the picture ? 18959_19803
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 18959_19480 going 19480_19760 on 19760_19803 in the picture ?
+*PAR:	+< well , the boy is &-uh getting cookies from a cookie jar . 20701_23669
+%mor:	intj|well cm|cm det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|from det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|6|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|6|OBL 12|6|PUNCT
+%wor:	well 20701_20802 , the 20802_20862 boy 20862_20922 is 20922_20962 uh 20962_21002 getting 21903_22123 cookies 22163_22564 from 22584_22724 a 22764_22784 cookie 22864_23145 jar 23185_23669 .
+*PAR:	little girl is reaching up with her hand to receive one . 25292_28452
+%mor:	adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|with pron|her-Prs-Gen-S3 noun|hand part|to verb|receive-Inf-S num|one .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|10|MARK 10|4|ADVCL 11|10|OBJ 12|4|PUNCT
+%wor:	little 25292_25508 girl 25568_25848 is 25908_25988 reaching 26068_26389 up 26429_26509 with 26549_26649 her 26669_26749 hand 26809_27210 to 27370_27470 receive 27550_28071 one 28171_28452 .
+*PAR:	&-uh the boy's in danger of falling (be)cause the stool he's on is tilting . 29990_34985
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adp|in noun|danger sconj|of verb|fall-Ger-S sconj|because det|the-Def-Art noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|CASE 5|15|ROOT 6|7|MARK 7|5|ACL 8|15|MARK 9|10|DET 10|15|NSUBJ 11|13|NSUBJ 12|13|COP 13|10|ACL-RELCL 14|15|AUX 15|5|ADVCL 16|5|PUNCT
+%wor:	uh 29990_30090 the 31234_31294 boy's 31374_31635 in 31675_31756 danger 31796_32177 of 32217_32277 falling 32358_32779 (be)cause 32779_33321 the 33341_33421 stool 33501_33782 he's 33823_33923 on 34164_34224 is 34284_34364 tilting 34485_34985 .
+*PAR:	(..) that would be all the actio(n) +//. [+ exc] 44661_45341
+%mor:	pron|that-Dem aux|would-Fin-S aux|be-Inf-S det|all-Def-Tot det|the-Def-Art noun|action +//.
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|COP 4|6|DET-PREDET 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	that 44661_44741 would 44801_44921 be 44961_45041 all 45141_45281 the 45281_45341 actio(n) +//.
+*PAR:	oh [/] oh over here then &=clears:throat . [+ exc] 45942_47303
+%mor:	intj|oh adv|over adv|here adv|then .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	oh 45942_46082 oh 46142_46263 over 46303_46523 here 46583_46743 then 46803_47303 .
+*PAR:	the mother is drying the dishes . 49478_51158
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 49478_49547 mother 49587_49887 is 49987_50107 drying 50167_50608 the 50608_50688 dishes 50748_51158 .
+*PAR:	&=clears:throat the [/] the water is running over . 51970_55144
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 51970_52090 the 53792_53852 water 53912_54192 is 54252_54333 running 54413_54693 over 54813_55144 .
+*PAR:	it's spilling on the floor . 55374_56696
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	it's 55374_55514 spilling 55534_55935 on 56035_56115 the 56155_56215 floor 56295_56696 .
+*PAR:	&-uh (.) she's stepping in the water . 65591_68391
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	uh 65591_65631 she's 65631_67272 stepping 67312_67652 in 67692_67772 the 67812_67892 water 67952_68391 .
+*PAR:	she's looking out the window instead of payin(g) attention to washin(g) the dishes . 73940_77380
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc adv|instead sconj|of verb|pay-Part-Pres-S noun|attention-Acc sconj|to verb|wash-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|14|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|9|MARK 8|7|FIXED 9|3|ADVCL 10|9|OBJ 11|12|MARK 12|9|ADVCL 13|14|DET 14|12|OBJ 15|3|PUNCT
+%wor:	she's 73940_74077 looking 74117_74397 out 74477_74597 the 74637_74697 window 74737_74958 instead 74958_75298 of 75318_75378 payin(g) 75418_75678 attention 75678_76199 to 76239_76299 washin(g) 76299_76919 the 76919_76979 dishes 77039_77380 .
+*PAR:	that's about it . [+ exc] 80694_80991
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	that's 80694_80991 about it .
+*INV:	okay good . 81617_81897
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 81617_81713 good 81774_81897 .
+@End

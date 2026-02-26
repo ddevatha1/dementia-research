@@ -1,0 +1,134 @@
+@UTF8
+@PID:	11312/a-00089701-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|81;|female|Vascular||Participant|19||
+@Media:	223-1, audio
+@G:	foods
+*INV:	I want you to name for me as many things that can be eaten . 160_3404
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|for pron|I-Prs-Acc-S1 adp|as adj|many-S1 noun|thing-Plur pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|CASE 7|5|OBL 8|10|CASE 9|10|AMOD 10|5|OBL 11|14|NSUBJ-PASS 12|14|AUX 13|14|AUX-PASS 14|10|ACL-RELCL 15|2|PUNCT
+%wor:	I 160_180 want 200_400 you 420_480 to 500_560 name 660_920 for 960_1080 me 1080_1180 as 1240_1360 many 1440_1640 things 1760_2120 that 2481_2621 can 2661_2781 be 2801_2881 eaten 3081_3404 .
+*INV:	and you can begin now . 3404_5010
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and you 3404_3461 can 3521_3661 begin 3701_4141 now 4522_5010 .
+*PAR:	well , bread . 5442_6342
+%mor:	intj|well cm|cm noun|bread .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	well 5442_5702 , bread 5842_6342 .
+*PAR:	butter . 7718_8203
+%mor:	noun|butter .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	butter 7718_8203 .
+*PAR:	cheese . 9141_9604
+%mor:	noun|cheese .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cheese 9141_9604 .
+*PAR:	(.) and &-uh potatoes . 12746_14806
+%mor:	cconj|and noun|potato-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 12746_13006 uh 13046_13346 potatoes 14306_14806 .
+*PAR:	(.) macaroni . 18491_18971
+%mor:	noun|macaroni .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	macaroni 18491_18971 .
+*PAR:	I guess I did say cheese@q . [+ exc] 22033_23374
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S q|cheese .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|FLAT 7|2|PUNCT
+%wor:	I guess 22033_22233 I 22253_22273 did 22333_22493 say 22574_22754 cheese@q 22874_23374 .
+*PAR:	and &-uh (.) oh heavens . [+ exc] 24196_27016
+%mor:	cconj|and intj|oh noun|heaven-Plur .
+%gra:	1|3|CC 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+%wor:	and 24196_24555 uh 24615_26296 oh 26356_26476 heavens 26516_27016 .
+*PAR:	apples . 28999_29498
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 28999_29498 .
+*PAR:	tomatoes . 31480_31961
+%mor:	noun|tomato-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tomatoes 31480_31961 .
+*PAR:	cucumbers . 34263_34743
+%mor:	noun|cucumber-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cucumbers 34263_34743 .
+*PAR:	and [/] &-uh (..) &-hm (..) and I had bread@q there , no . 37165_52000
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr q|bread adv|there cm|cm intj|no .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|FLAT 5|3|ADVMOD 6|7|PUNCT 7|3|DISCOURSE 8|3|PUNCT
+%wor:	and 37165_37505 uh 41909_41989 hm 42110_50178 and 50238_50298 I 50298_50318 had 50358_50598 bread@q 50678_51459 there 51459_51559 , no 51599_52000 .
+*PAR:	xxx .
+*PAR:	soup . 54941_55421
+%mor:	noun|soup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	soup 54941_55421 .
+*PAR:	oh , &-uh carrots . 57163_58363
+%mor:	intj|oh cm|cm noun|carrot-Plur .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh 57163_57584 , uh 57684_57824 carrots 57864_58363 .
+*PAR:	(.) &+sa &-uh mixed salad . 61766_62169
+%mor:	verb|mix-Part-Past-S noun|salad .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	uh mixed salad 61766_62169 .
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+@G:	S
+*INV:	now I'm gonna change +//.
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|change-Inf-S +//.
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*INV:	and begin now . 70772_70812
+%mor:	cconj|and verb|begin-Fin-Imp-S adv|now .
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	and 70772_70812 begin now .
+*PAR:	&-uh swamp . 71273_72293
+%mor:	noun|swamp .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 71273_71793 swamp 71793_72293 .
+*PAR:	sewer . 74136_74635
+%mor:	noun|sewer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sewer 74136_74635 .
+*PAR:	&-uh swing . 77239_78278
+%mor:	noun|swing-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 77239_77779 swing 77779_78278 .
+*PAR:	&-um &=whispers xxx . [+ exc]
+*PAR:	(.) oh , good heavens . [+ exc] 90697_91374
+%mor:	intj|oh cm|cm adj|good-S1 noun|heaven-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	oh 90697_90737 , good 90737_90897 heavens 90957_91374 .
+*PAR:	why can't I think of things ? [+ exc] 91439_92800
+%mor:	adv|why aux|can-Fin-S~part|not pron|I-Prs-Nom-S1 verb|think-Inf-S adp|of noun|thing-Plur ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	why 91439_91578 can't 91658_91859 I 91919_91939 think 91979_92179 of 92219_92260 things 92300_92800 ?
+*PAR:	&=whispers swing . [+ exc]
+%mor:	noun|swing-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) &+s I did get a swamp@q , didn't I ? 108916_110597
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|get-Inf-S det|a-Ind-Art q|swamp cm|cm aux|do-Fin-Ind-Past-S1-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|DET 5|3|FLAT 6|7|PUNCT 7|3|PARATAXIS 8|7|ADVMOD 9|7|NSUBJ 10|3|PUNCT
+%wor:	I 108916_108936 did 109016_109176 get 109236_109416 a 109476_109496 swamp@q 109576_110097 , didn't 110157_110597 I ?
+*PAR:	swamp . 112078_112578
+%mor:	noun|swamp .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	swamp 112078_112578 .
+*PAR:	and &-uh oh xxx . [+ exc] 113419_114380
+%mor:	cconj|and intj|oh .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 113419_113539 uh 113579_113760 oh 113880_114380 .
+*PAR:	&-hm I give up . [+ exc] 124630_126172
+%mor:	pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 adp|up .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%wor:	hm 124630_124690 I 125472_125492 give 125572_125652 up 125672_126172 .
+*PAR:	there's a_lots [: a_lot] [*] but I can't think of (th)em &=laughs . [+ exc] 127032_129475
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|alot cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|2|EXPL 2|10|ROOT 3|2|ADVMOD 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|2|CONJ 9|10|CASE 10|8|OBL 11|2|PUNCT
+%wor:	there's 127032_127236 a_lot 127236_127576 but 127677_127817 I 128118_128138 can't 128198_128558 think 128579_128799 of 128899_129040 (th)em 129040_129475 .
+*INV:	okay , you can stop now . 129681_131684
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|stop-Inf-S adv|now .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	okay 129681_130242 , you 130342_130443 can 130483_130643 stop 130743_131084 now 131184_131684 .
+@End

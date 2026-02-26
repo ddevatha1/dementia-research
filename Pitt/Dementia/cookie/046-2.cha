@@ -1,0 +1,116 @@
+@UTF8
+@PID:	11312/a-00090356-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|7||
+@Media:	046-2, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 890_2431
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 890_1150 going 1230_1470 on 1530_1651 in 1691_1751 the 1791_1871 picture 1931_2431 ?
+*INV:	what do you see happening in that picture ? 2993_5055
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+%wor:	what 2993_3153 do 3213_3293 you 3353_3473 see 3573_3734 happening 3794_4154 in 4194_4274 that 4314_4495 picture 4555_5055 ?
+*PAR:	&-hm <a lady> [/] a lady and her children . [+ gram] 9603_13347
+%mor:	det|a-Ind-Art noun|lady cconj|and pron|her-Prs-Gen-S3 noun|child-Plur .
+%gra:	1|2|DET 2|5|ROOT 3|5|CC 4|5|NMOD-POSS 5|2|CONJ 6|2|PUNCT
+%wor:	hm 9603_9642 a 9682_9702 lady 9762_11525 a 11545_11565 lady 11725_12366 and 12406_12546 her 12566_12707 children 12847_13347 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	children . [+ gram] 20523_20914
+%mor:	noun|child-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	children 20523_20914 .
+*INV:	and what's happening ? 22986_23786
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|CC 2|4|ROOT 3|4|AUX 4|2|ACL-RELCL 5|2|PUNCT
+%wor:	and 22986_23066 what's 23066_23266 happening 23306_23786 ?
+*PAR:	the lady is wash [//] washin(g) dishes . 24444_29573
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 24444_24528 lady 24608_25008 is 25188_25389 wash 27852_28552 washin(g) 28552_29073 dishes 29073_29573 .
+*PAR:	and +... 31576_31797
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 31576_31797 +...
+*INV:	let's just put that over there .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 adv|just verb|put-Inf-S pron|that-Dem adp|over adv|there .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|XCOMP 5|4|OBJ 6|7|CASE 7|4|ADVMOD 8|1|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	it's a nuisance isn't it ?
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|nuisance aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|7|ROOT 5|7|COP 6|7|ADVMOD 7|4|PARATAXIS 8|4|PUNCT
+*PAR:	yeah . [+ exc]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) the children have cookies . 47384_48246
+%mor:	det|the-Def-Art noun|child-Plur verb|have-Fin-Ind-Pres-P3 noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	the 47384_47466 children 47466_47650 have 47650_47753 cookies 47753_48246 .
+*INV:	(...) what else is happening ? 64178_65087
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	what 64178_64258 else 64318_64578 is 64578_64658 happening 64718_65087 ?
+*PAR:	(.) the father isn't comin(g) . 73103_74893
+%mor:	det|the-Def-Art noun|father aux|be-Fin-Ind-Pres-S3~part|not verb|come-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the 73103_73170 father 73270_73851 isn't 73911_74332 comin(g) 74472_74893 .
+*PAR:	father didn't come in yet . 78595_80385
+%mor:	noun|father aux|do-Fin-Ind-Past-S3-irr~part|not verb|come-Inf-S adp|in adv|yet .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+%wor:	father 78595_78955 didn't 79055_79295 come 79475_79775 in 79775_79815 yet 79895_80385 .
+*PAR:	and the lady is gettin(g) it ready . 82518_89500
+%mor:	cconj|and det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|it-Prs-Acc-S3 adj|ready-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|XCOMP 8|5|PUNCT
+%wor:	and 82518_82697 the 82697_82777 lady 83378_83778 is 83938_84198 gettin(g) 87921_88582 it 88582_88762 ready 89042_89500 .
+*PAR:	get +... 92186_92664
+%mor:	verb|get-Fin-Imp-S +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	get 92186_92664 +...
+*INV:	what's happening over here ? 97719_98699
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	what's 97719_97839 happening 97899_98179 over 98240_98400 here 98460_98699 ?
+*PAR:	it's a water with that . [+ gram] 101025_102514
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|water adp|with pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%wor:	it's 101025_101165 a 101246_101266 water 101406_101847 with 101927_102188 that 102228_102514 .
+*INV:	sorry ? 103250_103640
+%mor:	adj|sorry-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sorry 103250_103640 ?
+*INV:	what's happening ? 105465_105955
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|3|OBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	what's 105465_105634 happening 105675_105955 ?
+*PAR:	water went down . 107258_108950
+%mor:	noun|water verb|go-Fin-Ind-Past-S3-irr adp|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%wor:	water 107258_107699 went 108320_108540 down 108600_108950 .
+*INV:	mhm . 109162_109643
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 109162_109643 .
+*INV:	and what's happening over here ? 115801_116941
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	and 115801_115881 what's 115881_116081 happening 116121_116441 over 116461_116661 here 116681_116941 ?
+*PAR:	it's gonna fall over . 117834_119324
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|fall-Inf-S adv|over .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	it's 117834_118002 gonna 118062_118322 fall 118462_118802 over 118842_119324 .
+*INV:	uhhuh . 119660_119662
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 119660_119662 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,97 @@
+@UTF8
+@PID:	11312/a-00090450-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|86;|male|ProbableAD||Participant|19||
+@Media:	212-3, audio
+@G:	Cookie
+*INV:	take a look at this picture .
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	I want you to tell me everything you see going on in that picture . 5461_6704
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%wor:	I 5461_5481 want 5501_5661 you 5661_5741 to 5761_5821 tell 5861_6041 me 6081_6141 everything 6221_6621 you 6661_6704 see going on in that picture .
+*INV:	everything that's happening there .
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+*PAR:	the stool [//] the boy's on the stool reaching for the cookie jar . 10603_12164
+%mor:	det|the-Def-Art det|the-Def-Art noun|boy~part|s adp|on det|the-Def-Art noun|stool verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|DET 3|7|NMOD-POSS 4|3|CASE 5|7|CASE 6|7|DET 7|12|ROOT 8|7|ACL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|OBL 13|7|PUNCT
+%wor:	the stool 10603_10923 the 11103_11163 boy's 11203_11463 on 11543_11643 the 11663_11743 stool 11823_12164 reaching for the cookie jar .
+*PAR:	the girl's reaching up for a cookie . 13844_14585
+%mor:	det|the-Def-Art noun|girl~part|s verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 13844_13904 girl's 13904_14044 reaching 14044_14224 up 14244_14284 for 14304_14384 a 14384_14404 cookie 14404_14585 .
+*PAR:	the stool is falling .
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	the lady is washin(g) dishes . 20117_20197
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 20117_20197 lady is washin(g) dishes .
+*PAR:	the water's overrun in the sink . 21958_23158
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overrun-Part-Past-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 21958_22058 water's 22098_22518 overrun 22598_23158 in the sink .
+*PAR:	a [//] &-uh you can see through the window the curtains are pulled back . 25621_28481
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|through det|the-Def-Art noun|window det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|pull-Part-Past-S adv|back .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|DET 8|10|NSUBJ-PASS 9|10|AUX-PASS 10|3|PARATAXIS 11|10|ADVMOD 12|3|PUNCT
+%wor:	a 25621_25641 uh 25801_25901 you 27102_27202 can 27222_27342 see 27422_27582 through 27662_27882 the 27882_27962 window 28002_28283 the 28303_28363 curtains 28403_28481 are pulled back .
+*PAR:	there's a walkway . 30144_31062
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walkway .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 30144_30444 a 31045_31062 walkway .
+*PAR:	&-uh windows in another part of the house . [+ gram] 33347_34988
+%mor:	noun|window-Plur adp|in det|another-Def-Ind noun|part adp|of det|the-Def-Art noun|house .
+%gra:	1|7|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|CASE 6|7|DET 7|4|NMOD 8|1|PUNCT
+%wor:	uh 33347_33747 windows 33747_34387 in 34407_34447 another 34447_34587 part 34587_34667 of 34667_34707 the 34707_34767 house 34887_34988 .
+*PAR:	&-uh everguhuhgreens [: evergreens] [* d:sw] around , and grass . [+ gram] 38336_39439
+%mor:	noun|evergreen-Plur adv|around cm|cm cconj|and noun|grass .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|5|PUNCT 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	uh 38336_38396 evergreens 38396_39216 around 39256_39439 , and grass .
+*PAR:	cup and a saucer and a plate on the &-uh +... 42184_46120
+%mor:	noun|cup cconj|and det|a-Ind-Art noun|saucer cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art +...
+%gra:	1|9|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|7|CC 6|7|DET 7|4|CONJ 8|9|CASE 9|7|NMOD 10|1|PUNCT
+%wor:	cup 42184_42399 and 42879_43019 a 43079_43099 saucer 44140_44600 and 45481_45601 a 45621_45641 plate 45721_46120 on the uh +...
+*PAR:	under the doors to the cabinet . [+ gram] 47823_49164
+%mor:	adp|under det|the-Def-Art noun|door-Plur adp|to det|the-Def-Art noun|cabinet .
+%gra:	1|3|CASE 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	under 47823_47923 the 47923_47983 doors 48283_48423 to 48423_48463 the 48484_48604 cabinet 48664_49164 .
+*PAR:	double door and a sɪŋkəl@u [: single] [* p:n] door +/. [+ gram] 52640_53621
+%mor:	adj|double-S1 noun|door cconj|and det|a-Ind-Art adj|single-S1 noun|door +/.
+%gra:	1|2|AMOD 2|6|ROOT 3|6|CC 4|6|DET 5|6|AMOD 6|2|CONJ 7|2|PUNCT
+%wor:	double 52640_53621 door and a single door +/.
+*INV:	+< everything that's happening .
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+*PAR:	oh happening ? [+ exc]
+%mor:	intj|oh verb|happen-Part-Pres-S ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	the water's splashin(g) on the floor .
+%mor:	det|the-Def-Art noun|water~part|s noun|splashing-Ger adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	the [/] the boy is falling .
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	the girl is reaching .
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	&-uh the lady's washin(g) the dishes . 66261_67383
+%mor:	det|the-Def-Art noun|lady~aux|is verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	uh the lady's washin(g) 66261_67082 the 67082_67182 dishes 67182_67383 .
+*PAR:	she's &-uh gettin(g) her shoe wet . 67523_70733
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|shoe adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|NMOD-POSS 5|6|COMPOUND 6|3|XCOMP 7|3|PUNCT
+%wor:	she's 67523_67663 uh 67743_67783 gettin(g) 67803_70733 her shoe wet .
+*INV:	(.) okay . 72311_72392
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 72311_72392 .
+@End

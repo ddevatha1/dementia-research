@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/a-00090853-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;00.|male|Control||Participant|30||
+@Media:	304-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I'd like you to take a look at this picture . 350_2320
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+%wor:	I'd 350_410 like 410_730 you 790_1090 to 1110_1170 take 1230_1350 a 1370_1390 look 1410_1530 at 1570_1651 this 1671_1811 picture 1891_2320 .
+*INV:	tell me everything that you see happening in the picture . 3272_5733
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	tell 3272_3452 me 3492_3552 everything 3652_4072 that 4072_4233 you 4273_4373 see 4453_4593 happening 4693_5133 in 5133_5173 the 5173_5233 picture 5253_5733 .
+*INV:	everything that's going on there . 6254_7395
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|1|PUNCT
+%wor:	everything 6254_6614 that's 6614_6795 going 6855_7135 on 7215_7395 there .
+*PAR:	the water is runnin(g) out of the sink . 8196_10550
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|5|FIXED 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 8196_8276 water 8336_8696 is 8816_8916 runnin(g) 9056_9477 out 9477_9717 of 9737_9777 the 9817_9897 sink 10097_10550 .
+*PAR:	and the kid's fallin(g) off of the stool . 11378_14281
+%mor:	cconj|and det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and 11378_11799 the 11879_11979 kid's 12279_12659 fallin(g) 12859_13320 off 13320_13480 of 13560_13600 the 13620_13700 stool 13800_14281 .
+*PAR:	he's &+k stealin(g) some cookies . 14375_16085
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	he's 14375_14495 stealin(g) 14915_15375 some 15375_15555 cookies 15615_16085 .
+*PAR:	and the little girl says “don't tell your mother” who is standing in the water &=coughs and &+r drying dishes . 16292_24362
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|say-Fin-Ind-Pres-S3 aux|do-Fin-S~part|not verb|tell-Fin-Imp-S pron|your-Prs-Gen-S2 noun|mother pron|who-Rel aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water cconj|and verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|19|ROOT 6|8|AUX 7|8|ADVMOD 8|5|CCOMP 9|10|NMOD-POSS 10|8|IOBJ 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|19|CC 18|19|AMOD 19|16|CONJ 20|5|PUNCT
+%wor:	and 16292_16356 the 16356_16436 little 16476_16656 girl 16696_16956 says 17036_17297 don't 17817_18017 tell 18097_18297 your 18357_18457 mother 18497_18758 who 19418_19518 is 19618_19698 standing 19738_20179 in 20239_20319 the 20359_20419 water 20499_20819 and 22300_22941 drying 23441_23861 dishes 23921_24362 .
+*PAR:	&-uh washing dishes I guess maybe drying them I don't know . [+ gram] 28025_30684
+%mor:	noun|washing-Ger noun|dish-Plur pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adv|maybe verb|drying-Part-Pres-S pron|they-Prs-Acc-P3 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|2|COMPOUND 2|11|NSUBJ 3|4|NSUBJ 4|11|ROOT 5|6|ADVMOD 6|11|ADVCL 7|6|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|4|CCOMP 12|4|PUNCT
+%wor:	uh 28025_28065 washing 28065_28465 dishes 28505_28846 I 28966_28986 guess 29026_29266 maybe 29367_29607 drying 29687_30048 them 30048_30148 I 30248_30268 don't 30288_30468 know 30468_30684 .
+*PAR:	and &-uh guess the water's splashin(g) all over the floor . 31830_37656
+%mor:	cconj|and verb|guess-Fin-Imp-S det|the-Def-Art noun|water~part|s noun|splashing-Acc-Ger det|all-Def-Tot adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|CC 2|10|ROOT 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|2|OBJ 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|NMOD 11|2|PUNCT
+%wor:	and 31830_32391 uh 32471_32672 guess 35316_35496 the 35516_35576 water's 35656_35997 splashin(g) 36017_36598 all 36598_36718 over 36778_36938 the 36958_37038 floor 37158_37656 .
+*PAR:	that kid don't <fall out> [//] fall off that stool he's gonna break his neck . [+ gram] 39107_42467
+%mor:	sconj|that noun|kid aux|do-Fin-Ind-Pres-P3~part|not verb|fall-Inf-S adp|off det|that-Def-Dem-Sing noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|12|ADVCL 6|8|CASE 7|8|DET 8|5|OBL 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|14|ROOT 13|14|NMOD-POSS 14|12|OBJ 15|12|PUNCT
+%wor:	that 39107_39242 kid 39322_39522 don't 39562_39782 fall 39822_40123 out 40203_40303 fall 40443_40704 off 40744_40864 that 40904_41044 stool 41104_41405 he's 41405_41485 gonna 41485_41685 break 41745_41966 his 41966_42126 neck 42246_42467 .
+*PAR:	and gettin(g) the cookies . [+ gram] 44173_45436
+%mor:	cconj|and verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|CC 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	and 44173_44616 gettin(g) 44657_44959 the 44959_45040 cookies 45060_45436 .
+*PAR:	that's about all I can see . [+ exc] 45535_46496
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|7|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|4|PUNCT
+%wor:	that's 45535_45725 about 45766_45947 all 45947_46028 I 46028_46048 can 46048_46189 see 46189_46496 .
+*INV:	okay that's fine . 46738_47112
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay that's fine 46738_47112 .
+@End

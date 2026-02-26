@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/a-00089895-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|male|ProbableAD||Participant|10||
+@Media:	125-0, audio
+@G:	George_Immediate
+*INV:	okay , Mister Name . 238383_239203
+%mor:	intj|okay cm|cm propn|Mister propn|name .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	okay 238383_238644 , Mister 238685_238926 Name 238946_239203 .
+*INV:	you tell me everything you can remember about that story . 239304_242066
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|that-Def-Dem-Sing noun|story .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|IOBJ 4|2|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+%wor:	you 239304_239409 tell 239490_239691 me 239711_239771 everything 239852_240274 you 240335_240415 can 240456_240576 remember 240617_240999 about 241039_241281 that 241321_241482 story 241603_242066 .
+*INV:	(...) can you remember the story ? 257041_258341
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S det|the-Def-Art noun|story-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	can 257041_257141 you 257161_257241 remember 257281_257641 the 257681_257761 story 257841_258341 ?
+*PAR:	(.) yeah , I guess I hafta say no . [+ exc] 261006_263096
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|say-Inf-S intj|no .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|4|DISCOURSE 9|4|PUNCT
+%wor:	yeah 261006_261145 , I 261225_261245 guess 261305_261586 I 261946_261966 hafta 261986_262226 say 262327_262527 no 262627_263096 .
+*INV:	no . 263329_263630
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 263329_263630 .
+*INV:	do you remember anything about it at all ? 264330_266835
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adp|about pron|it-Prs-Acc-S3 adp|at det|all-Def-Tot ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|CASE 6|4|NMOD 7|8|CASE 8|3|OBL 9|3|PUNCT
+%wor:	do 264330_264349 you 264349_264429 remember 264469_264890 anything 265510_265931 about 265951_266311 it 266351_266431 at 266511_266591 all 266692_266835 ?
+*PAR:	it had [//] was caught in a storm . 269037_270596
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|catch-Part-Past-S-irr adp|in det|a-Ind-Art noun|storm .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	it 269037_269154 had 269154_269295 was 269355_269515 caught 269615_269875 in 269895_269955 a 269975_269995 storm 270096_270596 .
+*INV:	caught in a storm ? 271117_271838
+%mor:	verb|catch-Part-Past-S-irr adp|in det|a-Ind-Art noun|storm ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	caught 271117_271357 in 271397_271497 a 271517_271537 storm 271637_271838 ?
+*INV:	okay . 272101_272314
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 272101_272314 .
+*INV:	anything else ? 272521_273463
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 272521_272894 else 272975_273463 ?
+*INV:	(...) no ? 287004_287444
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 287004_287444 ?
+*INV:	okay . 291088_291563
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 291088_291563 .
+*INV:	(.) that's it . 294231_294721
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 294231_294471 it 294531_294721 .
+*INV:	okay , there we go . 294892_295673
+%mor:	intj|okay cm|cm pron|there-Int-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|EXPL 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	okay 294892_294992 , there 295052_295212 we 295272_295332 go 295432_295673 .
+@End

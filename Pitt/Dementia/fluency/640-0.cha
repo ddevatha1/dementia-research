@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/a-00089802-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|female|ProbableAD||Participant|10||
+@Media:	640-0, audio
+@G:	animals
+*INV:	as you can think of and you can start now . 880_3361
+%mor:	sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|9|ADVCL 5|4|OBL 6|9|CC 7|9|NSUBJ 8|9|AUX 9|10|ROOT 10|9|ADVMOD 11|9|PUNCT
+%wor:	as 880_920 you 940_1020 can 1060_1180 think 1260_1480 of 1560_1680 and 1780_1880 you 1900_1980 can 2020_2141 start 2221_2561 now 2861_3361 .
+*PAR:	okay . [+ exc] 4123_4622
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 4123_4622 .
+*PAR:	&-um &-um &-um &=laughs that [/] that really did it . [+ exc] 6804_10788
+%mor:	pron|that-Dem adv|really verb|do-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	um 6804_6844 um 6844_6884 um 6884_6944 that 9466_9586 that 9726_9866 really 10107_10327 did 10407_10547 it 10587_10788 .
+*PAR:	&-um a dog . 10868_13929
+%mor:	det|a-Ind-Art noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	um 10868_11047 a 13329_13349 dog 13429_13929 .
+*PAR:	a cat . 15912_16472
+%mor:	det|a-Ind-Art noun|cat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 15912_15932 cat 15992_16472 .
+*PAR:	&-uh (.) a pony . 18093_21775
+%mor:	det|a-Ind-Art noun|pony .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	uh 18093_21195 a 21195_21215 pony 21275_21775 .
+*PAR:	&-um what else ? [+ exc] 27740_28440
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	um 27740_27780 what 27780_27880 else 27940_28440 ?
+*PAR:	(.) a cat . 34634_35194
+%mor:	det|a-Ind-Art noun|cat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 34634_34654 cat 34694_35194 .
+*PAR:	a pheasant . 38480_38980
+%mor:	det|a-Ind-Art noun|pheasant .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a pheasant 38480_38980 .
+*PAR:	&-um pheasant +... [+ exc] 41625_42044
+%mor:	noun|pheasant +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um pheasant 41625_42044 +...
+*PAR:	oh boy . [+ exc] 51934_52334
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 51934_52034 boy 52054_52334 .
+*PAR:	there's million of animals out there . [+ exc] 56142_57700
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|million adp|of noun|animal-Plur adv|out adv|there .
+%gra:	1|2|EXPL 2|7|ROOT 3|2|NSUBJ 4|5|CASE 5|3|NMOD 6|7|ADVMOD 7|2|ADVMOD 8|2|PUNCT
+%wor:	there's 56142_56322 million 56402_56723 of 56743_56803 animals 56943_57284 out 57364_57505 there 57545_57700 .
+*PAR:	why can't I think +/? [+ exc] 57765_58507
+%mor:	adv|why aux|can-Fin-S~part|not pron|I-Prs-Nom-S1 verb|think-Inf-S +/?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	why 57765_57885 can't 57945_58326 I 58326_58346 think 58386_58507 +/?
+@End

@@ -1,0 +1,299 @@
+@UTF8
+@PID:	11312/a-00089772-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|female|ProbableAD||Participant|9||
+@Media:	493-1, audio
+@G:	foods
+*INV:	anything at all that you can eat you can name . 940_4923
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S pron|you-Prs-Nom-S2 aux|can-Fin-S verb|name-Inf-S .
+%gra:	1|10|ROOT 2|3|CASE 3|1|NMOD 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|1|ACL-RELCL 8|10|NSUBJ 9|10|AUX 10|1|PARATAXIS 11|1|PUNCT
+%wor:	anything 940_1440 at 1480_1580 all 1640_1960 that 2181_2341 you 2341_2501 can 2561_2781 eat 2801_4163 you 4203_4283 can 4303_4383 name 4423_4923 .
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	+< alright , I'm gonna give you a minute now . 5591_7305
+%mor:	intj|alright cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|minute-Acc adv|now .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|10|ROOT 7|6|IOBJ 8|9|DET 9|6|OBJ 10|6|ADVMOD 11|6|PUNCT
+%wor:	alright , I'm gonna 5591_5784 give 5784_6044 you 6044_6144 a 6244_6264 minute 6425_6805 now 6805_7305 .
+*INV:	ready ?
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	well , where's my paper ? [+ exc]
+%mor:	intj|well cm|cm adv|where~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|paper ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|3|COP 5|6|NMOD-POSS 6|3|NSUBJ 7|3|PUNCT
+*PAR:	or <do I> [//] don't I +/.
+%mor:	cconj|or aux|do-Fin-Imp-S~part|not pron|I-Prs-Nom-S1 +/.
+%gra:	1|2|CC 2|4|ROOT 3|2|ADVMOD 4|2|NSUBJ 5|2|PUNCT
+*INV:	+< you just say them out loud and I'll write them down . 11671_12190
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|say-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 adp|out adv|loud cconj|and pron|I-Prs-Nom-S1~aux|will-Fin-S verb|write-Inf-S pron|they-Prs-Acc-P3 adp|down .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|12|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|ADVMOD 7|10|CC 8|10|NSUBJ 9|10|AUX 10|3|CONJ 11|10|OBJ 12|10|COMPOUND-PRT 13|3|PUNCT
+%wor:	you just say them out loud and I'll write them 11671_11690 down 11690_12190 .
+*PAR:	oh , <what the> [//] what you started with now ? [+ exc] 13453_14873
+%mor:	intj|oh cm|cm pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|start-Fin-Ind-Past-S2 adp|with adv|now ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|7|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|ADVMOD 8|3|PUNCT
+%wor:	oh , what the what you started 13453_13812 with 13872_14392 now 14392_14873 ?
+*INV:	&-uh all of the things you can think of to eat . 15794_18536
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|thing-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of part|to verb|eat-Inf-S .
+%gra:	1|10|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|10|MARK 10|7|ADVCL 11|1|PUNCT
+%wor:	uh 15794_15934 all 15994_16154 of 16194_16294 the 17415_17755 things 17955_18275 you 18396_18536 can think of to eat .
+*INV:	I want you to name as many things that come to mind that you can eat . 21758_22198
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|as adj|many-S1 noun|thing-Plur-Acc pron|that-Rel verb|come-Fin-Ind-Pres-P3 adp|to noun|mind sconj|that pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|AMOD 8|5|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|12|CASE 12|10|OBL 13|16|MARK 14|16|NSUBJ 15|16|AUX 16|10|ADVCL 17|2|PUNCT
+%wor:	I 21758_21778 want 21898_22078 you 22139_22198 to name as many things that come to mind that you can eat .
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	uhhuh . [+ exc]
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	ready ?
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	apples . 28263_28464
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 28263_28464 .
+*PAR:	oranges .
+%mor:	noun|orange-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	bananas &=laughs .
+%mor:	noun|banana-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm . 31428_31463
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 31428_31463 .
+*INV:	what else ? 31768_31800
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	what 31768_31800 else ?
+*PAR:	fruit .
+%mor:	noun|fruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and &-uh (.) I don't really know any [/] any more (be)cause I've never played this or I never &+s +... [+ exc] 33089_38830
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|really verb|know-Inf-S det|any-Def-Ind adj|more-Cmp-S1 sconj|because pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|never verb|play-Part-Past-S pron|this-Dem-S1 cconj|or pron|I-Prs-Nom-S1 adv|never +...
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|17|ROOT 7|8|DET 8|6|OBJ 9|13|MARK 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|6|ADVCL 14|13|OBJ 15|16|CC 16|17|NSUBJ 17|13|ADVMOD 18|6|PUNCT
+%wor:	and 33089_33128 uh 33128_33168 I 33168_33188 don't 33188_33388 really 33548_33988 know 34109_34329 any 36449_36629 any 36629_36730 more 36730_36850 (be)cause 36850_37270 I've 37270_37350 never 37350_37690 played 37730_38130 this 38130_38210 or 38250_38310 I 38310_38330 never 38330_38830 +...
+*INV:	just tell me all of the things that come to mind that you can eat . 41319_43352
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|thing-Plur pron|that-Rel verb|come-Fin-Ind-Pres-P3 adp|to noun|mind sconj|that pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|2|ADVMOD 2|15|ROOT 3|2|IOBJ 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|NSUBJ 9|7|ACL-RELCL 10|11|CASE 11|9|OBL 12|15|MARK 13|15|NSUBJ 14|15|AUX 15|9|CCOMP 16|2|PUNCT
+%wor:	just tell me all of the things that come to mind 41319_41651 that 41671_41991 you 42031_42312 can 42512_42732 eat 42852_43352 .
+*PAR:	I eat bananas .
+%mor:	pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Pres-S1 noun|banana-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	apples .
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	oranges . 51915_52036
+%mor:	noun|orange-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oranges 51915_52036 .
+*PAR:	and other [/] other things but I can't even think &+n right now . [+ exc] 55562_56824
+%mor:	cconj|and adj|other-S1 noun|thing-Plur cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adv|even verb|think-Inf-S adv|right adv|now .
+%gra:	1|3|CC 2|3|AMOD 3|11|ROOT 4|9|CC 5|9|NSUBJ 6|9|AUX 7|9|ADVMOD 8|9|ADVMOD 9|3|CONJ 10|11|ADVMOD 11|9|ADVMOD 12|3|PUNCT
+%wor:	and 55562_55722 other 55762_55962 other 56263_56824 things but I can't even think right now .
+*INV:	well , you still have some time left .
+%mor:	intj|well cm|cm pron|you-Prs-Nom-S2 adv|still verb|have-Fin-Ind-Pres-S2 det|some-Def-Ind noun|time-Acc verb|leave-Part-Past-S-irr .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|7|DET 7|5|OBJ 8|5|XCOMP 9|5|PUNCT
+*INV:	tell me what else you eat . 62395_62717
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adv|else pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|1|OBJ 4|3|ADVMOD 5|6|NSUBJ 6|3|ACL-RELCL 7|1|PUNCT
+%wor:	tell 62395_62495 me 62495_62555 what 62675_62717 else you eat .
+*PAR:	(.) apples . 63096_63237
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 63096_63237 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what else ?
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	I really can't even think (.) what else I eat . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 adv|really aux|can-Fin-S~part|not adv|even verb|think-Inf-S pron|what-Int-S1 adv|else pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Pres-S1 .
+%gra:	1|6|NSUBJ 2|6|ADVMOD 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|10|ROOT 7|6|OBJ 8|7|ADVMOD 9|10|NSUBJ 10|7|ACL-RELCL 11|6|PUNCT
+*INV:	+< what other food do you like ?
+%mor:	det|what-Def-Int adj|other-S1 noun|food-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S ?
+%gra:	1|3|DET 2|3|AMOD 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*PAR:	I like everything &=laughs . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|everything-Tot-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	+< tell me some of the things you like .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|some-Def-Ind adp|of det|the-Def-Art noun|thing-Plur pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 .
+%gra:	1|8|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|NSUBJ 8|6|ACL-RELCL 9|1|PUNCT
+*PAR:	I [/] I eat what I wanna eat . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|eat-Inf-S .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|2|PUNCT
+*PAR:	and I fix it myself . [+ exc]
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|fix-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 pron|myself-Prs-Acc-reflx-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|OBL-UNMARKED 6|3|PUNCT
+*PAR:	and [/] and I eat it up . [+ exc]
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adp|up .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< so , that's about all I could tell you . [+ exc]
+%mor:	adv|so cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|could-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|10|ROOT 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|IOBJ 11|6|PUNCT
+*PAR:	I don't know what else to tell you . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 adj|else-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|5|AMOD 7|8|MARK 8|5|ACL 9|8|IOBJ 10|4|PUNCT
+*INV:	+< <that's fine> [/] that's fine .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+@G:	S
+*INV:	I'm going to give you another minute's time .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|another-Def-Ind noun|minute~part|s noun|time-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|5|OBJ 11|3|PUNCT
+*INV:	and in that minute I'd like for you to name for me as many words as you can think of that start with the letter s@l .
+%mor:	cconj|and adp|in det|that-Def-Dem-Sing noun|minute pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|for pron|I-Prs-Acc-S1 adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of det|that-Def-Dem-Sing verb|start-Inf-S adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|27|ROOT 8|11|MARK 9|11|NSUBJ 10|11|MARK 11|7|XCOMP 12|13|CASE 13|11|OBL 14|15|ADVMOD 15|16|AMOD 16|11|OBJ 17|20|MARK 18|20|NSUBJ 19|20|AUX 20|11|ADVCL 21|20|OBL 22|23|DET 23|20|ADVCL 24|26|CASE 25|26|DET 26|23|OBL 27|26|CASE 28|7|PUNCT
+*PAR:	s@l . [+ exc]
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	they have to start with the letter s@l .
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 part|to verb|start-Inf-S adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|7|CASE 9|2|PUNCT
+*PAR:	well , it could be s@l . [+ exc]
+%mor:	intj|well cm|cm pron|it-Prs-Nom-S3 aux|could-Fin-S aux|be-Inf-S part|s .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|CASE 7|5|PUNCT
+*PAR:	it could be t@l . [+ exc]
+%mor:	pron|it-Prs-Nom-S3 aux|could-Fin-S aux|be-Inf-S noun|t .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*INV:	&+n all of the words that start with s@l .
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|word-Plur pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with part|s .
+%gra:	1|8|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|NSUBJ 6|4|ACL-RELCL 7|6|OBL 8|4|CASE 9|1|PUNCT
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	I want you to come up with some words that start with the letter s@l .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|come-Inf-S adp|up adp|with det|some-Def-Ind noun|word-Plur pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|11|NSUBJ 11|9|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|14|CASE 16|2|PUNCT
+*PAR:	s@l . [+ exc]
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	can you think of some words that start with s@l ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|some-Def-Ind noun|word-Plur pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with part|s ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBL 10|6|CASE 11|3|PUNCT
+*PAR:	+< seems to me <I don't have> [/] I don't have no thoughts . [+ exc]
+%mor:	verb|seem-Fin-Ind-Pres-S3 adp|to pron|I-Prs-Acc-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S det|no-Def-Neg noun|thought-Plur-Acc .
+%gra:	1|9|ROOT 2|3|CASE 3|1|OBL 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|1|CCOMP 8|9|DET 9|7|OBJ 10|1|PUNCT
+*PAR:	no can think &=laughs . [+ exc]
+%mor:	intj|no aux|can-Fin-S verb|think-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*INV:	let's try some .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|try-Inf-S det|some-Def-Ind .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*INV:	how about some words that start with s@l .
+%mor:	adv|how adp|about det|some-Def-Ind noun|word-Plur pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with part|s .
+%gra:	1|8|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|NSUBJ 6|4|ACL-RELCL 7|6|OBL 8|4|CASE 9|1|PUNCT
+*PAR:	with s@l . [+ exc]
+%mor:	adp|with part|s .
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+*PAR:	sugar .
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	uhhuh , that's right .
+%mor:	intj|uhhuh cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*INV:	what else ?
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	sugar +...
+%mor:	noun|sugar +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I don't know whether apple@q would be anything .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether q|apple aux|would-Fin-S aux|be-Inf-S pron|anything-Ind-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|9|MARK 6|9|FLAT 7|9|AUX 8|9|COP 9|4|CCOMP 10|4|PUNCT
+*PAR:	would apple@q be +/? [+ exc]
+%mor:	aux|would-Fin-S q|apple aux|be-Inf-S +/?
+%gra:	1|3|AUX 2|3|FLAT 3|3|ROOT 4|3|PUNCT
+*INV:	+< it has to start with the letter s@q .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 part|to verb|start-Inf-S adp|with det|the-Def-Art noun|letter q|s .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|FLAT 9|2|PUNCT
+*PAR:	oh s@l . [+ exc]
+%mor:	intj|oh x|s .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	s@l . [+ exc]
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< did I mention sugar@q ? [+ exc]
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|mention-Inf-S q|sugar ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+*INV:	that's good .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	what else ?
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	I can't even think . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adv|even verb|think-Inf-S .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*INV:	+< starting with the letter s@l .
+%mor:	verb|start-Part-Pres-S adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|4|CASE 6|1|PUNCT
+*INV:	any word at all that starts with s@l .
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with part|s .
+%gra:	1|2|DET 2|8|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|6|OBL 8|4|CASE 9|2|PUNCT
+*PAR:	couldn't be sugar@q . [+ exc]
+%mor:	aux|could-Fin-S~part|not aux|be-Inf-S q|sugar .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|COP 4|4|FLAT 5|4|PUNCT
+*INV:	mhm , what else ?
+%mor:	intj|mhm cm|cm pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*INV:	anything starting with s@l ?
+%mor:	pron|anything-Ind-S1 verb|start-Ger-S adp|with part|s ?
+%gra:	1|4|ROOT 2|1|ACL 3|2|OBL 4|1|CASE 5|1|PUNCT
+*PAR:	I can't even think . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adv|even verb|think-Inf-S .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	as a rule I do think &=laughs . [+ exc]
+%mor:	adp|as det|a-Ind-Art noun|rule pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 verb|think-Inf-S .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+*PAR:	so , we just have to make that what it is . [+ exc]
+%mor:	adv|so cm|cm pron|we-Prs-Nom-P1 adv|just verb|have-Fin-Ind-Pres-P1 part|to verb|make-Inf-S pron|that-Dem pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|11|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|5|PUNCT
+*INV:	okay &=laughs .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	oh , you're cute .
+%mor:	intj|oh cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|cute-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*PAR:	oh hey +... [+ exc]
+%mor:	intj|oh intj|hey +...
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*INV:	alright let's see +/.
+%mor:	intj|alright verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S +/.
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	+< apples , oranges , bananas .
+%mor:	noun|apple-Plur cm|cm noun|orange-Plur cm|cm noun|banana-Plur .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|1|PUNCT
+*PAR:	what else &=laughs ? [+ exc]
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	those are all the things you like to eat , aren't they ?
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|all-Def-Tot det|the-Def-Art noun|thing-Plur pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 part|to verb|eat-Inf-S cm|cm aux|be-Fin-Ind-Pres-P3~part|not pron|they-Prs-Nom-P3 ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET-PREDET 4|5|DET 5|13|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|11|PUNCT 11|5|PARATAXIS 12|11|ADVMOD 13|5|PARATAXIS 14|5|PUNCT
+*PAR:	+< oh yeah . [+ exc]
+%mor:	intj|oh intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

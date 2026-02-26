@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00090795-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|male|Control||Participant|30||
+@Media:	208-1, audio
+@G:	Cookie
+*INV:	what action do you see going on in that picture ? 710_2840
+%mor:	det|what-Def-Int noun|action-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|2|DET 2|6|OBJ 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|5|PUNCT
+%wor:	what 710_830 action 970_2840 do you see going on in that picture ?
+*PAR:	I see the lady drying the dishes . 5613_7001
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|lady-Acc verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|7|DET 7|5|OBJ 8|2|PUNCT
+%wor:	I 5613_5633 see 5633_5713 the 5713_5773 lady 5973_6053 drying 6053_6354 the 6354_6434 dishes 6514_7001 .
+*PAR:	and the water is spilling over the sink onto the floor . 7535_11597
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+%wor:	and 7535_7635 the 7655_7735 water 7815_8175 is 8655_8755 spilling 8876_9376 over 9556_9816 the 9956_10056 sink 10216_10497 onto 10657_10877 the 10917_10997 floor 11097_11597 .
+*PAR:	and I see a boy on a stool going for a cookie jar and the stool is falling over . 12549_18789
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boy-Acc adp|on det|a-Ind-Art noun|stool verb|go-Ger-S adp|for det|a-Ind-Art noun|cookie noun|jar cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|CC 2|3|NSUBJ 3|19|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|8|ACL 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|OBL 14|18|CC 15|16|DET 16|18|NSUBJ 17|18|AUX 18|3|CONJ 19|18|ADVMOD 20|3|PUNCT
+%wor:	and 12549_12629 I 12729_12749 see 12849_13049 a 14210_14230 boy 14310_14590 on 14870_14970 a 15030_15050 stool 15190_15591 going 16051_16271 for 16311_16511 a 16511_16551 cookie 16591_16872 jar 16972_17252 and 17312_17372 the 17372_17452 stool 17492_17732 is 17792_17872 falling 17932_18293 over 18413_18789 .
+*PAR:	and the girl is putting her finger to her lips and one hand out to get a cookie jar . 19533_25178
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|lip-Plur cconj|and num|one noun|hand adp|out part|to verb|get-Inf-S det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|19|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|14|CC 12|13|NUMMOD 13|14|OBL-UNMARKED 14|5|CONJ 15|16|MARK 16|14|ADVCL 17|19|DET 18|19|COMPOUND 19|16|OBJ 20|5|PUNCT
+%wor:	and 19533_19634 the 19654_19734 girl 19814_20094 is 20234_20314 putting 20394_20614 her 20634_20734 finger 20794_21115 to 21755_21835 her 21915_22035 lips 22155_22476 and 23056_23196 one 23396_23516 hand 23556_23777 out 23937_24057 to 24117_24177 get 24217_24337 a 24377_24397 cookie 24457_24757 jar 24857_25178 .
+*PAR:	the lady is drying a dish (.) with a towel . 27032_29831
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|with det|a-Ind-Art noun|towel .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	the 27032_27112 lady 27172_27413 is 27473_27553 drying 27573_27874 a 27934_27954 dish 28035_28356 with 29158_29319 a 29319_29339 towel 29399_29831 .
+*PAR:	and &-uh that is all I can see . [+ exc] 31284_34575
+%mor:	cconj|and pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|4|PUNCT
+%wor:	and 31284_31445 uh 31585_33571 that 33672_33812 is 33832_33933 all 34013_34133 I 34173_34193 can 34254_34374 see 34474_34575 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/a-00090763-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|female|Control||Participant|30||
+@Media:	145-1, audio
+@G:	Cookie
+*INV:	here's the picture .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*PAR:	&-hm . [+ exc] 4434_4673
+%wor:	hm 4434_4673 .
+*PAR:	touching lip . [+ gram] 5856_6782
+%mor:	verb|touch-Part-Pres-S noun|lip-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	touching 5856_6336 lip 6416_6782 .
+*PAR:	raising arm . [+ gram] 7238_8141
+%mor:	verb|raise-Part-Pres-S noun|arm-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	raising 7238_7698 arm 7838_8141 .
+*PAR:	is that what you mean ? [+ exc] 9301_9987
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 ?
+%gra:	1|3|COP 2|3|MARK 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	is 9301_9340 that 9340_9440 what 9480_9580 you 9600_9681 mean 9681_9987 ?
+*INV:	just , yeah , tell me +/. 10623_11634
+%mor:	adv|just cm|cm intj|yeah cm|cm verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 +/.
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|DISCOURSE 4|3|PUNCT 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+%wor:	just 10623_10762 , yeah 10762_10862 , tell 10862_11183 me 11183_11634 +/.
+*PAR:	+< &+lea reaching for cookie . [+ gram] 11380_12804
+%mor:	verb|reach-Part-Pres-S adp|for noun|cookie .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	reaching 11380_11663 for 11763_12004 cookie 12304_12804 .
+*PAR:	handing cookie down . [+ gram] 13579_14927
+%mor:	verb|hand-Ger-S noun|cookie-Acc adp|down .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%wor:	handing 13579_14006 cookie 14066_14387 down 14427_14927 .
+*PAR:	slipping from stool . [+ gram] 16032_18594
+%mor:	verb|slip-Part-Pres-S adp|from noun|stool .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	slipping 16032_16452 from 17673_17953 stool 18094_18594 .
+*PAR:	stool falling over . [+ gram] 19335_20736
+%mor:	noun|stool verb|fall-Ger-S adv|over .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	stool 19335_19615 falling 19715_20116 over 20236_20736 .
+*PAR:	&-um wiping dishes . [+ gram] 22078_24800
+%mor:	verb|wipe-Ger-S noun|dish-Plur-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	um 22078_22278 wiping 23859_24240 dishes 24300_24800 .
+*PAR:	water running . [+ gram] 26062_26962
+%mor:	noun|water noun|running-Ger .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	water 26062_26382 running 26462_26962 .
+*PAR:	water overflowing . [+ gram] 28364_29244
+%mor:	noun|water noun|overflow-Ger .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	water 28364_28624 overflowing 28744_29244 .
+*PAR:	&-um breeze . [+ gram] 34030_35086
+%mor:	noun|breeze .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 34030_34531 breeze 34651_35086 .
+*PAR:	I don't know if that's action . [+ exc] 35254_36414
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|action .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|8|MARK 6|8|NSUBJ 7|8|COP 8|4|CCOMP 9|4|PUNCT
+%wor:	I don't 35254_35453 know 35453_35593 if 35633_35673 that's 35673_35894 action 35914_36414 .
+*PAR:	&-um stepping out from water . [+ gram] 39601_41144
+%mor:	verb|step-Part-Pres-S adp|out adp|from noun|water .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|CASE 4|1|OBL 5|1|PUNCT
+%wor:	um stepping 39601_40021 out 40142_40282 from 40422_40663 water 40763_41144 .
+*PAR:	I guess that's it . [+ exc] 47096_47756
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+%wor:	I 47096_47116 guess 47116_47256 that's 47256_47536 it 47576_47756 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	good . 51631_51901
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 51631_51901 .
+@End

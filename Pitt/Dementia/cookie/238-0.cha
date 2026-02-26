@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/a-00090475-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|12||
+@Media:	238-0, audio
+@G:	Cookie
+*INV:	I want you to tell me anything that you see going on in that picture . 360_3220
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|2|PUNCT
+%wor:	I 360_380 want 380_520 you 540_640 to 660_700 tell 700_860 me 900_960 anything 1040_1440 that 1460_1560 you 1600_1680 see 1760_1920 going 1980_2281 on 2341_2461 in 2501_2561 that 2601_2741 picture 2761_3220 .
+*PAR:	+< mhm . [+ exc] 3240_3360
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 3240_3360 .
+*INV:	what do you see ? 4522_5120
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what 4522_4622 do 4642_4682 you 4702_4802 see 4882_5120 ?
+*PAR:	&-uh they [//] &+s the cookie jar . [+ gram] 6904_9344
+%mor:	det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	uh 6904_6943 they 7383_7503 the 8184_8264 cookie 8384_8744 jar 8844_9344 .
+*PAR:	with the [/] &-hm (.) the girl helping him . [+ gram] 11406_16596
+%mor:	sconj|with det|the-Def-Art noun|girl verb|help-Ger-S pron|he-Prs-Acc-S3 .
+%gra:	1|4|MARK 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	with 11406_12046 the 12046_12106 hm 12647_12687 the 14589_14669 girl 14749_15069 helping 15830_16270 him 16330_16596 .
+*PAR:	but that isn't the right thing . [+ es] 19474_21054
+%mor:	cconj|but pron|that-Dem aux|be-Fin-Ind-Pres-S3~part|not det|the-Def-Art adj|right-S1 noun|thing-Ger .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%wor:	but 19474_19594 that 19634_19794 isn't 19854_20074 the 20094_20154 right 20214_20534 thing 20815_21054 .
+*PAR:	but their mother was there (.) spilling &-uh water &=laughs . 21100_25620
+%mor:	cconj|but pron|their-Prs-Gen-P3 noun|mother aux|be-Fin-Ind-Past-S3-irr adv|there verb|spill-Part-Pres-S noun|water .
+%gra:	1|7|CC 2|3|NMOD-POSS 3|7|NSUBJ 4|7|COP 5|6|ADVMOD 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%wor:	but 21100_21275 their 21576_21736 mother 21816_22076 was 22156_22356 there 22376_22777 spilling 24198_24699 uh 24819_24939 water 25179_25620 .
+*INV:	&=laughs .
+*PAR:	(.) this wouldn't be the grandmother , I guess . 32950_34730
+%mor:	pron|this-Dem-S1 aux|would-Fin-S~part|not aux|be-Inf-S det|the-Def-Art noun|grandmother cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|ADVMOD 4|6|COP 5|6|DET 6|9|ROOT 7|9|PUNCT 8|9|NSUBJ 9|6|PARATAXIS 10|6|PUNCT
+%wor:	this 32950_33090 wouldn't 33150_33351 be 33391_33492 the 33612_33713 grandmother 33753_34315 , I 34355_34375 guess 34496_34730 .
+*PAR:	it's the children . 34819_36582
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|child-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	it's 34819_34978 the 35159_36022 children 36082_36582 .
+*INV:	(..) okay , what do you see goin(g) on over here ? 50996_52686
+%mor:	intj|okay cm|cm pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|over adv|here ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|7|OBJ 4|6|AUX 5|6|NSUBJ 6|10|ROOT 7|6|XCOMP 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|6|PUNCT
+%wor:	okay 50996_51136 , what 51176_51276 do 51276_51336 you 51336_51396 see 51396_51537 goin(g) 51577_51897 on 51897_52057 over 52118_52318 here 52398_52686 ?
+*PAR:	&-uh well , I think he's going to fall pretty quick &=laughs . 53721_56886
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adv|pretty adv|quick .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|11|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|MARK 9|7|XCOMP 10|11|ADVMOD 11|9|ADVMOD 12|4|PUNCT
+%wor:	uh 53721_53781 well 53801_54081 , I 54662_54682 think 54742_54923 he's 54983_55163 going 55223_55444 to 55464_55524 fall 55604_55905 pretty 56005_56345 quick 56386_56886 .
+*PAR:	but &-uh she was helping . 58210_61174
+%mor:	cconj|but pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|help-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	but 58210_58469 uh 58590_58650 she 60293_60393 was 60453_60613 helping 60674_61174 .
+*PAR:	handing [//] he handed &-uh the cookies to his sister , I guess &=clears:throat . 62400_68870
+%mor:	pron|he-Prs-Nom-S3 verb|hand-Fin-Ind-Past-S3 det|the-Def-Art noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|10|PUNCT 9|10|NSUBJ 10|2|PARATAXIS 11|2|PUNCT
+%wor:	handing 62400_63200 he 63200_63300 handed 63420_63941 uh 64021_64101 the 65082_65182 cookies 65222_65682 to 65842_66042 his 66242_66563 sister 67724_68104 , I 68204_68224 guess 68404_68870 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	well , it &-uh +... 76566_77206
+%mor:	intj|well cm|cm pron|it-Prs-Nom-S3 +...
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	well 76566_76666 , it 76666_76706 uh 76706_77206 +...
+*PAR:	the mother was drying her (.) dishes . 81880_85055
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Past-S3-irr verb|drying-Part-Pres-S pron|her-Prs-Gen-S3 noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+%wor:	the mother 81880_82112 was 82172_82372 drying 82452_82913 her 82913_83053 dishes 84555_85055 .
+*PAR:	she better get the &-uh water off &=laughs . 87600_90161
+%mor:	pron|she-Prs-Nom-S3 adv|well verb|get-Inf-S det|the-Def-Art noun|water-Acc adp|off .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+%wor:	she better 87600_87799 get 87839_87939 the 88039_88139 uh 88259_89140 water 89280_89601 off 89661_90161 .
+*INV:	(..) anything else ? 99077_99977
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 99077_99417 else 99497_99977 ?
+*PAR:	well , he might fall soon if &=laughs he doesn't +... 101169_105029
+%mor:	intj|well cm|cm pron|he-Prs-Nom-S3 aux|might-Fin-S verb|fall-Inf-S adv|soon sconj|if pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not +...
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|ADVMOD 7|9|MARK 8|9|NSUBJ 9|5|ADVCL 10|9|ADVMOD 11|5|PUNCT
+%wor:	well 101169_101422 , he 101502_101602 might 101923_102184 fall 102324_102705 soon 102865_103206 if 103266_103406 he 103426_104569 doesn't 104649_105029 +...
+*PAR:	but he's careful xxx . 107300_108336
+%mor:	cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|careful-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	but 107300_107636 he's 107636_107756 careful 107836_108336 .
+*INV:	(..) is that it ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR:	I think so . [+ exc] 124707_125214
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|so .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I 124707_124727 think 124727_124911 so 124972_125214 .
+*INV:	okay . 125570_125728
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 125570_125728 .
+@End

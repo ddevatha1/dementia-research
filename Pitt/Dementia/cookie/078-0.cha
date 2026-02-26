@@ -1,0 +1,101 @@
+@UTF8
+@PID:	11312/a-00090386-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|ProbableAD||Participant|17||
+@Media:	078-0, audio
+@G:	Cookie
+*INV:	just tell me everything that you see happening in the picture . 280_2810
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	just 280_420 tell 440_640 me 680_740 everything 820_1181 that 1201_1301 you 1341_1441 see 1521_1661 happening 1721_2102 in 2142_2222 the 2262_2342 picture 2382_2810 .
+*PAR:	oh yes . [+ exc] 4986_5328
+%mor:	intj|oh intj|yes .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh yes 4986_5328 .
+*PAR:	a little girl &+a and the little boy is getting cookies out of the jar . 7469_13395
+%mor:	det|a-Ind-Art adj|little-S1 noun|girl cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|9|NSUBJ 4|7|CC 5|7|DET 6|7|AMOD 7|3|CONJ 8|9|AUX 9|14|ROOT 10|9|OBJ 11|14|CASE 12|11|FIXED 13|14|DET 14|9|OBL 15|9|PUNCT
+%wor:	a 7469_7488 little 7588_7809 girl 7869_8249 and 9451_9591 the 9631_9731 little 10091_10412 boy 10452_10772 is 10772_11053 getting 11333_11733 cookies 11934_12314 out 12414_12595 of 12595_12655 the 12655_12735 jar 12895_13395 .
+*PAR:	oh and the stool is upsetting &=laughs . 14517_17577
+%mor:	intj|oh cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|upsetting-S1 .
+%gra:	1|6|DISCOURSE 2|6|CC 3|4|DET 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	oh 14517_14577 and 15057_15157 the 15197_15277 stool 15397_15957 is 16397_16717 upsetting 17077_17577 .
+*PAR:	and the [//] I guess it's the mother is drying dishes . 20819_25780
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|10|NSUBJ 5|10|COP 6|7|DET 7|10|NSUBJ 8|10|COP 9|10|AMOD 10|3|CCOMP 11|3|PUNCT
+%wor:	and 20819_21219 the 21419_21539 I 23140_23160 guess 23240_23440 it's 23500_23620 the 23700_23800 mother 23920_24260 is 24380_24500 drying 24560_25040 dishes 25280_25780 .
+*PAR:	water's spilling down all over the sink . 26362_28741
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|down adv|all adp|over det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|COMPOUND-PRT 5|8|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	water's 26362_26761 spilling 26781_27221 down 27261_27501 all 27581_27721 over 27781_27961 the 28001_28081 sink 28241_28741 .
+*PAR:	water on the floor . [+ gram] 30068_31389
+%mor:	noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	water 30068_30408 on 30508_30649 the 30689_30769 floor 30889_31389 .
+*PAR:	little boy's gonna fall and that [/] &+steps &-uh that there stool . [+ gram] 32753_37140
+%mor:	adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S cconj|and sconj|that pron|there-Dem-Gen-S1 noun|stool .
+%gra:	1|2|AMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|9|CC 7|9|MARK 8|9|NMOD-POSS 9|5|CONJ 10|5|PUNCT
+%wor:	little 32753_32953 boy's 32993_33253 gonna 33313_33514 fall 33834_34215 and 34295_34395 that 34395_34916 uh 34997_35117 that 35477_35598 there 36359_36600 stool 36640_37140 .
+*PAR:	&-uh I think the cookie jar is gonna fall &=laughs . 45565_46653
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|DET 4|5|COMPOUND 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|2|CCOMP 9|2|PUNCT
+%wor:	uh 45565_45685 I 45705_45725 think 45765_46653 the cookie jar is gonna fall .
+*PAR:	and the [//] guess dryin(g) dishes and water [//] the faucet's on and water's runnin(g) all over the floor . [+ gram] 49630_55976
+%mor:	cconj|and verb|guess-Fin-Imp-S noun|drying-Ger noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|faucet~part|s adp|on cconj|and noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|CC 2|17|ROOT 3|4|COMPOUND 4|2|OBJ 5|13|CC 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|13|ADVMOD 10|11|CC 11|9|CONJ 12|13|AUX 13|2|CONJ 14|17|ADVMOD 15|17|CASE 16|17|DET 17|13|OBL 18|2|PUNCT
+%wor:	and 49630_49949 the 49989_50090 guess 50230_50430 dryin(g) 50510_50970 dishes 50970_51511 and 51751_51951 water 52092_52552 the 53113_53173 faucet's 53233_53733 on 53813_53993 and 54014_54134 water's 54214_54574 runnin(g) 54614_54974 all 54974_55135 over 55195_55415 the 55455_55535 floor 55615_55976 .
+*PAR:	(..) &+wh <what else am I [/] &+sup , I mean , what> [//] what +..? [+ exc] 65920_67910
+%mor:	pron|what-Int-S1 +..?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	what 65920_66080 else 66160_66360 am 66360_66440 I 66500_66520 &+sup 66520_66720 , I 66820_66840 mean 66881_67101 , what 67201_67681 what 67681_67910 +..?
+*INV:	anything else ? 69983_70613
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 69983_70324 else 70364_70613 ?
+*INV:	just the things that you see happening . 71565_72960
+%mor:	adv|just det|the-Def-Art noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|3|ADVMOD 2|3|DET 3|7|ROOT 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|3|PUNCT
+%wor:	just 71565_71705 the 71725_71785 things 71825_72045 that 72045_72145 you 72165_72225 see 72285_72425 happening 72485_72960 .
+*PAR:	yeah . [+ exc] 73326_73564
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 73326_73564 .
+*PAR:	the cookie jar . [+ gram] 73850_74750
+%mor:	det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	the 73850_73907 cookie 73967_74267 jar 74267_74750 .
+*INV:	yeah . 74928_75111
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 74928_75111 .
+*PAR:	the stool . [+ gram] 75708_76348
+%mor:	det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	the 75708_75768 stool 75848_76348 .
+*INV:	mhm . 76789_77033
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 76789_77033 .
+*PAR:	her doin(g) the dishes . [+ gram] 77210_78183
+%mor:	pron|her-Prs-Acc-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	her 77210_77310 doin(g) 77350_77570 the 77570_77650 dishes 77730_78183 .
+*PAR:	the water spilling . 78531_79512
+%mor:	det|the-Def-Art noun|water noun|spilling-Ger .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	the 78531_78591 water 78671_78991 spilling 79071_79512 .
+*INV:	okay ? 84501_84831
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 84501_84831 ?
+*PAR:	<far as> [//] yeah that's as far as I could see . [+ exc] 85022_86727
+%mor:	intj|yeah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|as adv|far sconj|as pron|I-Prs-Nom-S1 aux|could-Fin-S verb|see-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|9|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ADVCL 10|5|PUNCT
+%wor:	far 85022_85202 as 85223_85283 yeah 85483_85704 that's 85744_86025 as 86025_86065 far 86085_86225 as 86225_86305 I 86345_86366 could 86446_86566 see 86626_86727 .
+*INV:	+< well +/.
+%mor:	intj|well +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

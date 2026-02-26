@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/a-00090365-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|27||
+@Media:	057-0, audio
+@G:	Cookie
+*INV:	just tell me what you see going on . 360_1500
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|2|PUNCT
+%wor:	just 360_480 tell 500_620 me 620_680 what 700_780 you 780_860 see 900_1100 going 1120_1300 on 1320_1500 .
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh I see a &-uh boy on &-uh a stool . 5565_9509
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boy-Acc adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	uh I see 5565_5845 a 5985_6005 uh 6345_6405 boy 6546_6886 on 7026_7146 uh 7206_8267 a 8287_8307 stool 9088_9509 .
+*PAR:	and the stool is falling over while he is reaching for the cookie jar . 9840_15846
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|over sconj|while pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|5|COMPOUND-PRT 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|OBL 15|5|PUNCT
+%wor:	and 9840_9900 the 9900_9960 stool 10060_10500 is 10540_10801 falling 10801_11201 over 11261_11642 while 12162_12663 he 13144_13204 is 13204_13304 reaching 13364_13744 for 13965_14265 the 14405_14545 cookie 14906_15346 jar 15346_15846 .
+*PAR:	and &-uh his sister is reaching . 17171_19921
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	and 17171_17769 uh 17850_18190 his 18210_18330 sister 18450_18931 is 19171_19371 reaching 19512_19921 .
+*PAR:	&-uh he has two cookies in his left hand . 21218_24198
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|two noun|cookie-Plur-Acc adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NUMMOD 4|2|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|2|OBL 9|2|PUNCT
+%wor:	uh 21218_21574 he 21594_21634 has 21734_21915 two 22075_22215 cookies 22255_22656 in 22716_22816 his 22836_23016 left 23056_23817 hand 23817_24198 .
+*PAR:	and &-uh his sister is reaching hoping to get the [/] the cookies in his hand . 25843_31763
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S verb|hope-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|5|XCOMP 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|5|PUNCT
+%wor:	and 25843_25904 uh 25924_26365 his 26385_26486 sister 26546_26947 is 26967_27108 reaching 27148_27629 hoping 28653_29034 to 29074_29134 get 29174_29335 the 29395_29495 the 29555_30559 cookies 30659_31040 in 31100_31201 his 31221_31361 hand 31542_31763 .
+*PAR:	and the mother is &-uh drying the dishes <while the> [/] &-uh &+wat while the water's filling up and overflowing onto the [/] the kitchen (.) floor . 33222_49770
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|while det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|fill-Part-Pres-S adp|up cconj|and verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|kitchen noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|19|ROOT 6|7|DET 7|5|OBJ 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|12|COMPOUND-PRT 14|15|CC 15|12|CONJ 16|19|CASE 17|19|DET 18|19|COMPOUND 19|15|OBL 20|5|PUNCT
+%wor:	and 33222_33342 the 33342_33402 mother 33442_33822 is 33902_34102 uh 34122_34242 drying 35983_36483 the 36723_36844 dishes 36924_37304 while 38925_39165 the 39185_39305 uh 40405_40445 while 40806_41126 the 41206_41266 water's 41446_41966 filling 42867_43247 up 43327_43467 and 43527_44067 overflowing 44127_44948 onto 45048_45328 the 45408_45508 the 46529_46649 kitchen 47409_47869 floor 49270_49770 .
+*PAR:	and &-uh the window's &+op open . 51817_55807
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and 51817_52077 uh 52157_52357 the 53378_53458 window's 53518_55339 open 55419_55807 .
+*PAR:	let me see what else . [+ exc] 58181_58901
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S pron|what-Int-S1 adj|else-S1 .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|4|AMOD 6|1|PUNCT
+%wor:	let me see what 58181_58381 else 58401_58901 .
+*PAR:	I can't see anything else going on . [+ exc] 62804_64945
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|5|AMOD 7|5|ACL 8|7|COMPOUND-PRT 9|4|PUNCT
+%wor:	I can't see 62804_63084 anything 63144_63625 else 63645_63965 going 64065_64405 on 64445_64945 .
+*PAR:	the [/] the curtains are &+flu [//] blowin(g) . 65098_67958
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	the 65098_65458 the 65458_65558 curtains 66199_66599 are 66679_66819 &+flu 66819_67200 blowin(g) 67480_67958 .
+*PAR:	(.) I can't see anything else . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+*INV:	okay that's fine . 77991_78332
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay that's fine 77991_78332 .
+@End

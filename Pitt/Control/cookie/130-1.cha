@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/a-00090739-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|male|Control||Participant|29||
+@Media:	130-1, audio
+@G:	Cookie
+*INV:	okay there's the picture .
+%mor:	intj|okay pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	there's a lady washin(g) dishes and a kid &-uh gettin(g) in the cookie jar . 3424_7644
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lady noun|washing-Ger noun|dish-Plur cconj|and det|a-Ind-Art noun|kid verb|get-Ger-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|14|ROOT 3|6|DET 4|6|COMPOUND 5|6|COMPOUND 6|2|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|9|ACL 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|OBL 15|2|PUNCT
+%wor:	there's 3424_3575 a 3595_3615 lady 3675_3935 washin(g) 4035_4496 dishes 4496_4957 and 5357_5458 a 5498_5518 kid 5658_5898 uh 6119_6239 gettin(g) 6359_6659 in 6659_6760 the 6760_6840 cookie 6920_7260 jar 7300_7644 .
+*PAR:	and it's falling off the [/] the stool . 8583_11867
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 8583_8683 it's 8743_8823 falling 8823_9284 off 9344_9504 the 9584_9724 the 11206_11267 stool 11367_11867 .
+*PAR:	and &-uh a girl reachin(g) for cookies . [+ gram] 12611_15391
+%mor:	cconj|and det|a-Ind-Art noun|girl verb|reach-Ger-S adp|for noun|cookie-Plur .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|3|ACL 5|6|CASE 6|4|OBL 7|3|PUNCT
+%wor:	and 12611_12671 uh 12711_13732 a 13732_13752 girl 13812_14092 reachin(g) 14213_14693 for 14693_14793 cookies 14893_15391 .
+*PAR:	and the water overflowing . [+ gram] 15795_16975
+%mor:	cconj|and det|the-Def-Art noun|water noun|overflow-Ger .
+%gra:	1|4|CC 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	and 15795_15895 the 15915_15995 water 16075_16395 overflowing 16475_16975 .
+*PAR:	and &-uh &-uh that's about it &-uh that I see of action . [+ exc] 19579_25799
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 pron|that-Rel pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|of noun|action .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|CASE 5|10|ROOT 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|10|CASE 10|8|OBL 11|5|PUNCT
+%wor:	and 19579_19759 uh 19860_23464 uh 23464_23504 that's 23504_23764 about 23825_24125 it 24165_24245 uh 24265_24305 that 24565_24726 I 24846_24866 see 24946_25206 of 25226_25266 action 25366_25799 .
+*INV:	okay good . 26230_26989
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 26230_26448 good 26508_26989 .
+@End

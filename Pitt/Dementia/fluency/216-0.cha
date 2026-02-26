@@ -1,0 +1,174 @@
+@UTF8
+@PID:	11312/a-00089690-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|female|ProbableAD||Participant|||
+@Media:	216-0, audio
+@G:	animals
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	as many as you can think of in a minute . 3301_5122
+%mor:	adv|as adj|many-S1 sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|in det|a-Ind-Art noun|minute .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|OBL 8|10|CASE 9|10|DET 10|6|OBL 11|2|PUNCT
+%wor:	as 3301_3441 many 3501_3581 as 3581_3681 you 3701_3762 can 3802_3942 think 4022_4202 of 4262_4342 in 4402_4482 a 4522_4542 minute 4622_5122 .
+*INV:	starting now . 5428_6783
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	starting 5428_5943 now 6283_6783 .
+*PAR:	dog . 7145_7644
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 7145_7644 .
+*PAR:	cat . 9387_9886
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 9387_9886 .
+*PAR:	elephant . 11648_12147
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 11648_12147 .
+*PAR:	(.) horse . 15192_15672
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 15192_15672 .
+*PAR:	kangaroo . 17796_18295
+%mor:	noun|kangaroo .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	kangaroo 17796_18295 .
+*PAR:	where am I at now ? [+ exc] 21260_22560
+%mor:	adv|where aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adp|at adv|now ?
+%gra:	1|5|ROOT 2|1|COP 3|1|NSUBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%wor:	where 21260_21579 am 21579_21700 I 21820_21840 at 21900_22000 now 22060_22560 ?
+*PAR:	&-um dog cat +... [+ exc] 23082_25624
+%mor:	noun|dog noun|cat +...
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	um 23082_23362 dog 24663_25024 cat 25124_25624 +...
+*PAR:	snake . 26827_27326
+%mor:	noun|snake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snake 26827_27326 .
+*PAR:	cat . 30131_30611
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 30131_30611 .
+*PAR:	dog . 32414_32913
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 32414_32913 .
+*PAR:	rhinoceros . 35057_35556
+%mor:	noun|rhinocero-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rhinoceros 35057_35556 .
+*PAR:	&+c camel . 39141_39641
+%mor:	noun|camel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	camel 39141_39641 .
+*PAR:	did I give you horse@q ? [+ exc] 41584_42564
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|give-Inf-S pron|you-Prs-Acc-S2 q|horse ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|IOBJ 5|3|FLAT 6|3|PUNCT
+%wor:	did 41584_41704 I 41724_41744 give 41784_41944 you 41964_42044 horse@q 42064_42564 ?
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	tired jackass too . 44989_46530
+%mor:	adj|tired-S1 noun|jackass adv|too .
+%gra:	1|2|AMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	tired 44989_45369 jackass 45369_45950 too 46030_46530 .
+*PAR:	&-um what else ? [+ exc] 49797_50776
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	um 49797_49996 what 50036_50216 else 50276_50776 ?
+*PAR:	snake . 51123_51557
+%mor:	noun|snake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snake 51123_51557 .
+*PAR:	(...) &-um cow . 56106_57367
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 56106_56265 cow 56886_57367 .
+*PAR:	horse . 59651_60091
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 59651_60091 .
+*PAR:	I can't think of any more . [+ exc] 62634_63915
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	I can't 62634_62874 think 62894_63055 of 63095_63175 any 63215_63355 more 63415_63915 .
+*INV:	okay . 66419_66882
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 66419_66882 .
+@G:	F
+*INV:	are you ready ? 68004_68684
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	are 68004_68081 you 68081_68161 ready 68201_68684 ?
+*INV:	you can start now . 68781_69865
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you 68781_68801 can 68821_68942 start 69002_69302 now 69382_69865 .
+*PAR:	+< fan . 69645_70142
+%mor:	noun|fan .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fan 69645_70142 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	foot . 71505_71986
+%mor:	noun|foot .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foot 71505_71986 .
+*PAR:	fool . 73407_73888
+%mor:	verb|fool-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fool 73407_73888 .
+*PAR:	(.) I'm lost already . [+ exc] 76910_77850
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|lose-Part-Past-S-irr adv|already .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	I'm 76910_76990 lost 77030_77310 already 77350_77850 .
+*PAR:	(..) fowl . 82055_82554
+%mor:	noun|fowl .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fowl 82055_82554 .
+*PAR:	(..) fan . 88942_89441
+%mor:	noun|fan .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fan 88942_89441 .
+*PAR:	oh , come on , let's get some words . [+ exc] 92708_94369
+%mor:	intj|oh cm|cm verb|come-Fin-Imp-S adp|on cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S det|some-Def-Ind noun|word-Plur-Acc .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|10|ROOT 4|3|COMPOUND-PRT 5|6|PUNCT 6|3|PARATAXIS 7|6|OBJ 8|6|XCOMP 9|10|DET 10|8|OBJ 11|3|PUNCT
+%wor:	oh 92708_92768 , come 92868_93088 on 93148_93248 , let's 93248_93449 get 93489_93669 some 93669_93869 words 93869_94369 .
+*PAR:	I can't think any more of this . [+ exc] 97616_98898
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S det|any-Def-Ind adj|more-Cmp-S1 adp|of pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|OBL 9|4|PUNCT
+%wor:	I can't 97616_97896 think 97916_98137 any 98177_98337 more 98417_98738 of 98778_98898 this .
+*PAR:	xxx only &-uh +... [+ exc] 103886_104386
+%mor:	adv|only +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	only uh 103886_104386 +...
+*PAR:	foot@q did I say ? [+ exc] 110378_111438
+%mor:	q|foot aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S ?
+%gra:	1|4|FLAT 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	foot@q 110378_110618 did 110618_110758 I 110858_110878 say 110938_111438 ?
+*PAR:	fingers . 113103_113601
+%mor:	noun|finger-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fingers 113103_113601 .
+*PAR:	xxx . [+ exc]
+*PAR:	(..) fowl . 121512_122011
+%mor:	noun|fowl .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fowl 121512_122011 .
+*PAR:	front . 127238_127718
+%mor:	noun|front .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	front 127238_127718 .
+*INV:	okay . 129772_130269
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 129772_130269 .
+@End

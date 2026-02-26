@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090780-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|Control||Participant|29||
+@Media:	167-2, audio
+@G:	Cookie
+*INV:	tell me everything you see going on in the picture . 460_2670
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 460_600 me 600_660 everything 720_1060 you 1060_2670 see going on in the picture .
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	mother's washing the dishes . 4104_5505
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 4104_4424 washing 4504_4885 the 4905_4985 dishes 5005_5505 .
+*PAR:	the sink is overflowing with water . 5761_8148
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	the 5761_5826 sink 5946_6226 is 6286_6386 overflowing 6467_7287 with 7328_7628 water 7648_8148 .
+*PAR:	&-uh the child is falling off the stool as he gets cookies out of the cookie jar . 10172_18057
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool sconj|as pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|MARK 9|10|NSUBJ 10|4|ADVCL 11|10|OBJ 12|16|CASE 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|4|PUNCT
+%wor:	uh 10172_10212 the 11573_11653 child 11753_12153 is 12213_12313 falling 12954_13354 off 13434_13554 the 13654_13734 stool 13834_14315 as 15475_15595 he 15635_15696 gets 15756_15956 cookies 16016_16376 out 16476_16616 of 16676_16736 the 16796_16896 cookie 17177_17457 jar 17557_18057 .
+*PAR:	the daughter is asking for her share . 18920_21180
+%mor:	det|the-Def-Art noun|daughter aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for pron|her-Prs-Gen-S3 noun|share .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+%wor:	the daughter 18920_19298 is 19378_19558 asking 19959_20339 for 20379_20499 her 20539_20699 share 20799_21180 .
+*PAR:	the curtains are probably blowing . 22662_25782
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 adv|probably verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the 22662_22742 curtains 23704_24265 are 24325_24505 probably 24886_25387 blowing 25467_25782 .
+*PAR:	<the wind> [//] the wind's probably blowing . 25888_26820
+%mor:	det|the-Def-Art noun|wind~aux|be-Fin-Ind-Pres-S3 adv|probably verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the wind the 25888_25968 wind's 25988_26228 probably 26288_26549 blowing 26549_26820 .
+*PAR:	the window's open and the curtains are blowing . 26890_30252
+%mor:	det|the-Def-Art noun|window~aux|be-Fin-Ind-Pres-S3 adj|open-S1 cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|9|CC 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|CONJ 10|4|PUNCT
+%wor:	the 26890_26970 window's 27010_27371 open 27451_27711 and 27791_27871 the 27892_27952 curtains 28032_28493 are 28553_28673 blowing 29775_30252 .
+*PAR:	the [//] she's getting her feet wet . 31523_33643
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+%wor:	the 31523_31639 she's 32540_32681 getting 32741_32941 her 32961_33061 feet 33122_33342 wet 33402_33643 .
+*PAR:	(...) she's wiping the dishes , &+d drying the dishes . 42302_44768
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cm|cm verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|DET 5|3|OBJ 6|7|PUNCT 7|3|ADVCL 8|9|DET 9|7|OBJ 10|3|PUNCT
+%wor:	she's 42302_42422 wiping 42482_42863 the 42883_42944 dishes 43004_43405 , drying 43806_44127 the 44148_44208 dishes 44268_44768 .
+*PAR:	that's about it . [+ exc] 46274_46435
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	that's 46274_46435 about it .
+*INV:	okay good . 46796_47198
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 46796_46917 good 46957_47198 .
+@End

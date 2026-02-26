@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/a-00089665-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|20||
+@Media:	168-0, audio
+@Comment:	audio overlaps with another test session, poor quality
+@G:	animals
+*INV:	you can begin now . 120_3907
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	&-uh dog . 4870_5650
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cats . 6233_6733
+%mor:	noun|cat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and (.) horses . 7395_10981
+%mor:	cconj|and noun|horse-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*PAR:	and cows . 12346_16394
+%mor:	cconj|and noun|cow-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*PAR:	(...) sheeps . 37135_37635
+%mor:	noun|sheep-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) bird .
+%mor:	noun|bird .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	F
+*INV:	okay , now let's try something a little different . 63233_65484
+%mor:	intj|okay cm|cm adv|now verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|try-Inf-S pron|something-Ind-S1 det|a-Ind-Art adj|little-S1 adj|different-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|10|ROOT 5|4|OBJ 6|4|XCOMP 7|6|OBJ 8|9|DET 9|10|OBL-UNMARKED 10|6|XCOMP 11|4|PUNCT
+*INV:	what I want you to do know is to think of as many words beginning with the letter f@l . 66077_69703
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S verb|know-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|think-Inf-S adp|of adv|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|10|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|3|XCOMP 8|10|COP 9|10|MARK 10|19|ROOT 11|14|CASE 12|13|ADVMOD 13|14|AMOD 14|10|OBL 15|14|ACL 16|18|CASE 17|18|DET 18|15|OBL 19|10|PUNCT 20|10|PUNCT
+*INV:	the only thing here is that it can't be a proper name or a place like France@q or Fred@q . 71025_75111
+%mor:	det|the-Def-Art adj|only-S1 noun|thing-Ger adv|here aux|be-Fin-Ind-Pres-S3 sconj|that pron|it-Prs-Nom-S3 aux|can-Fin-S~part|not aux|be-Inf-S det|a-Ind-Art adj|proper-S1 noun|name cconj|or det|a-Ind-Art noun|place adp|like q|France cconj|or q|Fred .
+%gra:	1|3|DET 2|3|AMOD 3|13|NSUBJ-OUTER 4|3|ADVMOD 5|13|COP 6|13|MARK 7|13|NSUBJ 8|13|AUX 9|13|ADVMOD 10|13|COP 11|13|DET 12|13|AMOD 13|20|ROOT 14|16|CC 15|16|DET 16|13|CONJ 17|18|CASE 18|16|FLAT 19|20|CC 20|18|FLAT 21|13|PUNCT
+*INV:	it also can't be a derivative like run@q runner@q and running@q using xxx would all be counted as one word . 75932_81016
+%mor:	pron|it-Prs-Nom-S3 adv|also aux|can-Fin-S~part|not aux|be-Inf-S det|a-Ind-Art noun|derivative adp|like q|run q|runner cconj|and q|running verb|use-Ger-S aux|would-Fin-S adv|all aux|be-Inf-S verb|count-Part-Past-S adp|as num|one noun|word .
+%gra:	1|7|NSUBJ 2|7|ADVMOD 3|7|AUX 4|7|ADVMOD 5|7|COP 6|7|DET 7|20|ROOT 8|10|CASE 9|10|FLAT 10|7|FLAT 11|17|CC 12|17|FLAT 13|12|ACL 14|17|AUX 15|17|ADVMOD 16|17|AUX-PASS 17|7|CONJ 18|20|CASE 19|20|NUMMOD 20|17|OBL 21|7|PUNCT
+*INV:	so , as many words beginning with the letter f@l as you can think of . 81126_85059
+%mor:	adv|so cm|cm sconj|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter adv|for sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|6|ADVMOD 2|1|PUNCT 3|6|MARK 4|5|AMOD 5|6|NSUBJ 6|15|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVMOD 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|6|ADVCL 15|14|OBL 16|6|PUNCT
+*INV:	and you can begin now . 85199_87060
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	like a fish . 88061_88881
+%mor:	adp|like det|a-Ind-Art noun|fish .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*INV:	mhm . 89042_89542
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

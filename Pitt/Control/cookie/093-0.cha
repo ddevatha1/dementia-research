@@ -1,0 +1,109 @@
+@UTF8
+@PID:	11312/a-00090702-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|Control||Participant|30||
+@Media:	093-0, audio
+@G:	Cookie
+*INV:	see going on in the picture .
+%mor:	verb|see-Fin-Imp-S verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|6|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay there it is .
+%mor:	intj|okay adv|there pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NSUBJ 4|2|COP 5|2|PUNCT
+*PAR:	you tell me when . [+ exc]
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adv|when .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|IOBJ 4|2|ADVMOD 5|2|PUNCT
+*INV:	yes carry on .
+%mor:	intj|yes verb|carry-Fin-Imp-S adp|on .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*PAR:	kids are taking cookies from the cookie jar . 6739_8600
+%mor:	noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+%wor:	kids 6739_6798 are 6838_6918 taking 6958_7299 cookies 7319_7619 from 7659_7800 the 7840_7920 cookie 7980_8320 jar 8320_8600 .
+*PAR:	the mother is doing dishes . 8661_9950
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 8661_8721 mother 8781_9021 is 9081_9161 doing 9221_9522 dishes 9582_9950 .
+*PAR:	sink is overflowing . [+ gram] 10564_11504
+%mor:	noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	sink 10564_10783 is 10823_10924 overflowing 11024_11504 .
+*PAR:	the window is open . 12339_13279
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 12339_12365 window 12426_12726 is 12846_12966 open 13066_13279 .
+*PAR:	the stool is slipping . 13368_14688
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|slip-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	the 13368_13427 stool 13527_13928 is 13988_14088 slipping 14188_14688 .
+*PAR:	&-uh the sister's holding up her hand for a cookie . 15930_18580
+%mor:	det|the-Def-Art noun|sister~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adp|up pron|her-Prs-Gen-S3 noun|hand-Acc adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|COMPOUND-PRT 6|7|NMOD-POSS 7|4|OBJ 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	uh 15930_15970 the 16290_16390 sister's 16550_16910 holding 16950_17230 up 17250_17330 her 17410_17530 hand 17590_17830 for 17870_18010 a 18030_18050 cookie 18171_18580 .
+*PAR:	the window's open . 19591_20350
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 19591_19671 window's 19751_20071 open 20131_20350 .
+*PAR:	yes &-uh the water's overflowing . 20413_21292
+%mor:	intj|yes det|the-Def-Art noun|water~part|s noun|overflow-Ger .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	yes uh the 20413_20472 water's 20472_20692 overflowing 20792_21292 .
+*PAR:	mother's drying the dishes .
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	that's it . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	the stool is slipping .
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|slip-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what about down here ? 34781_35601
+%mor:	pron|what-Int-S1 adp|about adp|down adv|here ?
+%gra:	1|4|ROOT 2|4|CASE 3|1|NMOD 4|1|NMOD 5|1|PUNCT
+%wor:	what 34781_34881 about 34921_35121 down 35121_35601 here ?
+*PAR:	the water's dripping . 36463_37192
+%mor:	det|the-Def-Art noun|water~part|s noun|drip-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 36463_36523 water's 36583_36903 dripping 36963_37192 .
+*PAR:	that's what I meant &=laughs . [+ exc] 37282_38052
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Past-S1-irr .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	that's 37282_37444 what 37484_37584 I 37664_37684 meant 37745_38052 .
+*INV:	+< did you ? 37865_38085
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	did 37865_38085 you ?
+*PAR:	yeah . [+ exc] 38385_38700
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 38385_38700 .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I meant flowing over yeah &=laughs . [+ exc] 39726_40870
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Past-S1-irr verb|flow-Ger-S adp|over intj|yeah .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|3|ADVMOD 5|2|DISCOURSE 6|2|PUNCT
+%wor:	I 39726_39727 meant 39747_39887 flowing 39907_40228 over 40348_40528 yeah 40628_40870 .
+*INV:	okay . 41386_41606
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 41386_41606 .
+*PAR:	I probably messed up . [+ exc] 44374_45133
+%mor:	pron|I-Prs-Nom-S1 adv|probably verb|mess-Fin-Ind-Past-S1 adp|up .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	I 44374_44394 probably 44394_44734 messed 44754_45133 up .
+*PAR:	yeah the water . [+ exc] 45395_45816
+%mor:	intj|yeah det|the-Def-Art noun|water .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	yeah 45395_45495 the 45535_45595 water 45695_45816 .
+@End

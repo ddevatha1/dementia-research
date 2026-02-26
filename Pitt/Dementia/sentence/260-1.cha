@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/a-00091386-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|MCI||Participant|26||
+@Media:	260-1, audio
+*INV:	pencil@q . 1100_1560
+%mor:	q|pencil .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 1100_1560 .
+*PAR:	I write with a pencil . 2961_4182
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	I 2961_2981 write 3001_3382 with 3422_3562 a 3602_3622 pencil 3682_4182 .
+*INV:	tree@q . 10008_10488
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 10008_10488 .
+*PAR:	the tree has some leaves . 12770_14132
+%mor:	det|the-Def-Art noun|tree verb|have-Fin-Ind-Pres-S3 det|some-Def-Ind noun|leave-Plur-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	the 12770_12850 tree 12910_13131 has 13211_13391 some 13451_13651 leaves 13691_14132 .
+*INV:	now , I'm gonna to give you two words . 17694_19021
+%mor:	adv|now cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|gonna-S1 part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|5|PUNCT
+%wor:	now 17694_17754 , I'm 17754_17814 gonna 17834_18094 to 18094_18154 give 18194_18394 you 18394_18534 two 18534_18754 words 18814_19021 .
+*INV:	I want you to use them both for me in a sentence . 19055_21056
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S pron|they-Prs-Acc-P3 det|both-Def-Tot adp|for pron|I-Prs-Acc-S1 adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|OBJ 7|5|OBJ 8|9|CASE 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|2|PUNCT
+%wor:	I 19055_19074 want 19094_19315 you 19355_19435 to 19435_19475 use 19475_19595 them 19595_19695 both 19695_19955 for 20015_20195 me 20275_20335 in 20335_20435 a 20435_20455 sentence 20575_21056 .
+*INV:	child@q hospital@q . 22117_24238
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 22117_23758 hospital@q 23758_24238 .
+*PAR:	my child was born in the hospital . 26180_27900
+%mor:	pron|my-Prs-Gen-S1 noun|child aux|be-Fin-Ind-Past-S3-irr verb|bear-Part-Past-S adp|in det|the-Def-Art noun|hospital .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	my 26180_26299 child 26399_26720 was 26720_26860 born 26940_27140 in 27180_27260 the 27260_27320 hospital 27400_27900 .
+*INV:	cold@q winter@q . 35817_37578
+%mor:	q|cold q|winter .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	cold@q 35817_37078 winter@q 37078_37578 .
+*PAR:	(.) we had a very cold winter . 43665_45746
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr det|a-Ind-Art adv|very adj|cold-S1 noun|winter-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|5|ADVMOD 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+%wor:	we 43665_43784 had 44084_44304 a 44344_44364 very 44444_44705 cold 44825_45185 winter 45265_45746 .
+*INV:	now , I'm gonna give you three words . 49308_51030
+%mor:	adv|now cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|6|ADVMOD 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|6|PUNCT
+%wor:	now 49308_49389 , I'm 49449_49529 gonna 49529_49729 give 49829_50069 you 50069_50190 three 50190_50470 words 50530_51030 .
+*INV:	I'm gonna ask you to use them all for me in sentence . 51231_53012
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|use-Inf-S pron|they-Prs-Acc-P3 det|all-Def-Tot adp|for pron|I-Prs-Acc-S1 adp|in noun|sentence .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|7|OBJ 9|8|DET 10|11|CASE 11|7|OBL 12|13|CASE 13|7|OBL 14|4|PUNCT
+%wor:	I'm 51231_51291 gonna 51291_51451 ask 51471_51552 you 51552_51652 to 51672_51712 use 51712_51772 them 51772_51892 all 51952_52072 for 52092_52333 me 52373_52433 in 52453_52493 sentence 52513_53012 .
+*INV:	chair@q doctor@q sit@q . 54917_57920
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 54917_55357 doctor@q 56118_57400 sit@q 57420_57920 .
+*PAR:	the nurse told me to sit in her chair until the doctor was ready . 62148_66253
+%mor:	det|the-Def-Art noun|nurse verb|tell-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 part|to verb|sit-Inf-S adp|in pron|her-Prs-Gen-S3 noun|chair sconj|until det|the-Def-Art noun|doctor aux|be-Fin-Ind-Past-S3-irr adj|ready-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|14|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|14|MARK 11|12|DET 12|14|NSUBJ 13|14|COP 14|6|ADVCL 15|3|PUNCT
+%wor:	the 62148_62228 nurse 62268_62528 told 62608_62828 me 62848_62909 to 63009_63109 sit 63249_63469 in 63650_63750 her 63890_63970 chair 64090_64391 until 64511_64851 the 64911_64991 doctor 65032_65432 was 65552_65692 ready 65753_66253 .
+*INV:	bureau@q open@q drawer@q . 66941_72262
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 66941_69998 open@q 70759_71841 drawer@q 71841_72262 .
+*PAR:	close the bureau door that is open . 76334_78598
+%mor:	verb|close-Fin-Imp-S det|the-Def-Art noun|bureau noun|door-Acc pron|that-Rel aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|7|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|7|NSUBJ 6|7|COP 7|4|ACL-RELCL 8|1|PUNCT
+%wor:	close 76334_76654 the 76654_76735 bureau 76815_77196 door 77336_77617 that 77697_77878 is 77918_78038 open 78098_78598 .
+@End

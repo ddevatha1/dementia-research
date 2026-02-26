@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00090864-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|male|Control||Participant|28||
+@Media:	612-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that you see going on in this picture . 660_3920
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|2|PUNCT
+%wor:	I 660_680 want 700_840 you 880_960 to 980_1040 tell 1140_1380 me 1440_1500 everything 1720_2180 that 2200_2320 you 2340_2441 see 2501_2681 going 2721_2981 on 3021_3141 in 3161_3221 this 3261_3401 picture 3501_3920 .
+*INV:	everything that you see happening here . 4582_6826
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|ACL 6|5|ADVMOD 7|1|PUNCT
+%wor:	everything 4582_5062 that 5102_5222 you 5262_5362 see 5482_5702 happening 5862_6423 here 6503_6826 .
+*INV:	go ahead . 7904_8523
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	go 7904_7984 ahead 8104_8523 .
+*PAR:	well for one thing the boy is stealing cookies . 9985_13026
+%mor:	intj|well adp|for num|one noun|thing-Ger det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|8|DISCOURSE 2|4|CASE 3|4|NUMMOD 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|AUX 8|9|ROOT 9|8|OBJ 10|8|PUNCT
+%wor:	well 9985_10205 for 10685_10805 one 10925_11045 thing 11105_11306 the 11346_11406 boy 11466_11666 is 11766_11886 stealing 11986_12446 cookies 12526_13026 .
+*PAR:	and the girl is asking for a cookie . 14229_16338
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 14229_14309 the 14329_14389 girl 14429_14689 is 14749_14849 asking 14969_15450 for 15550_15710 a 15730_15750 cookie 15890_16338 .
+*PAR:	and the boy is standing on a (.) stool which is tipping over . 17052_21355
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|11|COMPOUND-PRT 13|5|PUNCT
+%wor:	and 17052_17131 the 17151_17211 boy 17251_17472 is 17552_17612 standing 17672_18132 on 18212_18333 a 18413_18433 stool 19273_19634 which 19754_19974 is 20054_20234 tipping 20595_20955 over 21035_21355 .
+*PAR:	and the lady's drying a plate . 22718_24518
+%mor:	cconj|and det|the-Def-Art noun|lady~aux|is verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 22718_22797 the 22797_22877 lady's 22917_23317 drying 23397_23818 a 23878_23898 plate 24018_24518 .
+*PAR:	and the (.) water is running in the sink and overflowing on the floor and getting her feet wet . 26495_33875
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|in det|the-Def-Art noun|sink cconj|and verb|overflow-Part-Pres-S adp|on det|the-Def-Art noun|floor cconj|and verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|18|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|5|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|15|CC 15|10|CONJ 16|17|NMOD-POSS 17|15|OBJ 18|15|XCOMP 19|5|PUNCT
+%wor:	and 26495_26575 the 26615_26715 water 28156_28476 is 28557_28657 running 28757_29077 in 29137_29217 the 29257_29337 sink 29437_29718 and 29898_30038 overflowing 30218_30939 on 31019_31139 the 31219_31319 floor 31700_32100 and 32520_32661 getting 32721_33021 her 33081_33221 feet 33301_33521 wet 33602_33875 .
+*PAR:	and the window is open . 35724_37645
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 35724_36044 the 36044_36124 window 36144_36544 is 36725_36925 open 37145_37645 .
+*PAR:	and (.) I don't know that there's anything special going on outside the window . [+ exc] 39762_47472
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|that pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|anything-Ind-S1 adj|special-S1 verb|go-Ger-S adp|on adp|outside det|the-Def-Art noun|window .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|15|ROOT 6|8|MARK 7|8|EXPL 8|5|CCOMP 9|8|NSUBJ 10|9|AMOD 11|9|ACL 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|5|PUNCT
+%wor:	and 39762_44286 I 44386_44426 don't 44466_44606 know 44606_44746 that 44786_44906 there's 44946_45127 anything 45167_45467 special 45567_45947 going 45987_46248 on 46328_46448 outside 46508_47008 the 47028_47088 window 47148_47472 .
+*PAR:	seems to me <that> [/] &-uh that's essentially the things that are going on in this picture . [+ exc] 47949_54596
+%mor:	verb|seem-Fin-Ind-Pres-S3 adp|to pron|I-Prs-Acc-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|essentially det|the-Def-Art noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|15|ROOT 2|3|CASE 3|1|OBL 4|8|NSUBJ 5|8|COP 6|8|ADVMOD 7|8|DET 8|1|CCOMP 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|1|PUNCT
+%wor:	seems 47949_48209 to 48250_48310 me 48330_48410 that 48510_48650 uh 49951_50712 that's 50712_50992 essentially 51613_52233 the 52313_52393 things 52654_52934 that 52934_53054 are 53094_53194 going 53214_53514 on 53615_53815 in 53895_53975 this 54015_54195 picture 54275_54596 .
+*PAR:	the girl is picking her nose . 57253_58783
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|pick-Part-Pres-S pron|her-Prs-Gen-S3 noun|nose-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+%wor:	the 57253_57313 girl 57353_57574 is 57654_57754 picking 57935_58216 her 58256_58356 nose 58396_58783 .
+*INV:	&=laughs .
+*PAR:	the boy is handing her a cookie . 62691_64337
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	the 62691_62751 boy 62791_63032 is 63092_63173 handing 63233_63634 her 63654_63734 a 63775_63795 cookie 63875_64337 .
+*PAR:	(.) &-uh really those are the only activities I see . [+ exc] 71266_74638
+%mor:	adv|really pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adj|only-S1 noun|activity-Plur pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|8|ROOT 7|8|NSUBJ 8|6|ACL-RELCL 9|6|PUNCT
+%wor:	uh 71266_71306 really 71306_71547 those 71607_71868 are 71908_72048 the 72088_72229 only 72771_72991 activities 73172_74015 I 74175_74195 see 74336_74638 .
+*INV:	okay . 75582_76080
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 75582_76080 .
+@End

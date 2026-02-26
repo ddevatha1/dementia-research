@@ -1,0 +1,114 @@
+@UTF8
+@PID:	11312/a-00089602-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|16||
+@Media:	023-0, audio
+@G:	animals
+*INV:	all the animals that you can think of (.) in one minute starting from now . 1120_6462
+%mor:	det|all-Def-Tot det|the-Def-Art noun|animal-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|in num|one noun|minute verb|start-Part-Pres-S adp|from adv|now .
+%gra:	1|3|DET-PREDET 2|3|DET 3|14|ROOT 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|11|CASE 10|11|NUMMOD 11|7|OBL 12|11|ACL 13|14|CASE 14|12|OBL 15|3|PUNCT
+%wor:	all 1120_1260 the 1300_1360 animals 1440_1780 that 1780_1900 you 1920_2020 can 2040_2180 think 2260_2500 of 2600_2720 in 3261_3341 one 3481_3621 minute 3661_4041 starting 4601_5122 from 5222_5502 now 5962_6462 .
+*PAR:	alright . [+ exc] 7964_8463
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 7964_8463 .
+*PAR:	&-uh oxen . 8624_11025
+%mor:	noun|oxen .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 8624_10485 oxen 10525_11025 .
+*PAR:	goats . 13247_13746
+%mor:	noun|goat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	goats 13247_13746 .
+*PAR:	(..) &-uh race horse . 21865_22825
+%mor:	noun|race noun|horse .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	uh 21865_21905 race 21925_22265 horse 22325_22825 .
+*PAR:	(..) clowns . 33134_33634
+%mor:	noun|clown-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	clowns 33134_33634 .
+*PAR:	&=laughs there are no clowns &=laughs . [+ exc] 35496_36536
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|no-Def-Neg noun|clown-Plur .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there 35496_35656 are 35656_35716 no 35756_35836 clowns 36036_36536 .
+*PAR:	no birds , huh ? [+ exc] 43126_44227
+%mor:	det|no-Def-Neg noun|bird-Plur cm|cm intj|huh ?
+%gra:	1|2|DET 2|4|ROOT 3|4|PUNCT 4|2|APPOS 5|2|PUNCT
+%wor:	no 43126_43186 birds 43306_43707 , huh 43727_44227 ?
+*INV:	okay , all animals [/] animals . 44528_46335
+%mor:	intj|okay cm|cm det|all-Def-Tot noun|animal-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	okay 44528_44788 , all 45109_45249 animals 45329_45830 animals 46051_46335 .
+*INV:	any animals that you can think of . 46632_48353
+%mor:	det|any-Def-Ind noun|animal-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|DET 2|7|ROOT 3|6|OBJ 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|3|CASE 8|2|PUNCT
+%wor:	any 46632_46792 animals 46892_47353 that 47353_47493 you 47493_47573 can 47573_47714 think 47774_47974 of 48054_48353 .
+*PAR:	alright . 50118_50582
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 50118_50582 .
+*PAR:	oxen . 50799_51279
+%mor:	noun|oxen .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oxen 50799_51279 .
+*PAR:	horses . 52282_52763
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horses 52282_52763 .
+*PAR:	(.) I'm not very +... [+ exc] 62539_63459
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|very +...
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I'm 62539_62659 not 62719_62879 very 62960_63459 +...
+@G:	F
+*INV:	let me ask you to do something different . 67687_69530
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S pron|something-Ind-S1 adj|different-S1 .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|7|AMOD 9|1|PUNCT
+%wor:	let 67687_67787 me 67807_67887 ask 67967_68167 you 68187_68268 to 68268_68348 do 68388_68448 something 68588_68989 different 69049_69530 .
+*INV:	that begin with the letter f@l . 69993_71876
+%mor:	pron|that-Dem verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|OBL-UNMARKED 7|2|PUNCT
+%wor:	that 69993_70073 begin 70093_70414 with 70494_70614 the 70634_70695 letter 70775_71056 f 71376_71876 .
+*INV:	okay , start now . 72421_73539
+%mor:	intj|okay cm|cm verb|start-Fin-Imp-S adv|now .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	okay 72421_72700 , start 72861_73101 now 73202_73539 .
+*PAR:	+< f@l . [+ exc]
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	f@l . 74126_74624
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	f 74126_74624 .
+*PAR:	(..) well , farm . 83993_85914
+%mor:	intj|well cm|cm noun|farm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	well 83993_84094 , farm 85428_85914 .
+*PAR:	(..) I don't know how to play these games . [+ exc] 102472_102492
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|how part|to verb|play-Inf-S det|this-Def-Dem-Plur noun|game-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|7|MARK 7|5|ACL 8|9|DET 9|7|OBJ 10|4|PUNCT
+%wor:	I 102472_102492 don't know how to play these games .
+*INV:	(.) as many words as you can think of beginning with the letter f@l . 109417_112939
+%mor:	adv|as adj|many-S1 noun|word-Plur sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|13|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ACL 8|9|MARK 9|7|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|9|OBL-UNMARKED 14|3|PUNCT
+%wor:	as 109417_109477 many 109537_109737 words 109817_110077 as 110097_110177 you 110217_110298 can 110318_110478 think 110538_110798 of 110878_110978 beginning 111078_111458 with 111498_111618 the 111618_111679 letter 111759_112079 f 112439_112939 .
+*PAR:	(...) alright , start it over again . [+ exc] 128988_130249
+%mor:	intj|alright cm|cm verb|start-Fin-Imp-S pron|it-Prs-Acc-S3 adp|over adv|again .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|ADVMOD 7|3|PUNCT
+%wor:	alright 128988_129308 , start 129308_129568 it 129588_129668 over 129788_129968 again 130008_130249 .
+*PAR:	now we're [//] &+s we [/] we [//] you gonna say that these are [/] are just words . [+ exc] 130629_135530
+%mor:	adv|now pron|you-Prs-Nom-S2 adv|gonna verb|say-Inf-S sconj|that pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 adv|just noun|word-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|9|ROOT 5|9|MARK 6|9|NSUBJ 7|9|COP 8|9|ADVMOD 9|4|CCOMP 10|4|PUNCT
+%wor:	now 130629_130668 we're 130688_130948 we 131128_131228 we 131448_131549 you 131849_131949 gonna 132009_132189 say 132309_132509 that 133209_133349 these 133489_133789 are 133869_134109 are 134390_134550 just 134690_134910 words 135030_135530 .
+*INV:	yeah , mhm . 135851_136870
+%mor:	intj|yeah cm|cm intj|mhm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	yeah 135851_135970 , mhm 136370_136870 .
+*PAR:	and it's the [/] the one we won was xxx . [+ exc] 137738_140772
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|one pron|we-Prs-Nom-P1 verb|win-Fin-Ind-Past-P1-irr aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|8|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|5|ACL-RELCL 9|5|PUNCT
+%wor:	and 137738_137831 it's 137871_138031 the 138491_138611 the 139332_139412 one 139512_139652 we 139712_139792 won 139912_140112 was 140272_140772 .
+@End

@@ -1,0 +1,127 @@
+@UTF8
+@PID:	11312/a-00089592-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	007-3, audio
+@G:	foods
+*PAR:	&-uh peaches . 1041_3623
+%mor:	noun|peach-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 1041_2523 peaches 3123_3623 .
+*PAR:	plums . 3805_4304
+%mor:	noun|plum-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	plums 3805_4304 .
+*PAR:	apples . 5507_5991
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 5507_5991 .
+*PAR:	tarts . 7711_8210
+%mor:	noun|tart-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tarts 7711_8210 .
+*PAR:	&-uh spaghetti . 9794_11674
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 9794_11174 spaghetti 11174_11674 .
+*PAR:	rice . 13178_13677
+%mor:	noun|rice .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rice 13178_13677 .
+*PAR:	(.) Chinese food . 15721_16801
+%mor:	adj|Chinese-S1 noun|food .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	Chinese 15721_16241 food 16301_16801 .
+*PAR:	&-uh (..) carrots . 18764_27351
+%mor:	noun|carrot-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 18764_18884 carrots 26851_27351 .
+*PAR:	peas . 27658_28052
+%mor:	noun|pea-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	peas 27658_28052 .
+*PAR:	rutabagers [: rutabagas] . 29714_30175
+%mor:	noun|rutabaga-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rutabagas 29714_30175 .
+*PAR:	&-uh icecream . 36624_37205
+%mor:	noun|icecream .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 36624_36705 icecream 36705_37205 .
+*PAR:	sherbet . 38268_38767
+%mor:	noun|sherbet .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sherbet 38268_38767 .
+*PAR:	(..) my mind wanders . [+ exc] 50823_51263
+%mor:	pron|my-Prs-Gen-S1 noun|mind verb|wander-Fin-Ind-Pres-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	my 50823_50923 mind 51003_51263 wanders .
+*PAR:	I'm so mad at time I don't know what to do . [+ exc] 52484_54405
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|so adj|mad-S1 adp|at noun|time pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 part|to verb|do-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|13|ROOT 5|6|CASE 6|4|OBL 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|PARATAXIS 11|10|OBJ 12|13|MARK 13|11|ACL 14|4|PUNCT
+%wor:	I'm 52484_52564 so 52624_52664 mad 52664_52784 at 52804_52884 time 52924_53225 I 53305_53325 don't 53345_53485 know 53485_53585 what 53605_53725 to 53785_53845 do 53905_54405 .
+*INV:	that's okay that's fine . 54806_55563
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+%wor:	that's okay that's 54806_55563 fine .
+@G:	S
+*INV:	the letter s@l you can begin now . 57668_57809
+%mor:	det|the-Def-Art noun|letter part|s pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	the 57668_57728 letter 57728_57809 s you can begin now .
+*PAR:	suicide &=laughs . 58650_59149
+%mor:	noun|suicide .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	suicide 58650_59149 .
+*PAR:	that's what I'm gonna do . [+ exc] 61005_62232
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|3|PUNCT
+%wor:	that's 61005_61111 what 61151_61292 I'm 61352_61432 gonna 61492_61692 do 61732_62232 .
+*INV:	no , we're not gonna let you . 62487_63594
+%mor:	intj|no cm|cm pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|not part|go verb|let-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+%wor:	no , we're 62487_62533 not 62553_62673 gonna 62693_62973 let 63053_63213 you 63233_63594 .
+*PAR:	oh , am I started ? [+ exc] 64434_67276
+%mor:	intj|oh cm|cm aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|start-Part-Ind-Past-S ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	oh 64434_66495 , am 66495_66575 I 66715_66735 started 66795_67276 ?
+*INV:	mhm . 67656_67796
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 67656_67796 .
+*PAR:	with the letter s@l . [+ exc] 69378_70642
+%mor:	adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%wor:	with 69378_69518 the 69558_69618 letter 69718_70018 s 70318_70642 .
+*PAR:	sleet . 71920_72419
+%mor:	noun|sleet .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sleet 71920_72419 .
+*PAR:	snow . 72741_73240
+%mor:	noun|snow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snow 72741_73240 .
+*PAR:	&-uh (.) salad . 74802_77183
+%mor:	noun|salad .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 74802_76023 salad 76683_77183 .
+*PAR:	(.) not many , are there &=laughs . [+ exc] 82172_83292
+%mor:	part|not adj|many-S1 cm|cm aux|be-Fin-Ind-Pres-P3 adv|there .
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|2|PUNCT 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	not 82172_82332 many 82352_82552 , are 82672_82792 there 82792_83292 .
+*PAR:	(.) space . 90626_91095
+%mor:	noun|space .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	space 90626_91095 .
+*PAR:	(.) suggestion . 94957_95456
+%mor:	noun|suggestion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	suggestion 94957_95456 .
+*PAR:	(..) take away that &-uh clock and I hafta do better . [+ exc] 105727_110009
+%mor:	verb|take-Fin-Imp-S adp|away det|that-Def-Dem-Sing noun|clock-Acc cconj|and pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|do-Fin-S adj|good-Cmp-S1 .
+%gra:	1|9|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|8|CC 6|8|NSUBJ 7|8|AUX 8|1|CONJ 9|8|XCOMP 10|1|PUNCT
+%wor:	take 105727_105928 away 105948_106189 that 106249_106611 uh 106732_108260 clock 108260_108642 and 108682_108802 I 108802_108822 hafta 108822_109265 do 109365_109426 better 109526_110009 .
+@End

@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/a-00090554-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|21||
+@Media:	472-0, audio
+@G:	Cookie
+*INV:	here's the picture . 850_1690
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%wor:	here's 850_1010 the 1030_1110 picture 1190_1690 .
+*INV:	can you tell me everything you see going on in the picture ? 7653_10393
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+%wor:	can 7653_7754 you 7774_7854 tell 7894_8094 me 8134_8194 everything 8274_8634 you 8654_8754 see 8835_9055 going 9175_9435 on 9535_9675 in 9715_9775 the 9795_9875 picture 9915_10393 ?
+*PAR:	yeah , she's spilling the water on the floor . 11796_13618
+%mor:	intj|yeah cm|cm pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S det|the-Def-Art noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	yeah 11796_11936 , she's 12057_12257 spilling 12277_12677 the 12677_12737 water 12797_13117 on 13137_13177 the 13217_13277 floor 13337_13618 .
+*PAR:	and he's falling off the [/] <the chair [: stool] [* s:r-ret] &-uh the stand [: stool] [* s:r-ret] or> [//] a seat or +... 13666_17649
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|seat cconj|or +...
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|CONJ 9|4|PUNCT
+%wor:	and 13666_13726 he's 13746_13907 falling 13967_14269 off 14329_14450 the 14450_14530 the 14530_14611 stool 14611_15536 uh 15577_15677 the 15717_15878 stool 15939_16140 or 16220_16260 a 16281_16301 seat 17065_17166 or 17226_17649 +...
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	(..) the spigot's goin(g) . 41736_42516
+%mor:	det|the-Def-Art noun|spigot~part|s noun|go-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 41736_41796 spigot's 41816_42016 goin(g) 42016_42516 .
+*PAR:	and &-uh (..) he's reaching out for the cookies . 42837_43477
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|out adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	and uh he's reaching out for the 42837_42937 cookies 42977_43477 .
+*PAR:	and she's reaching for the cookies . 56425_57985
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 56425_56485 she's 56505_56767 reaching 56847_57189 for 57249_57390 the 57430_57511 cookies 57571_57985 .
+*PAR:	and she got the window open , I guess . 58110_59764
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|the-Def-Art noun|window-Acc adj|open-S1 cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|9|PUNCT 8|9|NSUBJ 9|3|PARATAXIS 10|3|PUNCT
+%wor:	and 58110_58215 she 58215_58275 got 58275_58335 the 58356_58436 window 58476_59381 open 59381_59502 , I 59502_59522 guess 59522_59764 .
+*PAR:	I don't know . [+ exc] 79043_79700
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 79043_79064 don't 79207_79371 know 79371_79700 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

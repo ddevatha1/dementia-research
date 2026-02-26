@@ -1,0 +1,182 @@
+@UTF8
+@PID:	11312/a-00089609-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|64;|male|MCI||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	030-1, audio
+@G:	foods
+*PAR:	corn . 821_1281
+%mor:	noun|corn .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	corn 821_1281 .
+*PAR:	&-um &-uh apples . 2664_6128
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 2664_2964 uh 3845_5588 apples 5628_6128 .
+*PAR:	oranges . 6330_6829
+%mor:	noun|orange-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oranges 6330_6829 .
+*PAR:	&-uh grapes . 7471_9453
+%mor:	noun|grape-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 7471_7972 grapes 8953_9453 .
+*PAR:	cherries . 9755_10235
+%mor:	noun|cherry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cherries 9755_10235 .
+*PAR:	bananas . 11358_11857
+%mor:	noun|banana-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bananas 11358_11857 .
+*PAR:	grapefruits . 12540_13039
+%mor:	noun|grapefruit-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	grapefruits 12540_13039 .
+*PAR:	oranges . 13522_14021
+%mor:	noun|orange-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oranges 13522_14021 .
+*PAR:	crackers . 15743_16223
+%mor:	noun|cracker-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	crackers 15743_16223 .
+*PAR:	&-um sweet crackers . 16883_18244
+%mor:	adj|sweet-S1 noun|cracker-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	um 16883_17125 sweet 17386_17686 crackers 17746_18244 .
+*PAR:	&-uh &-um &-uh (..) icecream . 24540_26027
+%mor:	noun|icecream .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 24540_24881 um 24961_25281 uh 25281_25482 icecream 25542_26027 .
+*PAR:	ices . 27427_27926
+%mor:	noun|ice-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ices 27427_27926 .
+*PAR:	&-um &-uh (..) spareribs . 34752_36713
+%mor:	noun|sparerib-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 34752_34952 uh 36173_36213 spareribs 36213_36713 .
+*PAR:	&-uh pork steaks . 39856_40756
+%mor:	noun|pork noun|steak-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	uh 39856_39896 pork 39896_40176 steaks 40256_40756 .
+*PAR:	pork chops . 41438_42297
+%mor:	noun|pork noun|chop-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	pork 41438_41697 chops 41797_42297 .
+*PAR:	&-uh veal chops . 43139_45660
+%mor:	noun|veal noun|chop-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	uh 43139_43279 veal 44840_45040 chops 45160_45660 .
+*PAR:	veal steaks . 46040_46860
+%mor:	noun|veal noun|steak-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	veal 46040_46280 steaks 46360_46860 .
+*PAR:	&-uh roast beef . 49102_50022
+%mor:	noun|roast noun|beef .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	uh 49102_49142 roast 49142_49422 beef 49522_50022 .
+*INV:	okay , hold it . 50643_51577
+%mor:	intj|okay cm|cm verb|hold-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	okay 50643_51003 , hold 51123_51343 it 51343_51577 .
+*PAR:	excuse me ? [+ exc] 51577_51883
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	excuse 51577_51883 me ?
+*INV:	hold on ! 53024_53632
+%mor:	verb|hold-Fin-Imp-S adp|on !
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%wor:	hold 53024_53264 on 53324_53632 !
+*INV:	&=laughs that's it . 53632_55106
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 53632_54825 it 54965_55106 .
+@G:	S
+*INV:	okay , off you go . 58913_59808
+%mor:	intj|okay cm|cm adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|CASE 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	okay 58913_59333 , off 59374_59454 you 59654_59734 go 59734_59808 .
+*PAR:	shoes . 60055_60481
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	shoes 60055_60481 .
+*PAR:	scissors . 60496_60996
+%mor:	noun|scissors-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	scissors 60496_60996 .
+*PAR:	saxophone . 62520_62999
+%mor:	noun|saxophone .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	saxophone 62520_62999 .
+*PAR:	sex . 65646_66145
+%mor:	noun|sex .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sex 65646_66145 .
+*PAR:	&-um &+symb &-uh symbol . 68650_70153
+%mor:	noun|symbol .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 68650_68750 uh 68990_69151 symbol 69672_70153 .
+*PAR:	&-um Sunday . 74362_75022
+%mor:	propn|Sunday .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 74362_74422 Sunday 74522_75022 .
+*PAR:	oh , no , that's a noun . [+ exc] 75767_76898
+%mor:	intj|oh cm|cm intj|no cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|noun .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|DISCOURSE 4|3|PUNCT 5|8|NSUBJ 6|8|COP 7|8|DET 8|8|ROOT 9|8|PUNCT
+%wor:	oh 75767_75905 , no 75905_76005 , that's 76165_76406 a 76446_76466 noun 76526_76898 .
+*PAR:	you don't want that . [+ exc] 76898_77630
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	you 76898_76967 don't 76987_77127 want 77127_77327 that 77368_77630 .
+*INV:	no . 77648_78090
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 77648_78090 .
+*PAR:	&-um &-uh sentence . 78550_82598
+%mor:	noun|sentence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 78550_78710 uh 82056_82096 sentence 82116_82598 .
+*PAR:	serious . 84481_84962
+%mor:	adj|serious-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	serious 84481_84962 .
+*PAR:	salute . 88669_89149
+%mor:	verb|salute-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salute 88669_89149 .
+*PAR:	salutary . 92234_92733
+%mor:	adj|salutary-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salutary 92234_92733 .
+*PAR:	&-um (..) season . 102509_103770
+%mor:	noun|season .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 102509_102609 season 103270_103770 .
+*PAR:	sorry . 105393_105874
+%mor:	adj|sorry-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sorry 105393_105874 .
+*PAR:	(..) sally . 112427_112646
+%mor:	noun|sally .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sally 112427_112646 .
+*PAR:	not the name . [+ exc] 112847_113482
+%mor:	part|not det|the-Def-Art noun|name .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	not 112847_113007 the 113047_113127 name 113187_113482 .
+*PAR:	&-um senior . 116829_117329
+%mor:	adj|senior-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um senior 116829_117329 .
+*INV:	okay , hold it .
+%mor:	intj|okay cm|cm verb|hold-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	+< subject . 120592_121071
+%mor:	noun|subject .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	subject 120592_121071 .
+@End

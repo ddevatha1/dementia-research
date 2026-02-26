@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00090641-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;00.|female|Control||Participant|||
+@Media:	013-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	and there's the picture . 870_1810
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 870_930 there's 930_1170 the 1190_1270 picture 1310_1810 .
+*PAR:	a boy is getting cookies out of the cookie jar . 3373_6058
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|OBJ 6|10|CASE 7|6|FIXED 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	a 3373_3393 boy 3853_4074 is 4154_4194 getting 4254_4514 cookies 4554_4874 out 4955_5075 of 5115_5155 the 5155_5215 cookie 5235_5535 jar 5595_6058 .
+*PAR:	he's standing on a stool that's gonna fall . 6496_8538
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|ACL-RELCL 11|3|PUNCT
+%wor:	he's 6496_6617 standing 6657_7037 on 7097_7157 a 7237_7257 stool 7337_7638 that's 7678_7858 gonna 7898_8078 fall 8158_8538 .
+*PAR:	the girl is reaching for a cookie . 9821_11458
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 9821_9901 girl 9941_10201 is 10301_10401 reaching 10481_10842 for 10882_11002 a 11022_11042 cookie 11082_11458 .
+*PAR:	the mother's drying dishes . 11704_13164
+%mor:	det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 11704_11783 mother's 11843_12183 drying 12243_12604 dishes 12664_13164 .
+*PAR:	the faucet's running water . 14533_16003
+%mor:	det|the-Def-Art noun|faucet~part|s noun|running-Ger noun|water .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 14533_14613 faucet's 14613_15193 running 15293_15574 water 15634_16003 .
+*PAR:	it's dripping out of the sink . 16338_17598
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drip-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|4|FIXED 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	it's 16338_16455 dripping 16515_16835 out 16895_17036 of 17056_17096 the 17136_17196 sink 17316_17598 .
+*PAR:	&-um (.) spilling onto the floor . [+ gram] 20109_27789
+%mor:	verb|spill-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	um spilling 20109_20440 onto 20440_27348 the 27388_27448 floor 27548_27789 .
+*PAR:	dishes are on the &-uh counter . 29718_31538
+%mor:	noun|dish-Plur aux|be-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|counter .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	dishes 29718_30038 are 30078_30198 on 30218_30358 the 30478_30558 uh 30558_31099 counter 31119_31538 .
+*PAR:	window is open . [+ gram] 34783_35732
+%mor:	noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	window 34783_35144 is 35164_35284 open 35364_35732 .
+*PAR:	must be summertime . [+ gram] 36244_36804
+%mor:	aux|must-Fin-S aux|be-Inf-S noun|summertime .
+%gra:	1|3|AUX 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	must 36244_36425 be 36445_36525 summertime 36605_36804 .
+*PAR:	the girl is laughing . 40169_41191
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 40169_40229 girl 40289_40510 is 40530_40610 laughing 40710_41191 .
+*PAR:	looks like she's laughing . 43144_43894
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|5|ROOT 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|1|ADVCL 6|1|PUNCT
+%wor:	looks 43144_43353 like 43373_43533 she's 43533_43633 laughing 43653_43894 .
+*PAR:	that's about it . [+ exc] 50740_51220
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	that's 50740_50942 about 50962_51220 it .
+*INV:	okay good . 51856_52296
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 51856_52013 good 52093_52296 .
+@End

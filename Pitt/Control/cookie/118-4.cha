@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/a-00090727-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;00.|female|Control||Participant|||
+@Media:	118-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me everything that's going on in that picture . 650_2900
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 650_810 me 830_910 everything 990_1350 that's 1390_1510 going 1590_1871 on 1971_2111 in 2191_2251 that 2271_2411 picture 2491_2900 .
+*INV:	everything that's happening there . 3192_4617
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+%wor:	everything 3192_3532 that's 3552_3692 happening 3752_4172 there 4213_4617 .
+*PAR:	well the water's runnin(g) over outta [: out of] the sink . 6655_10097
+%mor:	intj|well det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|COMPOUND-PRT 7|10|CASE 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	well 6655_7035 the 7075_7135 water's 7215_7756 runnin(g) 7836_8276 over 8276_8576 out 9117_9237 of 9277_9317 the 9377_9457 sink 9597_10097 .
+*PAR:	and the little boy is stealin(g) a cookie . 11159_14841
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	and 11159_11459 the 11559_11699 little 12720_12980 boy 13040_13300 is 13400_13520 stealin(g) 13681_14241 a 14241_14261 cookie 14341_14841 .
+*PAR:	and he's about to fall off the stool . 15574_18656
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%wor:	and 15574_15654 he's 15694_15874 about 15914_16274 to 16374_16474 fall 16634_16915 off 17035_17215 the 17335_17475 stool 18156_18656 .
+*PAR:	and &-uh the girl has her hand up to her mouth so she didn't want the mother to know what they were up to . 20057_28444
+%mor:	cconj|and det|the-Def-Art noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth sconj|so pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|want-Inf-S det|the-Def-Art noun|mother-Acc part|to verb|know-Inf-S pron|what-Rel-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adv|up adp|to .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|24|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|15|MARK 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|4|PARATAXIS 16|17|DET 17|15|OBJ 18|19|MARK 19|15|XCOMP 20|19|OBJ 21|23|NSUBJ 22|23|COP 23|20|ACL-RELCL 24|4|PUNCT 25|4|PUNCT
+%wor:	and 20057_20537 uh 20557_20597 the 22099_22199 girl 22279_22599 has 22739_22959 her 22999_23119 hand 23199_23480 up 23520_23620 to 23720_23800 her 23860_23980 mouth 24040_24500 so 24500_24560 she 24741_24861 didn't 24921_25181 want 25201_25481 the 25982_26062 mother 26142_26442 to 26542_26622 know 26682_26862 what 26942_27122 they 27183_27303 were 27363_27563 up 27723_27843 to 27963_28444 .
+*PAR:	and the window's open . 29507_30807
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and 29507_29607 the 29627_29707 window's 29767_30187 open 30307_30807 .
+*PAR:	and it must be nice weather because the grass is pretty high and needs cut . 32129_37775
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S adj|nice-S1 noun|weather sconj|because det|the-Def-Art noun|grass aux|be-Fin-Ind-Pres-S3 adv|pretty adj|high-S1 cconj|and verb|need-Fin-Ind-Pres-S3 noun|cut-Acc .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|AMOD 6|15|ROOT 7|12|MARK 8|9|DET 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|6|ADVCL 13|14|CC 14|12|CONJ 15|14|OBJ 16|6|PUNCT
+%wor:	and 32129_32229 it 32270_32370 must 32430_32730 be 32810_32910 nice 33991_34292 weather 34352_34732 because 35013_35293 the 35333_35413 grass 35473_35833 is 35934_36014 pretty 36094_36314 high 36414_36774 and 36794_36895 needs 36915_37195 cut 37275_37775 .
+*PAR:	and &=sighs (.) the mother is daydreamin(g) or she'd see that the water was goin(g) on the floor and she's gonna get wet or is wet . 44063_52935
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|daydream-Part-Pres-S cconj|or pron|she-Prs-Nom-S3~aux|would-Fin-S verb|see-Inf-S sconj|that det|the-Def-Art noun|water aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|get-Inf-S adj|wet-S1 cconj|or aux|be-Fin-Ind-Pres-S3 adj|wet-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|26|ROOT 6|9|CC 7|9|NSUBJ 8|9|AUX 9|5|CONJ 10|14|MARK 11|12|DET 12|14|NSUBJ 13|14|AUX 14|9|CCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|22|CC 19|22|NSUBJ 20|22|AUX 21|22|ADVMOD 22|5|CONJ 23|22|XCOMP 24|26|CC 25|26|COP 26|22|CONJ 27|5|PUNCT
+%wor:	and 44063_44123 the 44123_44183 mother 44303_44603 is 44704_44824 daydreamin(g) 44924_45645 or 45645_45745 she'd 45845_46065 see 46146_46306 that 46366_46546 the 46606_46706 water 46967_47287 was 47347_47527 goin(g) 48248_48629 on 48629_48729 the 48769_48849 floor 48929_49310 and 50211_50331 she's 50431_50672 gonna 50732_50952 get 51032_51212 wet 51312_51553 or 51993_52093 is 52334_52514 wet 52614_52935 .
+*PAR:	and the curtains seem to blowin(g) brisk in the breeze . 55709_59139
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur verb|seem-Fin-Ind-Pres-P3 sconj|to verb|blow-Part-Pres-S adj|brisk-S1 adp|in det|the-Def-Art noun|breeze .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	and 55709_55809 the 55809_55950 curtains 56150_56592 seem 56672_56853 to 56953_57013 blowin(g) 57274_57756 brisk 57756_58077 in 58398_58459 the 58499_58599 breeze 58639_59139 .
+*INV:	okay fine thanks . 59563_60645
+%mor:	intj|okay adj|fine-S1 noun|thanks .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+%wor:	okay 59563_59783 fine 59844_60064 thanks 60145_60645 .
+@End

@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/a-00089600-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|MCI||Participant|||
+@Media:	016-4, audio
+@G:	animals
+*INV:	I want you to begin (.) now . 0_2042
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|begin-Inf-S adv|now .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|ADVMOD 7|2|PUNCT
+%wor:	I 0_20 want 20_100 you 100_160 to 160_220 begin 260_721 now 1542_2042 .
+*PAR:	horse . 3085_3585
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 3085_3585 .
+*PAR:	dog . 4227_4727
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 4227_4727 .
+*PAR:	llama . 4989_5488
+%mor:	noun|llama .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	llama 4989_5488 .
+*PAR:	cat . 6972_7471
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 6972_7471 .
+*PAR:	&-uh zebra . 10599_11097
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh zebra 10599_11097 .
+*PAR:	ox . 12522_13021
+%mor:	noun|ox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ox 12522_13021 .
+*PAR:	not birds (th)ough . [+ exc] 14465_15332
+%mor:	part|not noun|bird-Plur adv|though .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	not 14465_14625 birds 14685_14885 (th)ough 14885_15332 .
+*PAR:	okay . [+ exc] 16548_16992
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 16548_16992 .
+*PAR:	ox . 17530_18029
+%mor:	noun|ox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ox 17530_18029 .
+*PAR:	&-uh onyx . 18100_23796
+%mor:	noun|onyx .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 18100_23256 onyx 23296_23796 .
+*PAR:	or is there &+on +..? [+ exc] 24499_25179
+%mor:	cconj|or aux|be-Fin-Ind-Pres-S3 adv|there +..?
+%gra:	1|3|CC 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	or 24499_24598 is 24598_24678 there 24698_25179 +..?
+*PAR:	&-uh elk . 26582_28744
+%mor:	propn|elk .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 26582_28243 elk 28263_28744 .
+*PAR:	(.) &-uh snake . 32488_32988
+%mor:	noun|snake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 32488_32528 snake 32528_32988 .
+*PAR:	&-uh ibex . 38795_39535
+%mor:	noun|ibex .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 38795_38875 ibex 39035_39535 .
+*PAR:	snail .
+%mor:	noun|snail .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh (..) chipmunk . 50410_50950
+%mor:	noun|chipmunk .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 50410_50450 chipmunk 50450_50950 .
+*PAR:	squirrel . 51673_52151
+%mor:	noun|squirrel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	squirrel 51673_52151 .
+*PAR:	mole . 54075_54572
+%mor:	noun|mole .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mole 54075_54572 .
+*PAR:	&-uh &+p possum . 57035_59516
+%mor:	noun|possum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 57035_57075 possum 59016_59516 .
+*PAR:	skunk . 61700_62199
+%mor:	noun|skunk .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	skunk 61700_62199 .
+*INV:	okay , that's good .
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+@G:	F
+*INV:	beginning with the letter f@l . 64821_66007
+%mor:	verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|OBL-UNMARKED 6|1|PUNCT
+%wor:	beginning 64821_65121 with 65161_65301 the 65301_65381 letter 65441_65681 f 65901_66007 .
+*PAR:	and you can begin now . 66462_68043
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 66462_66542 you 66582_66642 can 66682_66802 begin 66842_67182 now 67543_68043 .
+*PAR:	fry . 68123_68583
+%mor:	noun|fry .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fry 68123_68583 .
+*PAR:	finish . 69124_69584
+%mor:	noun|finish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	finish 69124_69584 .
+*PAR:	frog . 71206_71706
+%mor:	noun|frog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frog 71206_71706 .
+*PAR:	further . 72567_73067
+%mor:	adj|further-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	further 72567_73067 .
+*PAR:	follow . 74308_74789
+%mor:	verb|follow-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	follow 74308_74789 .
+*PAR:	feel . 75429_75910
+%mor:	verb|feel-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	feel 75429_75910 .
+*PAR:	fit . 77591_78072
+%mor:	noun|fit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fit 77591_78072 .
+*PAR:	forth . 78973_79472
+%mor:	adv|forth .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	forth 78973_79472 .
+*PAR:	farthing . 81396_81876
+%mor:	noun|farthing-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	farthing 81396_81876 .
+*PAR:	friend . 84139_84639
+%mor:	noun|friend .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	friend 84139_84639 .
+*PAR:	fold . 86502_86983
+%mor:	verb|fold-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fold 86502_86983 .
+*PAR:	flew . 88705_89186
+%mor:	verb|fly-Fin-Ind-Past-S1-irr .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flew 88705_89186 .
+*PAR:	&-uh fix . 93453_93952
+%mor:	noun|fix .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh fix 93453_93952 .
+*PAR:	(.) from . 98821_99301
+%mor:	adp|from .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	from 98821_99301 .
+*PAR:	fender . 101445_101944
+%mor:	noun|fender .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fender 101445_101944 .
+*PAR:	flow . 104048_104548
+%mor:	noun|flow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flow 104048_104548 .
+*PAR:	fit . 107032_107532
+%mor:	noun|fit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fit 107032_107532 .
+*PAR:	(.) fender . 112279_112760
+%mor:	noun|fender .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fender 112279_112760 .
+*PAR:	forum . 115744_116224
+%mor:	noun|forum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	forum 115744_116224 .
+*PAR:	fried . 118148_118626
+%mor:	noun|fry .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fried 118148_118626 .
+*PAR:	(.) fat . 122592_123090
+%mor:	adj|fat-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fat 122592_123090 .
+*PAR:	foolish . 124073_124572
+%mor:	adj|foolish-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foolish 124073_124572 .
+*INV:	okay , that's a minute . 129477_129958
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	okay , that's a minute 129477_129958 .
+@End

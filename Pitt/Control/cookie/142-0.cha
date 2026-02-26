@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00090759-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|58;|female|Control||Participant|30||
+@Media:	142-0, audio
+@G:	Cookie
+*INV:	here's the picture .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*INV:	tell me all of the action .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|6|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+*PAR:	&-uh there's a boy reaching &=clears:throat on [/] he's on a stool reaching for cookies . 9398_11421
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy verb|reach-Ger-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool verb|reach-Ger-S adp|for noun|cookie-Plur .
+%gra:	1|2|EXPL 2|13|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|10|NSUBJ 7|10|COP 8|10|CASE 9|10|DET 10|5|CCOMP 11|10|ACL 12|13|CASE 13|11|OBL 14|2|PUNCT
+%wor:	uh 9398_9438 there's 9438_9699 a 9739_9759 boy 9799_9979 reaching 9979_10219 on 10319_10359 he's 10359_10439 on 10439_10479 a 10479_10499 stool 10499_10680 reaching 10680_10860 for 10900_11020 cookies 11020_11421 .
+*PAR:	and the stool is ready to fall over .
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|5|PUNCT
+*PAR:	&-uh he's got one hand in the cookie jar . 18421_18621
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr num|one noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|NUMMOD 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+%wor:	uh 18421_18461 he's 18481_18621 got one hand in the cookie jar .
+*PAR:	and he's got a cookie in the left hand .
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|cookie-Acc adp|in det|the-Def-Art adj|left-S1 noun|hand .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|6|NMOD 11|4|PUNCT
+*PAR:	and his girl's standing beside him . 23269_24291
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|girl~part|s noun|standing-Ger adp|beside pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NMOD-POSS 4|3|CASE 5|7|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+%wor:	and his girl's standing 23269_23329 beside 23329_23990 him 23990_24291 .
+*INV:	&*PAR:am_I_going_too_fast go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	and &-uh she's reaching for the cookie that he has in his hand . 29604_30744
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie pron|that-Rel pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|4|PUNCT
+%wor:	and 29604_29704 uh 29724_29764 she's 29784_30005 reaching 30025_30445 for 30505_30645 the 30685_30744 cookie that he has in his hand .
+*PAR:	and she has her right finger up to her lips . 32847_35348
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 adj|right-S1 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|10|ROOT 4|6|NMOD-POSS 5|6|AMOD 6|3|OBJ 7|3|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|3|OBL 11|3|PUNCT
+%wor:	and she 32847_32907 has 32907_33047 her 33047_33127 right 33147_33387 finger 33647_34388 up 34408_34488 to 34608_34648 her 34708_34828 lips 34848_35348 .
+*PAR:	&-uh there's a woman presumably the mother standing at the sink drying dishes . 38030_43194
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|woman adv|presumably det|the-Def-Art noun|mother verb|stand-Ger-S adp|at det|the-Def-Art noun|sink noun|drying-Ger noun|dish-Plur .
+%gra:	1|2|EXPL 2|13|ROOT 3|4|DET 4|2|NSUBJ 5|7|ADVMOD 6|7|DET 7|4|APPOS 8|7|ACL 9|13|CASE 10|13|DET 11|13|COMPOUND 12|13|COMPOUND 13|8|OBL 14|2|PUNCT
+%wor:	uh there's a woman presumably 38030_38951 the 39432_39832 mother 39912_40272 standing 40312_40733 at 40793_40873 the 40913_40973 sink 41073_41233 drying 41333_41533 dishes 42694_43194 .
+*PAR:	and the sink is overflowing with water onto the floor . 46097_47919
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with noun|water adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|CASE 7|5|OBL 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	and 46097_46217 the 46357_46637 sink 46817_47178 is 47238_47318 overflowing 47358_47919 with water onto the floor .
+*PAR:	&-um you just want the action &*INV:mhm ? [+ exc] 52160_52720
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|want-Fin-Ind-Pres-S2 det|the-Def-Art noun|action-Acc ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	um you just want the 52160_52220 action 52220_52720 ?
+*PAR:	you just want the action . [+ exc]
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|want-Fin-Ind-Pres-S2 det|the-Def-Art noun|action-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	<the faucet> [//] the water's coming out of the faucet . 59794_60931
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|out adp|of det|the-Def-Art noun|faucet .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 59794_59854 faucet 60094_60415 the 60435_60495 water's 60495_60655 coming 60655_60916 out 60916_60931 of the faucet .
+*INV:	okay good thank you .
+%mor:	intj|okay adj|good-S1 verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|PARATAXIS 4|3|OBJ 5|2|PUNCT
+@End

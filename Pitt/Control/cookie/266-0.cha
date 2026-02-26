@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/a-00090828-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|female|Control||Participant|29||
+@Media:	266-0, audio
+@G:	Cookie
+*INV:	everything you see going on in that picture . 110_2060
+%mor:	pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+%wor:	everything 110_510 you 550_610 see 710_870 going 890_1191 on 1231_1331 in 1391_1451 that 1471_1651 picture 1651_2060 .
+*PAR:	okay it looks like the mother is washing dishes . 3593_6055
+%mor:	intj|okay pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|8|OBJ 10|3|PUNCT
+%wor:	okay 3593_3813 it 3853_3893 looks 3933_4113 like 4154_4354 the 4374_4454 mother 4494_4754 is 4834_4954 washing 5054_5455 dishes 5555_6055 .
+*PAR:	the sink is overflowing . 6635_7797
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 6635_6696 sink 6796_7036 is 7076_7217 overflowing 7297_7797 .
+*PAR:	there are &-uh two children trying to get in the cookie jar . 9419_13243
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|child-Plur verb|try-Ger-S part|to verb|get-Inf-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|4|ACL 6|7|MARK 7|5|XCOMP 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|2|PUNCT
+%wor:	there 9419_9579 are 9679_9819 uh 10460_10600 two 10640_10800 children 10880_11341 trying 11721_12021 to 12041_12081 get 12121_12242 in 12282_12342 the 12362_12442 cookie 12502_12762 jar 12882_13243 .
+*PAR:	the boy is on the stool and the stool seems to be toppling over . 13392_17892
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool cconj|and det|the-Def-Art noun|stool verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|topple-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|14|ROOT 7|10|CC 8|9|DET 9|10|NSUBJ 10|6|CONJ 11|13|MARK 12|13|AUX 13|10|XCOMP 14|13|ADVMOD 15|6|PUNCT
+%wor:	the 13392_13472 boy 13512_13772 is 13892_13992 on 14092_14193 the 14233_14313 stool 14453_14934 and 15294_15454 the 15494_15595 stool 15915_16255 seems 16396_16676 to 16756_16816 be 16856_16916 toppling 17017_17457 over 17537_17892 .
+*PAR:	the little girl has her hand up as though she's hoping her brother would give her a cookie . 19300_24287
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up sconj|as sconj|though pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hope-Part-Pres-S pron|her-Prs-Gen-S3 noun|brother aux|would-Fin-S verb|give-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|19|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|12|MARK 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|4|ADVCL 13|14|NMOD-POSS 14|16|NSUBJ 15|16|AUX 16|12|CCOMP 17|16|IOBJ 18|19|DET 19|16|OBJ 20|4|PUNCT
+%wor:	the little 19300_19500 girl 19560_19880 has 20181_20401 her 20461_20561 hand 20641_20902 up 20962_21062 as 21142_21242 though 21262_21443 she's 21483_21683 hoping 21743_22063 her 22124_22264 brother 22624_22965 would 23165_23285 give 23325_23525 her 23566_23686 a 23686_23706 cookie 23826_24287 .
+*PAR:	and &-uh there is shrubbery outside the window . 26412_29596
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|shrubbery adp|outside det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|EXPL 3|7|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	and 26412_26852 uh 26953_27113 there 27153_27433 is 27774_27894 shrubbery 27914_28335 outside 28455_28956 the 28956_29016 window 29096_29596 .
+*PAR:	&+c &-uh a curved walkway . [+ gram] 30599_32701
+%mor:	det|a-Ind-Art verb|curved-Part-Past-S noun|walkway .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	uh 30599_30839 a 31260_31280 curved 31360_32181 walkway 32201_32701 .
+*PAR:	curtains at the window . [+ gram] 34076_35266
+%mor:	noun|curtain-Plur adp|at det|the-Def-Art noun|window .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	curtains 34076_34465 at 34505_34586 the 34626_34726 window 34766_35266 .
+*PAR:	I guess that's about it . [+ exc] 37546_38356
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+%wor:	I guess 37546_37711 that's 37711_37951 about 37951_38232 it 38272_38356 .
+*INV:	okay . 38944_39234
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 38944_39234 .
+@End

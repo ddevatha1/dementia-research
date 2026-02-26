@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/a-00089876-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|20||
+@Media:	067-1, audio
+@G:	George_Immediate
+*INV:	you tell me what you can remember . 688781_690122
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|IOBJ 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|2|CCOMP 8|2|PUNCT
+%wor:	you 688781_688841 tell 688881_689021 me 689021_689081 what 689141_689261 you 689321_689401 can 689442_689582 remember 689622_690122 .
+*PAR:	(.) well , she was pleased . 692747_696171
+%mor:	intj|well cm|cm pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|pleased-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	well 692747_692967 , she 695311_695391 was 695471_695591 pleased 695671_696171 .
+*INV:	mhm . 696673_697114
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 696673_697114 .
+*PAR:	(..) I don't remember too much of anything I'll tell you . [+ exc] 703179_705554
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S adv|too adj|much-S1 adp|of pron|anything-Ind-S1 pron|I-Prs-Nom-S1~aux|will-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|6|ADVMOD 6|4|OBJ 7|8|CASE 8|6|OBL 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|11|IOBJ 13|4|PUNCT
+%wor:	I 703179_703199 don't 703219_703339 remember 703419_703820 too 703900_704060 much 704100_704320 of 704380_704460 anything 704521_704921 I'll 704921_705101 tell 705161_705382 you 705382_705554 .
+*INV:	okay . 705682_706162
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 705682_706162 .
+*PAR:	my brain +... [+ exc] 706843_707263
+%mor:	pron|my-Prs-Gen-S1 noun|brain +...
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%wor:	my brain 706843_707263 +...
+*PAR:	in one ear and out the other ear with my brain . [+ exc] 708086_710396
+%mor:	adp|in num|one noun|ear cconj|and adp|out det|the-Def-Art adj|other-S1 noun|ear adp|with pron|my-Prs-Gen-S1 noun|brain .
+%gra:	1|3|CASE 2|3|NUMMOD 3|11|ROOT 4|8|CC 5|8|CASE 6|8|DET 7|8|AMOD 8|3|CONJ 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|3|PUNCT
+%wor:	in 708086_708186 one 708286_708426 ear 708466_708586 and 708627_708727 out 708787_708907 the 708947_709047 other 709147_709468 ear 709548_709648 with 709688_709868 my 709908_709989 brain 709989_710396 .
+*INV:	+< remember who the story was about ? 710396_711928
+%mor:	verb|remember-Fin-Imp-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|6|ROOT 2|1|CCOMP 3|4|DET 4|2|NSUBJ 5|2|COP 6|1|PUNCT 7|1|PUNCT
+%wor:	remember 710396_710409 who 710469_710549 the 710670_710750 story 710830_711190 was 711270_711411 about 711451_711928 ?
+*PAR:	a little girl . 712272_713054
+%mor:	det|a-Ind-Art adj|little-S1 noun|girl .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	a 712272_712292 little 712392_712612 girl 712672_713054 .
+*INV:	and what was her name ? [+ exc] 715837_716839
+%mor:	cconj|and pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|name ?
+%gra:	1|2|CC 2|5|ROOT 3|2|COP 4|5|NMOD-POSS 5|2|NSUBJ 6|2|PUNCT
+%wor:	and 715837_715957 what 715957_716077 was 716097_716238 her 716298_716458 name 716518_716839 ?
+*PAR:	I can't remember her name either . [+ exc] 718975_719776
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|remember-Inf-S pron|her-Prs-Gen-S3 noun|name-Acc adv|either .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%wor:	I 718975_718995 can't 719035_719516 remember 719516_719776 her name either .
+*INV:	(.) <do you know what is> [//] the story was mainly about a man called George Miller . 727248_731535
+%mor:	det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adv|mainly adp|about det|a-Ind-Art noun|man verb|call-Part-Past-S propn|George propn|Miller .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|CASE 6|7|DET 7|10|ROOT 8|7|ACL 9|8|XCOMP 10|9|FLAT 11|7|PUNCT
+%wor:	do 727248_727288 you 727288_727349 know 727369_727549 what 727950_728110 is 728330_728410 the 728410_728470 story 728490_728791 was 728871_728991 mainly 729051_729372 about 729412_729652 a 729692_729712 man 729773_729973 called 730073_730354 George 730514_730975 Miller 731035_731535 .
+*INV:	do you know what time of the year it was when George moved in with his son's family ? 732538_736239
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S det|what-Def-Int noun|time-Acc adp|of det|the-Def-Art noun|year pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|when propn|George verb|move-Fin-Ind-Past-S3 adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|19|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|10|NSUBJ 10|3|CCOMP 11|13|ADVMOD 12|13|NSUBJ 13|3|ADVCL 14|13|COMPOUND-PRT 15|19|CASE 16|17|NMOD-POSS 17|19|NMOD-POSS 18|17|CASE 19|13|OBL 20|3|PUNCT
+%wor:	do 732538_732578 you 732578_732638 know 732638_732739 what 732759_732839 time 732880_733181 of 733201_733282 the 733282_733342 year 733362_733563 it 733624_733684 was 733724_733885 when 733925_734046 George 734127_734469 moved 734529_734831 in 734871_734951 with 735012_735132 his 735152_735293 son's 735354_735716 family 735776_736239 ?
+*PAR:	xxx . [+ exc]
+*PAR:	xxx . [+ exc]
+*INV:	George useta tell stories to the little girl . 745172_747617
+%mor:	propn|George propn|useta verb|tell-Fin-Ind-Pres-S3 noun|story-Plur-Acc adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%wor:	George 745172_745472 useta 745532_745772 tell 745852_746053 stories 746213_746753 to 746814_746894 the 746954_747034 little 747094_747314 girl 747354_747617 .
+*INV:	do you know what the stories were about ? 747815_749435
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|what-Rel-S1 det|the-Def-Art noun|story-Plur aux|be-Fin-Ind-Past-P3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|ACL-RELCL 8|3|PUNCT 9|3|PUNCT
+%wor:	do 747815_747855 you 747855_747915 know 747935_748075 what 748095_748195 the 748215_748275 stories 748335_748736 were 748776_748916 about 748936_749435 ?
+*PAR:	no . [+ exc] 749537_750035
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 749537_750035 .
+*INV:	(.) okey doke(y) . 757086_757580
+%mor:	intj|okey intj|dokey .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okey 757086_757426 doke(y) 757426_757580 .
+@G:	George_Delayed
+*INV:	okay . 759849_760110
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 759849_760110 .
+*PAR:	my son should've been here &=laughs . [+ exc] 760163_761607
+%mor:	pron|my-Prs-Gen-S1 noun|son aux|should-Fin-S~aux|have-Inf-S aux|be-Part-Past-S-irr adv|here .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|AUX 4|6|AUX 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	my 760163_760283 son 760363_760563 should've 760643_760903 been 760903_761123 here 761143_761607 .
+*INV:	you tell me just what you can remember of that story . 762666_765347
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adv|just pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|of det|that-Def-Dem-Sing noun|story .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|IOBJ 4|5|ADVMOD 5|2|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	you 762666_762745 tell 762805_762965 me 763025_763085 just 763386_763566 what 763606_763726 you 763766_763866 can 763886_764026 remember 764066_764467 of 764507_764567 that 764607_764767 story 764847_765347 .
+*INV:	(.) do you know what it was about ? 768931_770052
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT 8|3|PUNCT
+%wor:	do 768931_768971 you 768971_769071 know 769071_769191 what 769211_769311 it 769331_769391 was 769411_769512 about 769552_770052 ?
+*PAR:	(.) I'm a little shook up now . [+ exc] 773776_774657
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 verb|shake-Part-Past-S-irr adp|up adv|now .
+%gra:	1|5|NSUBJ-PASS 2|5|AUX-PASS 3|4|DET 4|5|OBL-UNMARKED 5|7|ROOT 6|5|COMPOUND-PRT 7|5|ADVMOD 8|5|PUNCT
+%wor:	I'm a little shook 773776_774036 up 774136_774176 now 774376_774657 .
+*PAR:	I don't know (.) too much . [+ exc] 774977_777176
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|too adv|much .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+%wor:	I 774977_774997 don't 774997_776037 know 776037_776577 too 776637_776778 much 776818_777176 .
+*PAR:	I was listening but I can't (.) put it all together . [+ exc] 778238_781716
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|listen-Part-Pres-S cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|put-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot adv|together .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CONJ 9|8|OBJ 10|11|DET 11|8|ADVMOD 12|3|PUNCT
+%wor:	I was 778238_778398 listening 778498_778979 but 779079_779219 I 779299_779319 can't 779359_779659 put 780699_780859 it 780900_780980 all 781060_781200 together 781260_781716 .
+*INV:	okay . 782320_782798
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 782320_782798 .
+*INV:	can you tell me any little bits ? 783198_784778
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|any-Def-Ind adj|little-S1 noun|bit-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|IOBJ 5|7|DET 6|7|AMOD 7|3|OBJ 8|3|PUNCT
+%wor:	can 783198_783301 you 783321_783401 tell 783441_783621 me 783661_783701 any 783781_783921 little 784001_784241 bits 784281_784778 ?
+*INV:	even if &-you_know it's just one odd piece of information . 784859_789143
+%mor:	adv|even sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just num|one adj|odd-S1 noun|piece adp|of noun|information .
+%gra:	1|8|ADVMOD 2|8|MARK 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|NUMMOD 7|8|AMOD 8|10|ROOT 9|10|CASE 10|8|NMOD 11|8|PUNCT
+%wor:	even 784859_784961 if 784981_785122 you_know 785522_785982 it's 786022_786122 just 786182_786462 one 786962_787103 odd 787183_787343 piece 788223_788483 of 788523_788583 information 788643_789143 .
+*INV:	anything at all . 790406_791259
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	anything 790406_790766 at 790786_790886 all 790966_791259 .
+*PAR:	I must n(o)t have been concentrating because if I would have been concentrating I would remember it . [+ exc] 791259_798098
+%mor:	pron|I-Prs-Nom-S1 aux|must-Fin-S part|not aux|have-Inf-S aux|be-Part-Past-S-irr verb|concentrate-Part-Pres-S sconj|because sconj|if pron|I-Prs-Nom-S1 aux|would-Fin-S aux|have-Inf-S aux|be-Part-Past-S-irr verb|concentrate-Part-Pres-S pron|I-Prs-Nom-S1 aux|would-Fin-S verb|remember-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|ADVMOD 4|6|AUX 5|6|AUX 6|17|ROOT 7|16|MARK 8|13|MARK 9|13|NSUBJ 10|13|AUX 11|13|AUX 12|13|AUX 13|16|ADVCL 14|16|NSUBJ 15|16|AUX 16|6|ADVCL 17|16|OBJ 18|6|PUNCT
+%wor:	I must 791259_791347 n(o)t 791347_791447 have 791447_791568 been 791588_791728 concentrating 791828_792709 because 792810_793331 if 793932_794953 I 794993_795013 would 795033_795174 have 795174_795314 been 795314_795474 concentrating 795534_796336 I 796336_796356 would 796356_796616 remember 797257_797678 it 797718_798098 .
+*PAR:	I can't remember xxx . [+ exc] 798579_799260
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|remember-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I can't 798579_798720 remember 798760_799260 .
+*INV:	okay . 800095_800282
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 800095_800282 .
+@End

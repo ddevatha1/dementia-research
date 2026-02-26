@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/a-00090862-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|50;|male|Control||Participant|29||
+@Media:	336-1, audio
+@G:	Cookie
+*INV:	now I want you to tell me everything you see happening there . 260_2740
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|12|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|ADVMOD 13|3|PUNCT
+%wor:	now 260_380 I 400_420 want 420_560 you 580_640 to 640_741 tell 821_1001 me 1021_1082 everything 1182_1543 you 1563_1683 see 1763_1904 happening 1984_2425 there 2445_2740 .
+*INV:	everything that you see going on in that picture . 3387_5553
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|9|ROOT 2|5|OBL 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+%wor:	everything 3387_3748 that 3768_3888 you 3908_3969 see 4029_4169 going 4229_4570 on 4630_4771 in 4831_4911 that 4911_5091 picture 5131_5553 .
+*PAR:	&-uh (...) inside the room or every place ? [+ exc] 20952_22475
+%mor:	adp|inside det|the-Def-Art noun|room cconj|or det|every-Def-Tot noun|place ?
+%gra:	1|3|CASE 2|3|DET 3|6|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|3|PUNCT
+%wor:	uh 20952_20992 inside 21012_21432 the 21452_21532 room 21593_21793 or 21853_21953 every 22053_22234 place 22294_22475 ?
+*INV:	anything that you see happening , (.) going on . 23610_26000
+%mor:	pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S cm|cm verb|go-Part-Pres-S adp|on .
+%gra:	1|8|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|7|PUNCT 7|1|PARATAXIS 8|7|COMPOUND-PRT 9|1|PUNCT
+%wor:	anything 23610_23896 that 23956_24056 you 24056_24177 see 24237_24357 happening 24457_24858 , going 25519_25779 on 25859_26000 .
+*PAR:	&=sighs . [+ exc]
+*INV:	just say it out loud . 35081_35990
+%mor:	adv|just verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out adv|loud .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|ADVMOD 6|2|PUNCT
+%wor:	just 35081_35990 say it out loud .
+*PAR:	<oh I can> [//] oh you don't want me to memorize it ! [+ exc] 36421_37985
+%mor:	intj|oh pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|memorize-Inf-S pron|it-Prs-Acc-S3 !
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|8|OBJ 10|5|PUNCT
+%wor:	oh 36421_36461 I 36461_36481 can 36502_36622 oh 36942_37042 you 37062_37142 don't 37142_37282 want 37282_37402 me 37422_37462 to 37462_37502 memorize 37502_37842 it 37842_37985 !
+*INV:	no [/] no [/] no I just want you to tell me what's going on in that picture . 38000_39343
+%mor:	intj|no pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|15|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|IOBJ 9|11|NSUBJ 10|11|AUX 11|7|CCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|4|PUNCT
+%wor:	no no no 38000_38003 I 38003_38023 just 38023_38103 want 38103_38203 you 38203_38263 to 38263_38303 tell 38303_38423 me 38423_38463 what's 38463_38583 going 38583_38683 on 38683_38723 in 38723_38763 that 38763_38843 picture 38843_39343 .
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay , the [/] the little girl askin(g) for the cookie from the boy who's about to fall on his head . [+ gram] 40584_44980
+%mor:	intj|okay cm|cm det|the-Def-Art adj|little-S1 noun|girl verb|ask-Ger-S adp|for det|the-Def-Art noun|cookie adp|from det|the-Def-Art noun|boy pron|who-Rel~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|on pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|20|ROOT 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|15|NSUBJ 14|15|COP 15|12|ACL-RELCL 16|17|MARK 17|15|XCOMP 18|20|CASE 19|20|NMOD-POSS 20|17|OBL 21|5|PUNCT
+%wor:	okay 40584_40845 , the 40885_40965 the 41005_41285 little 41325_41505 girl 41545_41745 askin(g) 41945_42326 for 42326_42446 the 42486_42546 cookie 42766_43046 from 43126_43266 the 43306_43386 boy 43446_43707 who's 43727_43847 about 43907_44127 to 44167_44227 fall 44287_44487 on 44547_44607 his 44627_44767 head 44807_44980 .
+*PAR:	and she's goin(g) I guess “shush” or “give me one” . 45107_47810
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 verb|shush-Inf-S cconj|or verb|give-Fin-Ind-Pres-S1 pron|I-Prs-Acc-S1 num|one .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|XCOMP 8|9|CC 9|7|CONJ 10|9|IOBJ 11|9|OBJ 12|4|PUNCT
+%wor:	and 45107_45188 she's 45268_45528 goin(g) 45568_45908 I 45908_45928 guess 45968_46168 shush 46308_46609 or 46849_46949 give 47229_47389 me 47409_47469 one 47629_47810 .
+*PAR:	the mother's &=laughs we don't think she might be on drugs (be)cause &-uh &=laughs she's off someplace (be)cause the sink's runnin(g) over . [+ gram] 49158_56868
+%mor:	det|the-Def-Art noun|mother~part|s pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|think-Inf-S pron|she-Prs-Nom-S3 aux|might-Fin-S aux|be-Inf-S adp|on noun|drug-Plur sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|off adv|someplace sconj|because det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|23|ROOT 8|12|NSUBJ 9|12|AUX 10|12|COP 11|12|CASE 12|7|CCOMP 13|17|MARK 14|17|NSUBJ 15|17|COP 16|17|ADVMOD 17|12|ADVCL 18|22|MARK 19|20|DET 20|22|NSUBJ 21|22|AUX 22|17|ADVCL 23|22|COMPOUND-PRT 24|7|PUNCT
+%wor:	the 49158_49218 mother's 49218_49618 we 51000_51060 don't 51100_51220 think 51240_51380 she 51400_51460 might 51500_51640 be 51660_51700 on 51780_51861 drugs 51901_52181 (be)cause 52181_52541 uh 52541_52641 she's 54764_54964 off 54984_55224 someplace 55244_55625 (be)cause 55625_55885 the 55905_55965 sink's 56045_56286 runnin(g) 56346_56666 over 56666_56868 .
+*PAR:	and &-uh it's summer outside because the window's open and <the grasses or> [//] the bushes look healthy +... 57887_63214
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|summer adv|outside sconj|because det|the-Def-Art noun|window~aux|be-Fin-Ind-Pres-S3 adj|open-S1 cconj|and det|the-Def-Art noun|bush-Plur verb|look-Fin-Ind-Pres-P3 adj|healthy-S1 +...
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|15|ROOT 5|4|ADVMOD 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|COP 10|4|ADVCL 11|14|CC 12|13|DET 13|14|NSUBJ 14|10|CONJ 15|14|XCOMP 16|4|PUNCT
+%wor:	and 57887_58208 uh 58308_58468 it's 58969_59109 summer 59129_59389 outside 59489_60010 because 60030_60250 the 60250_60310 window's 60330_60631 open 60711_60991 and 61051_61151 the 61151_61231 grasses 61371_61892 or 61972_62052 the 62092_62172 bushes 62252_62573 look 62633_62773 healthy 62833_63214 +...
+*PAR:	and &-uh (..) she's dryin(g) dishes with her apron on . 63377_67937
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc adp|with pron|her-Prs-Gen-S3 noun|apron adp|on .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|4|OBL 10|4|PUNCT
+%wor:	and 63377_63477 uh 63557_63697 she's 65820_66041 dryin(g) 66061_66401 dishes 66401_66782 with 67002_67203 her 67223_67283 apron 67323_67703 on 67744_67937 .
+*PAR:	(.) and the cookie jar's lookin(g) full . 69948_71438
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adj|full-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|XCOMP 8|6|PUNCT
+%wor:	and the 69948_70007 cookie 70107_70448 jar's 70468_70768 lookin(g) 70808_71129 full 71129_71438 .
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that's it . [+ exc] 75491_75881
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 75491_75736 it 75796_75881 .
+*INV:	alright thanks . 76558_77139
+%mor:	intj|alright noun|thanks .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	alright 76558_76918 thanks 76938_77139 .
+@End

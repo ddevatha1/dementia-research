@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090412-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|74;|male|ProbableAD||Participant|10||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	148-0, audio
+@G:	Cookie
+*PAR:	well <the table [: stool] [* s:r-ret]> [//] the seat [: stool] [* s:r] is falling . 1820_3960
+%mor:	intj|well det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	well 1820_1920 the 1920_1980 stool 1980_2160 the 2160_2240 stool 3121_3281 is 3321_3442 falling 3522_3960 .
+*PAR:	the sink is running over . 6876_8436
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 6876_6886 sink 6986_7247 is 7307_7467 running 7867_8128 over 8208_8436 .
+*PAR:	the girl's reaching for a cookie . 12185_13435
+%mor:	det|the-Def-Art noun|girl~part|s verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 12185_12273 girl's 12353_12814 reaching 12814_13134 for 13134_13194 a 13194_13214 cookie 13214_13435 .
+*PAR:	the mom is dryin(g) a dish . 17436_18036
+%mor:	det|the-Def-Art noun|mom aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 17436_17516 mom 17536_17656 is 17696_17797 dryin(g) 17797_18036 a dish .
+*PAR:	&-hm &-hm cup and saucers there . [+ gram] 23155_23878
+%mor:	noun|cup cconj|and noun|saucer-Plur adv|there .
+%gra:	1|4|ROOT 2|3|CC 3|1|CONJ 4|1|ADVMOD 5|1|PUNCT
+%wor:	hm 23155_23235 hm 23235_23316 cup 23396_23456 and 23476_23556 saucers 23556_23697 there 23697_23878 .
+*PAR:	(..) yeah that's about all that +//. [+ exc] 34975_35435
+%mor:	intj|yeah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|that-Dem +//.
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DET-PREDET 6|6|ROOT 7|6|PUNCT
+%wor:	yeah 34975_35155 that's 35155_35295 about 35315_35435 all that +//.
+*PAR:	I <didn't hit> [//] did this and then I did that . [+ exc] 36136_37291
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1-irr pron|this-Dem-S1 cconj|and adv|then pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1-irr pron|that-Dem .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|7|CC 5|7|ADVMOD 6|7|NSUBJ 7|2|CONJ 8|7|OBJ 9|2|PUNCT
+%wor:	I 36136_36156 didn't 36156_36297 hit 36297_36417 did 36417_36497 this 36497_36737 and 36777_36837 then 36837_36998 I 36998_37018 did 37018_37198 that 37198_37291 .
+*INV:	can you see anything else ? 45452_46332
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|4|AMOD 6|3|PUNCT
+%wor:	can 45452_45530 you 45530_45590 see 45711_45851 anything 45851_46151 else 46171_46332 ?
+*PAR:	&-hm well yeah here's some outside (.) the window . [+ es] 49060_52860
+%mor:	intj|well intj|yeah adv|here~aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind adp|outside det|the-Def-Art noun|window .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|8|ROOT 4|3|COP 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+%wor:	hm 49060_49120 well 49120_49320 yeah 49380_49681 here's 49701_49921 some 49941_50161 outside 50642_51203 the 51203_52546 window 52566_52860 .
+*PAR:	&-uh a garden I guess . [+ gram] 57175_57845
+%mor:	det|a-Ind-Art noun|garden pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|DET 2|4|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+%wor:	uh a 57175_57194 garden 57194_57495 I 57535_57555 guess 57595_57845 .
+*INV:	okay . 58498_58997
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 58498_58997 .
+*INV:	(..) okay ? 69815_70133
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 69815_70133 ?
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

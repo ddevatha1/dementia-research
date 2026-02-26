@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/a-00090325-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|19||
+@Media:	007-1, audio
+@G:	Cookie
+*INV:	www .
+%exp:	recording prep
+*INV:	there it is . 2159_2699
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	there 2159_2408 it 2450_2512 is 2533_2699 .
+*PAR:	xxx . [+ exc]
+*INV:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	can I look at it and tell you ? [+ exc]
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|look-Inf-S adp|at pron|it-Prs-Acc-S3 cconj|and verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|CASE 5|3|OBL 6|7|CC 7|3|CONJ 8|7|IOBJ 9|3|PUNCT
+*INV:	just tell me as you see it there mhm . 13955_15685
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 sconj|as pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adv|there intj|mhm .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|2|IOBJ 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|6|OBJ 8|6|ADVMOD 9|2|DISCOURSE 10|2|PUNCT
+%wor:	just 13955_14155 tell 14175_14335 me 14375_14435 as 14515_14795 you 15516_15576 see 15576_15656 it 15656_15685 there mhm .
+*PAR:	+< oh okay . [+ exc]
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	well there's a girl and a boy and the boy's in the cookie jar . 15997_18954
+%mor:	intj|well pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl cconj|and det|a-Ind-Art noun|boy cconj|and det|the-Def-Art noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|16|ROOT 4|5|DET 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CC 10|11|DET 11|5|CONJ 12|11|CASE 13|16|CASE 14|16|DET 15|16|COMPOUND 16|5|NMOD 17|3|PUNCT
+%wor:	well 15997_16097 there's 16117_16317 a 16377_16397 girl 16437_16738 and 16878_16958 a 16978_16998 boy 17098_17418 and 17579_17659 the 17659_17739 boy's 17779_18059 in 18099_18159 the 18179_18239 cookie 18279_18600 jar 18620_18954 .
+*PAR:	and he's standing on a stool that's tipping over . 19020_22360
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|4|PUNCT
+%wor:	and 19020_19100 he's 19100_19240 standing 19280_19741 on 19801_19881 a 19941_19961 stool 20342_20682 that's 20702_20962 tipping 21883_22244 over 22304_22360 .
+*PAR:	and he's in the kitchen . 22624_23523
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	and 22624_22724 he's 22744_22905 in 22965_23045 the 23085_23165 kitchen 23225_23523 .
+*PAR:	and the mother's in the kitchen running the water at the sink . 23869_26449
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|kitchen verb|run-Ger-S det|the-Def-Art noun|water-Acc adp|at det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|13|ROOT 8|7|ACL 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|7|PUNCT
+%wor:	and the 23869_23886 mother's 23926_24306 in 24366_24446 the 24486_24546 kitchen 24626_24967 running 25067_25347 the 25367_25427 water 25527_25828 at 25888_25948 the 26008_26088 sink 26208_26449 .
+*PAR:	and the water's running over and it's all over the floor . 30615_30675
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|5|COMPOUND-PRT 7|13|CC 8|13|NSUBJ 9|13|COP 10|13|ADVMOD 11|13|CASE 12|13|DET 13|5|CONJ 14|5|PUNCT
+%wor:	and 30615_30675 the water's running over and it's all over the floor .
+*PAR:	and there are curtains at the windows .
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|at det|the-Def-Art noun|window-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|7|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+*PAR:	and there are cups and a plate on the &-uh pantry . 34290_34989
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|pantry .
+%gra:	1|3|CC 2|3|EXPL 3|10|ROOT 4|3|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+%wor:	and there are cups and a plate on 34290_34329 the 34369_34449 uh 34449_34489 pantry 34489_34989 .
+*PAR:	and &-uh &-uh the [/] the [//] outside the window there's a path leading to a garage it looks like . 42421_46741
+%mor:	cconj|and adp|outside det|the-Def-Art noun|window pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|path verb|lead-Ger-S adp|to det|a-Ind-Art noun|garage pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|15|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|12|CASE 11|12|DET 12|9|OBL 13|14|NSUBJ 14|12|ACL-RELCL 15|14|OBL 16|6|PUNCT
+%wor:	and 42421_42481 uh 42481_42561 uh 42561_42621 the 42621_42701 the 42701_42761 outside 42761_43001 the 43041_43101 window 43141_43461 there's 43521_43801 a 43841_43861 path 43941_44381 leading 44401_44802 to 44942_45062 a 45422_45442 garage 45522_46102 it 46102_46162 looks 46162_46502 like 46702_46741 .
+*PAR:	and there are curtains there . 46982_47732
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|3|NSUBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	and 46982_46983 there 46983_47083 are 47083_47183 curtains 47203_47732 there .
+*PAR:	and &-uh that's about all there . [+ exc] 50372_51122
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot adv|there .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and uh that's about 50372_50664 all 50724_51122 there .
+*INV:	okay . 53016_53306
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 53016_53306 .
+@End

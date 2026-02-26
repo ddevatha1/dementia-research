@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/a-00090785-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|female|Control||Participant|30||
+@Media:	175-0, audio
+@G:	Cookie
+*INV:	there it is . 70_710
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	there 70_710 it is .
+*PAR:	the woman is washing dishes . 1772_3331
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 1772_1852 woman 1912_2173 is 2293_2413 washing 2493_2914 dishes 3054_3331 .
+*PAR:	she's wearing an apron . 3554_4748
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S det|a-Ind-Art noun|apron-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 3554_3755 wearing 3855_4155 an 4175_4235 apron 4396_4748 .
+*PAR:	water is pouring out of the sink . 4928_6768
+%mor:	noun|water aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	water 4928_5197 is 5297_5397 pouring 5557_5978 out 6098_6238 of 6298_6379 the 6419_6479 sink 6619_6768 .
+*PAR:	the boy is taking cookies from the cookie jar . 7821_10607
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|PUNCT
+%wor:	the 7821_7901 boy 7961_8181 is 8301_8421 taking 8542_8942 cookies 8982_9343 from 9403_9583 the 9623_9723 cookie 9763_10064 jar 10164_10607 .
+*PAR:	and his sister or young girl is asking for some for her . 11165_14771
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister cconj|or adj|young-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|some-Def-Ind adp|for pron|her-Prs-Acc-S3 .
+%gra:	1|8|CC 2|3|NMOD-POSS 3|8|NSUBJ 4|6|CC 5|6|AMOD 6|3|CONJ 7|8|AUX 8|12|ROOT 9|10|CASE 10|8|OBL 11|12|CASE 12|10|NMOD 13|8|PUNCT
+%wor:	and 11165_11286 his 11366_11506 sister 11586_11946 or 12167_12287 young 12527_12708 girl 13048_13308 is 13449_13529 asking 13709_14090 for 14130_14230 some 14310_14510 for 14530_14630 her 14690_14771 .
+*PAR:	the lid is off the cookie jar . 14952_16622
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 14952_15012 lid 15112_15312 is 15452_15552 off 15713_15853 the 15873_15973 cookie 16033_16354 jar 16434_16622 .
+*PAR:	the cupboard door is open . 17395_18806
+%mor:	det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 17395_17475 cupboard 17535_17856 door 17916_18116 is 18216_18336 open 18477_18806 .
+*PAR:	he is on a three legged stool <which is falling> [//] &-uh which is tilted . 19438_24048
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art num|three adj|legged-S1 noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|CASE 4|7|DET 5|7|NUMMOD 6|7|AMOD 7|10|ROOT 8|10|NSUBJ-PASS 9|10|AUX-PASS 10|7|ACL-RELCL 11|7|PUNCT
+%wor:	he 19438_19498 is 19638_19738 on 19879_19959 a 20019_20039 three 20099_20299 legged 20339_20620 stool 20700_20980 which 21100_21301 is 21361_21481 falling 21641_22062 uh 23043_23163 which 23203_23364 is 23424_23504 tilted 23624_24048 .
+*PAR:	there are curtains in the kitchen . 24245_25708
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|EXPL 2|6|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|2|PUNCT
+%wor:	there 24245_24385 are 24445_24545 curtains 24585_25026 in 25166_25226 the 25246_25306 kitchen 25387_25708 .
+*PAR:	there's a tree outside the window . 25787_27271
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree adp|outside det|the-Def-Art noun|window .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	there's 25787_26007 a 26047_26068 tree 26148_26388 outside 26508_26929 the 26949_27029 window 27069_27271 .
+*PAR:	there are shrubs . 27490_28283
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|shrub-Plur .
+%gra:	1|2|EXPL 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	there 27490_27650 are 27730_27870 shrubs 27950_28283 .
+*PAR:	there's a walk . 28713_29533
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walk .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 28713_28952 a 29072_29092 walk 29212_29533 .
+*PAR:	there are two cups on the &-uh sink counter . 30324_34114
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur adp|on det|the-Def-Art noun|sink noun|counter .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|2|PUNCT
+%wor:	there 30324_30444 are 30484_30604 two 30664_30844 cups 30965_31345 on 31505_31646 the 31726_31826 uh 32086_32206 sink 33448_33649 counter 33709_34114 .
+*PAR:	there's a plate there . 34190_35451
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate adv|there .
+%gra:	1|2|EXPL 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|2|PUNCT
+%wor:	there's 34190_34430 a 34490_34510 plate 34610_34991 there 35071_35451 .
+*PAR:	and as I said the water is overflowing . 36153_37894
+%mor:	cconj|and sconj|as pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|8|CC 2|4|MARK 3|4|NSUBJ 4|8|ADVCL 5|6|DET 6|8|NSUBJ 7|8|COP 8|8|ROOT 9|8|PUNCT
+%wor:	and 36153_36253 as 36253_36333 I 36373_36393 said 36453_36653 the 36693_36753 water 36814_37074 is 37154_37274 overflowing 37394_37894 .
+*PAR:	it is already on the floor . 38256_40019
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|already adp|on det|the-Def-Art noun|floor .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	it 38256_38316 is 38396_38496 already 38636_39037 on 39277_39378 the 39438_39518 floor 39638_40019 .
+*PAR:	there are cupboards above the kitchen counter and below . 41108_45687
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|cupboard-Plur adp|above det|the-Def-Art noun|kitchen noun|counter cconj|and adv|below .
+%gra:	1|2|EXPL 2|9|ROOT 3|2|NSUBJ 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|NMOD 8|9|CC 9|7|CONJ 10|2|PUNCT
+%wor:	there 41108_41248 are 41328_41468 cupboards 42089_42470 above 42731_43211 the 43552_43612 kitchen 43672_44053 counter 44554_44995 and 45155_45235 below 45275_45687 .
+*PAR:	and the window is above the kitchen sink . 46458_49283
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adp|above det|the-Def-Art noun|kitchen noun|sink .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|8|ROOT 9|8|PUNCT
+%wor:	and 46458_46537 the 46558_46638 window 46678_46998 is 47099_47199 above 47279_47599 the 47639_47720 kitchen 47780_48140 sink 48902_49283 .
+*PAR:	and the mother has a short sleeve dress on has short hair and is drying the dishes by hand .
+%mor:	cconj|and det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|short-S1 noun|sleeve noun|dress-Acc adp|on verb|have-Fin-Ind-Pres-S3 adj|short-S1 noun|hair-Acc cconj|and aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|by noun|hand .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|19|ROOT 5|8|DET 6|8|AMOD 7|8|COMPOUND 8|4|OBJ 9|10|ADVMOD 10|4|ADVCL 11|12|AMOD 12|10|OBJ 13|15|CC 14|15|AUX 15|4|CONJ 16|17|DET 17|15|OBJ 18|19|CASE 19|15|OBL 20|4|PUNCT
+*PAR:	curtains on the window that you can see outside the window to the other side of the house . [+ gram] 60309_60629
+%mor:	noun|curtain-Plur adp|on det|the-Def-Art noun|window pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|outside det|the-Def-Art noun|window adp|to det|the-Def-Art adj|other-S1 noun|side adp|of det|the-Def-Art noun|house .
+%gra:	1|18|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|15|CASE 13|15|DET 14|15|AMOD 15|8|OBL 16|18|CASE 17|18|DET 18|15|NMOD 19|1|PUNCT
+%wor:	curtains 60309_60629 on the window that you can see outside the window to the other side of the house .
+*PAR:	you can see the grass .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|grass-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	you can see the handles on the cupboards .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|handle-Plur-Acc adp|on det|the-Def-Art noun|cupboard-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*PAR:	anything else ? [+ exc]
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*INV:	nope that's it . 66056_66537
+%mor:	intj|nope pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	nope that's 66056_66336 it 66356_66537 .
+@End

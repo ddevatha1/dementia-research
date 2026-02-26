@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00090775-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|81;|female|Control||Participant|28||
+@Media:	158-3, audio
+@G:	Cookie
+*INV:	all the action .
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR:	well , <the tool [: stool] [* p:w-ret] is> [//] &+fa the stool [/] &=laughs stool is falling over . 2170_6909
+%mor:	intj|well cm|cm det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	well 2170_2310 , the 2510_2610 stool 2630_3210 is 3270_3430 the 3971_4051 stool 4171_4551 stool 5512_5892 is 5932_6072 falling 6172_6612 over 6672_6909 .
+*PAR:	the &-uh boy is taking cookies out of the cookie jar . 8514_12977
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|OBJ 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+%wor:	the 8514_8634 uh 8774_8854 boy 10315_10575 is 10615_10735 taking 10855_11275 cookies 11355_11756 out 11836_11916 of 11936_11976 the 11976_12056 cookie 12136_12496 jar 12496_12977 .
+*PAR:	the little girl is reaching for a cookie (.) and holding her arm up . 14871_20921
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie cconj|and verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|arm-Acc adp|up .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|5|CONJ 11|12|NMOD-POSS 12|10|OBJ 13|10|COMPOUND-PRT 14|5|PUNCT
+%wor:	the 14871_14951 little 14971_15211 girl 15271_15532 is 15612_15712 reaching 15872_16313 for 16473_16654 a 16694_16714 cookie 16814_17235 and 19699_19819 holding 19920_20300 her 20320_20461 arm 20561_20741 up 20841_20921 .
+*PAR:	the mother <is drying> [//] is doing dishes . 23026_25870
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 23026_23105 mother 23166_23486 is 23566_23707 drying 23987_24468 is 24809_24929 doing 25029_25309 dishes 25370_25870 .
+*PAR:	the water is spilling out of the sink . 28297_30359
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 28297_28377 water 28397_28717 is 28777_28857 spilling 28917_29278 out 29358_29478 of 29498_29558 the 29598_29658 sink 29859_30359 .
+*PAR:	and the mother's standing in the water . 34406_36246
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|standing-Ger adp|in det|the-Def-Art noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+%wor:	and 34406_34525 the 34525_34586 mother's 34646_34986 standing 35106_35627 in 35647_35707 the 35727_35807 water 35867_36246 .
+*PAR:	the mother is looking out of the window . 41276_42917
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out adp|of det|the-Def-Art noun|window .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|5|FIXED 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 41276_41335 mother 41375_41596 is 41636_41696 looking 41736_42036 out 42096_42216 of 42237_42277 the 42297_42377 window 42417_42917 .
+*PAR:	the water's coming out of the faucet . 45602_47285
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|out adp|of det|the-Def-Art noun|faucet .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 45602_45662 water's 45722_46123 coming 46183_46444 out 46484_46605 of 46605_46645 the 46645_46705 faucet 46785_47285 .
+*PAR:	that's about all I can +/. [+ exc] 48919_49489
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S +/.
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+%wor:	that's 48919_49073 about 49133_49333 all 49374_49489 I can +/.
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+, get out of that . [+ exc] 51122_51862
+%mor:	verb|get-Fin-Imp-S adp|out adp|of pron|that-Dem .
+%gra:	1|4|ROOT 2|4|CASE 3|2|FIXED 4|1|OBL 5|1|PUNCT
+%wor:	get 51122_51260 out 51320_51440 of 51440_51480 that 51520_51862 .
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

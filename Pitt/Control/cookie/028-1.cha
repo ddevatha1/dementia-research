@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/a-00090658-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|Control||Participant|29||
+@Media:	028-1, audio
+@G:	Cookie
+*INV:	okay and here's the picture .
+%mor:	intj|okay cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|CC 3|6|ROOT 4|3|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*PAR:	(.) okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	mother is drying the dishes but the water is going out over the sink onto the floor . 5398_8562
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|but det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|out adp|over det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|17|ROOT 4|5|DET 5|3|OBJ 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|3|CONJ 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|17|CASE 16|17|DET 17|10|OBL 18|3|PUNCT
+%wor:	mother 5398_5518 is 5538_5618 drying 5618_5758 the 5798_5878 dishes 5938_6319 but 6419_6499 the 6539_6620 water 6720_6960 is 7000_7040 going 7080_7281 out 7321_7441 over 7441_7541 the 7541_7601 sink 7601_7681 onto 7781_7882 the 7922_8002 floor 8062_8562 .
+*PAR:	&+ah it's a pretty day outside .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|pretty-S1 noun|day adv|outside .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	lots of flowers . [+ gram]
+%mor:	noun|lot-Plur adp|of noun|flower-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*PAR:	there are three dishes left (.) to wash [//] dry , I guess .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|three noun|dish-Plur verb|leave-Part-Past-S-irr part|to verb|dry-Inf-S cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|EXPL 2|10|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|4|ACL 6|7|MARK 7|5|ADVCL 8|10|PUNCT 9|10|NSUBJ 10|2|PARATAXIS 11|2|PUNCT
+*PAR:	she's standing in the water .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	looks dangerous . [+ gram]
+%mor:	verb|look-Fin-Ind-Pres-S3 adj|dangerous-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+*PAR:	the children &+i are getting into the cookie jar . 25535_27369
+%mor:	det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	the children 25535_25759 are 26059_26199 getting 26299_26539 into 26579_26719 the 26759_26819 cookie 26879_27160 jar 27200_27369 .
+*PAR:	the boy's up there on the stool . 27608_29138
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adv|up adv|there adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+%wor:	the boy's 27608_27920 up 27960_28060 there 28080_28301 on 28301_28421 the 28441_28521 stool 28861_29138 .
+*PAR:	and that's almost falling over . 29217_30358
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|almost verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 29217_29341 that's 29341_29522 almost 29522_29822 falling 29862_30202 over 30322_30358 .
+*PAR:	he's got one cookie in his hand . 30874_31864
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr num|one noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|NUMMOD 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+%wor:	he's 30874_30983 got 31023_31123 one 31123_31223 cookie 31223_31483 in 31523_31563 his 31563_31743 hand 31743_31864 .
+*PAR:	he's handing it to the little girl . 32594_33722
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%wor:	he's 32594_32694 handing 32694_32994 it 32994_33134 to 33174_33254 the 33314_33374 little 33374_33555 girl 33555_33722 .
+*PAR:	and he's getting another one out of the cookie jar cupboard . 33746_35906
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|another-Def-Ind noun|one-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar noun|cupboard .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|6|DET 6|4|OBJ 7|12|CASE 8|12|CASE 9|12|DET 10|12|COMPOUND 11|12|COMPOUND 12|4|OBL 13|4|PUNCT
+%wor:	and 33746_33995 he's 33995_34135 getting 34135_34315 another 34355_34595 one 34595_34695 out 35376_35456 of 35456_35496 the 35496_35556 cookie 35556_35776 jar 35796_35906 cupboard .
+*PAR:	(..) did you say action that is going on ? [+ exc]
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S noun|action-Acc pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|COMPOUND-PRT 9|3|PUNCT
+*INV:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh the little girl is [//] kinda [: kind_of] [//] has her hand up to her mouth . 48501_50141
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|10|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|4|PUNCT
+%wor:	uh 48501_48541 the 48541_48601 little 48641_48821 girl 48821_48901 is 48901_48941 kind_of 48941_49081 has 49081_49221 her 49221_49301 hand 49301_49461 up 49461_49501 to 49501_49561 her 49561_49661 mouth 49661_50141 .
+*PAR:	looks like she's trying to eat it or be quiet or she's laughing &=laughs . [+ gram] 53272_55872
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|eat-Inf-S pron|it-Prs-Acc-S3 cconj|or aux|be-Inf-S adj|quiet-S1 cconj|or pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|15|ROOT 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|1|ADVCL 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|11|CC 10|11|COP 11|7|CONJ 12|15|CC 13|15|NSUBJ 14|15|AUX 15|11|CONJ 16|1|PUNCT
+%wor:	looks 53272_53423 like 53423_53583 she's 53703_53884 trying 53904_54064 to 54064_54104 eat 54124_54264 it 54304_54424 or 54444_54504 be 54584_54664 quiet 54784_55084 or 55104_55144 she's 55184_55404 laughing 55424_55872 .
+*INV:	&=laughs .
+*PAR:	the mother doesn't seem to be paying much attention .
+%mor:	det|the-Def-Art noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S verb|pay-Part-Pres-S adj|much-S1 noun|attention-Acc .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|8|MARK 7|8|AUX 8|5|XCOMP 9|10|AMOD 10|8|OBJ 11|5|PUNCT
+*PAR:	she looks like she's looking out the window . 60187_60828
+%mor:	pron|she-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|2|PUNCT
+%wor:	she looks like she's looking out 60187_60307 the 60327_60387 window 60387_60828 .
+*PAR:	(.) the water is splashing onto the floor . 65723_67413
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 65723_65783 water 65783_65964 is 66004_66105 splashing 66145_66708 onto 66769_66889 the 66889_66950 floor 66990_67413 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that's it . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

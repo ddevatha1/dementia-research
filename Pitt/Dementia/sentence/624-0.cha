@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/a-00091476-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|60;|female|PossibleAD||Participant|18||
+@Media:	624-0, audio
+*INV:	and hospital@q . 260_1040
+%mor:	cconj|and q|hospital .
+%gra:	1|2|CC 2|2|FLAT 3|2|PUNCT
+%wor:	and 260_420 hospital@q 540_1040 .
+*INV:	put those in a brief sentence . 3562_5063
+%mor:	verb|put-Fin-Imp-S pron|that-Dem-P1 adp|in det|a-Ind-Art adj|brief-S1 noun|sentence .
+%gra:	1|6|ROOT 2|1|OBJ 3|6|CASE 4|6|DET 5|6|AMOD 6|1|OBL 7|1|PUNCT
+%wor:	put 3562_3662 those 3702_3922 in 3962_4022 a 4082_4102 brief 4162_4443 sentence 4563_5063 .
+*PAR:	well , in the hospital . [+ exc] 5636_8465
+%mor:	intj|well cm|cm adp|in det|the-Def-Art noun|hospital .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	well 5636_6204 , in 6644_6824 the 7104_7945 hospital 7965_8465 .
+*PAR:	&-uh (.) we took the child to the hospital . 11287_15007
+%mor:	pron|we-Prs-Nom-P1 verb|take-Fin-Ind-Past-P1-irr det|the-Def-Art noun|child-Acc adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	uh 11287_11327 we 13509_13589 took 13669_13849 the 13909_13989 child 14049_14349 to 14389_14429 the 14469_14549 hospital 14569_15007 .
+*INV:	mhm . 15110_15610
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 15110_15610 .
+*INV:	cold@q and winter@q . 16370_18011
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 16370_17171 and 17251_17411 winter@q 17511_18011 .
+*PAR:	I don't like the cold winter . 20973_22594
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|the-Def-Art adj|cold-S1 noun|winter-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%wor:	I 20973_20993 don't 21033_21233 like 21273_21554 the 21594_21674 cold 21714_22014 winter 22094_22594 .
+*INV:	me neither .
+%mor:	pron|I-Prs-Acc-S1 cconj|neither .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*INV:	(..) I'm going to give you three words now . 35870_37492
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|ADVMOD 10|3|PUNCT
+%wor:	I'm 35870_35930 going 35970_36230 to 36250_36290 give 36310_36470 you 36490_36570 three 36631_36871 words 36931_37231 now 37271_37492 .
+*INV:	still make up a sentence using the three words . 37572_40195
+%mor:	adv|still verb|make-Fin-Ind-Pres-S adp|up det|a-Ind-Art noun|sentence-Acc verb|use-Ger-S det|the-Def-Art num|three noun|word-Plur-Acc .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|5|ACL 7|9|DET 8|9|NUMMOD 9|6|OBJ 10|2|PUNCT
+%wor:	still 37572_37772 make 37832_38072 up 38092_38193 a 38233_38253 sentence 38353_38834 using 38914_39194 the 39214_39274 three 39395_39635 words 39695_40195 .
+*INV:	chair@q doctor@q and sit@q . 40717_43821
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 40717_41258 doctor@q 41919_42560 and 42900_43101 sit@q 43321_43821 .
+*PAR:	(..) I sat in the chair at the doctor's . 52798_55963
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Past-S1-irr adp|in det|the-Def-Art noun|chair adp|at det|the-Def-Art noun|doctor~part|s .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|2|OBL 9|8|CASE 10|2|PUNCT
+%wor:	I 52798_52818 sat 52918_53219 in 53359_53479 the 54681_54761 chair 54841_55142 at 55242_55322 the 55362_55423 doctor's 55463_55963 .
+*INV:	mhm . 56281_56524
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 56281_56524 .
+*INV:	(.) bureau@q open@q and drawer@q . 62080_64787
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 62080_62622 open@q 63224_63665 and 63966_64186 drawer@q 64287_64787 .
+*PAR:	(.) &=whispers bureau@q open@q drawer@q . [+ exc] 67891_73774
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 67891_73774 open@q drawer@q .
+*PAR:	&-uh what am I sposta tell you ? [+ exc] 76056_77556
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|sposta verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+%wor:	uh 76056_76116 what 76116_76236 am 76256_76316 I 76396_76416 sposta 76436_76757 tell 76757_76897 you 77077_77556 ?
+*INV:	make up a sentence using those three words . 77597_79959
+%mor:	verb|make-Fin-Imp-S adp|up det|a-Ind-Art noun|sentence-Acc verb|use-Ger-S det|that-Def-Dem-Plur num|three noun|word-Plur-Acc .
+%gra:	1|8|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|4|ACL 6|8|DET 7|8|NUMMOD 8|5|OBJ 9|1|PUNCT
+%wor:	make 77597_77797 up 77817_77897 a 77937_77957 sentence 78057_78538 using 78638_78878 those 78918_79158 three 79198_79458 words 79538_79959 .
+*INV:	bureau@q open@q and drawer@q . 80019_82660
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 80019_81059 open@q 81119_81560 and 81840_82060 drawer@q 82160_82660 .
+*PAR:	(.) I cleaned the bureau drawer . 86824_88425
+%mor:	pron|I-Prs-Nom-S1 verb|clean-Fin-Ind-Past-S1 det|the-Def-Art noun|bureau noun|drawer-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+%wor:	I 86824_86844 cleaned 86944_87285 the 87325_87385 bureau 87465_87825 drawer 87925_88425 .
+*INV:	mhm . 88637_89086
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 88637_89086 .
+@End

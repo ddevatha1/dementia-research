@@ -1,0 +1,96 @@
+@UTF8
+@PID:	11312/a-00090704-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|male|Control||Participant|29||
+@Media:	096-1, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	and there's the picture . 2773_3953
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 2773_2913 there's 2953_3273 the 3313_3373 picture 3453_3953 .
+*PAR:	all of the action . [+ exc] 4335_5164
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	all 4335_4535 of 4575_4655 the 4655_4735 action 4735_5164 .
+*PAR:	&-uh just go ahead and tell you ? [+ exc] 6537_8180
+%mor:	adv|just verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|ADVMOD 4|5|CC 5|2|CONJ 6|5|IOBJ 7|2|PUNCT
+%wor:	uh 6537_6597 just 7258_7458 go 7558_7618 ahead 7658_7899 and 7919_7979 tell 7999_8180 you ?
+*INV:	just say it . 8560_8996
+%mor:	adv|just verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	just 8560_8760 say 8780_8980 it 8980_8996 .
+*PAR:	the mother is dryin(g) a plate . 9381_11983
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 9381_9481 mother 9561_9941 is 10502_10702 dryin(g) 10782_11383 a 11383_11403 plate 11483_11983 .
+*PAR:	and the water's [//] sink is clogged . 13004_15674
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|clogge-Part-Past-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|5|ROOT 6|5|PUNCT
+%wor:	and 13004_13064 the 13064_13124 water's 13164_13724 sink 14946_15166 is 15226_15346 clogged 15386_15674 .
+*PAR:	and there's more water going over . 15807_17293
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|water verb|go-Ger-S adp|over .
+%gra:	1|3|CC 2|3|EXPL 3|7|ROOT 4|5|AMOD 5|3|NSUBJ 6|5|ACL 7|6|COMPOUND-PRT 8|3|PUNCT
+%wor:	and 15807_15887 there's 15887_16107 more 16107_16307 water 16347_16648 going 16708_16988 over 17028_17293 .
+*PAR:	and it's splashin(g) onto the floor . 17329_19190
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 17329_17408 it's 17428_17529 splashin(g) 17569_18189 onto 18189_18470 the 18530_18630 floor 18690_19190 .
+*PAR:	and the [/] &+s the boy's fallin(g) off the stool gettin(g) cookies from the cookie jar . 20833_25498
+%mor:	cconj|and det|the-Def-Art noun|boy~part|s verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool-Acc verb|get-Ger-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|14|ROOT 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|5|ADVCL 10|9|OBJ 11|14|CASE 12|14|DET 13|14|COMPOUND 14|9|OBL 15|5|PUNCT
+%wor:	and 20833_21033 the 21073_21153 the 21513_21593 boy's 21633_21954 fallin(g) 22034_22434 off 22434_22594 the 22674_22754 stool 22835_23115 gettin(g) 23195_23916 cookies 23916_24236 from 24276_24416 the 24456_24536 cookie 24596_25017 jar 25037_25498 .
+*PAR:	(.) and the girl's puttin(g) her finger up to her lip which means I won't tell or somethin(g) like that . 29528_35168
+%mor:	cconj|and det|the-Def-Art noun|girl~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|lip pron|which-Rel-S1 verb|mean-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not verb|tell-Inf-S cconj|or pron|something-Ind-S1 adp|like pron|that-Dem .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|21|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|COMPOUND-PRT 9|11|CASE 10|11|NMOD-POSS 11|5|OBL 12|13|NSUBJ 13|11|ACL-RELCL 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|13|CCOMP 18|19|CC 19|17|CONJ 20|21|CASE 21|19|NMOD 22|5|PUNCT
+%wor:	and 29528_29648 the 29668_29768 girl's 29828_30149 puttin(g) 30229_30569 her 30569_30629 finger 30689_30990 up 31050_31150 to 31250_31351 her 31451_31571 lip 32352_32552 which 32633_32833 means 33113_33354 I 33494_33514 won't 33534_33795 tell 33835_34055 or 34135_34215 somethin(g) 34275_34716 like 34716_34956 that 34996_35168 .
+*PAR:	&-uh shoes are gettin(g) wet in the mother . [+ gram] 36439_39905
+%mor:	noun|shoe-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adj|wet-S1 adp|in det|the-Def-Art noun|mother .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	uh 36439_36499 shoes 38282_38562 are 38622_38723 gettin(g) 38743_39063 wet 39063_39243 in 39283_39324 the 39364_39424 mother 39484_39905 .
+*PAR:	(.) I'm lookin(g) outside but I don't see it doin(g) anything . 44914_47364
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|look-Part-Pres-S adv|outside cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 verb|do-Ger-S pron|anything-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|3|ADVMOD 5|9|CC 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|3|CONJ 10|9|OBJ 11|9|XCOMP 12|11|OBJ 13|3|PUNCT
+%wor:	I'm 44914_44994 lookin(g) 45034_45415 outside 45415_45956 but 45956_46076 I 46096_46116 don't 46116_46377 see 46417_46597 it 46617_46657 doin(g) 46697_47018 anything 47018_47364 .
+*PAR:	<it doesn't look> [//] snowy ? [+ exc] 47439_48720
+%mor:	adj|snowy-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	it 47439_47519 doesn't 47519_47739 look 47739_47900 snowy 48220_48720 ?
+*PAR:	doesn't have too much to tell with that . [+ exc] 51488_53732
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S adv|too adj|much-S1 part|to verb|tell-Inf-S adp|with pron|that-Dem .
+%gra:	1|3|AUX 2|3|ADVMOD 3|9|ROOT 4|5|ADVMOD 5|3|OBJ 6|7|MARK 7|5|ACL 8|9|CASE 9|7|OBL 10|3|PUNCT
+%wor:	doesn't 51488_51808 have 51808_52028 too 52068_52228 much 52269_52509 to 52770_52930 tell 53050_53210 with 53230_53551 that 53551_53732 .
+*PAR:	that's about the [//] all the action I see is the water spillin(g) over and the boy fallin(g) off the stool . 57011_63841
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|water verb|spill-Ger-S adp|over cconj|and det|the-Def-Art noun|boy verb|fall-Ger-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|11|NSUBJ 2|11|COP 3|11|ADVMOD 4|6|DET-PREDET 5|6|DET 6|11|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|11|COP 10|11|DET 11|20|ROOT 12|11|ACL 13|12|COMPOUND-PRT 14|17|CC 15|16|DET 16|17|NSUBJ 17|12|CONJ 18|20|CASE 19|20|DET 20|17|OBL 21|11|PUNCT
+%wor:	that's 57011_57131 about 57131_57311 the 57371_57451 all 58413_58533 the 58533_58613 action 58713_59014 I 59194_59214 see 59334_59515 is 59555_59655 the 59655_59735 water 59795_60096 spillin(g) 60156_60597 over 60597_60797 and 60837_60917 the 60917_60977 boy 61077_61378 fallin(g) 62520_62961 off 62961_63121 the 63181_63261 stool 63341_63841 .
+*INV:	okay fine . 64071_65365
+%mor:	intj|okay adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 64071_65365 fine .
+*PAR:	I don't know that snow is action . [+ exc] 66647_68225
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|that noun|snow aux|be-Fin-Ind-Pres-S3 noun|action .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|8|MARK 6|8|NSUBJ 7|8|COP 8|4|CCOMP 9|4|PUNCT
+%wor:	I 66647_66667 don't 66687_66847 know 66847_66987 that 67048_67228 snow 67368_67649 is 67729_67829 action 67929_68225 .
+*PAR:	I don't see it snowin(g) . [+ exc] 68370_69282
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 verb|snow-Ger-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+%wor:	I 68370_68390 don't 68410_68570 see 68610_68750 it 68790_68851 snowin(g) 68931_69282 .
+*PAR:	it looked light out there . [+ exc] 69412_70485
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adj|light-S1 adp|out adv|there .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|2|COMPOUND-PRT 5|2|ADVMOD 6|2|PUNCT
+%wor:	it 69412_69512 looked 69552_69832 light 69872_70073 out 70133_70253 there 70293_70485 .
+*INV:	+< okay +/.
+%mor:	intj|okay +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I don't know . [+ exc] 70774_71175
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I don't 70774_70814 know 70834_71175 .
+@End

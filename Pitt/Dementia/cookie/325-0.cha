@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/a-00090509-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|71;|female|ProbableAD||Participant|20||
+@Media:	325-0, audio
+@G:	Cookie
+*INV:	tell me everything that you see going on in that picture . 870_3320
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|11|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+%wor:	tell 870_970 me 990_1050 everything 1130_1490 that 1490_1610 you 1670_1730 see 1910_2110 going 2230_2530 on 2611_2711 in 2751_2831 that 2851_3011 picture 3051_3320 .
+*PAR:	(.) well , the lady's dryin(g) her dishes . 8103_9854
+%mor:	intj|well cm|cm det|the-Def-Art noun|lady~part|s verb|drying-Part-Pres-S pron|her-Prs-Gen-S3 noun|dish-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|4|CASE 6|8|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|6|PUNCT
+%wor:	well 8103_8334 , the 8394_8454 lady's 8514_8834 dryin(g) 8874_9194 her 9194_9294 dishes 9354_9854 .
+*PAR:	that [//] the little boy's up on a ladder reachin(g) for cookie jar &=laughs . [+ gram] 11208_14598
+%mor:	det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|a-Ind-Art noun|ladder verb|reach-Ger-S adp|for noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|12|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|8|ACL 10|12|CASE 11|12|COMPOUND 12|9|OBL 13|5|PUNCT
+%wor:	that 11208_11336 the 11396_11476 little 11576_11776 boy's 11836_12216 up 12276_12396 on 12496_12616 a 12676_12696 ladder 12796_13137 reachin(g) 13197_13597 for 13597_13717 cookie 13797_14237 jar 14337_14598 .
+*PAR:	and the little girl's down on the floor reachin(g) up toward him . 16183_20583
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~part|s adv|down adp|on det|the-Def-Art noun|floor verb|reach-Part-Pres-S adp|up adp|toward pron|he-Prs-Acc-S3 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NMOD-POSS 5|4|CASE 6|13|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVCL 11|10|COMPOUND-PRT 12|13|CASE 13|10|OBL 14|6|PUNCT
+%wor:	and 16183_16243 the 16243_16303 little 16383_16603 girl's 16743_17164 down 17244_17444 on 17504_17584 the 17604_17664 floor 17764_18125 reachin(g) 19366_19766 up 19766_19866 toward 19947_20307 him 20347_20583 .
+*PAR:	then I see a sink , the dishes , cupboard . [+ gram] 22395_27094
+%mor:	adv|then pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|sink-Acc cm|cm det|the-Def-Art noun|dish-Plur cm|cm noun|cupboard .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ROOT 4|5|DET 5|3|OBJ 6|8|PUNCT 7|8|DET 8|5|APPOS 9|10|PUNCT 10|8|APPOS 11|3|PUNCT
+%wor:	then 22395_22529 I 22629_22649 see 22730_22890 a 22910_22930 sink 23130_23510 , the 24692_24792 dishes 24892_25412 , cupboard 26594_27094 .
+*PAR:	and then there's a walkway in the back . 29317_31019
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walkway adp|in det|the-Def-Art noun|back .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|4|PUNCT
+%wor:	and 29317_29437 then 29437_29557 there's 29597_29777 a 29817_29837 walkway 29917_30438 in 30478_30558 the 30558_30618 back 30678_31019 .
+*PAR:	guess [//] I guess that's a walkway I call . [+ gram] [+ exc] 31752_33962
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walkway pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|NSUBJ 4|6|COP 5|6|DET 6|2|CCOMP 7|8|NSUBJ 8|6|ACL-RELCL 9|2|PUNCT
+%wor:	guess 31752_31932 I 32132_32152 guess 32232_32432 that's 32432_32653 a 32693_32713 walkway 32773_33314 I 33434_33474 call 33574_33962 .
+*INV:	anything else ? 36458_37008
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 36458_36838 else 36898_37008 ?
+*INV:	what else is going on in that picture ? 37179_38797
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	what 37179_37299 else 37359_37539 is 37579_37659 going 37719_37960 on 38020_38080 in 38120_38200 that 38200_38340 picture 38400_38797 ?
+*PAR:	the water's running over the sink &=laughs . 39703_41804
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 39703_39802 water's 39902_40242 running 40343_40663 over 40763_41084 the 41144_41264 sink 41304_41804 .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	well , I said the little boy's climbing up <on the cookie> [//] &+j for the cookies . 49702_53601
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S adp|up adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|13|ROOT 5|7|DET 6|7|AMOD 7|9|NSUBJ 8|9|AUX 9|4|CCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|4|PUNCT
+%wor:	well 49702_49802 , I 49802_49822 said 49882_50043 the 50043_50103 little 50103_50325 boy's 50385_50626 climbing 50726_51229 up 51289_51390 on 51510_51591 the 51611_51691 cookie 52455_52756 for 52937_53078 the 53098_53158 cookies 53239_53601 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

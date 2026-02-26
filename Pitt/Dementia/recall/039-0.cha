@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/a-00089851-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|male|Memory||Participant|28||
+@Media:	039-0, audio
+@Comment:	linking is inaccurate; audio too indistinct to correct
+@G:	George_Immediate
+*INV:	remember about it ? 6282_7501
+%mor:	verb|remember-Fin-Imp-S adp|about pron|it-Prs-Acc-S3 ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*PAR:	okay . [+ exc] 7749_8249
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh (..) George took his granddaughter (.) to visit the (.) area that he had grown up as a child . 13882_17447
+%mor:	propn|George verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|granddaughter-Acc part|to verb|visit-Inf-S det|the-Def-Art noun|area-Acc pron|that-Rel pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|grow-Part-Past-S-irr adp|up adp|as det|a-Ind-Art noun|child .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|8|DET 8|6|OBJ 9|12|OBJ 10|12|NSUBJ 11|12|AUX 12|8|ACL-RELCL 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|2|PUNCT
+*PAR:	and &-uh she was frightened because &-uh the streets were very crowded . 24518_29103
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S sconj|because det|the-Def-Art noun|street-Plur aux|be-Fin-Ind-Past-P3-irr adv|very adj|crowded-S1 .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|10|ROOT 5|10|MARK 6|7|DET 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|4|ADVCL 11|4|PUNCT
+*PAR:	he held her by the hand . 29804_29944
+%mor:	pron|he-Prs-Nom-S3 verb|hold-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|by det|the-Def-Art noun|hand .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*PAR:	and &-uh she was happy to get back home again . 32126_35247
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|happy-S1 part|to verb|get-Inf-S adv|back adv|home adv|again .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|6|ADVMOD 9|6|ADVMOD 10|4|PUNCT
+*INV:	okay , good . 37088_37288
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*INV:	thank you .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+@G:	George_Delayed
+*PAR:	do I hafta remember their names ? [+ exc] 39686_40990
+%mor:	aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 part|hafta verb|remember-Inf-S pron|their-Prs-Gen-P3 noun|name-Plur-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*INV:	if you can .
+%mor:	sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S .
+%gra:	1|3|MARK 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*INV:	if you can't that's okay . 43211_44372
+%mor:	sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|7|ADVCL 4|3|ADVMOD 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+*PAR:	the grandfather took his granddaughter Melanie &-uh to visit the section of town that he had grown up when he was a child . 44512_53526
+%mor:	det|the-Def-Art noun|grandfather verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|granddaughter-Acc propn|Melanie part|to verb|visit-Inf-S det|the-Def-Art noun|section-Acc adp|of noun|town pron|that-Rel pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|grow-Part-Past-S-irr adp|up adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|child .
+%gra:	1|2|DET 2|3|NSUBJ 3|22|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|5|APPOS 7|8|MARK 8|3|ADVCL 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|16|OBJ 14|16|NSUBJ 15|16|AUX 16|10|ACL-RELCL 17|16|COMPOUND-PRT 18|22|ADVMOD 19|22|NSUBJ 20|22|COP 21|22|DET 22|16|ADVCL 23|3|PUNCT
+*PAR:	and &-uh he took the little girl down , held her by the hand because it was very very busy and &-uh very crowded . 54388_62122
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art adj|little-S1 noun|girl-Acc adp|down cm|cm verb|hold-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|by det|the-Def-Art noun|hand sconj|because pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adv|very adj|busy-S1 cconj|and adv|very adj|crowded-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|22|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|COMPOUND-PRT 8|9|PUNCT 9|3|CONJ 10|9|OBJ 11|13|CASE 12|13|DET 13|9|OBL 14|19|MARK 15|19|NSUBJ 16|19|COP 17|19|ADVMOD 18|19|ADVMOD 19|9|ADVCL 20|22|CC 21|22|ADVMOD 22|19|CONJ 23|3|PUNCT
+*PAR:	and &-uh they visited the area that he grew up . 62425_65829
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|visit-Fin-Ind-Past-P3 det|the-Def-Art noun|area-Acc pron|that-Rel pron|he-Prs-Nom-S3 verb|grow-Fin-Ind-Past-S3-irr adp|up .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|COMPOUND-PRT 10|3|PUNCT
+*PAR:	but <Melody was ver(y)> [//] Melanie was very happy when she got home . 67712_71218
+%mor:	cconj|but propn|Melanie aux|be-Fin-Ind-Past-S3-irr adv|very adj|happy-S1 adv|when pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adv|home .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|9|ROOT 6|8|ADVMOD 7|8|NSUBJ 8|5|ADVCL 9|8|ADVMOD 10|5|PUNCT
+*PAR:	very happy to be home . 72897_73334
+%mor:	adv|very adj|happy-S1 part|to aux|be-Inf-S noun|home .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|MARK 4|5|COP 5|2|XCOMP 6|2|PUNCT
+*INV:	okay , good . 74298_74659
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+@End

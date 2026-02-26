@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00090722-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;00.|female|Control||Participant|||
+@Media:	114-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	xxx .
+*PAR:	everything that you see ? [+ exc] 2009_3309
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 ?
+%gra:	1|4|ROOT 2|4|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|PUNCT
+%wor:	everything 2009_2469 that 2529_2669 you 2729_2849 see 2950_3309 ?
+*INV:	mhm +/. 3361_3730
+%mor:	intj|mhm +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 3361_3730 +/.
+*PAR:	+< that I see them +/? [+ exc] [+ gram] 3751_4683
+%mor:	sconj|that pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 +/?
+%gra:	1|3|MARK 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	that 3751_3891 I 4011_4031 see 4171_4391 them 4471_4683 +/?
+*INV:	+< see going on in the picture +/. 4692_5811
+%mor:	verb|see-Fin-Imp-S verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture +/.
+%gra:	1|6|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+%wor:	see 4692_4812 going 4812_5012 on 5112_5252 in 5292_5332 the 5352_5432 picture 5472_5811 +/.
+*PAR:	+< alright . [+ exc] 5933_6280
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 5933_6280 .
+*PAR:	the mother is drying dishes . 6354_8495
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the 6354_6413 mother 6493_6814 is 6954_7114 drying 7535_7935 dishes 7995_8495 .
+*PAR:	the water is running out of the sink . 9457_12059
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|5|FIXED 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	the 9457_9537 water 9637_10057 is 10177_10278 running 10378_10698 out 10858_11038 of 11078_11158 the 11239_11319 sink 11559_12059 .
+*PAR:	the boy is going to fall off the stool . 13336_15857
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%wor:	the 13336_13416 boy 13476_13836 is 14076_14156 going 14236_14456 to 14476_14536 fall 14656_14916 off 14976_15117 the 15177_15257 stool 15357_15857 .
+*PAR:	he's getting cookies . 16517_17618
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	he's 16517_16678 getting 16758_17058 cookies 17118_17618 .
+*PAR:	and the girl is waiting for a cookie from his [: her] [* s:r] brother . 19119_23061
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|wait-Part-Pres-S adp|for det|a-Ind-Art noun|cookie adp|from pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|5|PUNCT
+%wor:	and 19119_19299 the 20040_20120 girl 20180_20460 is 20580_20700 waiting 20800_21180 for 21260_21400 a 21460_21480 cookie 21580_21941 from 22021_22221 her 22281_22461 brother 22561_23061 .
+*PAR:	is there more ? [+ exc] 25863_26684
+%mor:	aux|be-Fin-Ind-Pres-S3 adv|there adj|more-Cmp-S1 ?
+%gra:	1|3|COP 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	is 25863_25963 there 25983_26143 more 26203_26684 ?
+*INV:	you just tell me when you think you've got it all . 28907_30647
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adv|when pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr pron|it-Prs-Acc-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|12|ROOT 4|3|IOBJ 5|7|ADVMOD 6|7|NSUBJ 7|3|ADVCL 8|10|NSUBJ 9|10|AUX 10|7|CCOMP 11|10|OBJ 12|10|ADVMOD 13|3|PUNCT
+%wor:	you 28907_28967 just 28967_29208 tell 29228_29348 me 29388_29468 when 29549_29669 you 29689_29749 think 29809_29990 you've 29990_30411 got 30451_30647 it all .
+*PAR:	+< &-hm (.) <I don't> [/] I don't see any other action there . [+ exc] 32818_34657
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S det|any-Def-Ind adj|other-S1 noun|action-Acc adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	hm 32818_32858 I 32858_32878 don't 32878_32979 I 32999_33019 don't 33019_33159 see 33220_33340 any 33400_33520 other 33621_33821 action 33942_34343 there 34383_34657 .
+*INV:	okay that's fine . 35085_36229
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 35085_35988 that's 35988_36148 fine 36148_36229 .
+@End

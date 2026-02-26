@@ -1,0 +1,26 @@
+@UTF8
+@PID:	11312/a-00089943-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|male|MCI||Participant|30||
+@Media:	221-1, audio
+@G:	Bill_Immediate
+*INV:	okay , can you tell me what the story was about ? 40160_43170
+%mor:	intj|okay cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|11|ROOT 6|5|IOBJ 7|5|CCOMP 8|9|DET 9|7|NSUBJ 10|7|ACL-RELCL 11|5|PUNCT 12|5|PUNCT
+%wor:	okay 40160_40340 , can 40400_40520 you 40560_40640 tell 40701_40941 me 40981_41061 what 41963_42083 the 42123_42203 story 42263_42544 was 42584_42684 about 42704_43170 ?
+*INV:	anything you remember about that story . 43170_44656
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 adp|about det|that-Def-Dem-Sing noun|story .
+%gra:	1|6|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+%wor:	anything 43170_43365 you 43365_43446 remember 43486_43826 about 43866_44107 that 44147_44287 story 44387_44656 .
+*PAR:	well , uncle Bill and Johnny . 45069_47233
+%mor:	intj|well cm|cm noun|uncle propn|Bill cconj|and propn|Johnny .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|6|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+%wor:	well 45069_45389 , uncle 45610_45910 Bill 46030_46291 and 46431_46591 Johnny 46752_47233 .
+*PAR:	and uncle [//] &-uh Johnny admired uncle Bill because uncle Bill had taken him on a camping trip . 47453_58553
+%mor:	cconj|and propn|Johnny verb|admire-Fin-Ind-Past-S3 noun|uncle propn|Bill-Acc sconj|because noun|uncle propn|Bill aux|have-Fin-Ind-Past-S3-irr verb|take-Part-Past-S-irr pron|he-Prs-Acc-S3 adp|on det|a-Ind-Art noun|camping-Ger noun|trip .
+%gra:	1|3|CC 2|3|NSUBJ 3|15|ROOT 4|5|COMPOUND 5|3|OBJ 6|10|MARK 7|10|NSUBJ 8|7|FLAT 9|10|AUX 10|3|ADVCL 11|10|OBJ 12|15|CASE 13|15|DET 14|15|COMPOUND 15|10|OBL 16|3|PUNCT
+%wor:	and 47453_47593 uncle 48695_49055 uh 50198_50258 Johnny 50698_51039 admired 51139_51640 uncle 51720_52001 Bill 52121_52341 because 52442_53023 uncle 53203_53483 Bill 53604_53824 had 53924_54084 taken 55247_55667 him 56188_56469 on 57030_57130 a 57170_57190 camping 57370_57911 trip 58092_58553 .
+@End

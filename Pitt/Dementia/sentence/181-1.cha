@@ -1,0 +1,159 @@
+@UTF8
+@PID:	11312/a-00091345-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|17||
+@Media:	181-1, audio
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	the first one is pencil@q .
+%mor:	det|the-Def-Art adj|first-S1 noun|one aux|be-Fin-Ind-Pres-S3 q|pencil .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|FLAT 6|5|PUNCT
+*PAR:	&-uh I use a pencil to write .
+%mor:	pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 det|a-Ind-Art noun|pencil-Acc part|to verb|write-Inf-S .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(.) tree@q . 10083_10583
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 10083_10583 .
+*PAR:	a tree grows in the yard for shade or for fruit or out in the forest for lumber . 17068_23215
+%mor:	det|a-Ind-Art noun|tree verb|grow-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|yard adp|for noun|shade cconj|or adp|for noun|fruit cconj|or adv|out adp|in det|the-Def-Art noun|forest adp|for noun|lumber .
+%gra:	1|2|DET 2|3|NSUBJ 3|18|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|3|OBL 9|11|CC 10|11|CASE 11|8|CONJ 12|13|CC 13|11|CONJ 14|16|CASE 15|16|DET 16|13|OBL 17|18|CASE 18|16|NMOD 19|3|PUNCT
+%wor:	a 17068_17088 tree 17208_17468 grows 18229_18609 in 18869_18949 the 18989_19049 yard 19109_19430 for 19510_19630 shade 19710_20090 or 21031_21131 for 21632_21852 fruit 22152_22332 or 22352_22392 out 22412_22513 in 22513_22593 the 22593_22653 forest 22653_23033 for 23033_23113 lumber 23113_23215 .
+*INV:	+< okay [/] okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	now I'm gonna give you two words .
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+*INV:	I don't want you to worry about the order of the two words . 28721_29519
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|worry-Inf-S adp|about det|the-Def-Art noun|order adp|of det|the-Def-Art num|two noun|word-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|14|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|14|CASE 12|14|DET 13|14|NUMMOD 14|10|NMOD 15|4|PUNCT
+%wor:	I don't want you to worry about the order of the two 28721_28959 words 29019_29519 .
+*INV:	just do both of them in one sentence ?
+%mor:	adv|just verb|do-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in num|one noun|sentence ?
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|8|CASE 7|8|NUMMOD 8|2|OBL 9|2|PUNCT
+*INV:	child@q hospital@q .
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+*PAR:	(.) <in a sentence> [//] use them in a sentence ? [+ exc]
+%mor:	verb|use-Fin-Imp-S pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	all children that are sick should go to the children's hospital .
+%mor:	det|all-Def-Tot noun|child-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 adj|sick-S1 aux|should-Fin-S verb|go-Inf-S adp|to det|the-Def-Art noun|child-Plur~part|s noun|hospital .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|NSUBJ 4|5|COP 5|2|ACL-RELCL 6|7|AUX 7|12|ROOT 8|12|CASE 9|10|DET 10|12|NMOD-POSS 11|10|CASE 12|7|OBL 13|7|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< &=sneeze , excuse me . [+ exc]
+%mor:	cm|cm verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|PUNCT 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	sick children go to the children's hospital . 49173_49354
+%mor:	adj|sick-S1 noun|child-Plur verb|go-Fin-Ind-Pres-P3 adp|to det|the-Def-Art noun|child-Plur~part|s noun|hospital .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|8|ROOT 4|8|CASE 5|6|DET 6|8|NMOD-POSS 7|6|CASE 8|3|OBL 9|3|PUNCT
+%wor:	sick children go 49173_49293 to 49293_49354 the children's hospital .
+*INV:	+< mhm . 52939_53000
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 52939_53000 .
+*INV:	how (a)bout cold@q winter@q . 53700_59479
+%mor:	adv|how adp|about q|cold q|winter .
+%gra:	1|4|ROOT 2|4|CASE 3|4|FLAT 4|1|FLAT 5|1|PUNCT
+%wor:	how 53700_53800 (a)bout 53800_59479 cold@q winter@q .
+*PAR:	(.) what [/] what [/] what do you mean ? [+ exc]
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|mean-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*INV:	can you use those in a sentence for me ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S pron|that-Dem-P1 adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*INV:	cold@q and winter@q .
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+*PAR:	+< yes . [+ exc]
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	yes . [+ exc] 66939_67000
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yes 66939_67000 .
+*PAR:	where I was born and raised it was [//] got fifty below in the winter . 69842_70502
+%mor:	adv|where pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|bear-Part-Past-S cconj|and verb|raise-Part-Past-S pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr num|fifty adv|below adp|in det|the-Def-Art noun|winter .
+%gra:	1|4|ADVMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|8|ADVCL 5|6|CC 6|4|CONJ 7|8|NSUBJ 8|13|ROOT 9|8|OBJ 10|8|ADVMOD 11|13|CASE 12|13|DET 13|8|OBL 14|8|PUNCT
+%wor:	where 69842_69982 I 70002_70022 was 70082_70202 born 70242_70402 and 70422_70502 raised it was got fifty below in the winter .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that is cold . [+ exc]
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 adj|cold-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	yes , it was .
+%mor:	intj|yes cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*PAR:	you couldn't even get the cattle out of the barn to go get a drink . [+ exc]
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S~part|not adv|even verb|get-Inf-S det|the-Def-Art noun|cattle-Plur-Acc adp|out adp|of det|the-Def-Art noun|barn part|to verb|go-Inf-S verb|get-Inf-S det|a-Ind-Art noun|drink-Acc .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|16|ROOT 6|7|DET 7|5|OBJ 8|11|CASE 9|11|CASE 10|11|DET 11|5|OBL 12|13|MARK 13|5|ADVCL 14|13|XCOMP 15|16|DET 16|14|OBJ 17|5|PUNCT
+*INV:	I bet not .
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	of course , we had a windmill so it [//] &-you_know it pumped water &=laughs . [+ exc] 82192_84354
+%mor:	adp|of noun|course cm|cm pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr det|a-Ind-Art noun|windmill-Acc sconj|so pron|it-Prs-Nom-S3 verb|pump-Fin-Ind-Past-S3 noun|water-Acc .
+%gra:	1|5|ADVMOD 2|1|FIXED 3|1|PUNCT 4|5|NSUBJ 5|11|ROOT 6|7|DET 7|5|OBJ 8|10|MARK 9|10|NSUBJ 10|5|ADVCL 11|10|OBJ 12|5|PUNCT
+%wor:	of 82192_82232 course 82232_82452 , we 82452_82492 had 82492_82732 a 82732_82752 windmill 82772_83233 so 83253_83293 it 83293_83333 you_know 83333_83673 it 83713_83793 pumped 83833_84113 water 84233_84354 .
+*INV:	+< uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	it got that cold that you open the barn door and they'd put their nose out and turn right back xxx +... [+ exc] 88218_91779
+%mor:	pron|it-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|that-Def-Dem-Sing adj|cold-S1 sconj|that pron|you-Prs-Nom-S2 verb|open-Fin-Ind-Pres-S2 det|the-Def-Art noun|barn noun|door-Acc cconj|and pron|they-Prs-Nom-P3~aux|would-Fin-S verb|put-Inf-S pron|their-Prs-Gen-P3 noun|nose-Acc adp|out cconj|and verb|turn-Inf-S adv|right adv|back +...
+%gra:	1|2|NSUBJ 2|21|ROOT 3|4|DET 4|2|XCOMP 5|7|MARK 6|7|NSUBJ 7|2|CCOMP 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|14|CC 12|14|NSUBJ 13|14|AUX 14|2|CONJ 15|16|NMOD-POSS 16|14|OBJ 17|14|COMPOUND-PRT 18|19|CC 19|14|CONJ 20|21|ADVMOD 21|19|ADVMOD 22|2|PUNCT
+%wor:	it 88218_88258 got 88278_88358 that 88378_88558 cold 88598_88778 that 88798_88959 you 89419_89500 open 89540_89680 the 89680_89740 barn 89760_89980 door 90000_90181 and 90181_90281 they'd 90421_91383 put 91403_91523 their 91543_91643 nose 91683_91779 out and turn right back +...
+*INV:	+< I'll bet they did .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|bet-Inf-S pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|NSUBJ 5|3|CCOMP 6|3|PUNCT
+*INV:	I would too !
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S adv|too !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	they had better sense than me &=laughs . [+ exc]
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr adj|good-Cmp-S1 noun|sense-Acc adp|than pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|AMOD 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*INV:	+< that's right &=laughs .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	now I'm gonna give you three words .
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+*INV:	what I'd like you to do is to use those three words in one sentence . 100925_101138
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|use-Inf-S det|that-Def-Dem-Plur num|three noun|word-Plur-Acc adp|in num|one noun|sentence .
+%gra:	1|10|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|COP 9|10|MARK 10|16|ROOT 11|13|DET 12|13|NUMMOD 13|10|OBJ 14|16|CASE 15|16|NUMMOD 16|10|OBL 17|10|PUNCT
+%wor:	what I'd like you to do is to use those three words in one sentence 100925_101138 .
+*PAR:	+< okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	chair@q doctor@q sit@q . 106490_106590
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 106490_106590 doctor@q sit@q .
+*PAR:	the doctor says “sit in the chair” . 110577_112214
+%mor:	det|the-Def-Art noun|doctor verb|say-Fin-Ind-Pres-S3 verb|sit-Inf-S adp|in det|the-Def-Art noun|chair .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	the 110577_110657 doctor 110697_111038 says 111078_111278 sit 111338_111479 in 111539_111599 the 111599_111659 chair 111719_112214 .
+*INV:	how (a)bout bureau@q open@q draw@q . 117430_118492
+%mor:	adv|how adp|about q|bureau q|open q|draw .
+%gra:	1|5|ROOT 2|5|CASE 3|5|FLAT 4|5|FLAT 5|1|FLAT 6|1|PUNCT
+%wor:	how 117430_117590 (a)bout 117590_117810 bureau@q 117810_117971 open@q 118211_118371 draw@q 118371_118492 .
+*INV:	use those in a sentence .
+%mor:	verb|use-Fin-Imp-S pron|that-Dem-P1 adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	&-uh the bureau drawer is open . 124528_127212
+%mor:	det|the-Def-Art noun|bureau noun|drawer aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	uh 124528_124568 the 124908_124988 bureau 125149_125630 drawer 126171_126451 is 126551_126651 open 126712_127212 .
+@End

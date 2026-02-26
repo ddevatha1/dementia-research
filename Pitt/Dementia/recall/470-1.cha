@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/a-00090017-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|male|ProbableAD||Participant|22||
+@Media:	470-1, audio
+@G:	George_Immediate
+*INV:	okay , tell me everything you can remember .
+%mor:	intj|okay cm|cm verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|IOBJ 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|3|PUNCT
+*PAR:	(..) George moved +//.
+%mor:	propn|George verb|move-Fin-Ind-Past-S3 +//.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*PAR:	&=laughs I don't remember anything xxx . [+ exc] 989343_989523
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|remember-Inf-S pron|anything-Ind-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	I 989343_989363 don't 989383_989483 remember 989483_989523 anything .
+*INV:	go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	you're doing great .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|do-Part-Pres-S adj|great-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*PAR:	+< too fast . [+ exc] 991604_992384
+%mor:	adv|too adj|fast-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	too 991604_991764 fast 991884_992384 .
+*PAR:	I hafta see xxx . [+ exc] 994365_995245
+%mor:	pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	I hafta 994365_994645 see 994745_995245 .
+*INV:	can you remember anything more about the story ? 996347_998312
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adj|more-Cmp-S1 adp|about det|the-Def-Art noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|4|AMOD 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	can 996347_997247 you 997568_997748 remember 997788_997988 anything 997988_998148 more 998148_998228 about 998228_998312 the story ?
+*PAR:	somethin(g) (a)bout the country , George , and this and that . 998509_1001273
+%mor:	pron|something-Ind-S1 adp|about det|the-Def-Art noun|country cm|cm propn|George cm|cm cconj|and pron|this-Dem-S1 cconj|and pron|that-Dem .
+%gra:	1|11|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|PUNCT 6|4|CONJ 7|9|PUNCT 8|9|CC 9|4|CONJ 10|11|CC 11|4|CONJ 12|1|PUNCT
+%wor:	somethin(g) 998509_998729 (a)bout 998749_999009 the 999049_999109 country 999249_999690 , George 999830_1000271 , and 1000311_1000431 this 1000471_1000731 and 1000811_1000951 that 1000951_1001273 .
+*PAR:	moved out and this and moved in [//] (.) out of the city an:d +... 1001292_1005595
+%mor:	verb|move-Fin-Ind-Past-S1 adp|out cconj|and pron|this-Dem-S1 cconj|and verb|move-Fin-Ind-Past-S1 adp|out adp|of det|the-Def-Art noun|city cconj|and +...
+%gra:	1|11|ROOT 2|1|COMPOUND-PRT 3|4|CC 4|1|CONJ 5|6|CC 6|1|CONJ 7|10|CASE 8|10|CASE 9|10|DET 10|6|OBL 11|1|CONJ 12|1|PUNCT
+%wor:	moved 1001292_1001592 out 1001692_1001932 and 1002012_1002152 this 1002152_1002393 and 1002473_1002573 moved 1002613_1002933 in 1002993_1003093 out 1004215_1004335 of 1004375_1004415 the 1004435_1004515 city 1004655_1004955 and 1005095_1005595 +...
+*PAR:	mkay , I don't know &=chuckles . [+ exc] 1006718_1007078
+%mor:	intj|mkay cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	mkay , I don't 1006718_1006837 know 1006877_1007078 .
+*PAR:	I [/] I [/] &+c &=chuckles (.) I don't memorize xxx +/. [+ exc] 1012130_1012951
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|memorize-Inf-S +/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 1012130_1012150 I 1012190_1012211 I 1012231_1012251 don't 1012251_1012451 memorize 1012451_1012951 +/.
+@G:	Bill_Immediate
+*INV:	tell me what you remember . 2197181_2198009
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 .
+%gra:	1|5|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|1|PUNCT
+%wor:	tell 2197181_2197281 me 2197281_2197321 what 2197321_2197501 you 2197541_2197601 remember 2197601_2198009 .
+*PAR:	+< visiting .
+%mor:	verb|visit-Part-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	visiting uncle or somebody . 2199625_2200726
+%mor:	verb|visit-Part-S noun|uncle-Acc cconj|or pron|somebody-Ind-S1 .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CC 4|2|CONJ 5|1|PUNCT
+%wor:	visiting uncle 2199625_2199886 or 2199906_2200006 somebody 2200226_2200726 .
+*PAR:	went out fishing and +... 2201670_2203311
+%mor:	verb|go-Fin-Ind-Past-S1-irr adp|out noun|fishing-Acc-Ger cconj|and +...
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|CONJ 5|1|PUNCT
+%wor:	went 2201670_2201829 out 2201890_2202030 fishing 2202110_2202691 and 2202811_2203311 +...
+*PAR:	and &-uh (a)bout it . 2204797_2206705
+%mor:	cconj|and adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|CASE 3|3|ROOT 4|3|PUNCT
+%wor:	and 2204797_2204996 uh 2204996_2205036 (a)bout 2205036_2206318 it 2206378_2206705 .
+*INV:	mkay . 2206705_2207019
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mkay 2206705_2207019 .
+@End

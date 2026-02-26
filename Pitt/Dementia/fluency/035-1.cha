@@ -1,0 +1,113 @@
+@UTF8
+@PID:	11312/a-00089616-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|female|ProbableAD||Participant|20||
+@Media:	035-1, audio
+*INV:	xxx .
+*INV:	off you go . 1397_1821
+%mor:	adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|CASE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	off 1397_1821 you go .
+@G:	foods
+*PAR:	apple .
+%mor:	noun|apple .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	orange .
+%mor:	adj|orange-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh lettuce . 6362_7563
+%mor:	noun|lettuce .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 6362_6502 lettuce 7063_7563 .
+*PAR:	pears . 8306_8804
+%mor:	noun|pear-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pears 8306_8804 .
+*PAR:	&-uh chili . 11487_14710
+%mor:	noun|chili .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 11487_14030 chili 14210_14710 .
+*PAR:	(.) xxx .
+*PAR:	butter .
+%mor:	noun|butter .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh (.) xxx .
+*PAR:	and which I really don't like &=laughs . [+ exc] 33964_35925
+%mor:	cconj|and pron|which-Rel-S1 pron|I-Prs-Nom-S1 adv|really aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S .
+%gra:	1|2|CC 2|7|OBJ 3|7|NSUBJ 4|7|ADVMOD 5|7|AUX 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%wor:	and which 33964_34204 I 34484_34504 really 34704_35005 don't 35085_35365 like 35425_35925 .
+*PAR:	parsnips . 39187_39647
+%mor:	noun|parsnip-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	parsnips 39187_39647 .
+*PAR:	&=laughs &-um some cake . 43149_44949
+%mor:	det|some-Def-Ind noun|cake .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	um 43149_43188 some 43288_43628 cake 44449_44949 .
+*PAR:	(.) fruit . 47450_47930
+%mor:	noun|fruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fruit 47450_47930 .
+*PAR:	(.) vegetables .
+%mor:	noun|vegetable-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) tea &=laughs .
+%mor:	noun|tea .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um squash . 60980_61538
+%mor:	noun|squash .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 60980_61020 squash 61040_61538 .
+*INV:	(.) okay , we're done . 65243_66605
+%mor:	intj|okay cm|cm pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|done-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 65243_65625 , we're 65986_66186 done 66246_66605 .
+@G:	S
+*INV:	s@l off you go . 67628_68963
+%mor:	aux|be-Fin-Ind-Pres-S3 adp|off pron|you-Prs-Acc-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|4|COP 2|3|CASE 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	s 67628_67648 off 68428_68549 you 68589_68669 go 68669_68963 .
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	snow .
+%mor:	noun|snow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) sun . 73116_73596
+%mor:	noun|sun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sun 73116_73596 .
+*PAR:	&-uh I [//] I'm blank on +... [+ exc] 77062_81046
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|blank-S1 adp|on +...
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%wor:	uh 77062_77401 I 77461_77481 I'm 79003_79324 blank 79464_80445 on 80546_81046 +...
+*PAR:	sound .
+%mor:	noun|sound .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(...) I can't think . [+ exc] 87575_92479
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 87575_87595 can't 91759_91919 think 91979_92479 .
+*INV:	can carry on . 93461_94075
+%mor:	aux|can-Fin-S verb|carry-Inf-S adp|on .
+%gra:	1|2|AUX 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%wor:	can 93461_93561 carry 93621_93862 on 93922_94075 .
+*INV:	you've got a whole minute . 94082_95142
+%mor:	pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr det|a-Ind-Art adj|whole-S1 noun|minute-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%wor:	you've 94082_94222 got 94222_94302 a 94322_94342 whole 94382_94602 minute 94642_95142 .
+*PAR:	(..) sesame . 100570_101069
+%mor:	noun|sesame .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sesame 100570_101069 .
+*PAR:	&-uh xxx . 109233_109463
+%wor:	uh 109233_109463 .
+*PAR:	xxx .
+*INV:	(.) okay , all done now xxx . 128747_130399
+%mor:	intj|okay cm|cm det|all-Def-Tot verb|do-Part-Past-S-irr adv|now .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|3|ACL 5|4|ADVMOD 6|3|PUNCT
+%wor:	okay 128747_129272 , all 129333_129454 done 129555_129838 now 129899_130399 .
+@End

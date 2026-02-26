@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00090353-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|male|Memory||Participant|28||
+@Media:	039-0, audio
+@G:	Cookie
+*INV:	okay you can begin .
+%mor:	intj|okay pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	okay we see &-um first of all &-uh the sink is overflowing . 2456_8087
+%mor:	intj|okay pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Pres-P1 adj|first-S1 adp|of det|all-Def-Tot det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|6|CASE 6|8|DET-PREDET 7|8|DET 8|10|NSUBJ 9|10|COP 10|3|CCOMP 11|3|PUNCT
+%wor:	okay 2456_2856 we 3016_3097 see 3277_3498 um 3718_3999 first 5442_5723 of 5783_5883 all 5983_6184 uh 6384_6485 the 6505_6625 sink 7086_7327 is 7387_7507 overflowing 7587_8087 .
+*PAR:	water cascading down the &-uh kitchen cabinet onto the floor . [+ gram] 9684_15266
+%mor:	noun|water verb|cascade-Ger-S adp|down det|the-Def-Art noun|kitchen noun|cabinet adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|9|CASE 8|9|DET 9|2|OBL 10|2|PUNCT
+%wor:	water 9684_10024 cascading 10864_11685 down 11725_11985 the 12025_12125 uh 12385_12605 kitchen 13345_13646 cabinet 13726_14226 onto 14346_14566 the 14606_14686 floor 14766_15266 .
+*PAR:	&-uh the lady in the picture is drying a dish . 16548_21329
+%mor:	det|the-Def-Art noun|lady adp|in det|the-Def-Art noun|picture aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+%wor:	uh 16548_17107 the 18788_18888 lady 18988_19228 in 19308_19348 the 19368_19449 picture 19489_19929 is 19989_20109 drying 20229_20649 a 20709_20729 dish 20829_21329 .
+*PAR:	&-uh there is a young man on a stool . 24809_29974
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|man adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|EXPL 2|8|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+%wor:	uh 24809_24889 there 26871_27071 is 27111_27251 a 27392_27412 young 28553_28773 man 28813_29053 on 29174_29294 a 29294_29314 stool 29474_29974 .
+*PAR:	an(d) he's [//] the stool is being tipped over . 30916_33062
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|tip-Part-Past-S adp|over .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ-PASS 4|6|AUX 5|6|AUX-PASS 6|7|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+%wor:	an(d) 30916_31076 he's 31076_31316 the 31456_31536 stool 31596_31857 is 31917_31997 being 32057_32297 tipped 32377_32658 over 32738_33062 .
+*PAR:	he's reaching for a cookie jar . 33119_35200
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+%wor:	he's 33119_33278 reaching 33378_33739 for 33819_34039 a 34079_34099 cookie 34319_34640 jar 34700_35200 .
+*PAR:	&-uh the lid is off the jar an(d) it looks like he's going to try to hand a cookie down to his little sister . 36056_43836
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|jar cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|try-Inf-S part|to verb|hand-Inf-S det|a-Ind-Art noun|cookie-Acc adp|down adp|to pron|his-Prs-Gen-S3 adj|little-S1 noun|sister .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|24|ROOT 7|9|CC 8|9|EXPL 9|6|CONJ 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|ADVCL 14|15|MARK 15|13|XCOMP 16|17|MARK 17|15|XCOMP 18|19|DET 19|17|OBJ 20|17|COMPOUND-PRT 21|24|CASE 22|24|NMOD-POSS 23|24|AMOD 24|17|OBL 25|6|PUNCT
+%wor:	uh 36056_36136 the 36156_36236 lid 36316_36497 is 36517_36617 off 36697_36838 the 36918_36978 jar 37058_37359 an(d) 37359_37479 it 37479_37519 looks 37539_37720 like 37760_37940 he's 37960_38161 going 38201_38502 to 38602_38722 try 40006_40266 to 40367_40467 hand 40547_40888 a 40928_40948 cookie 41068_41429 down 41469_41730 to 41790_41891 his 41991_42251 little 43033_43254 sister 43354_43836 .
+*PAR:	and &-uh looks like he might make it before he hits the floor . 47852_52482
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3 aux|might-Fin-S verb|make-Inf-S pron|it-Prs-Acc-S3 sconj|before pron|he-Prs-Nom-S3 verb|hit-Fin-Ind-Pres-S3 det|the-Def-Art noun|floor-Acc .
+%gra:	1|2|CC 2|12|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|OBJ 8|10|MARK 9|10|NSUBJ 10|6|ADVCL 11|12|DET 12|10|OBJ 13|2|PUNCT
+%wor:	and 47852_48032 uh 50275_50335 looks 50335_50455 like 50495_50656 he 50656_50716 might 50776_50976 make 50996_51196 it 51236_51296 before 51336_51677 he 51677_51737 hits 51797_52017 the 52017_52078 floor 52158_52482 .
+*INV:	anything else ? 54261_54922
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 54261_54641 else 54701_54922 ?
+*PAR:	I don't think so . [+ exc] 64515_65254
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S adv|so .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	I 64515_64535 don't 64595_64838 think 64858_65039 so 65100_65254 .
+*INV:	okay good . 66008_66352
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay good 66008_66352 .
+@End

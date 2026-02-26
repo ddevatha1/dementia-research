@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/a-00090796-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|male|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	208-2, audio
+@G:	Cookie
+*PAR:	can I start ? [+ exc] 3373_3860
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|start-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	can 3373_3493 I 3493_3513 start 3573_3860 ?
+*INV:	mhm . 3907_4157
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 3907_4157 .
+*PAR:	there is a boy on the stool . 6076_7840
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	there 6076_6316 is 6376_6476 a 6516_6536 boy 6616_6897 on 7057_7137 the 7177_7257 stool 7397_7840 .
+*PAR:	the stool is tipping over . 7918_9378
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	the 7918_7998 stool 8058_8338 is 8398_8479 tipping 8539_8919 over 8999_9378 .
+*PAR:	the boy is taking cookies out of the jar . 9640_12684
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|OBJ 6|9|CASE 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	the 9640_9720 boy 9780_10080 is 10301_10381 taking 10781_11102 cookies 11342_11762 out 11903_12043 of 12063_12103 the 12123_12183 jar 12283_12684 .
+*PAR:	&-uh the cupboard is open . 13822_16464
+%mor:	det|the-Def-Art noun|cupboard aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	uh 13822_14022 the 14062_14182 cupboard 15304_15644 is 15764_15864 open 15964_16464 .
+*PAR:	the girl is saying [//] puttin(g) her finger to her mouth and also puttin(g) her hand out for a cookie . 17447_23468
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|mouth cconj|and adv|also verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|out adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|18|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|12|CC 11|12|ADVMOD 12|4|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|12|COMPOUND-PRT 16|18|CASE 17|18|DET 18|12|OBL 19|4|PUNCT
+%wor:	the 17447_17527 girl 17607_17907 is 18087_18187 saying 18248_18628 puttin(g) 18928_19149 her 19149_19229 finger 19289_19549 to 19629_19750 her 19810_19910 mouth 19930_20290 and 20971_21051 also 21131_21352 puttin(g) 21452_21672 her 21672_21752 hand 21852_22173 out 22253_22433 for 22794_22934 a 22934_22954 cookie 23034_23468 .
+*PAR:	the mother is washing dishes . 25397_27060
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 25397_25477 mother 25537_25858 is 26038_26138 washing 26218_26559 dishes 26639_27060 .
+*PAR:	water is spilling over from the sink onto the floor . 27196_30360
+%mor:	noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|from det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%wor:	water 27196_27436 is 27556_27636 spilling 27696_28077 over 28197_28418 from 28498_28658 the 28698_28778 sink 28899_29159 onto 29279_29540 the 29600_29700 floor 29860_30360 .
+*PAR:	and the [/] the window is open , the drapes are open . 31604_36676
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 cm|cm det|the-Def-Art noun|drape-Plur aux|be-Fin-Ind-Pres-P3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|10|ROOT 6|10|PUNCT 7|8|DET 8|10|NSUBJ 9|10|COP 10|5|PARATAXIS 11|5|PUNCT
+%wor:	and 31604_31824 the 32004_32124 the 33968_34048 window 34108_34549 is 34829_34929 open 35030_35290 , the 35350_35430 drapes 35491_35871 are 36011_36192 open 36332_36676 .
+*PAR:	there's two cups and a saucer on the sink . 37274_39919
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|saucer adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|10|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+%wor:	there's 37274_37514 two 37594_37795 cups 37895_38195 and 38316_38416 a 38436_38456 saucer 38536_38997 on 39217_39357 the 39418_39498 sink 39638_39919 .
+*PAR:	and the [//] she is stepping on the water on the floor . 41102_45692
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|on det|the-Def-Art noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	and 41102_41222 the 41402_41563 she 43147_43267 is 43448_43548 stepping 43608_44069 on 44250_44350 the 44370_44450 water 44531_44872 on 44952_45012 the 45032_45112 floor 45192_45692 .
+*PAR:	and she is drying the dishes . 48561_50166
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 48561_48662 she 48722_48802 is 48922_49022 drying 49083_49524 the 49564_49644 dishes 49704_50166 .
+*PAR:	and she is looking outside <at the wow> [//] at the shrubbery . 52375_57900
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adv|outside adp|at det|the-Def-Art noun|shrubbery .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	and 52375_52475 she 52515_52615 is 52715_52815 looking 52895_53255 outside 53476_54216 at 54296_54377 the 54437_54537 wow 55418_56419 at 56459_56519 the 56539_56619 shrubbery 57400_57900 .
+*PAR:	the boy is handing the girl a cookie . 64127_66069
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|girl det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|DET 6|4|IOBJ 7|8|DET 8|4|OBJ 9|4|PUNCT
+%wor:	the 64127_64207 boy 64267_64487 is 64587_64687 handing 64747_65108 the 65128_65208 girl 65268_65508 a 65608_65628 cookie 65728_66069 .
+*PAR:	that is all . [+ exc] 70363_73008
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that 70363_71285 is 71325_71545 all 72547_73008 .
+@End

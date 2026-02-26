@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/a-00090723-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|female|Control||Participant|30||
+@Media:	118-0, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	there's the picture . 470_1180
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 470_1180 the picture .
+*PAR:	the boy is givin(g) his sister a cookie . 4796_7526
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|his-Prs-Gen-S3 noun|sister det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|NMOD-POSS 6|4|IOBJ 7|8|DET 8|4|OBJ 9|4|PUNCT
+%wor:	the 4796_4856 boy 4856_5196 is 5317_5517 givin(g) 5657_5937 his 5937_6078 sister 6118_6638 a 7019_7039 cookie 7159_7526 .
+*PAR:	and the &+s stool is about to fall . 10304_12868
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+%wor:	and the stool 10304_10845 is 10925_11065 about 11826_12166 to 12227_12307 fall 12507_12868 .
+*PAR:	and the mother's dryin(g) dishes . 14162_15732
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	and 14162_14242 the 14242_14382 mother's 14382_14763 dryin(g) 14863_15324 dishes 15324_15732 .
+*PAR:	and the water's comin(g) out of the faucet . 16158_19068
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|out adp|of det|the-Def-Art noun|faucet .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+%wor:	and the 16158_16166 water's 17528_17889 comin(g) 17989_18410 out 18410_18490 of 18510_18570 the 18590_18691 faucet 18791_19068 .
+*PAR:	and the water's overflowin(g) out of the sink onto the floor . 19883_23660
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|5|PUNCT
+%wor:	and the 19883_19933 water's 20053_20414 overflowin(g) 20494_21937 out 21937_22057 of 22117_22178 the 22198_22278 sink 22438_22679 onto 22859_22999 the 22999_23099 floor 23160_23660 .
+*PAR:	and the little girl is puttin(g) her hand up to her mouth to &+s signal not to say anything so the mother won't know about it . 25341_36841
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth part|to verb|signal-Inf-S part|not part|to verb|say-Inf-S pron|anything-Ind-S1 sconj|so det|the-Def-Art noun|mother aux|will-Fin-S~part|not verb|know-Inf-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|26|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|6|COMPOUND-PRT 10|12|CASE 11|12|NMOD-POSS 12|6|OBL 13|14|MARK 14|6|ADVCL 15|17|ADVMOD 16|17|MARK 17|14|XCOMP 18|17|OBJ 19|24|MARK 20|21|DET 21|24|NSUBJ 22|24|AUX 23|24|ADVMOD 24|17|ADVCL 25|26|CASE 26|24|OBL 27|6|PUNCT
+%wor:	and 25341_25421 the 25421_25481 little 25481_25661 girl 25681_25801 is 25801_26001 puttin(g) 26101_27542 her 27542_27642 hand 27642_27822 up 27862_27982 to 28083_28123 her 28123_28343 mouth 29584_33066 to 33166_33226 signal 33366_33627 not 33727_33927 to 33967_34027 say 34127_34287 anything 34347_34808 so 34928_35008 the 35088_35168 mother 35228_35508 won't 35608_36129 know 36129_36309 about 36329_36529 it 36569_36841 .
+*PAR:	that's all . [+ exc] 36993_37409
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's all 36993_37409 .
+*INV:	okay . 41187_41279
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 41187_41279 .
+@End

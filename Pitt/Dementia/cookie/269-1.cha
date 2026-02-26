@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/a-00090488-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|13||
+@Media:	269-1, audio
+@G:	Cookie
+*INV:	okay I just want you to tell me anything +/. 500_2040
+%mor:	intj|okay pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 +/.
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|IOBJ 9|7|OBJ 10|4|PUNCT
+%wor:	okay 500_660 I 660_680 just 680_800 want 840_1040 you 1081_1221 to 1241_1301 tell 1301_1481 me 1521_1581 anything 1662_2040 +/.
+*INV:	you could just tell me . 2223_3007
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S adv|just verb|tell-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|IOBJ 6|4|PUNCT
+%wor:	you 2223_2283 could 2323_2463 just 2463_2623 tell 2663_2864 me 2924_3007 .
+*PAR:	oh I see . [+ exc] 3314_3804
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	oh 3314_3325 I 3345_3365 see 3365_3804 .
+*INV:	+< anything you see going on . 3681_4401
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|1|PUNCT
+%wor:	anything 3681_3685 you 3685_3805 see 3805_3986 going 4046_4346 on 4386_4401 .
+*PAR:	&-uh well , the &-uh kitchen sink is &-uh that they'd [/] they'd <kept the> [//] kept it &+go going . [+ gram] 4887_11700
+%mor:	intj|well cm|cm det|the-Def-Art noun|kitchen noun|sink aux|be-Fin-Ind-Pres-S3 sconj|that pron|they-Prs-Nom-P3~aux|would-Fin-Ind-Past-P3 verb|keep-Part-Past-S-irr pron|it-Prs-Acc-S3 verb|go-Ger-S .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|COMPOUND 5|10|NSUBJ-OUTER 6|10|COP 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|12|ROOT 11|10|OBJ 12|10|XCOMP 13|10|PUNCT
+%wor:	uh 4887_5008 well 5148_5368 , the 5468_5569 uh 5909_6009 kitchen 6130_6530 sink 6711_7111 is 7252_7512 uh 7572_7652 that 7652_8253 they'd 8333_8854 they'd 8854_9035 kept 9155_9476 the 9496_10477 kept 10477_10718 it 10758_10878 going 11219_11700 .
+*PAR:	and [/] and &-uh it went <over on the> [//] &-um (.) &+o off [/] off the sink . [+ es] 12340_20070
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|off det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	and 12340_13260 and 13280_13340 uh 13340_13380 it 13401_13441 went 13441_13561 over 13561_13881 on 13921_14121 the 18725_18785 um 18785_18925 off 19005_19206 off 19346_19526 the 19566_19646 sink 19766_20070 .
+*PAR:	<they didn't> [/] &*INV:okay they didn't &+s turn [/] turn it off quick enough . 20640_23550
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|turn-Inf-S pron|it-Prs-Acc-S3 adp|off adv|quick adv|enough .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|ADVMOD 9|4|PUNCT
+%wor:	they 20640_20747 didn't 20787_21107 they 21388_21488 didn't 21528_21788 turn 22068_22348 turn 22449_22669 it 22689_22769 off 22849_22989 quick 23249_23429 enough 23429_23550 .
+*PAR:	and then there's &-uh dishes and &-uh a stool that's going to be very &+f fast &-uh getting to be &-uh a whole bunch of (th)em frickin(g) cookies . [+ gram] 24922_40822
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|dish-Plur cconj|and det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adv|very adj|fast-S1 verb|get-Part-Pres-S part|to aux|be-Inf-S det|a-Ind-Art adj|whole-S1 noun|bunch adp|of pron|they-Prs-Acc-P3 verb|fricking-Ger-S noun|cookie-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|25|ROOT 5|4|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|15|MARK 13|15|COP 14|15|ADVMOD 15|11|XCOMP 16|11|XCOMP 17|21|MARK 18|21|COP 19|21|DET 20|21|AMOD 21|16|XCOMP 22|23|CASE 23|21|NMOD 24|25|AMOD 25|21|NMOD 26|4|PUNCT
+%wor:	and 24922_25062 then 25062_25282 there's 25322_25723 uh 25983_26063 dishes 26083_26584 and 28306_28806 uh 28907_29988 a 30008_30028 stool 30248_30749 that's 30789_30989 going 31049_31290 to 31350_31430 be 31510_31630 very 31950_32251 fast 33833_34393 uh 35935_36076 getting 36136_36516 to 36616_36756 be 36917_37017 uh 37337_37537 a 39139_39159 whole 39219_39420 bunch 39440_39680 of 39700_39800 (th)em 39800_40041 frickin(g) 40041_40441 cookies 40441_40822 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	<that's my> [//] that's about my &=laughs <my nephew> [//] my &-uh &=clears:throat grandson . [+ exc] 47113_51260
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|my-Prs-Gen-S1 pron|my-Prs-Gen-S1 noun|grandson .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|NMOD-POSS 5|6|NMOD-POSS 6|6|ROOT 7|6|PUNCT
+%wor:	that's 47113_47313 my 47353_47393 that's 47433_47814 about 47814_48855 my 48915_49055 my 49095_49156 nephew 49156_49416 my 49476_49536 uh 49576_50738 grandson 50898_51260 .
+*INV:	okay is there anything else you see going on in there ? 51922_53822
+%mor:	intj|okay verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in adv|there ?
+%gra:	1|2|DISCOURSE 2|11|ROOT 3|2|EXPL 4|2|NSUBJ 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|2|PUNCT
+%wor:	okay 51922_52020 is 52060_52160 there 52160_52280 anything 52280_52601 else 52661_52901 you 52901_52961 see 52961_53081 going 53161_53462 on 53522_53642 in 53682_53782 there 53782_53822 ?
+*PAR:	cookie jar . [+ gram]
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*PAR:	and the [//] I suppose it's his sister . 61363_63133
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|suppose-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|7|NSUBJ 5|7|COP 6|7|NMOD-POSS 7|3|CCOMP 8|3|PUNCT
+%wor:	and 61363_61503 the 61563_61703 I 62143_62163 suppose 62204_62504 it's 62544_62644 his 62684_62844 sister 62904_63133 .
+*PAR:	it hasta be his sister , doesn't it ? [+ exc] 63365_65182
+%mor:	pron|it-Prs-Nom-S3 x|hasta aux|be-Inf-S pron|his-Prs-Gen-S3 noun|sister cm|cm aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|5|NSUBJ 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|9|ROOT 6|7|PUNCT 7|5|PARATAXIS 8|7|ADVMOD 9|5|PARATAXIS 10|5|PUNCT
+%wor:	it 63365_63445 hasta 63465_63825 be 63885_63966 his 64046_64146 sister 64206_64566 , doesn't 64626_64827 it 64867_65182 ?
+*INV:	okay . 65743_66063
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 65743_66063 .
+*PAR:	to &-uh &-uh up [/] up on that stool . [+ gram] 66469_70017
+%mor:	part|to adp|up adp|on det|that-Def-Dem-Sing noun|stool .
+%gra:	1|2|MARK 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	to 66469_66589 uh 66829_66929 uh 66969_68411 up 68471_68611 up 68931_69051 on 69132_69252 that 69272_69492 stool 69572_70017 .
+*PAR:	and she's making fun of him . 72175_73337
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S noun|fun-Acc adp|of pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+%wor:	and 72175_72275 she's 72335_72616 making 72676_72976 fun 72996_73156 of 73196_73236 him 73236_73337 .
+*PAR:	and this water's coming down that splashing all over the place . 77562_82392
+%mor:	cconj|and det|this-Def-Dem-Sing noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|down pron|that-Dem noun|splashing-Acc-Ger adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|5|COMPOUND-PRT 7|5|OBJ 8|5|OBJ 9|12|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|5|PUNCT
+%wor:	and 77562_77622 this 77622_77782 water's 77882_78363 coming 78423_78744 down 78804_79205 that 79245_79345 splashing 80928_81530 all 81610_81790 over 81850_81931 the 81951_82031 place 82111_82392 .
+*INV:	okay , anything else ?
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*PAR:	&-um (.) I don't +... [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	it depends on how many cookies are in that cookie jar apparently . [+ gram] 95772_98436
+%mor:	pron|it-Prs-Nom-S3 verb|depend-Fin-Ind-Pres-S3 sconj|on adv|how adj|many-S1 noun|cookie-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|that-Def-Dem-Sing noun|cookie noun|jar adv|apparently .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|11|MARK 4|5|ADVMOD 5|6|AMOD 6|11|NSUBJ 7|11|COP 8|11|CASE 9|11|DET 10|11|COMPOUND 11|2|ADVCL 12|11|ADVMOD 13|2|PUNCT
+%wor:	it depends 95772_96052 on 96072_96252 how 96312_96413 many 96473_96653 cookies 96713_97114 are 97114_97194 in 97194_97234 that 97234_97434 cookie 97494_97815 jar 97815_98095 apparently 98115_98436 .
+@End

@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/a-00090689-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	bullets
+@ID:	eng|Pitt|PAR|60;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	071-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	&-uh badly damaged &=laughs sink . [+ gram] 610_2690
+%mor:	adv|badly verb|damage-Part-Past-S noun|sink .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	uh 610_650 badly 750_1050 damaged 1110_1471 sink 2512_2690 .
+*INV:	yep . 3054_3285
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yep 3054_3285 .
+*PAR:	mother's drying dishes . 4275_5335
+%mor:	noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	mother's 4275_4575 drying 4615_4916 dishes 4956_5335 .
+*PAR:	&-uh is it action if she's standing in a puddle of water ? [+ exc] 5637_7849
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 noun|action sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water ?
+%gra:	1|3|COP 2|3|EXPL 3|12|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|12|CASE 12|10|NMOD 13|3|PUNCT
+%wor:	uh 5637_5797 is 6037_6138 it 6198_6278 action 6358_6598 if 6618_6678 she's 6718_6819 standing 6839_7159 in 7179_7239 a 7279_7299 puddle 7319_7540 of 7540_7580 water 7620_7849 ?
+*PAR:	no , water <(i)s running over> [//] &+f is overflowing the sink . 8601_11076
+%mor:	intj|no cm|cm noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	no 8601_8681 , water 8902_9122 (i)s 9122_9202 running 9242_9462 over 9502_9663 is 9883_9983 overflowing 10043_10524 the 10544_10624 sink 10724_11076 .
+*PAR:	the window is open . 12407_13279
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 12407_12467 window 12507_12847 is 12847_12947 open 13008_13279 .
+*PAR:	it's blowing the curtain . 13308_14390
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S det|the-Def-Art noun|curtain-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	it's 13308_13468 blowing 13528_13829 the 13869_13929 curtain 13969_14390 .
+*PAR:	&-uh Billy's about to fall off the stool while handing cookies to his sister . 15451_20411
+%mor:	propn|Billy~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool sconj|while verb|hand-Part-Pres-S noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|MARK 5|14|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|10|OBL 15|5|PUNCT
+%wor:	uh 15451_15531 Billy's 16071_16351 about 16391_16631 to 16651_16711 fall 16771_17011 off 17091_17191 the 17231_17311 stool 17371_17672 while 18852_19072 handing 19092_19392 cookies 19432_19753 to 19813_19893 his 19953_20053 sister 20113_20411 .
+*PAR:	that's another thing . [+ exc] 20476_21279
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|thing-Ger .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	that's 20476_20673 another 20733_21013 thing 21053_21279 .
+*PAR:	and &-uh (.) water's running on the floor as well as out of the sink &=laughs . 23019_28097
+%mor:	cconj|and noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor adv|as adv|well adp|as adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|14|CC 9|8|FIXED 10|8|FIXED 11|14|CASE 12|14|CASE 13|14|DET 14|7|CONJ 15|4|PUNCT
+%wor:	and 23019_23454 uh 23594_25055 water's 25095_25395 running 25435_25675 on 25735_25795 the 25835_25895 floor 25935_26256 as 27076_27176 well 27216_27376 as 27396_27476 out 27536_27636 of 27636_27676 the 27716_27776 sink 27836_28097 .
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	water's running out of the faucet . 29823_30863
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|faucet .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	water's 29823_30043 running 30063_30264 out 30284_30365 of 30365_30405 the 30405_30465 faucet 30505_30863 .
+*PAR:	does that count too ? [+ exc] 31000_31750
+%mor:	aux|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|count adv|too ?
+%gra:	1|4|ROOT 2|3|DET 3|1|NSUBJ 4|1|ADVMOD 5|1|PUNCT
+%wor:	does 31000_31107 that 31107_31248 count 31288_31549 too 31569_31750 ?
+*INV:	+< mhm . 31744_31924
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 31744_31924 .
+*PAR:	okay . [+ exc] 32332_32607
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 32332_32607 .
+*PAR:	I don't see anything else happening . [+ exc] 34099_35003
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|happen-Ger-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|5|AMOD 7|5|ACL 8|4|PUNCT
+%wor:	I 34099_34139 don't 34139_34260 see 34280_34400 anything 34400_34581 else 34621_34762 happening 34782_35003 .
+@End

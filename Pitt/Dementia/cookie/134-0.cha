@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/a-00090406-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|female|ProbableAD||Participant|24||
+@Media:	134-0, audio
+@G:	Cookie
+*INV:	there it is . 370_1050
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	there 370_570 it 570_690 is 770_1050 .
+*PAR:	well , there's a boy trying to get some cookies in [//] from the cupboard . 4532_7637
+%mor:	intj|well cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy verb|try-Ger-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cupboard .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|14|ROOT 5|6|DET 6|4|NSUBJ 7|6|ACL 8|9|MARK 9|7|XCOMP 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|9|OBL 15|4|PUNCT
+%wor:	well 4532_4692 , there's 4812_5013 a 5053_5073 boy 5093_5173 trying 5253_5493 to 5513_5553 get 5593_5753 some 5753_5913 cookies 5953_6334 in 6394_6474 from 6714_6974 the 7314_7394 cupboard 7494_7637 .
+*PAR:	and then the little girl has her hand up for one . 10416_13719
+%mor:	cconj|and adv|then det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|for num|one .
+%gra:	1|6|CC 2|6|ADVMOD 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|11|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|6|COMPOUND-PRT 10|11|CASE 11|6|OBL 12|6|PUNCT
+%wor:	and 10416_10536 then 10576_10757 the 10817_10897 little 10937_11317 girl 11397_11537 has 11537_11637 her 11637_11977 hand 11977_13238 up 13298_13358 for 13358_13418 one 13538_13719 .
+*PAR:	and (.) there's &-um a stool that's ready to fall &-uh that he's standing on . 16440_22429
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S sconj|that pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on .
+%gra:	1|3|CC 2|3|EXPL 3|15|ROOT 4|5|DET 5|3|NSUBJ 6|8|NSUBJ 7|8|COP 8|5|ACL-RELCL 9|10|MARK 10|8|XCOMP 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|10|CCOMP 15|14|OBL 16|3|PUNCT
+%wor:	and 16440_17461 there's 17461_17641 um 17641_17681 a 17681_17701 stool 17701_17922 that's 18002_18242 ready 18302_18482 to 18542_18622 fall 18662_19043 uh 19063_21465 that 21505_21666 he's 21666_21806 standing 21866_22146 on 22166_22429 .
+*PAR:	and there's a lady washing dishes . 24931_26411
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lady noun|washing-Ger noun|dish-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|7|ROOT 4|7|DET 5|7|COMPOUND 6|7|COMPOUND 7|3|NSUBJ 8|3|PUNCT
+%wor:	and there's 24931_25289 a 25349_25369 lady 25409_25630 washing 25770_26230 dishes 26230_26411 .
+*PAR:	<and she spilled> [//] and her sink is filled up full of water and it spilled all on the floor . 27389_31591
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|sink aux|be-Fin-Ind-Pres-S3 verb|fill-Part-Past-S adp|up adj|full-S1 adp|of noun|water cconj|and pron|it-Prs-Nom-S3 verb|spill-Fin-Ind-Past-S3 det|all-Def-Tot adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|16|ROOT 6|5|COMPOUND-PRT 7|5|XCOMP 8|9|CASE 9|7|OBL 10|12|CC 11|12|NSUBJ 12|5|CONJ 13|12|OBJ 14|16|CASE 15|16|DET 16|12|OBL 17|5|PUNCT
+%wor:	and 27389_27469 she 27589_27729 spilled 27729_27969 and 27989_28209 her 28229_28309 sink 28309_28469 is 28530_28670 filled 28750_28950 up 28990_29070 full 29150_29290 of 29310_29390 water 29410_29590 and 29630_29790 it 29810_29911 spilled 30451_30791 all 30831_30911 on 30931_30971 the 30971_31031 floor 31091_31591 .
+*PAR:	she's standing by the window .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|by det|the-Def-Art noun|window .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	xxx . [+ exc]
+*PAR:	see the grass and the shrubbery outside . 42419_44750
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art noun|grass-Acc cconj|and det|the-Def-Art noun|shrubbery adv|outside .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|6|CC 5|6|DET 6|3|CONJ 7|1|ADVMOD 8|1|PUNCT
+%wor:	see 42419_42539 the 42559_42619 grass 42679_43039 and 43140_43380 the 43520_43881 shrubbery 43881_44381 outside 44442_44750 .
+*PAR:	and <the two is> [//] two cups and a plate to be &-uh [//] that's laying on [/] on the sink . 46745_55679
+%mor:	cconj|and num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate part|to aux|be-Inf-S pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|lay-Part-Pres-S adp|on det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|NUMMOD 3|14|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|8|MARK 8|11|COP 9|11|NSUBJ 10|11|AUX 11|3|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|3|PUNCT
+%wor:	and the two 46745_46865 is 46965_47066 two 47727_47867 cups 47947_48347 and 48448_48668 a 48748_48768 plate 49830_50170 to 51292_51392 be 51472_51552 uh 51793_54236 that's 54276_54517 laying 54617_54897 on 54937_55058 on 55258_55378 the 55518_55598 sink 55598_55679 .
+*PAR:	I don't know if it's to be dried or what . 56772_57420
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|dry-Part-Past-S cconj|or pron|what-Int-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|10|MARK 6|10|NSUBJ-OUTER 7|10|AUX 8|10|MARK 9|10|AUX-PASS 10|4|CCOMP 11|12|CC 12|10|CONJ 13|4|PUNCT
+%wor:	I 56772_56792 don't 56792_56953 know 56973_57093 if 57093_57133 it's 57133_57213 to 57213_57253 be 57253_57293 dried 57313_57413 or 57413_57420 what .
+*INV:	okay thank you . 59529_60757
+%mor:	intj|okay verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	okay 59529_59635 thank 60256_60516 you 60556_60757 .
+@End

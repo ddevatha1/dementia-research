@@ -1,0 +1,166 @@
+@UTF8
+@PID:	11312/a-00089698-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|61;|female|ProbableAD||Participant|18||
+@Media:	222-0, audio
+@G:	animals
+*INV:	okay , and you can begin now . 1321_3483
+%mor:	intj|okay cm|cm cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	okay 1321_1641 , and 1661_2322 you 2322_2422 can 2442_2542 begin 2562_2903 now 2983_3483 .
+*INV:	as many animals . 5187_6207
+%mor:	adp|as adj|many-S1 noun|animal-Plur .
+%gra:	1|3|CASE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	as 5187_5286 many 5326_5667 animals 5707_6207 .
+*PAR:	animals ? [+ exc] 7589_8011
+%mor:	noun|animal-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	animals 7589_8011 ?
+*INV:	mhm . 8202_8610
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 8202_8610 .
+*PAR:	&-um (.) dog .
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm . 15424_15722
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 15424_15722 .
+*PAR:	cat . 15815_15902
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 15815_15902 .
+*PAR:	(..) dog and a cat . [+ exc] 16591_16683
+%mor:	noun|dog cconj|and det|a-Ind-Art noun|cat .
+%gra:	1|4|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|1|PUNCT
+%wor:	dog and a cat 16591_16683 .
+*PAR:	(..) I don't know a lot of other dogs . [+ exc] 35460_36125
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|a-Ind-Art noun|lot-Acc adp|of adj|other-S1 noun|dog-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|AMOD 9|6|NMOD 10|4|PUNCT
+%wor:	I 35460_35480 don't 35540_36125 know a lot of other dogs .
+*INV:	think of any animal at all that you can think of . 37621_40263
+%mor:	verb|think-Fin-Imp-S adp|of det|any-Def-Ind noun|animal adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|11|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CASE 6|4|NMOD 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|4|ACL-RELCL 11|7|CASE 12|1|PUNCT
+%wor:	think 37621_37822 of 37862_37982 any 38022_38202 animal 38342_38722 at 38962_39062 all 39102_39302 that 39302_39443 you 39463_39543 can 39583_39703 think 39743_39943 of 39983_40263 .
+*INV:	as many animals that you can think of in one minute . 40283_42505
+%mor:	adp|as adj|many-S1 noun|animal-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|in num|one noun|minute .
+%gra:	1|3|CASE 2|3|AMOD 3|11|ROOT 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|11|CASE 10|11|NUMMOD 11|7|OBL 12|3|PUNCT
+%wor:	as many 40283_40483 animals 40623_40984 that 40984_41104 you 41124_41184 can 41224_41344 think 41384_41564 of 41624_41724 in 41784_41844 one 41964_42084 minute 42104_42505 .
+*PAR:	0 .
+*INV:	can you think of any more animals ? 52740_54101
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 noun|animal-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|3|PUNCT
+%wor:	can 52740_52860 you 52860_52920 think 52960_53100 of 53120_53180 any 53200_53341 more 53381_53581 animals 53601_54101 ?
+*PAR:	I know a dog@q and a cat@q . [+ exc] 58027_59268
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|a-Ind-Art q|dog cconj|and det|a-Ind-Art q|cat .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|FLAT 5|7|CC 6|7|DET 7|4|FLAT 8|2|PUNCT
+%wor:	I know 58027_58207 a 58247_58267 dog@q 58307_58587 and 58627_58728 a 58728_58748 cat@q 58768_59268 .
+*INV:	okay ! 60172_60409
+%mor:	intj|okay !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 60172_60409 !
+*INV:	that's good . 60730_61383
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 60730_60890 good 60950_61383 .
+*INV:	okay , that's good . 61411_62614
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 61411_61711 , that's 61792_62112 good 62172_62614 .
+@G:	F
+*INV:	now I'm gonna change directions . 63494_64856
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|change-Inf-S noun|direction-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	now 63494_63634 I'm 63654_63734 gonna 63774_63934 change 63994_64315 directions 64375_64856 .
+*INV:	what I would like you to do now is think of as many words beginning with the letter f@l that you can think of . 65557_69944
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S adv|now aux|be-Fin-Ind-Pres-S3 verb|think-Inf-S adp|of adv|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|10|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|ADVMOD 9|10|COP 10|24|ROOT 11|14|CASE 12|13|ADVMOD 13|14|AMOD 14|10|OBL 15|14|ACL 16|19|CASE 17|19|DET 18|19|COMPOUND 19|15|OBL 20|23|OBJ 21|23|NSUBJ 22|23|AUX 23|19|ACL-RELCL 24|20|CASE 25|10|PUNCT
+%wor:	what 65557_65657 I 65657_65677 would 65677_65777 like 65777_65937 you 65937_65997 to 66017_66057 do 66097_66197 now 66257_66457 is 66517_66557 think 66677_66837 of 66857_66937 as 66957_67037 many 67097_67297 words 67377_67677 beginning 67717_68078 with 68098_68198 the 68218_68278 letter 68318_68538 f 68818_68838 that 68878_69038 you 69078_69158 can 69198_69318 think 69398_69638 of 69718_69944 .
+*INV:	okay ? 70339_70839
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 70339_70839 ?
+*PAR:	f@l ? [+ exc]
+%mor:	propn|for ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	words beginning with the letter f@l . 71980_73851
+%mor:	noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|6|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|2|OBL-UNMARKED 7|1|PUNCT
+%wor:	words 71980_72360 beginning 72400_72800 with 72840_72940 the 72960_73020 letter 73060_73280 f 73460_73851 .
+*INV:	for example well you can't use proper names . 73921_78662
+%mor:	adp|for noun|example intj|well pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|use-Inf-S adj|proper-S1 noun|name-Plur-Acc .
+%gra:	1|2|CASE 2|7|OBL 3|7|DISCOURSE 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|9|ROOT 8|9|AMOD 9|7|OBJ 10|7|PUNCT
+%wor:	for 73921_74040 example 74100_74661 well 75861_76061 you 76461_76542 can't 76602_76922 use 77082_77362 proper 77702_78082 names 78162_78662 .
+*INV:	so , something like France@q or Fred@q well they're names so they wouldn't be counted . 79164_84029
+%mor:	adv|so cm|cm pron|something-Ind-S1 adp|like q|France cconj|or q|Fred adv|well pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|name-Plur sconj|so pron|they-Prs-Nom-P3 aux|would-Fin-S~part|not aux|be-Inf-S verb|count-Part-Past-S .
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|11|NSUBJ 4|5|CASE 5|3|FLAT 6|7|CC 7|5|FLAT 8|5|CONJ 9|11|NSUBJ 10|11|COP 11|17|ROOT 12|17|MARK 13|17|NSUBJ-PASS 14|17|AUX 15|17|ADVMOD 16|17|AUX-PASS 17|11|PARATAXIS 18|11|PUNCT
+%wor:	so 79164_79224 , something 79364_79684 like 79704_79884 France@q 79944_80605 or 80966_81046 Fred@q 81186_81987 well 81987_82107 they're 82127_82327 names 82388_82788 so 82808_82868 they 82928_83068 wouldn't 83108_83369 be 83389_83449 counted 83529_84029 .
+*INV:	but they begin with the letter f@l . 84201_85758
+%mor:	cconj|but pron|they-Prs-Nom-P3 verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|OBL-UNMARKED 8|3|PUNCT
+%wor:	but 84201_84250 they 84290_84430 begin 84470_84730 with 84770_84871 the 84871_84951 letter 85011_85251 f 85431_85758 .
+*INV:	also besides names derivatives aren't counted . 87675_91298
+%mor:	adv|also adp|besides noun|name-Plur noun|derivative-Plur aux|be-Fin-Ind-Pres-P3~part|not verb|count-Part-Past-S .
+%gra:	1|7|ADVMOD 2|4|CASE 3|4|COMPOUND 4|7|NSUBJ-PASS 5|7|AUX-PASS 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%wor:	also 87675_87954 besides 88455_88996 names 89076_89536 derivatives 89877_90498 aren't 90558_90758 counted 90798_91298 .
+*INV:	for example run@q runner@q and running@q using the letter r@l would be one word . 91391_95557
+%mor:	adp|for noun|example q|run q|runner cconj|and q|running verb|use-Ger-S det|the-Def-Art noun|letter noun|be-Acc aux|would-Fin-S aux|be-Inf-S num|one noun|word .
+%gra:	1|2|CASE 2|14|OBL 3|4|FLAT 4|14|FLAT 5|6|CC 6|4|FLAT 7|4|ACL 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|14|AUX 12|14|COP 13|14|NUMMOD 14|14|ROOT 15|14|PUNCT
+%wor:	for 91391_91451 example 91451_91791 run@q 91851_92112 runner@q 92152_92472 and 92472_92552 running@q 92633_93013 using 93073_93294 the 93314_93394 letter 93434_93634 r 94015_94035 would 94416_94556 be 94556_94636 one 94816_94997 word 95057_95557 .
+*INV:	so , as many words beginning with the letter f@l that you can think of . 95859_99204
+%mor:	adv|so cm|cm sconj|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|6|ADVMOD 2|1|PUNCT 3|6|MARK 4|5|AMOD 5|6|NSUBJ 6|15|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|14|OBJ 12|14|NSUBJ 13|14|AUX 14|10|ACL-RELCL 15|11|CASE 16|6|PUNCT
+%wor:	so 95859_95918 , as 95998_96058 many 96139_96359 words 96439_96820 beginning 96880_97260 with 97260_97361 the 97381_97461 letter 97481_97701 f 97982_98002 that 98042_98362 you 98402_98503 can 98543_98663 think 98723_98983 of 99064_99204 .
+*INV:	okay ? 99566_100064
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 99566_100064 ?
+*INV:	and you can begin now . 100407_102191
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 100407_100486 you 100526_100606 can 100646_100766 begin 100786_101187 now 101708_102191 .
+*PAR:	f@l ? [+ exc] 102732_103230
+%mor:	propn|for ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	f 102732_103230 ?
+*INV:	mhm . 103295_103751
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 103295_103751 .
+*PAR:	&-uh let's see , f@l . [+ exc] 105337_107120
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S cm|cm propn|for-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|PUNCT 5|3|OBJ 6|1|PUNCT
+%wor:	uh 105337_105397 let's 105417_105838 see 105858_106398 , f 106639_107120 .
+*PAR:	would be Fred . 107680_108521
+%mor:	aux|would-Fin-S aux|be-Inf-S propn|Fred .
+%gra:	1|3|AUX 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	would 107680_107801 be 107841_107921 Fred 108021_108521 .
+*INV:	okay . 108822_108922
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 108822_108922 .
+*PAR:	and &-uh let's see , Fred +... [+ exc] 112088_115452
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S cm|cm propn|Fred-Acc +...
+%gra:	1|2|CC 2|6|ROOT 3|2|OBJ 4|2|XCOMP 5|6|PUNCT 6|4|OBJ 7|2|PUNCT
+%wor:	and 112088_114231 uh 114291_114371 let's 114371_114491 see 114511_114731 , Fred 114952_115452 +...
+*INV:	as many words beginning with the letter f@l as you can think of . 117938_126169
+%mor:	adv|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter adv|for sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|13|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|12|ADVMOD 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|4|ADVCL 13|12|OBL 14|3|PUNCT
+%wor:	as 117938_118158 many 118799_119480 words 119620_120141 beginning 120261_120882 with 121002_121483 the 121783_121843 letter 121944_123125 f 123306_123326 as 123746_123886 you 123967_124087 can 124147_124327 think 124588_125509 of 125669_126169 .
+*INV:	think of any other words beginning with the letter f@l ? 139194_141498
+%mor:	verb|think-Fin-Imp-S adp|of det|any-Def-Ind adj|other-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter noun|f ?
+%gra:	1|10|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|6|OBL-UNMARKED 11|1|PUNCT
+%wor:	think 139194_139334 of 139354_139434 any 139474_139595 other 139655_139835 words 139875_140156 beginning 140216_140557 with 140557_140657 the 140677_140737 letter 140757_140958 f 140998_141498 ?
+*INV:	have about fifteen seconds . 144749_145949
+%mor:	verb|have-Fin-Imp-S adv|about num|fifteen noun|second-Plur-Acc .
+%gra:	1|4|ROOT 2|3|ADVMOD 3|4|NUMMOD 4|1|OBJ 5|1|PUNCT
+%wor:	have about 144749_144948 fifteen 145008_145369 seconds 145449_145949 .
+*INV:	okay , that's fine . 161676_163218
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 161676_162365 , that's 162426_162670 fine 162731_163218 .
+@End

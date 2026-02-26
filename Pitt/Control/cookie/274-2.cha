@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00090835-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|male|Control||Participant|28||
+@Media:	274-2, audio
+@G:	Cookie
+*INV:	what you see happening in that picture . 570_2270
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+%wor:	what 570_670 you 710_790 see 870_1010 happening 1090_1550 in 1590_1650 that 1670_1810 picture 1890_2270 .
+*INV:	everything that's going on in there . 2530_4093
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|7|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+%wor:	everything 2530_2911 that's 2931_3111 going 3191_3471 on 3571_3731 in 3791_3851 there 3891_4093 .
+*PAR:	&=tapping well this happens to be a kitchen . 6912_8747
+%mor:	intj|well pron|this-Dem-S1 verb|happen-Fin-Ind-Pres-S3 part|to aux|be-Inf-S det|a-Ind-Art noun|kitchen .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|7|ROOT 4|7|MARK 5|7|COP 6|7|DET 7|3|XCOMP 8|3|PUNCT
+%wor:	well 6912_7212 this 7412_7512 happens 7593_7893 to 7913_7973 be 8033_8093 a 8173_8193 kitchen 8273_8747 .
+*PAR:	and the mother of the house is washing the dishes . 9373_12175
+%mor:	cconj|and det|the-Def-Art noun|mother adp|of det|the-Def-Art noun|house aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX 8|10|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+%wor:	and 9373_9653 the 9773_9854 mother 9974_10234 of 10294_10334 the 10374_10454 house 10514_10874 is 10934_11034 washing 11134_11554 the 11594_11674 dishes 11754_12175 .
+*PAR:	and the water is overflowing from the sink onto the floor . 12362_16825
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+%wor:	and 12362_12422 the 12442_12542 water 12622_12922 is 13022_13122 overflowing 13202_13803 from 15044_15204 the 15244_15324 sink 15444_15725 onto 15965_16145 the 16185_16265 floor 16325_16825 .
+*PAR:	and the &-uh two children evidently a brother and a sister are &-uh getting cookies out of the cookie jar which is on the second shelf of the upper cupboard . 18367_26996
+%mor:	cconj|and det|the-Def-Art num|two noun|child-Plur adv|evidently det|a-Ind-Art noun|brother cconj|and det|a-Ind-Art noun|sister aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art adj|second-S1 noun|shelf adp|of det|the-Def-Art adj|upper-S1 noun|cupboard .
+%gra:	1|12|CC 2|4|DET 3|4|NUMMOD 4|12|NSUBJ 5|12|ADVMOD 6|7|DET 7|12|NSUBJ 8|10|CC 9|10|DET 10|7|CONJ 11|12|AUX 12|28|ROOT 13|12|OBJ 14|18|CASE 15|18|CASE 16|18|DET 17|18|COMPOUND 18|12|OBL 19|24|NSUBJ 20|24|COP 21|24|CASE 22|24|DET 23|24|AMOD 24|18|ACL-RELCL 25|28|CASE 26|28|DET 27|28|AMOD 28|24|NMOD 29|12|PUNCT
+%wor:	and 18367_18668 the 18828_18968 uh 19168_19268 two 19649_19809 children 19869_20189 evidently 20269_20689 a 20730_20750 brother 20830_21110 and 21150_21210 a 21250_21270 sister 21370_21730 are 22912_23252 uh 23252_23292 getting 23352_23572 cookies 23612_23973 out 24033_24093 of 24093_24133 the 24133_24193 cookie 24233_24533 jar 24573_24833 which 24873_25014 is 25054_25134 on 25194_25274 the 25294_25354 second 25434_25734 shelf 25774_26075 of 26155_26215 the 26255_26335 upper 26395_26595 cupboard 26675_26996 .
+*PAR:	and &-uh he's standing on a three legged stool and is losing its balance and about to fall on the floor . 27340_33740
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art num|three adj|legged-S1 noun|stool cconj|and aux|be-Fin-Ind-Pres-S3 verb|lose-Part-Pres-S pron|its-Prs-Gen-S3 noun|balance-Acc cconj|and adv|about part|to verb|fall-Inf-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|21|ROOT 5|9|CASE 6|9|DET 7|9|NUMMOD 8|9|AMOD 9|4|OBL 10|12|CC 11|12|AUX 12|4|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|18|CC 16|18|ADVMOD 17|18|MARK 18|12|CONJ 19|21|CASE 20|21|DET 21|18|OBL 22|4|PUNCT
+%wor:	and 27340_27440 uh 27480_27580 he's 28301_28461 standing 28481_28882 on 28902_28982 a 29002_29022 three 29062_29243 legged 29283_29543 stool 29603_29884 and 29984_30084 is 30124_30244 losing 30344_30625 its 30685_30765 balance 30865_31346 and 32488_32568 about 32608_32828 to 32869_32909 fall 32969_33189 on 33229_33289 the 33309_33369 floor 33429_33740 .
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+@End

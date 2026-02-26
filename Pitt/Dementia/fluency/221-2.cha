@@ -1,0 +1,174 @@
+@UTF8
+@PID:	11312/a-00089696-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|MCI||Participant|||
+@Media:	221-2, audio
+@G:	animals
+*INV:	begin now . 1481_2181
+%mor:	verb|begin-Fin-Imp-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	begin 1481_2181 now .
+*PAR:	aardvark . 2523_3022
+%mor:	noun|aardvark .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	aardvark 2523_3022 .
+*PAR:	bear . 4465_4964
+%mor:	noun|bear .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bear 4465_4964 .
+*PAR:	&-uh &+r &+r rabbit . 10932_11432
+%mor:	noun|rabbit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh rabbit 10932_11432 .
+*PAR:	dog . 12215_12694
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 12215_12694 .
+*PAR:	cat . 13236_13735
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 13236_13735 .
+*PAR:	elephant . 14558_15018
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 14558_15018 .
+*PAR:	camel . 16121_16620
+%mor:	noun|camel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	camel 16121_16620 .
+*PAR:	deer . 18205_18703
+%mor:	noun|deer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	deer 18205_18703 .
+*PAR:	&-uh &-uh &=sighs let's see &-uh animals . [+ exc] 24115_26837
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S noun|animal-Plur-Acc .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%wor:	uh uh let's 24115_24313 see 24674_25195 uh 25856_26076 animals 26337_26837 .
+*PAR:	&-uh cats . 28039_28761
+%mor:	noun|cat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 28039_28180 cats 28280_28761 .
+*PAR:	and monkeys . 29347_30723
+%mor:	cconj|and noun|monkey-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 29347_29467 monkeys 30227_30723 .
+*PAR:	and zebra . 31044_31988
+%mor:	cconj|and noun|zebra .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 31044_31188 zebra 31488_31988 .
+*PAR:	and &-uh like &-uh ones with the big long neck giraffe . 33126_39213
+%mor:	cconj|and intj|like noun|one-Plur adp|with det|the-Def-Art adj|big-S1 adj|long-S1 noun|neck noun|giraffe .
+%gra:	1|3|CC 2|3|DISCOURSE 3|9|ROOT 4|9|CASE 5|9|DET 6|9|AMOD 7|9|AMOD 8|9|COMPOUND 9|3|NMOD 10|3|PUNCT
+%wor:	and 33126_33509 uh 33529_33569 like 34790_35431 uh 36431_36471 ones 36491_36672 with 36692_36812 the 36812_36872 big 36992_37172 long 37272_37592 neck 38353_38593 giraffe 38713_39213 .
+*PAR:	and rhinoceros . 40574_41273
+%mor:	cconj|and noun|rhinocero-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 40574_40674 rhinoceros 40774_41273 .
+*PAR:	and &+k crocodile . 41875_43917
+%mor:	cconj|and noun|crocodile .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 41875_41915 crocodile 43436_43917 .
+*PAR:	and oh &-um moose . 44675_49056
+%mor:	cconj|and intj|oh propn|moose .
+%gra:	1|3|CC 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+%wor:	and 44675_44835 oh 46135_46255 um 46795_46835 moose 48556_49056 .
+*PAR:	and &-um apes . 50590_53635
+%mor:	cconj|and noun|ape-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 50590_51197 um 51317_51657 apes 53137_53635 .
+*PAR:	and I don't know what . [+ exc] 55317_59159
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 55317_55898 I 55938_55958 don't 56779_57259 know 57619_58639 what 58659_59159 .
+*INV:	okay good . 60722_61102
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 60722_61102 good .
+@G:	F
+*INV:	and you can begin now . 63344_64162
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 63344_63424 you 63464_64162 can begin now .
+*PAR:	&+f f@l . [+ exc]
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fake . 65987_66466
+%mor:	adj|fake-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fake 65987_66466 .
+*PAR:	(.) fail . 67948_68447
+%mor:	verb|fail-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fail 67948_68447 .
+*PAR:	fume . 70189_70650
+%mor:	noun|fume .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fume 70189_70650 .
+*PAR:	furious . 72470_72951
+%mor:	adj|furious-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	furious 72470_72951 .
+*PAR:	fizzle . 74872_75352
+%mor:	verb|fizzle-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fizzle 74872_75352 .
+*PAR:	facade . 77013_77513
+%mor:	noun|facade .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	facade 77013_77513 .
+*PAR:	flea . 79415_79894
+%mor:	noun|flea .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flea 79415_79894 .
+*PAR:	fair . 81496_81995
+%mor:	adj|fair-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fair 81496_81995 .
+*PAR:	&-uh full . 84957_85457
+%mor:	adj|full-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh full 84957_85457 .
+*PAR:	&-um &+f &-uh freak . 88560_91561
+%mor:	noun|freak .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 88560_89040 uh 89160_90942 freak 91062_91561 .
+*PAR:	flume . 92943_93442
+%mor:	noun|flume .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flume 92943_93442 .
+*PAR:	froze . 95005_95504
+%mor:	verb|frize-Fin-Ind-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	froze 95005_95504 .
+*PAR:	&-uh (.) &-uh fuel . 101691_102172
+%mor:	noun|fuel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 101691_101851 uh 101891_102051 fuel 102051_102172 .
+*PAR:	&-uh foolish . 105558_106038
+%mor:	adj|foolish-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 105558_105598 foolish 105598_106038 .
+*PAR:	&-uh furious . 108463_108942
+%mor:	adj|furious-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh furious 108463_108942 .
+*PAR:	&-um fulgenous@n . 112608_113108
+%mor:	adj|fulgenous-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um fulgenous 112608_113108 .
+*PAR:	&-uh &-uh &+fest fast . 119841_120421
+%mor:	adj|fast-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 119841_119900 uh 119920_120000 fast 120000_120421 .
+*INV:	okay good . 124386_125108
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 124386_124528 good 124608_125108 .
+*PAR:	+< oh . 125538_125619
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 125538_125619 .
+@End

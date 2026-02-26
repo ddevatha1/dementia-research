@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00090599-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|76;|female|ProbableAD||Participant|16||
+@Media:	615-0, audio
+@G:	Cookie
+*INV:	me everything you see happening in that picture . 70_2510
+%mor:	pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+%wor:	me 70_130 everything 230_710 you 750_850 see 951_1111 happening 1211_1712 in 1752_1832 that 1872_2032 picture 2092_2510 .
+*INV:	everything that's going on in that picture . 2733_4694
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+%wor:	everything 2733_3133 that's 3133_3314 going 3374_3714 on 3794_4014 in 4054_4135 that 4175_4335 picture 4375_4694 .
+*PAR:	I see the [//] a boy stretching out for <I don't know whether it's> [//] ball [//] a ball or a cake . 4916_11384
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boy-Acc verb|stretch-Ger-S adp|out adp|for det|a-Ind-Art noun|ball cconj|or det|a-Ind-Art noun|cake .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|12|CC 11|12|DET 12|9|CONJ 13|2|PUNCT
+%wor:	I 4916_4936 see 5056_5256 the 5316_5396 a 5636_5656 boy 5797_6097 stretching 6277_6778 out 6878_7058 for 7138_7338 I 7338_7359 don't 7379_8059 know 8059_8139 whether 8160_8320 it's 8320_8400 ball 8700_9001 a 9581_9601 ball 9721_10082 or 10823_10903 a 10923_10943 cake 11083_11384 .
+*PAR:	<and it look> [//] he was standing on a stool . 13349_15850
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	and 13349_13489 it 13549_13629 look 13689_13869 he 14229_14289 was 14329_14430 standing 14470_14870 on 14950_15050 a 15110_15130 stool 15350_15850 .
+*PAR:	his little sister was reaching out her hand . 16532_18967
+%mor:	pron|his-Prs-Gen-S3 adj|little-S1 noun|sister aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S adp|out pron|her-Prs-Gen-S3 noun|hand-Acc .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|COMPOUND-PRT 7|8|NMOD-POSS 8|5|OBJ 9|5|PUNCT
+%wor:	his 16532_16692 little 16852_17052 sister 17112_17472 was 17512_17653 reaching 17753_18113 out 18193_18313 her 18393_18533 hand 18633_18967 .
+*PAR:	and the ladder [: stool] [* s:r] was beginning to (.) go over . 19494_22718
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Past-S3-irr verb|begin-Part-Pres-S part|to verb|go-Inf-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|5|PUNCT
+%wor:	and 19494_19614 the 19654_19734 stool 19815_20115 was 20175_20335 beginning 20395_20855 to 20956_21056 go 22237_22317 over 22477_22718 .
+*PAR:	mother was at the dishwasher . 23318_25019
+%mor:	noun|mother aux|be-Fin-Ind-Past-S3-irr adp|at det|the-Def-Art noun|dishwasher .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	mother 23318_23578 was 23618_23798 at 23878_23958 the 23998_24078 dishwasher 24519_25019 .
+*PAR:	and &+sh she left the &+s faucet . 25880_27342
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|leave-Fin-Ind-Past-S3-irr det|the-Def-Art noun|faucet-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and 25880_26020 she 26381_26481 left 26541_26741 the 26761_26821 faucet 26941_27342 .
+@End

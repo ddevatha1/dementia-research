@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00090548-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|female|PossibleAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	465-0, audio
+@G:	Cookie
+*PAR:	(...) she's doin(g) the dishes . 10657_11480
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 10657_10759 doin(g) 10759_11253 the 11253_11335 dishes 11335_11480 .
+*PAR:	he's <on the cookie> [//] &+j &+ja tryin(g) to get some cookies out o(f) the cookie jar . 12872_15860
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|12|CASE 9|12|CASE 10|12|DET 11|12|COMPOUND 12|5|OBL 13|3|PUNCT
+%wor:	he's 12872_13072 on 13112_13272 the 13272_13332 cookie 13413_14515 tryin(g) 14635_14935 to 14935_14975 get 14975_15036 some 15036_15176 cookies 15176_15416 out 15416_15496 o(f) 15496_15577 the 15577_15637 cookie 15717_15860 jar .
+*PAR:	and the chair's [: stool's] [* s:r] fallin(g) over . 15998_16610
+%mor:	cconj|and det|the-Def-Art noun|stool~part|s verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 15998_16057 the 16077_16178 stool's 16178_16378 fallin(g) 16418_16610 over .
+*PAR:	<the water is> [//] &+overf the water's overflowin(g) . 19420_21507
+%mor:	det|the-Def-Art noun|water~part|s noun|overflow-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the water is the water's 19420_20926 overflowin(g) 21007_21507 .
+*INV:	(...) okay , anything else you see going on in there ? 36304_37365
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in adv|there ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|10|ROOT 4|3|AMOD 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|3|PUNCT
+%wor:	okay 36304_36724 , anything 36724_36904 else 36904_37004 you 37004_37064 see 37085_37265 going 37265_37365 on in there ?
+*PAR:	just the water's overflowin(g) . 38949_39349
+%mor:	adv|just det|the-Def-Art noun|water~part|s noun|overflow-Ger .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	just the water's 38949_39247 overflowin(g) 39307_39349 .
+*PAR:	and she's doin(g) the dishes . 39759_40629
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 39759_39808 she's 39888_40068 doin(g) 40148_40388 the 40388_40448 dishes 40448_40629 .
+*PAR:	and the kid's up in the chair [: stool] [* s:r] tryin(g) to get the cookies .
+%mor:	cconj|and det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 adp|up adp|in det|the-Def-Art noun|stool verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|13|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|8|ACL 10|11|MARK 11|9|XCOMP 12|13|DET 13|11|OBJ 14|5|PUNCT
+*PAR:	and the chair [: stool] [* s:r] is fallin(g) over .
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

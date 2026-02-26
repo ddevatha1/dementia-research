@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/a-00090753-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|58;|female|Control||Participant|30||
+@Media:	140-0, audio
+@G:	Cookie
+*INV:	there is the picture .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	doesn't matter where you start then right ? [+ exc] 4191_5691
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|matter-Inf-S adv|where pron|you-Prs-Nom-S2 verb|start-Fin-Ind-Pres-S2 adv|then adj|right-S1 ?
+%gra:	1|3|AUX 2|3|ADVMOD 3|8|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|CCOMP 7|8|ADVMOD 8|3|DISCOURSE 9|3|PUNCT
+%wor:	doesn't 4191_4371 matter 4391_4571 where 4571_4712 you 4712_4792 start 4852_5053 then 5093_5333 right 5394_5691 ?
+*INV:	+< nope . 5574_5710
+%mor:	intj|nope .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	nope 5574_5710 .
+*PAR:	alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	there's &-uh a little boy on a &-uh stepstool which is tilted . 7235_13454
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy adp|on det|a-Ind-Art noun|stepstool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|2|EXPL 2|11|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|NSUBJ-PASS 10|11|AUX-PASS 11|8|ACL-RELCL 12|2|PUNCT
+%wor:	there's 7235_7419 uh 7499_9804 a 9825_9845 little 10025_10246 boy 10306_10707 on 10967_11108 a 11188_11208 uh 11509_11689 stepstool 11709_12371 which 12411_12591 is 12631_12752 tilted 12972_13454 .
+*PAR:	and he's getting some cookies . 14510_16531
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 14510_14630 he's 14670_15030 getting 15230_15550 some 15771_15971 cookies 16031_16531 .
+*PAR:	now do you want descriptive as far as the cookie lids or [/] or how they are or just the actions +/? [+ exc] 17112_22480
+%mor:	adv|now aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adj|descriptive-S1 adv|as adv|far adp|as det|the-Def-Art noun|cookie noun|lid-Plur cconj|or adv|how pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 cconj|or adv|just det|the-Def-Art noun|action-Plur +/?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|19|ROOT 5|4|XCOMP 6|7|ADVMOD 7|4|ADVMOD 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|13|CC 13|7|CONJ 14|15|NSUBJ 15|13|ADVCL-RELCL 16|19|CC 17|19|ADVMOD 18|19|DET 19|13|CONJ 20|4|PUNCT
+%wor:	now 17112_17292 do 17352_17392 you 17392_17472 want 17632_17812 descriptive 17832_18553 as 18573_18673 far 18733_18933 as 18993_19093 the 19174_19274 cookie 19534_19874 lids 19914_20254 or 20334_20475 or 20795_20895 how 20975_21135 they 21175_21315 are 21415_21596 or 21656_21736 just 21756_21936 the 21956_22036 actions 22176_22480 +/?
+*INV:	+< just the action . 22557_23158
+%mor:	adv|just det|the-Def-Art noun|action .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	just 22557_22676 the 22697_22777 action 22777_23158 .
+*PAR:	+< just the action . [+ exc] 22957_23877
+%mor:	adv|just det|the-Def-Art noun|action .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	just 22957_23157 the 23197_23277 action 23377_23877 .
+*PAR:	okay . [+ exc] 23900_24120
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 23900_24120 .
+*PAR:	and looks like he's trying to hand a cookie to his sister . 24219_27400
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|hand-Inf-S det|a-Ind-Art noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|2|CC 2|13|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|2|PUNCT
+%wor:	and 24219_24318 looks 24318_24458 like 24498_24678 he's 24678_24818 trying 24858_25119 to 25139_25199 hand 25259_25479 a 25539_25559 cookie 25599_26360 to 26480_26600 his 26680_26820 sister 26900_27400 .
+*PAR:	she kind of has her finger up towards her mouth or something like she might be giggling . 29245_35581
+%mor:	pron|she-Prs-Nom-S3 noun|kind adp|of verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|towards pron|her-Prs-Gen-S3 noun|mouth cconj|or pron|something-Ind-S1 sconj|like pron|she-Prs-Nom-S3 aux|might-Fin-S aux|be-Inf-S verb|giggle-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|2|FIXED 4|17|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|12|CC 12|10|CONJ 13|17|MARK 14|17|NSUBJ 15|17|AUX 16|17|AUX 17|12|ACL 18|4|PUNCT
+%wor:	she 29245_29325 kind 29385_29625 of 29665_29725 has 29725_30966 her 30986_31066 finger 31106_31386 up 31446_31546 towards 31966_32286 her 32306_32406 mouth 32446_32767 or 32807_32887 something 32947_33347 like 34428_34608 she 34628_34708 might 34768_34948 be 34968_35028 giggling 35088_35581 .
+*PAR:	&-uh the mother's drying dishes but the water is overflowing onto the floor . 36109_42772
+%mor:	det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur cconj|but det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|13|ROOT 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|5|PUNCT
+%wor:	uh 36109_36309 the 36489_36569 mother's 36629_37109 drying 37770_38270 dishes 38370_38930 but 39170_39350 the 39431_39531 water 39891_40231 is 40371_40511 overflowing 40911_41752 onto 41852_42052 the 42132_42192 floor 42272_42772 .
+*PAR:	(.) &-uh (..) I don't know , <the silk [* pw-ret]> [//] the sink looks like it's almost tilted . 50551_53238
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S cm|cm det|the-Def-Art noun|sink verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|almost verb|tilt-Part-Past-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|8|PUNCT 6|7|DET 7|8|NSUBJ 8|4|PARATAXIS 9|13|MARK 10|13|NSUBJ-PASS 11|13|AUX-PASS 12|13|ADVMOD 13|8|ADVCL 14|4|PUNCT
+%wor:	uh 50551_50591 I 50591_50611 don't 50611_50711 know 50711_50791 , the 50791_50911 silk 50931_51151 the 51331_51411 sink 51651_51871 looks 51911_52051 like 52071_52232 it's 52252_52372 almost 52412_52732 tilted 52792_53238 .
+*PAR:	(..) now we should call the [/] &-uh the [/] &+sau the cup and the saucers . 57135_61005
+%mor:	adv|now pron|we-Prs-Nom-P1 aux|should-Fin-S verb|call-Inf-S det|the-Def-Art noun|cup-Acc cconj|and det|the-Def-Art noun|saucer-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|4|PUNCT
+%wor:	now 57135_57255 we 57295_57355 should 57415_57615 call 57695_57915 the 57955_58055 uh 58335_58435 the 59616_59696 the 60076_60156 cup 60196_60336 and 60417_60497 the 60497_60557 saucers 60597_61005 .
+*PAR:	that's not action right is it ? [+ exc] 61057_62406
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not noun|action adj|right-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|7|ROOT 5|4|PARATAXIS 6|4|COP 7|4|PARATAXIS 8|4|PUNCT
+%wor:	that's 61057_61297 not 61297_61437 action 61537_61877 right 61917_62138 is 62198_62298 it 62358_62406 ?
+*INV:	no you don't needta mention those . 62775_64001
+%mor:	intj|no pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|needta-Inf-S verb|mention-Inf-S pron|that-Dem-P1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|5|PARATAXIS 7|6|OBJ 8|5|PUNCT
+%wor:	no 62775_62858 you 62938_63018 don't 63058_63278 needta 63398_63699 mention 63699_63899 those 63899_64001 .
+*PAR:	+< &-uh the breeze might be blowing . 64199_65340
+%mor:	det|the-Def-Art noun|breeze aux|might-Fin-S aux|be-Inf-S verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	uh the breeze 64199_64519 might 64559_64759 be 64779_64839 blowing 64919_65340 .
+*PAR:	the curtains look like they might be +... 65478_66800
+%mor:	det|the-Def-Art noun|curtain-Plur verb|look-Fin-Ind-Pres-P3 sconj|like pron|they-Prs-Nom-P3 aux|might-Fin-S aux|be-Inf-S +...
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|3|PUNCT
+%wor:	the 65478_65538 curtains 65558_65878 look 65898_65998 like 66018_66198 they 66198_66298 might 66318_66418 be 66418_66800 +...
+*PAR:	(.) any other action . [+ exc]
+%mor:	det|any-Def-Ind adj|other-S1 noun|action .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*PAR:	I don't see anything else . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+*PAR:	I just see into the outdoors but I don't see anything moving . 79111_81353
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|see-Fin-Ind-Pres-S1 adp|into det|the-Def-Art noun|outdoors-Plur cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 verb|move-Ger-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|13|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|3|CONJ 12|11|OBJ 13|12|ACL 14|3|PUNCT
+%wor:	I 79111_79131 just 79131_79271 see 79271_79451 into 79451_79551 the 79591_79671 outdoors 79791_80252 but 80312_80472 I 80772_80792 don't 80912_81173 see 81173_81353 anything moving .
+*INV:	&-hm okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< that's about it , I guess . [+ exc] 82995_83174
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|7|ROOT 5|7|PUNCT 6|7|NSUBJ 7|4|PARATAXIS 8|4|PUNCT
+%wor:	that's 82995_83174 about it , I guess .
+*INV:	+< a little bit xxx . 83675_83956
+%mor:	det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	a 83675_83695 little 83695_83835 bit 83835_83956 .
+@End

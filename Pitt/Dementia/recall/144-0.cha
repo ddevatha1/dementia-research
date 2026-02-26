@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00089900-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|23||
+@Media:	144-0, audio
+@G:	George_Immediate
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*INV:	all of the details you can remember from the story . 1801_3922
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|detail-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|from det|the-Def-Art noun|story .
+%gra:	1|10|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	all 1801_2581 of 3542_3922 the details you can remember from the story .
+*PAR:	George Miller moved into his son's house . 5986_9148
+%mor:	propn|George propn|Miller verb|move-Fin-Ind-Past-S3 adp|into pron|his-Prs-Gen-S3 noun|son~part|s noun|house .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|8|ROOT 4|8|CASE 5|6|NMOD-POSS 6|8|NMOD-POSS 7|6|CASE 8|3|OBL 9|3|PUNCT
+%wor:	George 5986_6366 Miller 6426_6766 moved 7347_7627 into 7687_7907 his 7967_8107 son's 8208_8568 house 8648_9148 .
+*PAR:	and &-uh (.) his son had a daughter Melanie . 10931_14454
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|son verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|daughter-Acc propn|Melanie .
+%gra:	1|4|CC 2|3|NMOD-POSS 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|6|APPOS 8|4|PUNCT
+%wor:	and 10931_11271 uh 11311_11351 his 12693_12833 son 12913_13113 had 13193_13353 a 13393_13413 daughter 13513_13854 Melanie 13954_14454 .
+*PAR:	and she enjoyed listening to her grandfather tell about his childhood (.) in the city . 15356_22065
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|enjoy-Fin-Ind-Past-S3 verb|listen-Ger-S adp|to pron|her-Prs-Gen-S3 noun|grandfather verb|tell-Inf-S adp|about pron|his-Prs-Gen-S3 noun|childhood adp|in det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|NSUBJ 3|14|ROOT 4|3|XCOMP 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|ADVCL 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|3|PUNCT
+%wor:	and 15356_15476 she 15556_15676 enjoyed 15776_16257 listening 16317_16698 to 16758_16838 her 16938_17058 grandfather 17118_17859 tell 17939_18140 about 18200_18520 his 18580_18821 childhood 19442_20083 in 21184_21264 the 21325_21405 city 21565_22065 .
+*PAR:	and one Friday (.) they went to the city . 22547_26652
+%mor:	cconj|and num|one propn|Friday pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|to det|the-Def-Art noun|city .
+%gra:	1|5|CC 2|3|NUMMOD 3|5|OBL-UNMARKED 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 22547_22667 one 22767_22927 Friday 23027_23608 they 24990_25150 went 25250_25471 to 25611_25731 the 25891_25971 city 26152_26652 .
+*PAR:	and she held tightly to her grandfather's hand because she was afraid of the noises in the city . 27634_35609
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|hold-Fin-Ind-Past-S3-irr adv|tightly adp|to pron|her-Prs-Gen-S3 noun|grandfather~part|s noun|hand sconj|because pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|afraid-S1 adp|of det|the-Def-Art noun|noise-Plur adp|in det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|NSUBJ 3|19|ROOT 4|3|ADVMOD 5|9|CASE 6|7|NMOD-POSS 7|9|NMOD-POSS 8|7|CASE 9|3|OBL 10|13|MARK 11|13|NSUBJ 12|13|COP 13|3|ADVCL 14|16|CASE 15|16|DET 16|13|OBL 17|19|CASE 18|19|DET 19|16|NMOD 20|3|PUNCT
+%wor:	and 27634_27774 she 27874_28014 held 28134_28415 tightly 29335_29755 to 29855_29935 her 30036_30156 grandfather's 30196_30996 hand 31476_31897 because 31977_32457 she 32497_32617 was 32697_32837 afraid 32917_33398 of 33458_33538 the 33618_33718 noises 34418_34899 in 34959_35039 the 35059_35139 city 35299_35609 .
+*PAR:	and she was very happy when she returned home . 36280_39481
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adj|happy-S1 adv|when pron|she-Prs-Nom-S3 verb|return-Fin-Ind-Past-S3 adv|home .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|9|ROOT 6|8|ADVMOD 7|8|NSUBJ 8|5|ADVCL 9|8|ADVMOD 10|5|PUNCT
+%wor:	and 36280_36400 she 36480_36600 was 36680_36840 very 36920_37140 happy 37260_37620 when 37720_37860 she 38001_38121 returned 38441_38941 home 38981_39481 .
+@End

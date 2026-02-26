@@ -1,0 +1,103 @@
+@UTF8
+@PID:	11312/a-00091328-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|male|ProbableAD||Participant|10||
+@Media:	125-0, audio
+*INV:	if I give you the word pencil@q can you use that in a sentence ? 380_4241
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|the-Def-Art noun|word-Acc q|pencil aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S pron|that-Dem adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|10|ADVCL 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|FLAT 8|10|AUX 9|10|NSUBJ 10|14|ROOT 11|10|OBJ 12|14|CASE 13|14|DET 14|10|OBL 15|10|PUNCT
+%wor:	if 380_440 I 580_600 give 660_840 you 860_940 the 980_1060 word 1120_1420 pencil@q 1880_2480 can 2500_2660 you 2741_2861 use 3041_3241 that 3261_3461 in 3501_3581 a 3621_3641 sentence 3741_4241 ?
+*PAR:	I don't know that . [+ exc] 4862_5362
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	I don't know 4862_4941 that 5142_5362 .
+*PAR:	(.) if I drop the word pencil@q . [+ exc] 10084_11584
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|drop-Fin-Ind-Pres-S1 det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|FLAT 7|3|PUNCT
+%wor:	if 10084_10204 I 10364_10384 drop 10464_10684 the 10744_10804 word 10864_11024 pencil@q 11084_11584 .
+*INV:	let me give you an a example . 13565_14586
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art det|a-Ind-Art noun|example-Acc .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|7|DET 6|7|DET 7|3|OBJ 8|1|PUNCT
+%wor:	let me 13565_13625 give 13685_13845 you 13865_13925 an 13965_14005 a 14045_14065 example 14185_14586 .
+*INV:	remember the word table@q ? 15767_17867
+%mor:	verb|remember-Fin-Imp-S det|the-Def-Art noun|word-Acc q|table ?
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|1|PUNCT
+%wor:	remember 15767_16147 the 16747_16827 word 16907_17147 table@q 17367_17867 ?
+*PAR:	yeah . [+ exc] 18195_18447
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 18195_18447 .
+*INV:	and I said “your dinner is on the table” . 19288_22369
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|your-Prs-Gen-S2 noun|dinner aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|5|NMOD-POSS 5|9|NSUBJ 6|9|COP 7|9|CASE 8|9|DET 9|3|CCOMP 10|3|PUNCT
+%wor:	and 19288_19408 I 19568_19588 said 19688_19928 your 20168_20348 dinner 20449_20729 is 21089_21209 on 21349_21509 the 21669_21749 table 21869_22369 .
+*INV:	can you use the word pencil@q in a sentence ? 23570_26231
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|5|FLAT 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+%wor:	can 23570_23710 you 23770_23890 use 24050_24350 the 24430_24510 word 24570_24810 pencil@q 24910_25491 in 25491_25571 a 25611_25631 sentence 25731_26231 ?
+*INV:	make a sentence up using the word pencil@q . 27412_29813
+%mor:	verb|make-Fin-Imp-S det|a-Ind-Art noun|sentence-Acc adp|up verb|use-Ger-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|1|ADVCL 6|7|DET 7|5|OBJ 8|7|FLAT 9|1|PUNCT
+%wor:	make 27412_27612 a 27632_27652 sentence 27752_28252 up 28292_28372 using 28532_28812 the 28852_28932 word 28992_29232 pencil@q 29332_29813 .
+*PAR:	(...) I know but I can't think of . [+ exc] 38299_39900
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|7|CC 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|2|CONJ 8|7|OBL 9|2|PUNCT
+%wor:	I 38299_38319 know 38319_38479 but 38659_38799 I 38819_38839 can't 38939_39179 think 39220_39440 of 39520_39900 .
+*INV:	+< mhm . 39620_40120
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 39620_40120 .
+*INV:	any sentence will do . 41222_42568
+%mor:	det|any-Def-Ind noun|sentence aux|will-Fin-S verb|do-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	any 41222_41362 sentence 41482_41943 will 41963_42143 do 42203_42568 .
+*INV:	sentence that you wanna make up with the word pencil@q in it . 43584_47329
+%mor:	noun|sentence sconj|that pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|make-Inf-S adp|up adp|with det|the-Def-Art noun|word q|pencil adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|12|ROOT 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|1|APPOS 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|9|FLAT 11|12|CASE 12|9|NMOD 13|1|PUNCT
+%wor:	sentence 43584_44025 that 44025_44125 you 44165_44265 wanna 44285_44565 make 44626_44926 up 44986_45146 with 45426_45567 the 45587_45667 word 45727_45967 pencil@q 46067_46728 in 46728_46828 it 46888_47329 .
+*PAR:	(...) writing pencil . 56364_57311
+%mor:	verb|write-Part-Pres-S noun|pencil-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	writing 56364_56724 pencil 56845_57311 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	now then can you use the word tree@q <in a pen> [//] in a sentence ? 61891_66336
+%mor:	adv|now adv|then aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc q|tree adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|11|ROOT 6|7|DET 7|5|OBJ 8|7|FLAT 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+%wor:	now 61891_62111 then 62151_62351 can 62932_63072 you 63132_63233 use 63373_63613 the 63633_63713 word 63773_64054 tree@q 64214_64714 in 64995_65075 a 65115_65135 pen 65215_65435 in 65556_65656 a 65716_65736 sentence 65836_66336 ?
+*PAR:	yes . [+ exc]
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay , you tell me a sentence with the word tree@q in it . 68559_71282
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 det|a-Ind-Art noun|sentence-Acc adp|with det|the-Def-Art noun|word q|tree adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|13|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|10|FLAT 12|13|CASE 13|10|NMOD 14|4|PUNCT
+%wor:	okay 68559_68759 , you 68799_68879 tell 68939_69099 me 69119_69179 a 69239_69259 sentence 69340_69800 with 69820_69940 the 69960_70040 word 70100_70320 tree@q 70440_70820 in 70840_70941 it 71001_71282 .
+*PAR:	say it again , please . [+ exc] 76824_77951
+%mor:	verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 adv|again cm|cm intj|please .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|ADVMOD 4|5|PUNCT 5|1|DISCOURSE 6|1|PUNCT
+%wor:	say 76824_76984 it 77044_77144 again 77164_77364 , please 77465_77951 .
+*INV:	mhm . 77951_78305
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 77951_78305 .
+*INV:	can you tell me a sentence with the word tree@q in it ? 78705_82208
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|sentence-Acc adp|with det|the-Def-Art noun|word q|tree adp|in pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|9|FLAT 11|12|CASE 12|9|NMOD 13|3|PUNCT
+%wor:	can 78705_78845 you 78885_78965 tell 79046_79246 me 79286_79346 a 79426_79446 sentence 79566_80166 with 80206_80366 the 80386_80466 word 80546_80827 tree@q 80987_81447 in 81667_81787 it 81847_82208 ?
+*INV:	you make up a sentence with the word tree@q in . 85087_88329
+%mor:	pron|you-Prs-Nom-S2 verb|make-Fin-Ind-Pres-S2 adp|up det|a-Ind-Art noun|sentence-Acc adp|with det|the-Def-Art noun|word q|tree adv|in .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|8|FLAT 10|2|ADVMOD 11|2|PUNCT
+%wor:	you 85087_85167 make 85207_85467 up 85487_85587 a 85627_85647 sentence 85747_86388 with 86648_86788 the 86808_86888 word 86969_87229 tree@q 87369_87829 in 87829_88329 .
+*PAR:	huh George Washington &=laughs .
+%mor:	intj|huh propn|George propn|Washington .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*INV:	(.) okay . 100291_100687
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 100291_100687 .
+@End

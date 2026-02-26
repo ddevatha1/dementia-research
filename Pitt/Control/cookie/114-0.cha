@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/a-00090718-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|female|Control||Participant|30||
+@Media:	114-0, audio
+@G:	Cookie
+*INV:	alright here is this picture . 1000_1990
+%mor:	intj|alright adv|here aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	alright 1000_1240 here 1240_1420 is 1420_1480 this 1540_1640 picture 1640_1990 .
+*PAR:	uhhuh . [+ exc] 2106_2281
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 2106_2281 .
+*INV:	+< all of the action you can see going on . [+ exc] 2187_3527
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S verb|go-Ger-S adp|on .
+%gra:	1|9|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|1|PUNCT
+%wor:	all 2187_2281 of 2321_2401 the 2401_2481 action 2582_2842 you 2882_3002 can 3002_3142 see 3242_3383 going 3383_3527 on .
+*PAR:	all of the action ? [+ exc] 3703_4671
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	all 3703_3863 of 3903_4003 the 4003_4104 action 4264_4671 ?
+*INV:	mhm . 5125_5625
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 5125_5625 .
+*PAR:	+< well , the little boy is gonna fall off the stool . 5185_8588
+%mor:	intj|well cm|cm det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|11|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|8|PUNCT
+%wor:	well 5185_5505 , the 5766_5846 little 5906_6126 boy 6186_6386 is 6386_6486 gonna 6547_6747 fall 6807_7187 off 7768_7868 the 7928_8008 stool 8088_8588 .
+*PAR:	he's getting a cookie . 9391_10600
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	he's 9391_9530 getting 9610_9951 a 10071_10091 cookie 10151_10600 .
+*PAR:	do you want me to go slower ? [+ exc] 10673_11617
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|go-Inf-S adj|slow-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|ADVMOD 8|3|PUNCT
+%wor:	do 10673_10732 you 10932_11012 want 11032_11132 me 11152_11192 to 11192_11232 go 11232_11292 slower 11292_11617 ?
+*INV:	no you go ahead . 12076_12153
+%mor:	intj|no pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adv|ahead .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	no you go ahead 12076_12153 .
+*PAR:	okay the little girl is asking for a cookie . 12883_15293
+%mor:	intj|okay det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	okay 12883_13123 the 13183_13243 little 13303_13503 girl 13563_13823 is 13943_14043 asking 14223_14724 for 14804_14944 a 15004_15024 cookie 15124_15293 .
+*PAR:	she's [//] the mother is drying dishes . 15585_19247
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	she's 15585_15745 the 17065_17166 mother 17266_17666 is 17966_18106 drying 18206_18647 dishes 18747_19247 .
+*PAR:	and the sink is overflowing with water . 20548_24476
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and 20548_20948 the 22469_22549 sink 22649_22910 is 23050_23130 overflowing 23250_23930 with 23970_24130 water 24190_24476 .
+*PAR:	she's gettin(g) water all over the floor . 24684_27093
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|water-Acc adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	she's 24684_24831 gettin(g) 24891_25231 water 25231_25551 all 25872_26012 over 26152_26392 the 26452_26512 floor 26612_27093 .
+*PAR:	and let me see if anything is going on outside here . [+ exc] 29352_32082
+%mor:	cconj|and verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S sconj|if pron|anything-Ind-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|outside adv|here .
+%gra:	1|2|CC 2|11|ROOT 3|2|OBJ 4|2|XCOMP 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|2|PUNCT
+%wor:	and 29352_29412 let 29412_29472 me 29472_29512 see 29552_29752 if 29792_29852 anything 29892_30373 is 30393_30553 going 30653_31034 on 31054_31154 outside 31174_31775 here 31835_32082 .
+*PAR:	(.) &-hm well , I can't see anything else as far as action goes . [+ exc] 37664_39976
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 adv|as adv|far sconj|as noun|action verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|13|ROOT 7|6|OBJ 8|7|AMOD 9|10|ADVMOD 10|6|ADVMOD 11|13|MARK 12|13|NSUBJ 13|10|ADVCL 14|6|PUNCT
+%wor:	hm well 37664_37764 , I 37804_37824 can't 37944_38184 see 38184_38405 anything 38405_38805 else 38865_39046 as 39086_39166 far 39266_39446 as 39446_39526 action 39586_39976 goes .
+*PAR:	is there more ? [+ exc] 41717_42339
+%mor:	aux|be-Fin-Ind-Pres-S3 adv|there adj|more-Cmp-S1 ?
+%gra:	1|3|COP 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	is there 41717_41910 more 42010_42339 ?
+*INV:	okay . 42568_42717
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 42568_42717 .
+*INV:	no that's fine thank you . 43049_43873
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|4|PARATAXIS 6|5|OBJ 7|4|PUNCT
+%wor:	no that's fine 43049_43151 thank 43232_43412 you 43572_43873 .
+@End

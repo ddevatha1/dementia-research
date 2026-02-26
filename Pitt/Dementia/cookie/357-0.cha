@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/a-00090533-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|24||
+@Media:	357-0, audio
+@G:	Cookie
+*INV:	in the picture .
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR:	I see &-uh two kids up at the cookie jar , one on a stool the other standing on the floor . 6074_13458
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 num|two noun|kid-Plur-Acc adp|up adp|at det|the-Def-Art noun|cookie noun|jar cm|cm num|one adp|on det|a-Ind-Art noun|stool det|the-Def-Art adj|other-S1 noun|standing-Ger adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|NSUBJ 2|20|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|2|OBL 10|11|PUNCT 11|17|NSUBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|17|DET 16|17|AMOD 17|2|PARATAXIS 18|20|CASE 19|20|DET 20|17|NMOD 21|2|PUNCT
+%wor:	I 6074_6094 see 6094_6614 uh 6614_6754 two 7915_8115 kids 8235_8675 up 9036_9156 at 9196_9236 the 9256_9336 cookie 9396_9736 jar 9756_9956 , one 10116_10316 on 10737_10817 a 10877_10897 stool 10977_11377 the 11857_11917 other 11917_12118 standing 12178_12598 on 12638_12758 the 12798_12858 floor 12958_13458 .
+*PAR:	cupboard door is opened . [+ gram] 14360_16342
+%mor:	noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 verb|open-Part-Past-S .
+%gra:	1|2|COMPOUND 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%wor:	cupboard 14360_14680 door 14720_15001 is 15562_15682 opened 15842_16342 .
+*PAR:	mother's washing the dishes . 18206_19808
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 18206_18587 washing 18687_19108 the 19148_19248 dishes 19308_19808 .
+*PAR:	the water is running [//] overflowing the sink . 20410_23816
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the water 20410_20750 is 20850_20891 running 21171_21472 overflowing 22654_23275 the 23315_23435 sink 23535_23816 .
+*PAR:	and &-uh there's two cups and a plate on the counter . 25555_31857
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|CC 2|3|EXPL 3|11|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+%wor:	and 25555_25895 uh 26015_26295 there's 26355_26635 two 27976_28157 cups 28217_28677 and 29357_29518 a 29578_29598 plate 29758_30298 on 31079_31199 the 31219_31299 counter 31359_31857 .
+*PAR:	and she's <washing> [//] holding a plate in her hand . 32640_35779
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S det|a-Ind-Art noun|plate-Acc adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+%wor:	and 32640_32820 she's 32900_33160 washing 33240_33721 holding 34401_34701 a 34742_34762 plate 34802_35062 in 35082_35122 her 35142_35222 hand 35282_35779 .
+*PAR:	curtains at the windows . [+ gram] 38866_40046
+%mor:	noun|curtain-Plur adp|at det|the-Def-Art noun|window-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	curtains 38866_39245 at 39305_39365 the 39405_39485 windows 39565_40046 .
+*PAR:	the cookie jar has the lid off . 43007_44458
+%mor:	det|the-Def-Art noun|cookie noun|jar verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|lid-Acc adp|off .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|4|PUNCT
+%wor:	the 43007_43087 cookie 43087_43407 jar 43407_43607 has 43647_43767 the 43807_43927 lid 43967_44147 off 44207_44458 .
+*PAR:	(.) &-hm &-hm that's about it . [+ exc] 44916_50910
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	hm hm that's 44916_45207 about 45207_50410 it 50410_50910 .
+*PAR:	cupboards underneath the sink . [+ gram] 51990_52551
+%mor:	noun|cupboard-Plur adp|underneath det|the-Def-Art noun|sink .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	cupboards 51990_52010 underneath 52070_52551 the sink .
+*PAR:	cupboards underneath the other cupboards . [+ gram] 53063_56873
+%mor:	noun|cupboard-Plur adp|underneath det|the-Def-Art adj|other-S1 noun|cupboard-Plur .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|NMOD 6|1|PUNCT
+%wor:	cupboards 53063_53551 underneath 53571_54151 the 54632_56212 other 56252_56392 cupboards 56432_56873 .
+*PAR:	&-uh kid falling off the stool . [+ gram] 58066_60686
+%mor:	noun|kid verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	uh 58066_59146 kid 59246_59446 falling 59506_59846 off 59886_59986 the 60026_60106 stool 60186_60686 .
+*PAR:	the girl laughing at him . [+ gram] 63111_64593
+%mor:	det|the-Def-Art noun|girl verb|laugh-Ger-S adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	the 63111_63208 girl 63248_63468 laughing 63548_63988 at 64048_64168 him 64228_64593 .
+*PAR:	cookies in the cookie jar with the lid off . [+ gram] 66043_68433
+%mor:	noun|cookie-Plur adp|in det|the-Def-Art noun|cookie noun|jar adp|with det|the-Def-Art noun|lid adp|off .
+%gra:	1|9|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|NMOD 6|8|CASE 7|8|DET 8|1|NMOD 9|8|ADVMOD 10|1|PUNCT
+%wor:	cookies 66043_66389 in 66449_66509 the 66549_66609 cookie 66669_66989 jar 67049_67309 with 67389_67549 the 67549_67609 lid 67689_67849 off 67989_68433 .
+*PAR:	he has a cookie in his hand . 69870_71490
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+%wor:	he 69870_69950 has 70050_70250 a 70310_70330 cookie 70390_70730 in 70730_70810 his 70830_70970 hand 70990_71490 .
+*PAR:	and that's it . [+ exc] 72313_72898
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	and 72313_72374 that's 72495_72898 it .
+*INV:	okay good . 73974_74197
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay good 73974_74197 .
+@End

@@ -1,0 +1,113 @@
+@UTF8
+@PID:	11312/a-00089688-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@Media:	213-2, audio
+@G:	animals
+*INV:	www .
+%exp:	finishing previous task
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	go ahead xxx .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	dog . 7728_8207
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 7728_8207 .
+*PAR:	cats . 8569_9069
+%mor:	noun|cat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cats 8569_9069 .
+*PAR:	leopards . 10511_10991
+%mor:	noun|leopard-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	leopards 10511_10991 .
+*PAR:	tigers . 11112_11612
+%mor:	noun|tiger-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tigers 11112_11612 .
+*PAR:	sharks . 12333_12833
+%mor:	noun|shark-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sharks 12333_12833 .
+*PAR:	fish . 13936_14435
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 13936_14435 .
+*PAR:	(.) zebras . 20032_20512
+%mor:	noun|zebras-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zebras 20032_20512 .
+*PAR:	&+do &-um (...) horse .
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cows . 43517_43997
+%mor:	noun|cow-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cows 43517_43997 .
+*PAR:	(...) worms . 64533_64993
+%mor:	noun|worm-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	worms 64533_64993 .
+*PAR:	snails . 65214_65573
+%mor:	noun|snail-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snails 65214_65573 .
+*INV:	okay . 70377_70876
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 70377_70876 .
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	F
+*INV:	any words that begin with f@l . 73118_74679
+%mor:	det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with propn|for .
+%gra:	1|2|DET 2|6|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBL 6|4|OBL 7|2|PUNCT
+%wor:	any 73118_73178 words 73218_73518 that 73518_73618 begin 73658_73959 with 74019_74179 f 74179_74679 .
+*INV:	go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	fish . 77056_77460
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 77056_77460 .
+*PAR:	fowl . 78254_78642
+%mor:	noun|fowl .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fowl 78254_78642 .
+*PAR:	(..) any people ? [+ exc] 84392_85092
+%mor:	det|any-Def-Ind noun|person-Plur ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any 84392_84512 people 84592_85092 ?
+*INV:	no people . 85835_86315
+%mor:	det|no-Def-Neg noun|person-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	no people 85835_86315 .
+*PAR:	+< no people , oh . [+ exc] 86396_87339
+%mor:	det|no-Def-Neg noun|person-Plur cm|cm intj|oh .
+%gra:	1|2|DET 2|4|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+%wor:	no people 86396_86877 , oh 86997_87339 .
+*INV:	(..) any words that begin with f@l . 94756_95795
+%mor:	det|any-Def-Ind noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with propn|for .
+%gra:	1|2|DET 2|6|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBL 6|4|OBL 7|2|PUNCT
+%wor:	any words that begin 94756_94814 with 94854_95015 f 95295_95795 .
+*PAR:	(...) fowl . 95335_95456
+%mor:	noun|fowl .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fowl 95335_95456 .
+*PAR:	I guess I gave you fowls@q . [+ exc] 119120_121105
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 q|fowls .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|IOBJ 6|4|FLAT 7|2|PUNCT
+%wor:	I 119120_119140 guess 119160_119421 I 119501_119521 gave 119642_120043 you 120043_120585 fowls@q 120605_121105 .
+*INV:	(...) okay . 137677_138136
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 137677_138136 .
+@End

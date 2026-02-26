@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/a-00090392-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|90;|female|ProbableAD||Participant|17||
+@Media:	091-2, audio
+@G:	Cookie
+*INV:	picture . 250_700
+%mor:	noun|picture .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	picture 250_700 .
+*PAR:	the boy is &-uh &+d after the cookie jar for him and his girl . 5196_8474
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|after det|the-Def-Art noun|cookie noun|jar adp|for pron|he-Prs-Acc-S3 cconj|and pron|his-Prs-Gen-S3 noun|girl .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|12|ROOT 8|9|CASE 9|7|NMOD 10|12|CC 11|12|NMOD-POSS 12|9|CONJ 13|7|PUNCT
+%wor:	the 5196_5293 boy 5353_5613 is 5673_5753 uh 5813_5953 after 6153_6433 the 6473_6553 cookie 6613_6934 jar 6934_7234 for 7294_7414 him 7474_7614 and 7654_7734 his 7754_7874 girl 7974_8474 .
+*PAR:	and the girl or the woman is drying dishes and the water is leaking on the floor . 9683_16786
+%mor:	cconj|and det|the-Def-Art noun|girl cconj|or det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|leak-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|9|CC 2|3|DET 3|9|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|9|COP 8|9|AMOD 9|17|ROOT 10|14|CC 11|12|DET 12|14|NSUBJ 13|14|AUX 14|9|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|9|PUNCT
+%wor:	and 9683_9763 the 9763_9823 girl 9923_10243 or 10323_10383 the 10463_10543 woman 10643_10903 is 10963_11063 drying 13625_14045 dishes 14105_14465 and 14525_14645 the 14645_14726 water 14786_15146 is 15186_15346 leaking 15546_15946 on 16006_16106 the 16146_16226 floor 16286_16786 .
+*PAR:	spilling on the floor . [+ gram] 18568_19729
+%mor:	verb|spill-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	spilling 18568_19048 on 19108_19228 the 19268_19328 floor 19388_19729 .
+*INV:	(..) can you tell me what else is going on in the picture ? 36081_36141
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adj|else-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|8|OBJ 6|5|AMOD 7|8|AUX 8|3|CCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+%wor:	can 36081_36141 you tell me what else is going on in the picture ?
+*INV:	what else do you see ? 38082_38304
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	what 38082_38161 else 38161_38241 do 38241_38281 you 38281_38304 see ?
+*PAR:	the boy is getting cookies out of the jar and <the [/] the jack [: stool] [* s:ur-ret] or the &+m cushion [: stool] [* s:r-ret] or> [//] the hat [: stool] [* s:ur] is falling over . 38563_48750
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|4|OBJ 6|9|CASE 7|9|CASE 8|9|DET 9|4|OBL 10|14|CC 11|12|DET 12|14|NSUBJ 13|14|AUX 14|4|CONJ 15|14|ADVMOD 16|4|PUNCT
+%wor:	the 38563_38642 boy 38702_38942 is 39002_39102 getting 39162_39422 cookies 39502_39842 out 39922_40042 of 40082_40142 the 40182_40242 jar 40322_40782 and 40882_40962 the 40983_41063 the 41563_41643 stool 41663_42183 or 42343_42403 the 42463_42563 &+m 42563_44784 stool 44884_45064 or 45184_45284 the 45344_45444 stool 47925_48165 is 48205_48305 falling 48386_48750 over .
+*PAR:	he's gonna fall . 49847_50767
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	he's 49847_50006 gonna 50046_50266 fall 50326_50767 .
+*PAR:	and the water's spilling for the &+w woman &+won drying the dishes . 51528_54570
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|for det|the-Def-Art noun|woman verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|8|ACL 10|11|DET 11|9|OBJ 12|5|PUNCT
+%wor:	and 51528_51588 the 51588_51648 water's 51688_52028 spilling 52068_52508 for 52568_52668 the 52689_52769 woman 53069_53329 drying 53609_53930 the 53950_54010 dishes 54070_54570 .
+*PAR:	(.) is that all ? [+ exc]
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*INV:	okay that's fine . 60006_60936
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay that's 60006_60695 fine 60715_60936 .
+@End

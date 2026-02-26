@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00090653-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|76;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	021-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	alright ? [+ exc] 2980_3230
+%mor:	intj|alright ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 2980_3230 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	mother's doing the dishes . 3700_4901
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 3700_4020 doing 4060_4260 the 4280_4340 dishes 4401_4901 .
+*PAR:	the sink is overflowing . 4975_6141
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 4975_5041 sink 5161_5401 is 5441_5561 overflowing 5641_6141 .
+*PAR:	the &-uh &-uh stool is falling . 7022_9464
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	the 7022_7122 uh 7543_7623 uh 7683_8103 stool 8323_8704 is 8744_8844 falling 8964_9464 .
+*PAR:	the boy is going for the cookies . 9664_11074
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 9664_9744 boy 9764_9945 is 9985_10025 going 10105_10285 for 10325_10405 the 10425_10505 cookies 10585_11074 .
+*PAR:	she's reaching out for him . 11185_12727
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|out adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|COMPOUND-PRT 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	she's 11185_11406 reaching 11486_11886 out 11966_12106 for 12166_12306 him 12406_12727 .
+*PAR:	&-um the mother's looking out the window . 13578_16259
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	um 13578_13958 the 14698_14758 mother's 14799_15059 looking 15099_15379 out 15439_15559 the 15619_15679 window 15759_16259 .
+*PAR:	sink is overflowing . [+ gram] 17591_17681
+%mor:	noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	sink is 17591_17621 overflowing 17641_17681 .
+*PAR:	&-uh let's see . [+ exc]
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	they use the sink . 20143_20780
+%mor:	pron|they-Prs-Nom-P3 verb|use-Fin-Ind-Pres-P3 det|the-Def-Art noun|sink-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	they use the 20143_20203 sink 20323_20780 .
+*PAR:	the boy reaching down to give her the cookie . [+ gram] 21864_24766
+%mor:	det|the-Def-Art noun|boy verb|reach-Ger-S adp|down part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|the-Def-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|3|COMPOUND-PRT 5|6|MARK 6|3|ADVCL 7|6|IOBJ 8|9|DET 9|6|OBJ 10|3|PUNCT
+%wor:	the 21864_22004 boy 22004_22324 reaching 23005_23385 down 23465_23705 to 23745_23785 give 23845_23985 her 24005_24086 the 24126_24206 cookie 24266_24766 .
+*PAR:	I think that's it . [+ exc] 26508_27215
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+%wor:	I 26508_26527 think 26567_26708 that's 26748_26948 it 27068_27215 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(.) okay . 32294_32460
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 32294_32460 .
+@End

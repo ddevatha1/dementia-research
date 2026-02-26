@@ -1,0 +1,134 @@
+@UTF8
+@PID:	11312/a-00089735-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|87;|female|ProbableAD||Participant|20||
+@Media:	341-0, audio
+@G:	animals
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&=laughs . [+ exc]
+*INV:	and you can begin now . 2741_4702
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 2741_2821 you 2861_2941 can 3001_3122 begin 3162_3664 now 4205_4702 .
+*PAR:	a horse . 5911_6483
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 5911_5931 horse 5991_6483 .
+*PAR:	a cow . 6693_7203
+%mor:	det|a-Ind-Art noun|cow .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 6693_6713 cow 6713_7203 .
+*PAR:	a [/] a lamb . 8319_10165
+%mor:	det|a-Ind-Art noun|lamb .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 8319_8339 a 9542_9563 lamb 9683_10165 .
+*PAR:	a [/] &-um (.) &-hm (.) a cat . 11226_17850
+%mor:	det|a-Ind-Art noun|cat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 11226_11246 um 11666_11806 hm 14868_17210 a 17230_17250 cat 17350_17850 .
+*PAR:	dog . 19133_19632
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 19133_19632 .
+*PAR:	&-um (.) dear . [+ exc] 20533_23635
+%mor:	adj|dear-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 20533_20773 dear 23135_23635 .
+*PAR:	(..) a mouse . 28242_28802
+%mor:	det|a-Ind-Art noun|mouse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 28242_28262 mouse 28302_28802 .
+*PAR:	(.) a rat . 30885_31505
+%mor:	det|a-Ind-Art noun|rat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 30885_30904 rat 31005_31505 .
+*PAR:	(..) a [/] &-uh (.) a goat . 34449_38532
+%mor:	det|a-Ind-Art noun|goat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 34449_34468 uh 34889_37892 a 37912_37932 goat 38032_38532 .
+*PAR:	(.) lamb . 40635_41116
+%mor:	noun|lamb .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lamb 40635_41116 .
+*PAR:	(..) I said horse@q , didn't I ? [+ exc] 45603_47062
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|horse cm|cm aux|do-Fin-Ind-Past-S1-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|FLAT 4|5|PUNCT 5|2|PARATAXIS 6|5|ADVMOD 7|5|NSUBJ 8|2|PUNCT
+%wor:	I 45603_45623 said 45703_45883 horse@q 45943_46323 , didn't 46343_46583 I 46583_47062 ?
+*PAR:	mhm . [+ exc] 47062_47124
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 47062_47124 .
+*PAR:	(..) a pg . 51712_52329
+%mor:	det|a-Ind-Art noun|pg .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 51712_51728 pg 51829_52329 .
+*PAR:	(.) squirrel . 55413_55912
+%mor:	noun|squirrel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	squirrel 55413_55912 .
+*PAR:	(..) snake's a reptile . 62924_63804
+%mor:	noun|snake~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|reptile .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	snake's 62924_63224 a 63264_63284 reptile 63304_63804 .
+*INV:	okay , that's fine . 64326_65684
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 64326_64784 , that's 64844_65104 fine 65184_65684 .
+@G:	F
+*INV:	now I'm going to ask you . 66048_67665
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|4|PUNCT
+%wor:	now 66048_66185 I'm 66305_66385 going 66445_66625 to 66625_66665 ask 66805_67125 you 67165_67665 .
+*PAR:	+< f@l . [+ exc] 68713_69150
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	f 68713_69150 .
+*INV:	and you can start now . 69150_70366
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 69150_69206 you 69226_69326 can 69346_69486 start 69526_69786 now 69866_70366 .
+*PAR:	oh dear . [+ exc] 71687_72179
+%mor:	intj|oh adj|dear-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 71687_71907 dear 71907_72179 .
+*PAR:	(.) feel . 74588_75086
+%mor:	verb|feel-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	feel 74588_75086 .
+*PAR:	fence . 76510_76989
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fence 76510_76989 .
+*PAR:	&-um (..) food . 82398_83939
+%mor:	noun|food .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 82398_82718 food 83439_83939 .
+*PAR:	(.) fumble . 85803_86302
+%mor:	noun|fumble .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fumble 85803_86302 .
+*PAR:	&-um (..) fixture . 87063_91648
+%mor:	noun|fixture .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 87063_87804 fixture 91148_91648 .
+*PAR:	(..) fork . 96940_97420
+%mor:	noun|fork .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fork 96940_97420 .
+*PAR:	(.) friend . 100407_100906
+%mor:	noun|friend .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	friend 100407_100906 .
+*PAR:	I said fence@q , didn't I ? [+ exc] 122661_124183
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|fence cm|cm aux|do-Fin-Ind-Past-S1-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|FLAT 4|5|PUNCT 5|2|PARATAXIS 6|5|ADVMOD 7|5|NSUBJ 8|2|PUNCT
+%wor:	I 122661_122681 said 122783_122985 fence@q 123046_123452 , didn't 123452_123655 I 123696_124183 ?
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

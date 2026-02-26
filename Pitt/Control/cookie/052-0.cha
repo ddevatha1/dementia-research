@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/a-00090672-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|male|Control||Participant|30||
+@Media:	052-0, audio
+@G:	Cookie
+*INV:	that's the picture . 1460_2200
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	that's 1460_2200 the picture .
+*PAR:	a boy is taking &-uh cookies from the cookie jar giving one to his sister . 3822_8580
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar verb|give-Part-S num|one adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|ADVCL 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|10|OBL 15|4|PUNCT
+%wor:	a 3822_3842 boy 3842_4122 is 4242_4362 taking 4442_4863 uh 4883_5243 cookies 5443_5824 from 5864_6024 the 6064_6144 cookie 6184_6504 jar 6564_6885 giving 7245_7545 one 7645_7786 to 7806_7886 his 7946_8086 sister 8126_8580 .
+*PAR:	he's also falling off the stool he is on . 8838_11388
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|4|PUNCT
+%wor:	he's 8838_8927 also 9007_9267 falling 9447_9828 off 9908_10088 the 10148_10248 stool 10308_10688 he 10748_10788 is 10869_10989 on 11109_11388 .
+*PAR:	the mother is washing dishes . 12410_14012
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 12410_12490 mother 12550_12850 is 12971_13091 washing 13171_13591 dishes 13651_14012 .
+*PAR:	she's letting the sink overflow . 14444_15945
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|sink-Acc verb|overflow-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+%wor:	she's 14444_14564 letting 14624_14904 the 14944_15025 sink 15125_15365 overflow 15445_15945 .
+*PAR:	it's getting all over the floor . 16395_18485
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	it's 16395_17108 getting 17108_17369 all 17449_17589 over 17649_17829 the 17849_17950 floor 18030_18485 .
+*PAR:	I see nothing further . [+ exc] 22237_23019
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|nothing-Neg-S1 adj|further-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|3|AMOD 5|2|PUNCT
+%wor:	I 22237_22257 see 22337_22478 nothing 22538_22778 further 22778_23019 .
+*PAR:	(...) the girl is saying be quiet <if that> [/] if that counts . 34805_37046
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S aux|be-Fin-S adj|quiet-S1 sconj|if pron|that-Dem verb|count-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|COP 6|4|XCOMP 7|9|MARK 8|9|NSUBJ 9|6|ADVCL 10|4|PUNCT
+%wor:	the 34805_34865 girl 34865_35065 is 35145_35245 saying 35285_35585 be 35625_35685 quiet 35785_36126 if 36266_36346 that 36426_36666 if 36887_36967 that 37007_37046 counts .
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	that's fine .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	I don't know what the mother gets by standing in all the water . [+ exc] 43713_46348
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 det|the-Def-Art noun|mother verb|get-Fin-Ind-Pres-S3 sconj|by verb|stand-Part-Pres-S adp|in det|all-Def-Tot det|the-Def-Art noun|water .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|14|ROOT 5|4|OBJ 6|7|DET 7|8|NSUBJ 8|5|ACL-RELCL 9|10|MARK 10|8|ADVCL 11|14|CASE 12|14|DET-PREDET 13|14|DET 14|10|OBL 15|4|PUNCT
+%wor:	I don't 43713_43874 know 43874_43994 what 44054_44194 the 44214_44294 mother 44354_44574 gets 44654_44855 by 44935_45055 standing 45135_45595 in 45675_45735 all 45776_45856 the 45856_45916 water 45916_46348 .
+*PAR:	I don't think that's very important . [+ exc] 46400_47156
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|very adj|important-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|4|CCOMP 9|4|PUNCT
+%wor:	I don't think that's 46400_46476 very 46496_46636 important 46656_47156 .
+*PAR:	that's all I see . [+ exc] 49936_50606
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	that's 49936_50076 all 50136_50257 I 50257_50277 see 50277_50606 .
+*INV:	okay thank you . 50655_51741
+%mor:	intj|okay verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	okay 50655_50678 thank 51241_51542 you 51582_51741 .
+*PAR:	+< <what have> [/] what have I missed ? [+ exc] 51642_53249
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|miss-Part-Past-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what 51642_51743 have 51743_52365 what 52445_52566 have 52566_52726 I 52767_52787 missed 52847_53249 ?
+@End

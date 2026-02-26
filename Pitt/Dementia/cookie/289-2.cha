@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00090501-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|20||
+@Media:	289-2, audio
+@G:	Cookie
+*INV:	in the picture .
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR:	wahoo ho ho . [+ exc] 2630_3275
+%mor:	propn|wahoo intj|ho intj|ho .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+%wor:	wahoo 2630_2890 ho 2910_3275 ho .
+*PAR:	well , it's kind of a calamity isn't it &=laughs ? [+ exc] 3711_8212
+%mor:	intj|well cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|kind adp|of det|a-Ind-Art noun|calamity aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|5|FIXED 7|8|DET 8|11|ROOT 9|8|COP 10|11|ADVMOD 11|8|PARATAXIS 12|8|PUNCT
+%wor:	well 3711_4210 , it's 5511_5651 kind 5651_5911 of 5931_6011 a 6231_6251 calamity 6971_7432 isn't 7492_7712 it 7712_8212 ?
+*PAR:	the &-uh mother just is +... 9735_12945
+%mor:	det|the-Def-Art noun|mother adv|just aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	the 9735_9853 uh 10093_10253 mother 11693_11913 just 11953_12114 is 12634_12945 +...
+*PAR:	I assume this is the mother . 13354_14415
+%mor:	pron|I-Prs-Nom-S1 verb|assume-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|mother .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|DET 6|2|CCOMP 7|2|PUNCT
+%wor:	I 13354_13374 assume 13374_13654 this 13674_13814 is 13854_13974 the 13974_14034 mother 14094_14415 .
+*PAR:	and she's [//] washing [//] trying to wash the dishes . 15221_17421
+%mor:	cconj|and verb|try-Part-Pres-S part|to verb|wash-Inf-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|CC 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%wor:	and 15221_15341 she's 15441_15681 washing 15801_16142 trying 16342_16583 to 16583_16643 wash 16683_16883 the 16923_17003 dishes 17043_17421 .
+*PAR:	and the water's overflowing . 17470_18625
+%mor:	cconj|and det|the-Def-Art noun|water~part|s noun|overflow-Ger .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and 17470_17564 the 17564_17664 water's 17764_18065 overflowing 18125_18625 .
+*PAR:	and &-uh the little boy's trying to get cookies out of the cookie jar on top of the &+c cupboard . 20068_27179
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar adp|on noun|top adp|of det|the-Def-Art noun|cupboard .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|19|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|14|CASE 11|14|CASE 12|14|DET 13|14|COMPOUND 14|8|OBL 15|16|CASE 16|8|OBL 17|19|CASE 18|19|DET 19|16|NMOD 20|6|PUNCT
+%wor:	and 20068_20388 uh 20408_20448 the 22952_23012 little 23112_23293 boy's 23313_23633 trying 24234_24474 to 24494_24535 get 24555_24695 cookies 24755_25095 out 25135_25196 of 25196_25236 the 25236_25296 cookie 25356_25636 jar 25676_25877 on 25937_25997 top 26057_26257 of 26297_26357 the 26377_26457 cupboard 26878_27179 .
+*PAR:	and his stool is getting away &+f under him . 27990_30520
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adv|away adp|under pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|ADVMOD 7|8|CASE 8|5|OBL 9|5|PUNCT
+%wor:	and 27990_28110 his 28170_28350 stool 28490_28790 is 28870_29051 getting 29231_29531 away 29551_29831 under 30092_30312 him 30332_30520 .
+*PAR:	and she help [//] keeps holding her hand up waiting for another cookie . 31153_33739
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|keep-Fin-Ind-Pres-S3 verb|hold-Ger-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up verb|wait-Ger-S adp|for det|another-Def-Ind noun|cookie .
+%gra:	1|3|CC 2|3|NSUBJ 3|11|ROOT 4|3|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	and 31153_31253 she 31313_31413 help 31493_31653 keeps 31653_31954 holding 31954_32214 her 32214_32294 hand 32314_32514 up 32534_32614 waiting 32675_32895 for 32935_33015 another 33035_33275 cookie 33355_33739 .
+*INV:	mhm . 33997_34376
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 33997_34376 .
+*INV:	(...) okay that's good . 44840_45760
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 44840_45044 that's 45106_45351 good 45453_45760 .
+@End

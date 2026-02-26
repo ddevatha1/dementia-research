@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00090677-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|77;|male|Control||Participant|29||
+@Media:	056-3, audio
+@G:	Cookie
+*INV:	okay , you can start now .
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh the mother is wiping a dish at the sink . 4315_8221
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|at det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	uh 4315_4355 the 4535_4615 mother 4675_4936 is 5036_5196 wiping 5677_6097 a 6898_6918 dish 7059_7319 at 7499_7579 the 7639_7699 sink 7840_8221 .
+*PAR:	&-um the water is overflowing from the sink . 10023_12727
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	um the 10023_10103 water 10183_10483 is 10563_10664 overflowing 10744_11385 from 11945_12126 the 12166_12246 sink 12326_12727 .
+*PAR:	a youngster's about to fall off a stool reaching for a cookie jar . 15238_20008
+%mor:	det|a-Ind-Art noun|youngster~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|fall-Inf-S adp|off det|a-Ind-Art noun|stool verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|6|COP 4|6|ADVMOD 5|6|MARK 6|14|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|9|ACL 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|OBL 15|6|PUNCT
+%wor:	a 15238_15258 youngster's 15318_15878 about 15938_16259 to 16339_16439 fall 16699_16980 off 17060_17200 a 17300_17320 stool 17420_17841 reaching 18461_18822 for 18882_19042 a 19062_19082 cookie 19162_19483 jar 19523_20008 .
+*PAR:	and the little girl is holding up her hand to grab a cookie out of his hand . 20924_27893
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adp|up pron|her-Prs-Gen-S3 noun|hand-Acc part|to verb|grab-Inf-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|17|ROOT 7|6|COMPOUND-PRT 8|9|NMOD-POSS 9|6|OBJ 10|11|MARK 11|6|ADVCL 12|13|DET 13|11|OBJ 14|17|CASE 15|14|FIXED 16|17|NMOD-POSS 17|11|OBL 18|6|PUNCT
+%wor:	and 20924_21205 the 22286_22426 little 23047_23247 girl 23307_23647 is 23768_23908 holding 24248_24589 up 24649_24749 her 24789_24909 hand 24969_25269 to 25289_25390 grab 26251_26491 a 26511_26531 cookie 26591_26911 out 27052_27172 of 27172_27252 his 27292_27452 hand 27512_27893 .
+*PAR:	(.) the window appears to be open but I can't make out any action in the background there . 33339_40219
+%mor:	det|the-Def-Art noun|window verb|appear-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adj|open-S1 cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|make-Inf-S adp|out det|any-Def-Ind noun|action-Acc adp|in det|the-Def-Art noun|background adv|there .
+%gra:	1|2|DET 2|3|NSUBJ 3|18|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|3|CONJ 12|11|COMPOUND-PRT 13|14|DET 14|11|OBJ 15|17|CASE 16|17|DET 17|11|OBL 18|11|ADVMOD 19|3|PUNCT
+%wor:	the 33339_33419 window 33479_33779 appears 33839_34159 to 34179_34240 be 34300_34380 open 34540_34840 but 37643_37784 I 37904_37924 can't 37964_38184 make 38204_38424 out 38464_38564 any 38584_38725 action 38845_39145 in 39185_39245 the 39265_39345 background 39385_39906 there 39946_40219 .
+*PAR:	that's all . [+ exc] 43436_43836
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 43436_43610 all 43670_43836 .
+*INV:	okay , that's fine . 44211_44852
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay , that's 44211_44591 fine 44651_44852 .
+@End

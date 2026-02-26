@@ -1,0 +1,251 @@
+@UTF8
+@PID:	11312/a-00089778-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|67;|male|MCI||Participant|27||
+@Media:	528-0, audio
+@G:	animals
+*INV:	in one minute's time I want you to name as many animals as you can think of . 360_5381
+%mor:	adp|in num|one noun|minute~part|s noun|time pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adv|as adj|many-S1 noun|animal-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|5|CASE 2|3|NUMMOD 3|5|NMOD-POSS 4|3|CASE 5|7|OBL 6|7|NSUBJ 7|18|ROOT 8|7|OBJ 9|10|MARK 10|7|XCOMP 11|12|ADVMOD 12|13|AMOD 13|10|OBJ 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|10|ADVCL 18|17|OBL 19|7|PUNCT
+%wor:	in 360_440 one 580_720 minute's 740_1100 time 1140_1680 I 1960_1980 want 2040_2240 you 2240_2320 to 2360_2440 name 2500_2741 as 2781_2881 many 2941_3161 animals 3461_3981 as 4081_4201 you 4241_4341 can 4361_4501 think 4581_4781 of 4881_5381 .
+*INV:	as many animals in one minute . 5482_7542
+%mor:	adp|as adj|many-S1 noun|animal-Plur adp|in num|one noun|minute .
+%gra:	1|3|CASE 2|3|AMOD 3|6|ROOT 4|6|CASE 5|6|NUMMOD 6|3|NMOD 7|3|PUNCT
+%wor:	as 5482_5582 many 5662_5882 animals 6202_6562 in 6642_6722 one 6882_7022 minute 7042_7542 .
+*INV:	now I don't want +//. 7843_8923
+%mor:	adv|now pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S +//.
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	now 7843_8003 I 8003_8023 don't 8083_8323 want 8423_8923 +//.
+*INV:	they can be zoo animals or farm animals or pets . 9062_11558
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S aux|be-Inf-S noun|zoo noun|animal-Plur cconj|or noun|farm noun|animal-Plur cconj|or noun|pet-Plur .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|COMPOUND 5|10|ROOT 6|8|CC 7|8|COMPOUND 8|5|CONJ 9|10|CC 10|8|CONJ 11|5|PUNCT
+%wor:	they can 9062_9163 be 9203_9263 zoo 9363_9543 animals 9683_10064 or 10104_10184 farm 10244_10484 animals 10584_10964 or 11024_11104 pets 11184_11558 .
+*INV:	but I don't want any names of fish or birds . 11865_14705
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S det|any-Def-Ind noun|name-Plur-Acc adp|of noun|fish cconj|or noun|bird-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|11|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|11|CC 11|9|CONJ 12|5|PUNCT
+%wor:	but 11865_11964 I 12064_12084 don't 12104_12244 want 12284_12445 any 12505_12685 names 12945_13205 of 13245_13325 fish 13485_13845 or 14045_14125 birds 14205_14705 .
+*PAR:	four legged critters . [+ exc] 15848_16908
+%mor:	num|four adj|legged-S1 noun|critter-Plur .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	four 15848_16048 legged 16088_16328 critters 16408_16908 .
+*INV:	anything at all other than fish and birds . 17430_19731
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot adj|other-S1 adp|than noun|fish-Plur cconj|and noun|bird-Plur .
+%gra:	1|8|ROOT 2|3|CASE 3|1|NMOD 4|1|AMOD 5|6|CASE 6|4|OBL 7|8|CC 8|6|CONJ 9|1|PUNCT
+%wor:	anything 17430_17790 at 17810_17890 all 18010_18190 other 18390_18571 than 18631_18751 fish 18831_19051 and 19091_19191 birds 19231_19731 .
+*PAR:	(..) okay . [+ exc] 23877_24376
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 23877_24376 .
+*INV:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	ready ?
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	yup . [+ exc]
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	go .
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	dog . 27241_27440
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 27241_27440 .
+*PAR:	cat . 27625_27840
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 27625_27840 .
+*PAR:	chimpanzee . 28077_28161
+%mor:	noun|chimpanzee .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	chimpanzee 28077_28161 .
+*PAR:	ape . 28702_29063
+%mor:	noun|ape .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ape 28702_29063 .
+*PAR:	cows . 29783_30264
+%mor:	noun|cow-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cows 29783_30264 .
+*PAR:	mules . 30813_31166
+%mor:	noun|mule-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mules 30813_31166 .
+*PAR:	horses . 31393_31867
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horses 31393_31867 .
+*PAR:	(.) mouses . 34936_35433
+%mor:	noun|mouse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mouses 34936_35433 .
+*PAR:	pigs . 37498_37979
+%mor:	noun|pig-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pigs 37498_37979 .
+*PAR:	hogs . 39401_39881
+%mor:	noun|hog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hogs 39401_39881 .
+*PAR:	same thing . [+ exc] 40623_41322
+%mor:	adj|same-S1 noun|thing-Ger .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	same 40623_40822 thing 40822_41322 .
+*PAR:	&-um (.) deer . 44691_46071
+%mor:	noun|deer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 44691_44931 deer 45571_46071 .
+*PAR:	(.) lions . 50303_50793
+%mor:	noun|lion-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lions 50303_50793 .
+*PAR:	(..) tigers . 58658_59157
+%mor:	noun|tiger-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tigers 58658_59157 .
+*PAR:	puma . 60921_61401
+%mor:	noun|puma .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	puma 60921_61401 .
+*PAR:	(.) cougar . 65108_65607
+%mor:	noun|cougar .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cougar 65108_65607 .
+*PAR:	(.) jɑmə@u [: llama] . 69775_69933
+%mor:	noun|llama .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	llama 69775_69933 .
+*PAR:	and (.) camels . 75484_75904
+%mor:	cconj|and noun|camel-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 75484_75544 camels 75544_75904 .
+*PAR:	(..) hares . 84339_84838
+%mor:	noun|hare-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hares 84339_84838 .
+*INV:	good . 87504_88003
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 87504_88003 .
+@G:	F
+*INV:	alright , now this time I want you to tell me &=clears:throat as many words that you think of beginning with the letter f@l . 88926_95334
+%mor:	intj|alright cm|cm adv|now det|this-Def-Dem-Sing noun|time pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|as adj|many-S1 noun|word-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|5|DET 5|7|OBL-UNMARKED 6|7|NSUBJ 7|23|ROOT 8|7|OBJ 9|10|MARK 10|7|XCOMP 11|10|IOBJ 12|14|CASE 13|14|AMOD 14|10|OBJ 15|19|OBJ 16|17|NSUBJ 17|14|ACL-RELCL 18|19|MARK 19|17|ADVCL 20|22|CASE 21|22|DET 22|19|OBL 23|19|OBL-UNMARKED 24|7|PUNCT
+%wor:	alright 88926_89146 , now 89146_89286 this 89346_89526 time 89586_89967 I 90167_90187 want 90227_90388 you 90428_90508 to 90548_90588 tell 90648_90848 me 90848_91069 as 91549_91650 many 91710_91910 words 92070_92471 that 92471_92611 you 92651_92751 think 92992_93192 of 93252_93352 beginning 93432_93853 with 93873_94033 the 94053_94153 letter 94213_94494 f 94834_95334 .
+*INV:	as many words that you can think of beginning with the letter f@l . 96116_99449
+%mor:	adp|as adj|many-S1 noun|word-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|CASE 2|3|AMOD 3|13|ROOT 4|9|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|9|MARK 9|7|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|9|OBL-UNMARKED 14|3|PUNCT
+%wor:	as 96116_96176 many 96216_96397 words 96477_96697 that 96697_96817 you 96857_96937 can 96977_97098 think 97158_97358 of 97418_97498 beginning 97558_97979 with 98019_98179 the 98219_98339 letter 98399_98660 f 99000_99449 .
+*INV:	no proper nouns . 99562_100842
+%mor:	det|no-Def-Neg adj|proper-S1 noun|noun-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	no 99562_99661 proper 99842_100282 nouns 100342_100842 .
+*INV:	no names of people or places . 101285_103147
+%mor:	det|no-Def-Neg noun|name-Plur adp|of noun|person-Plur cconj|or noun|place-Plur .
+%gra:	1|2|DET 2|6|ROOT 3|4|CASE 4|2|NMOD 5|6|CC 6|4|CONJ 7|2|PUNCT
+%wor:	no 101285_101404 names 101684_101965 of 102005_102105 people 102165_102465 or 102526_102606 places 102666_103147 .
+*PAR:	oh . [+ exc] 104209_104289
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 104209_104289 .
+*INV:	and only one form of the word . 104956_107333
+%mor:	cconj|and adv|only num|one noun|form adp|of det|the-Def-Art noun|word .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NUMMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+%wor:	and 104956_105050 only 105331_105531 one 105731_105912 form 106092_106432 of 106553_106633 the 106693_106773 word 106833_107333 .
+*INV:	I want you to give me say walk@q and then walking@q then walked@q . 107615_111519
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|give-Inf-S pron|I-Prs-Acc-S1 verb|say-Inf-S q|walk cconj|and adv|then q|walking adv|then q|walked .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|XCOMP 8|7|FLAT 9|11|CC 10|11|ORPHAN 11|7|FLAT 12|13|ADVMOD 13|11|FLAT 14|2|PUNCT
+%wor:	I 107615_107634 want 107714_107875 you 107915_108115 to 108355_108435 give 108495_108676 me 108696_108756 say 108936_109176 walk@q 109437_109918 and 109958_110058 then 110078_110298 walking@q 110398_110819 then 110819_110919 walked@q 111019_111519 .
+*INV:	just one +/. 111952_112621
+%mor:	adv|just num|one +/.
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	just 111952_112081 one 112121_112621 +/.
+*PAR:	just one form . [+ exc] 112833_113613
+%mor:	adv|just num|one noun|form .
+%gra:	1|3|ADVMOD 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+%wor:	just 112833_112982 one 113062_113162 form 113222_113613 .
+*INV:	just one form of the word . 113613_114604
+%mor:	adv|just num|one noun|form adp|of det|the-Def-Art noun|word .
+%gra:	1|3|ADVMOD 2|3|NUMMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	just one 113613_113623 form 113663_113863 of 113883_113924 the 113924_114024 word 114104_114604 .
+*INV:	no proper names . 114867_115946
+%mor:	det|no-Def-Neg adj|proper-S1 noun|name-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	no 114867_114945 proper 115045_115386 names 115446_115946 .
+*INV:	and all of the words you can think of beginning with the letter f@l .
+%mor:	cconj|and det|all-Def-Tot adp|of det|the-Def-Art noun|word-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|CC 2|14|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|10|MARK 10|8|ADVCL 11|13|CASE 12|13|DET 13|10|OBL 14|10|OBL-UNMARKED 15|2|PUNCT
+*INV:	ready ?
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	first .
+%mor:	adv|first .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	frontier .
+%mor:	noun|frontier .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fade .
+%mor:	verb|fade-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fill .
+%mor:	verb|fill-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fallow . 130578_130859
+%mor:	adv|fallow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fallow 130578_130859 .
+*PAR:	follow . 131700_132180
+%mor:	verb|follow-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	follow 131700_132180 .
+*PAR:	(..) fit . 136782_137282
+%mor:	noun|fit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fit 136782_137282 .
+*PAR:	fill . 138783_139283
+%mor:	verb|fill-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fill 138783_139283 .
+*PAR:	(.) fast . 142865_143364
+%mor:	adj|fast-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fast 142865_143364 .
+*PAR:	(.) fence . 148195_148675
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fence 148195_148675 .
+*PAR:	(.) fountain . 152184_152683
+%mor:	noun|fountain .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fountain 152184_152683 .
+*PAR:	(...) &+f firth@n .
+%mor:	noun|firth .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that's fɜ˞θəfɑɪ@u [: x@n] . 164113_165553
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|x .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 164113_165553 x .
+*PAR:	(..) flange . 172542_173042
+%mor:	noun|flange .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flange 172542_173042 .
+*PAR:	(.) fair . 176748_177247
+%mor:	adj|fair-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fair 176748_177247 .
+*PAR:	(.) fight . 181872_182352
+%mor:	verb|fight-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fight 181872_182352 .
+*INV:	okay , good . 183585_184754
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 183585_184028 , good 184270_184754 .
+@End

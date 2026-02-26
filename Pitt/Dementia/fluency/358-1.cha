@@ -1,0 +1,185 @@
+@UTF8
+@PID:	11312/a-00089750-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|61;|female|ProbableAD||Participant|11||
+@Media:	358-1, audio
+@G:	foods
+*INV:	you can think of and you can start now . 2241_3801
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|OBL 5|8|CC 6|8|NSUBJ 7|8|AUX 8|3|CONJ 9|8|ADVMOD 10|3|PUNCT
+%wor:	you 2241_2481 can 2521_2641 think 2721_2941 of 3261_3321 and 3361_3461 you 3461_3741 can 3761_3801 start now .
+*PAR:	<well what did you> [//] why you doing this to me ? [+ exc] 4302_6073
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|do-Part-Pres-S pron|this-Dem-S1 adp|to pron|I-Prs-Acc-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	well 4302_4462 what 4462_4562 did 4562_4622 you 4622_4702 why 4702_4902 you 4942_5042 doing 5082_5282 this 5282_5442 to 5502_5562 me 5622_6073 ?
+*INV:	&=laughs .
+*INV:	name all the things to eat . 7124_8855
+%mor:	verb|name-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|thing-Plur-Acc part|to verb|eat-Inf-S .
+%gra:	1|6|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|6|MARK 6|4|ACL 7|1|PUNCT
+%wor:	name 7124_7403 all 7463_7584 the 7604_7684 things 7804_8124 to 8184_8264 eat 8464_8855 .
+*INV:	anything you can think of that can be eaten . 8855_10745
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|9|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBL 6|9|NSUBJ-PASS 7|9|AUX 8|9|AUX-PASS 9|1|ACL-RELCL 10|1|PUNCT
+%wor:	anything 8855_9144 you 9164_9224 can 9244_9364 think 9425_9605 of 9665_9745 that 9765_9865 can 9885_10025 be 10045_10105 eaten 10245_10745 .
+*PAR:	apples .
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	bananas . 12674_13106
+%mor:	noun|banana-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bananas 12674_13106 .
+*PAR:	&-uh &-uh pears . 13668_15429
+%mor:	noun|pear-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 13668_13708 uh 13728_14188 pears 14929_15429 .
+*PAR:	peaches . 15791_16291
+%mor:	noun|peach-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	peaches 15791_16291 .
+*PAR:	&-uh &-uh grapes . 18074_18694
+%mor:	noun|grape-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 18074_18114 uh 18134_18174 grapes 18194_18694 .
+*PAR:	&-uh &-uh cornflakes . 19414_23821
+%mor:	noun|cornflake-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 19414_19436 uh 19496_20237 cornflakes 23321_23821 .
+*PAR:	and &-uh &-uh pears . 24570_28348
+%mor:	cconj|and noun|pear-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 24570_24884 uh 27047_27087 uh 27808_27848 pears 27848_28348 .
+*PAR:	and apples . 28771_29411
+%mor:	cconj|and noun|apple-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 28771_28831 apples 28911_29411 .
+*PAR:	and the bananas . 29588_30432
+%mor:	cconj|and det|the-Def-Art noun|banana-Plur .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	and the 29588_29892 bananas 29932_30432 .
+*PAR:	and &-uh &-uh +... 30655_34488
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 30655_34488 uh uh +...
+*PAR:	&+bana bananas , let's see . [+ exc] 37204_38486
+%mor:	noun|banana-Plur cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|VOCATIVE 2|3|PUNCT 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%wor:	bananas 37204_37744 , let's 37804_37965 see 38065_38486 .
+*PAR:	and &-uh &-uh (.) &-uh macaroni . 38766_47242
+%mor:	cconj|and noun|macaroni .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 38766_38826 uh 42633_46401 uh 46641_46701 uh 46701_46742 macaroni 46742_47242 .
+*PAR:	oh shoot . [+ exc] 54700_55210
+%mor:	intj|oh verb|shoot-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 54700_54740 shoot 54820_55210 .
+*PAR:	that's hard to do . [+ exc] 55210_56662
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 part|to verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	that's 55210_55621 hard 55641_55942 to 56002_56082 do 56162_56662 .
+*INV:	mhm . 57485_57574
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 57485_57574 .
+*PAR:	&-um let me see . [+ exc] 58206_59507
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	um 58206_58506 let 58626_58746 me 58786_58846 see 59007_59507 .
+*PAR:	how (a)bout +...
+%mor:	adv|how adv|about +...
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*INV:	okay , good . 62632_63169
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 62632_62933 , good 63013_63169 .
+*INV:	you can stop . 63234_63975
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|stop-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	you 63234_63313 can 63353_63474 stop 63574_63975 .
+@G:	S
+*INV:	you can start now . 63995_65052
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you can 63995_64115 start 64175_64455 now 64575_65052 .
+*PAR:	s@l &+i is a terrible one ! [+ exc] 65478_67458
+%mor:	part|s aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|terrible-S1 noun|one !
+%gra:	1|5|CASE 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	s 65478_65497 is 66078_66278 a 66478_66498 terrible 66619_67219 one 67300_67458 !
+*INV:	+< sure . 67361_67860
+%mor:	adj|sure-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sure 67361_67860 .
+*INV:	any word at all you can think of .
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|DET 2|8|ROOT 3|4|CASE 4|2|NMOD 5|7|NSUBJ 6|7|AUX 7|2|ACL-RELCL 8|7|OBL 9|2|PUNCT
+*PAR:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&+s sail .
+%mor:	verb|sail-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	sailboat . 72527_73027
+%mor:	noun|sailboat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sailboat 72527_73027 .
+*PAR:	a sailor . 74490_75089
+%mor:	det|a-Ind-Art noun|sailor .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 74490_74509 sailor 74589_75089 .
+*PAR:	a [/] &-uh &-uh a sound . 76812_82917
+%mor:	det|a-Ind-Art noun|sound .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 76812_76832 uh 77293_77333 uh 77393_82280 a 82280_82300 sound 82420_82917 .
+*PAR:	that's [/] that's not a &+p &+p person or thing or +... [+ exc] 84363_87287
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art noun|person cconj|or noun|thing-Ger cconj|or +...
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|8|ROOT 6|7|CC 7|5|CONJ 8|5|CONJ 9|5|PUNCT
+%wor:	that's 84363_84663 that's 84683_84883 not 84963_85084 a 85144_85164 person 85845_86225 or 86325_86385 thing 86525_86826 or 86906_87287 +...
+*PAR:	that's &-uh a sound@q . [+ exc] 87307_87841
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art q|sound .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|FLAT 5|4|PUNCT
+%wor:	that's 87307_87467 uh 87527_87841 a sound@q .
+*INV:	+< that's okay .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	&-uh &-uh s@l . [+ exc] 89398_90010
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh uh 89398_89510 s 89510_90010 .
+*PAR:	&+sil silver .
+%mor:	noun|silver .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh s@l silver +... [+ exc] 96299_100245
+%mor:	part|s noun|silver +...
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	uh 96299_99323 s 99584_99604 silver 99764_100245 +...
+*PAR:	shoot , I can't +... [+ exc] 108769_109789
+%mor:	verb|shoot-Fin-Imp-S cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not +...
+%gra:	1|5|ROOT 2|4|PUNCT 3|4|NSUBJ 4|1|PARATAXIS 5|4|ADVMOD 6|1|PUNCT
+%wor:	shoot 108769_109109 , I 109169_109189 can't 109289_109789 +...
+*PAR:	shoes . 111916_112411
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	shoes 111916_112411 .
+*INV:	mhm . 112687_112931
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 112687_112931 .
+*PAR:	&-uh &=sighs and &+s &+s a sale . 120357_122118
+%mor:	cconj|and det|a-Ind-Art noun|sale .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	uh and 120357_120457 a 121458_121478 sale 121618_122118 .
+*INV:	okay , good . 123444_124286
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 123444_123854 , good 123854_124286 .
+*PAR:	+< a &+s . 124245_124286
+%mor:	x|a .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	a 124245_124286 .
+@End

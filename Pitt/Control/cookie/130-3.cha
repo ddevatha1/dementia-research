@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00090741-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|male|Control||Participant|29||
+@Media:	130-3, audio
+@G:	Cookie
+*INV:	take a look at this picture . 620_1670
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+%wor:	take 620_800 a 820_840 look 840_1670 at this picture .
+*INV:	tell me everything that you see happening in the picture . 2902_5396
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	tell 2902_3082 me 3122_3182 everything 3342_3762 that 3782_3882 you 3902_3983 see 4083_4223 happening 4323_4783 in 4823_4903 the 4923_4983 picture 5043_5396 .
+*INV:	everything that you see going on in the picture . 5604_7688
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|9|ROOT 2|5|OBL 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+%wor:	everything 5604_6004 that 6004_6104 you 6124_6205 see 6265_6405 going 6465_6745 on 6865_7045 in 7105_7165 the 7185_7265 picture 7306_7688 .
+*PAR:	well the kid's &-uh stealin(g) cookies out o(f) the jar and on a stool (th)at's tilted over . 9152_13952
+%mor:	intj|well det|the-Def-Art noun|kid~part|s verb|steal-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar cconj|and adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S adp|over .
+%gra:	1|5|DISCOURSE 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|18|ROOT 6|5|OBJ 7|10|CASE 8|10|CASE 9|10|DET 10|5|OBL 11|14|CC 12|14|CASE 13|14|DET 14|10|CONJ 15|17|NSUBJ-PASS 16|17|AUX-PASS 17|14|ACL-RELCL 18|17|COMPOUND-PRT 19|5|PUNCT
+%wor:	well 9152_9307 the 9307_9367 kid's 9487_9828 uh 9928_10068 stealin(g) 10268_10769 cookies 10769_11149 out 11229_11289 o(f) 11289_11389 the 11389_11489 jar 11589_11890 and 11970_12070 on 12150_12250 a 12290_12310 stool 12550_12911 (th)at's 12911_13111 tilted 13211_13551 over 13631_13952 .
+*PAR:	and &-uh his sister's waitin(g) for him to hand her a cookie or +... 15037_20297
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister~part|s verb|wait-Part-Pres-S sconj|for pron|he-Prs-Acc-S3 part|to verb|hand-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc cconj|or +...
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NMOD-POSS 4|3|CASE 5|13|ROOT 6|9|MARK 7|9|NSUBJ 8|9|MARK 9|5|ADVCL 10|9|IOBJ 11|12|DET 12|9|OBJ 13|5|CONJ 14|5|PUNCT
+%wor:	and 15037_15217 uh 15317_17199 his 17219_17339 sister's 17399_17860 waitin(g) 18060_18381 for 18381_18441 him 18481_18601 to 18661_18721 hand 18781_19081 her 19101_19201 a 19362_19382 cookie 19642_20022 or 20123_20297 +...
+*PAR:	the mother is &-uh lookin(g) out the window and the dishes are &-uh bein(g) washed but the water's &-uh overrunning in the sink . 20904_28493
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window cconj|and det|the-Def-Art noun|dish-Plur aux|be-Fin-Ind-Pres-P3 aux|be-Part-Pres-S verb|wash-Part-Past-S cconj|but det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overrunn-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|21|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|13|CC 9|10|DET 10|13|NSUBJ-PASS 11|13|AUX 12|13|AUX-PASS 13|4|CONJ 14|18|CC 15|16|DET 16|18|NSUBJ 17|18|AUX 18|13|CONJ 19|21|CASE 20|21|DET 21|18|OBL 22|4|PUNCT
+%wor:	the 20904_21004 mother 21064_21384 is 21484_21664 uh 21785_21945 lookin(g) 22465_22806 out 22806_22946 the 22986_23046 window 23126_23406 and 23426_23507 the 23507_23587 dishes 23647_24047 are 24127_24428 uh 24428_24528 bein(g) 25449_25769 washed 25769_26110 but 26130_26230 the 26270_26350 water's 26430_26891 uh 27051_27131 overrunning 27291_27872 in 27892_27952 the 27972_28032 sink 28152_28493 .
+*PAR:	and &-uh I'd say that's about it . [+ exc] 29985_32115
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|would-Fin-S verb|say-Inf-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|NSUBJ 6|8|COP 7|8|CASE 8|4|CCOMP 9|4|PUNCT
+%wor:	and 29985_30145 uh 30205_31109 I'd 31149_31269 say 31330_31470 that's 31470_31611 about 31651_31952 it 32012_32115 .
+*INV:	okay . 32330_32572
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 32330_32572 .
+@End

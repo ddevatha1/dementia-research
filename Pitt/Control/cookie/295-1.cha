@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/a-00090843-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|63;|female|Control||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	295-1, audio
+@G:	Cookie
+*PAR:	&-uh this boy is about to fall off o(f) the stool . 580_3861
+%mor:	det|this-Def-Dem-Sing noun|boy aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|10|CASE 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	uh 580_620 this 620_800 boy 1860_2100 is 2160_2200 about 2380_2620 to 2640_2700 fall 2740_2941 off 3001_3101 o(f) 3101_3201 the 3201_3281 stool 3361_3861 .
+*PAR:	the mother is &-uh washing dishes and the water's spilling over on the &-uh (.) kitchen floor . 4247_12684
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|on det|the-Def-Art noun|kitchen noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|4|OBJ 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|4|CONJ 11|10|COMPOUND-PRT 12|15|CASE 13|15|DET 14|15|COMPOUND 15|10|OBL 16|4|PUNCT
+%wor:	the 4247_4321 mother 4341_4621 is 5061_5282 uh 5442_5942 washing 5962_6322 dishes 6362_6762 and 6822_6942 the 6982_7082 water's 7422_7743 spilling 7763_8123 over 8163_8423 on 8943_9083 the 9143_9223 uh 9443_9563 kitchen 11744_12084 floor 12184_12684 .
+*PAR:	the wind is blowing the curtains . 13107_14625
+%mor:	det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S det|the-Def-Art noun|curtain-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 13107_13185 wind 13245_13485 is 13525_13605 blowing 13625_13945 the 13985_14045 curtains 14125_14625 .
+*PAR:	the little girl is laughing at her brother who's taking a cookie out of the cookie jar . 15534_20434
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at pron|her-Prs-Gen-S3 noun|brother pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|18|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|13|DET 13|11|OBJ 14|18|CASE 15|18|CASE 16|18|DET 17|18|COMPOUND 18|11|OBL 19|5|PUNCT
+%wor:	the 15534_15614 little 15795_15955 girl 15995_16196 is 16236_16297 laughing 16357_16698 at 16718_16799 her 16839_16959 brother 17000_17381 who's 17883_18064 taking 18084_18405 a 18466_18486 cookie 18787_19148 out 19409_19510 of 19530_19590 the 19610_19670 cookie 19711_19992 jar 20072_20434 .
+*PAR:	think that's it . [+ exc]
+%mor:	verb|think-Fin-Imp-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

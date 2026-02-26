@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00090776-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|male|Control||Participant|30||
+@Media:	166-0, audio
+@G:	Cookie
+*INV:	okay why don't you start with the woman again ? 2561_4410
+%mor:	intj|okay adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|start-Inf-S adp|with det|the-Def-Art noun|woman adv|again ?
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|6|AUX 4|6|ADVMOD 5|6|NSUBJ 6|10|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVMOD 11|6|PUNCT
+%wor:	okay 2561_2801 why 2881_3021 don't 3021_3161 you 3161_3361 start 3361_3562 with 3562_3662 the 3682_3742 woman 3802_4022 again 4082_4410 ?
+*INV:	woman's wiping dishes . 7026_8035
+%mor:	noun|woman~part|s noun|wiping-Ger noun|dish-Plur .
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	woman's 7026_7306 wiping 7346_7666 dishes 7726_8035 .
+*PAR:	the woman is wiping the dishes . 8678_10409
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 8678_8727 woman 8767_9048 is 9148_9288 wiping 9348_9749 the 9769_9829 dishes 9909_10409 .
+*PAR:	she's standing in a puddle of water . 10750_12558
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%wor:	she's 10750_10930 standing 10970_11450 in 11490_11551 a 11611_11631 puddle 11751_11991 of 12031_12091 water 12171_12558 .
+*PAR:	if that's action I don't know . [+ exc] 12692_14214
+%mor:	sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|action pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|COP 4|8|ADVCL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|8|ROOT 9|8|PUNCT
+%wor:	if 12692_12732 that's 12792_13072 action 13252_13573 I 13673_13693 don't 13773_13933 know 13953_14214 .
+*PAR:	the sink is overflowing . 14310_15891
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 14310_14370 sink 14430_14730 is 14810_15051 overflowing 15391_15891 .
+*PAR:	(.) doesn't seem to be anything going on outside that I can tell in the picture . 21934_28694
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S pron|anything-Ind-S1 verb|go-Ger-S adp|on adv|outside sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S verb|tell-Inf-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|AUX 2|3|ADVMOD 3|16|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|6|ACL 8|7|OBL 9|7|ADVMOD 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|6|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|3|PUNCT
+%wor:	doesn't 21934_22243 seem 22303_22523 to 22583_22663 be 22724_22824 anything 22924_23325 going 23405_23685 on 23765_23926 outside 24026_24687 that 24887_25027 I 25027_25047 can 25108_25288 tell 25949_26249 in 27572_27612 the 27612_27692 picture 28353_28694 .
+*INV:	okay good . 31222_32180
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 31222_31548 good 31976_32180 .
+@End

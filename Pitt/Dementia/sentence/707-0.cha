@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/a-00091494-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|74;|female|PossibleAD||Participant|21||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	707-0, audio
+*PAR:	I write with a pencil . 440_1500
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	I 440_460 write 500_741 with 781_901 a 921_941 pencil 1001_1500 .
+*INV:	mhm . 1500_1902
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 1500_1902 .
+*INV:	tree@q . 3045_3545
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 3045_3545 .
+*PAR:	the trees are beautiful <in spring> [//] (.) in the spring . 4607_11218
+%mor:	det|the-Def-Art noun|tree-Plur aux|be-Fin-Ind-Pres-P3 adj|beautiful-S1 adp|in det|the-Def-Art noun|spring-Ger .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 4607_4688 trees 4748_5048 are 5088_5208 beautiful 5249_5729 in 5790_5850 spring 5910_6350 in 10438_10498 the 10558_10638 spring 10718_11218 .
+*INV:	I'm gonna give you two words now . 15621_17450
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|IOBJ 6|7|NUMMOD 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	I'm 15621_15681 gonna 15681_15861 give 15921_16081 you 16101_16221 two 16482_16682 words 16742_17042 now 17122_17450 .
+*INV:	I still want you to create <a sentence> [//] a brief sentence using them . 17542_20903
+%mor:	pron|I-Prs-Nom-S1 adv|still verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|create-Inf-S det|a-Ind-Art adj|brief-S1 noun|sentence-Acc verb|use-Ger-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|11|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|DET 8|9|AMOD 9|6|OBJ 10|6|ADVCL 11|10|OBJ 12|3|PUNCT
+%wor:	I 17542_17562 still 17622_17822 want 17842_18002 you 18042_18142 to 18182_18222 create 18282_18622 a 18642_18682 sentence 18762_19243 a 19343_19363 brief 19363_19583 sentence 19643_20083 using 20123_20383 them 20403_20903 .
+*PAR:	+< mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	it doesn't matter what order you put them in . 21043_22757
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|matter-Inf-S det|what-Def-Int noun|order-Acc pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr pron|they-Prs-Acc-P3 adp|in .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|8|OBL 11|4|PUNCT
+%wor:	it 21043_21103 doesn't 21103_21324 matter 21344_21544 what 21584_21724 order 21824_22064 you 22124_22224 put 22284_22444 them 22464_22584 in 22644_22757 .
+*INV:	child@q and hospital@q . 23725_25205
+%mor:	q|child cconj|and q|hospital .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	child@q 23725_24305 and 24465_24605 hospital@q 24705_25205 .
+*PAR:	a child goes to hospital to take his tonsils out . 27306_29900
+%mor:	det|a-Ind-Art noun|child verb|go-Fin-Ind-Pres-S3 adp|to noun|hospital part|to verb|take-Inf-S pron|his-Prs-Gen-S3 noun|tonsil-Plur-Acc adp|out .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|5|CASE 5|3|OBL 6|7|MARK 7|3|ADVCL 8|9|NMOD-POSS 9|7|OBJ 10|7|COMPOUND-PRT 11|3|PUNCT
+%wor:	a 27306_27326 child 27406_27726 goes 27766_27967 to 28007_28087 hospital 28167_28607 to 28627_28667 take 28667_28847 his 28847_28967 tonsils 29027_29407 out 29407_29900 .
+*INV:	mhm . 29900_29987
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 29900_29987 .
+*INV:	(..) cold@q and winter@q . 31034_40653
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+%wor:	cold@q 31034_38993 and 39833_40033 winter@q 40153_40653 .
+*PAR:	it's freezing cold in the winter . 42319_43963
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|freeze-Part-Pres-S adj|cold-S1 adp|in det|the-Def-Art noun|winter .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	it's 42319_42439 freezing 42479_42881 cold 42941_43222 in 43262_43342 the 43342_43403 winter 43463_43963 .
+*INV:	(...) give you three words now . 55029_56400
+%mor:	verb|give-Fin-Imp-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc adv|now .
+%gra:	1|5|ROOT 2|1|IOBJ 3|4|NUMMOD 4|1|OBJ 5|1|ADVMOD 6|1|PUNCT
+%wor:	give 55029_55189 you 55189_55269 three 55349_55629 words 55689_55969 now 56049_56400 .
+*PAR:	&=clears:throat . [+ exc]
+*INV:	still put them in a brief simple sentence . 57190_58990
+%mor:	adv|still verb|put-Fin-Imp-S pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art adj|brief-S1 adj|simple-S1 noun|sentence .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|OBJ 4|8|CASE 5|8|DET 6|8|AMOD 7|8|AMOD 8|2|OBL 9|2|PUNCT
+%wor:	still 57190_57430 put 57470_57590 them 57610_57730 in 57750_57830 a 57850_57870 brief 57930_58130 simple 58190_58410 sentence 58490_58990 .
+*INV:	chair@q doctor@q and sit@q . 59091_61734
+%mor:	q|chair q|doctor cconj|and q|sit .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	chair@q 59091_59551 doctor@q 60092_60673 and 60853_61033 sit@q 61234_61734 .
+*PAR:	I sat two hours in the doctor's office &=laughs . 62716_64778
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Past-S1-irr num|two noun|hour-Plur adp|in det|the-Def-Art noun|doctor~part|s noun|office .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|NUMMOD 4|2|OBL-UNMARKED 5|9|CASE 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|2|OBL 10|2|PUNCT
+%wor:	I 62716_62736 sat 62816_63036 two 63116_63256 hours 63317_63557 in 63597_63657 the 63677_63737 doctor's 63797_64198 office 64278_64778 .
+*INV:	three more words . 67900_71688
+%mor:	num|three adj|more-Cmp-S1 noun|word-Plur .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	three 67900_70887 more 70947_71148 words 71188_71688 .
+*INV:	bureau@q open@q and drawer@q . 72149_74815
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+%wor:	bureau@q 72149_72671 open@q 73332_73734 and 74074_74235 drawer@q 74315_74815 .
+*PAR:	the baby took the clothes out of the bureau drawer . 76080_78445
+%mor:	det|the-Def-Art noun|baby verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art noun|clothes-Ptan-Acc adp|out adp|of det|the-Def-Art noun|bureau noun|drawer .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|5|DET 5|3|OBJ 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|3|OBL 11|3|PUNCT
+%wor:	the 76080_76160 baby 76200_76481 took 76561_76701 the 76761_76842 clothes 76902_77203 out 77243_77343 of 77363_77403 the 77423_77503 bureau 77564_77844 drawer 77945_78445 .
+@End

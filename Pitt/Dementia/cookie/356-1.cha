@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/a-00090532-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|58;|female|ProbableAD||Participant|18||
+@Media:	356-1, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that you see going on in that picture . 90_3560
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|2|PUNCT
+%wor:	I 90_110 want 150_310 you 330_410 to 450_510 tell 610_810 me 850_910 everything 1070_1531 that 1571_1731 you 1771_1871 see 1951_2112 going 2172_2492 on 2612_2752 in 2812_2932 that 2932_3093 picture 3153_3560 .
+*INV:	everything that you see happening there . 4014_5710
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|ACL 6|5|ADVMOD 7|1|PUNCT
+%wor:	everything 4014_4414 that 4434_4514 you 4554_4634 see 4714_4834 happening 4914_5435 there 5475_5710 .
+*PAR:	a cookie jar . [+ gram] 7657_8457
+%mor:	det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	a 7657_7677 cookie 7797_8158 jar 8178_8457 .
+*PAR:	and <the kid's> [//] the boy's going to get from the cookie jar . 8640_12260
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|get-Inf-S adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|7|MARK 7|5|XCOMP 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|5|PUNCT
+%wor:	and 8640_8738 the 8738_8798 kid's 10080_10380 the 10500_10580 boy's 10660_10961 going 11021_11201 to 11201_11241 get 11241_11361 from 11401_11521 the 11541_11621 cookie 11661_12002 jar 12002_12260 .
+*PAR:	and the mother's washin(g) [//] dryin(g) dishes . 12322_14905
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	and 12322_12402 the 12422_12482 mother's 12562_12862 washin(g) 12943_13984 dryin(g) 13984_14424 dishes 14424_14905 .
+*PAR:	oh boy ! [+ exc] 15610_15960
+%mor:	intj|oh intj|boy !
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 15610_15690 boy 15810_15960 !
+*PAR:	and then in here what happens &=laughs ? [+ exc] 16051_17632
+%mor:	cconj|and adv|then adp|in adv|here pron|what-Int-S1 verb|happen-Fin-Ind-Pres-S3 ?
+%gra:	1|4|CC 2|4|ADVMOD 3|4|CASE 4|6|ROOT 5|6|NSUBJ 6|4|ADVCL-RELCL 7|4|PUNCT
+%wor:	and 16051_16130 then 16151_16291 in 16391_16491 here 16551_16792 what 16912_17072 happens 17132_17632 ?
+*PAR:	where all that water's comin(g) out o(f) there &=laughs . [+ gram] 18656_20426
+%mor:	adv|where det|all-Def-Tot det|that-Def-Dem-Sing noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|out adp|of adv|there .
+%gra:	1|6|ADVMOD 2|4|DET-PREDET 3|4|DET 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|CASE 9|6|OBL 10|6|PUNCT
+%wor:	where 18656_18795 all 18815_18915 that 18915_19055 water's 19116_19496 comin(g) 19536_19937 out 19937_20077 o(f) 20097_20177 there 20177_20426 .
+*PAR:	oh gosh . [+ exc] 22181_22681
+%mor:	intj|oh intj|gosh .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 22181_22321 gosh 22541_22681 .
+*PAR:	and the little one <I don't know what he's [: she's] [* s:r-ret]> [//] she's gonna get somethin(g) from him . [+ es] 23623_26793
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|one pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|get-Inf-S pron|something-Ind-S1 adp|from pron|he-Prs-Acc-S3 .
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|NSUBJ-OUTER 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|11|ROOT 9|8|OBJ 10|11|CASE 11|9|NMOD 12|8|PUNCT
+%wor:	and 23623_23703 the 23703_23763 little 23864_24224 one 24264_24404 I 24445_24465 don't 24485_24605 know 24605_24685 what 24745_24885 she's 24905_25066 she's 25226_25446 gonna 25506_25727 get 25867_26047 somethin(g) 26147_26448 from 26448_26608 him 26668_26793 .
+*PAR:	oy oy . [+ exc] 28151_29153
+%mor:	intj|oy intj|oy .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oy 28151_28872 oy 28952_29153 .
+*PAR:	(.) &-hm that was it . [+ exc]
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR:	oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay , what do I hafta do now ? [+ exc] 35990_37200
+%mor:	intj|okay cm|cm pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|hafta verb|do-Inf-S adv|now ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|OBJ 4|7|AUX 5|7|NSUBJ 6|7|ADVMOD 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+%wor:	okay 35990_36130 , what 36170_36270 do 36290_36351 I 36491_36511 hafta 36531_36731 do 36812_36892 now 36972_37200 ?
+*INV:	good . 37392_37632
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 37392_37632 .
+*INV:	that [//] you done ? 37841_38251
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2-irr ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	that 37841_37894 you 37954_38075 done 38075_38251 ?
+*INV:	okay that's fine . 38436_39198
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 38436_38716 that's 38756_38977 fine 39017_39198 .
+@End

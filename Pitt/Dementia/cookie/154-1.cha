@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/a-00090414-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|male|ProbableAD||Participant|17||
+@Media:	154-1, audio
+@G:	Cookie
+*INV:	what do you see going on in that picture ? 200_1910
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+%wor:	what 200_280 do 280_340 you 340_400 see 440_640 going 680_940 on 1020_1101 in 1141_1201 that 1241_1381 picture 1441_1910 ?
+*PAR:	(.) this &-uh boy is getting &-uh cookies out of this jar . 4445_9309
+%mor:	det|this-Def-Dem-Sing noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|this-Def-Dem-Sing noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|OBJ 6|9|CASE 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	this 4445_4825 uh 5005_5285 boy 5305_5766 is 5926_6226 getting 6406_6887 uh 6947_7107 cookies 7447_7988 out 8088_8268 of 8308_8348 this 8409_8689 jar 8809_9309 .
+*INV:	okay . 9942_10170
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 9942_10170 .
+*INV:	(..) anything else ? 15308_16269
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 15308_15709 else 15769_16269 ?
+*INV:	(.) what else do you see going on there ? 20344_21990
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adv|there ?
+%gra:	1|6|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|5|XCOMP 7|8|CASE 8|6|ADVMOD 9|5|PUNCT
+%wor:	what 20344_20464 else 20525_20725 do 20765_20846 you 20846_20966 see 20986_21147 going 21167_21508 on 21548_21749 there 21749_21990 ?
+*PAR:	(..) well , why [/] why [//] <they must> [//] they [/] they must have put [/] put something <in the> [/] <in the> [/] in the &-uh <in the> [//] &-uh (.) in somethin(g) over here . [+ es] 27550_41100
+%mor:	intj|well cm|cm pron|they-Prs-Nom-P3 aux|must-Fin-S aux|have-Inf-S verb|put-Part-Past-S-irr pron|something-Ind-S1 adp|in det|the-Def-Art adp|in pron|something-Ind-S1 adp|over adv|here .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|13|ROOT 7|6|OBJ 8|11|CASE 9|11|DET 10|11|CASE 11|6|OBL 12|13|CASE 13|11|NMOD 14|6|PUNCT
+%wor:	well 27550_27730 , why 27830_28150 why 28370_28710 they 28911_29051 must 29131_29391 they 29471_29611 they 29671_29791 must 29871_30091 have 30131_30231 put 30272_30472 put 30692_30872 something 30952_31332 in 31412_31552 the 31552_31613 in 31753_31893 the 31973_32053 in 32453_32593 the 32613_32673 uh 33014_33214 in 34214_34395 the 34435_34515 uh 34535_34675 in 34675_34795 somethin(g) 34795_40359 over 40359_40619 here 40799_41100 .
+*INV:	anything else ? 42575_43567
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 42575_42985 else 43067_43567 ?
+*PAR:	www . [+ exc]
+%exp:	tape appears to stop and start, nothing intelligible
+*INV:	anything else you see going on over there ? 67281_69431
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|over adv|there ?
+%gra:	1|8|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|1|PUNCT
+%wor:	anything 67281_67642 else 67723_67944 you 67964_68064 see 68124_68265 going 68305_68607 on 68647_68767 over 68828_69009 there 69049_69431 ?
+*INV:	(...) is that it ? 84625_85185
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 84625_84665 that 84665_84865 it 84925_85185 ?
+*PAR:	no , <you've gotta> [//] <you gotta get the> [//] &+g you gotta get the [/] &-uh the &-uh thing <out o(f) the> [/] &-uh out o(f) the &-uh +... 85866_94851
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2 aux|getta-Fin-S verb|get-Inf-S det|the-Def-Art noun|thing-Acc-Ger adp|out adp|of det|the-Def-Art +...
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|CASE 10|5|OBL 11|5|PUNCT
+%wor:	no 85866_85985 , you've 86146_86306 gotta 86306_86586 you 86706_86806 gotta 86926_87667 get 87847_87987 the 88027_88167 you 88387_88587 gotta 88707_88907 get 88987_89128 the 89168_89268 uh 89328_89368 the 89368_89428 uh 89588_90989 thing 91589_91930 out 92010_92210 o(f) 92250_92550 the 92550_92610 uh 92770_93531 out 93591_93751 o(f) 93791_94091 the 94091_94211 uh 94351_94851 +...
+*INV:	(..) is that it ? 105054_105594
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 105054_105094 that 105094_105274 it 105335_105594 ?
+*PAR:	(.) yeah , I guess so . [+ exc] 109857_110937
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adv|so .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	yeah 109857_110073 , I 110133_110153 guess 110334_110515 so 110575_110937 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

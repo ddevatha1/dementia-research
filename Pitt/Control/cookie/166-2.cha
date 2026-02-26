@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/a-00090778-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|58;00.|male|Control||Participant|||
+@Media:	166-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	what's going on in the picture .
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	all of the things that I see going on ? [+ exc] 3665_5578
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|thing-Plur pron|that-Rel pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 verb|go-Ger-S adp|on ?
+%gra:	1|9|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|1|PUNCT
+%wor:	all 3665_3845 of 3885_3965 the 4005_4085 things 4145_4406 that 4446_4546 I 4666_4686 see 4786_4946 going 5006_5287 on 5367_5578 ?
+*INV:	right . 5828_6060
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 5828_6060 .
+*PAR:	well the boy is stealing a cookie . 6709_8555
+%mor:	intj|well det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	well 6709_6969 the 7009_7069 boy 7110_7330 is 7410_7490 stealing 7570_7971 a 8031_8051 cookie 8131_8555 .
+*PAR:	he's standing on the stool which is tipping over . 8652_12498
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|COMPOUND-PRT 11|3|PUNCT
+%wor:	he's 8652_8812 standing 8852_9373 on 9453_9573 the 9653_9753 stool 10354_10675 which 10735_10955 is 10995_11156 tipping 11776_12137 over 12217_12498 .
+*PAR:	the girl is asking for cookies . 12677_15180
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	the 12677_12777 girl 12997_13298 is 13398_13498 asking 13658_14119 for 14219_14399 cookies 14680_15180 .
+*PAR:	the lady is doing the dishes . 15301_17563
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 15301_15401 lady 15902_16182 is 16282_16442 doing 16522_16863 the 16903_16983 dishes 17063_17563 .
+*PAR:	the sink is flowing over . 17685_20448
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 17685_17764 sink 17885_18205 is 18285_18465 flowing 19247_19707 over 19948_20448 .
+*PAR:	(.) and as far as action goes I think that's about all . [+ exc] 23511_31801
+%mor:	cconj|and adv|as adv|far sconj|as noun|action verb|go-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot .
+%gra:	1|8|CC 2|3|ADVMOD 3|8|ADVMOD 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|8|NSUBJ 8|12|ROOT 9|12|NSUBJ 10|12|COP 11|12|CASE 12|8|CCOMP 13|8|PUNCT
+%wor:	and 23511_23591 as 23651_23751 far 23811_24091 as 24251_24492 action 24952_25453 goes 25673_26214 I 27916_27936 think 27976_28156 that's 28236_28537 about 29418_29718 all 31600_31801 .
+*PAR:	she's standing in a puddle of water . 31941_33750
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%wor:	she's 31941_32141 standing 32161_32622 in 32642_32682 a 32682_32702 puddle 32842_33122 of 33202_33242 water 33363_33750 .
+*PAR:	and the window is open . 33803_35005
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 33803_33903 the 33903_33983 window 33983_34424 is 34484_34584 open 34684_35005 .
+*PAR:	and &-uh grass and things are &-uh outside . 36682_39365
+%mor:	cconj|and noun|grass cconj|and noun|thing-Plur aux|be-Fin-Ind-Pres-P3 adv|outside .
+%gra:	1|6|CC 2|6|NSUBJ 3|4|CC 4|2|CONJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	and 36682_36742 uh 36742_36782 grass 36782_37102 and 37302_37543 things 37543_37863 are 37943_38124 uh 38504_38845 outside 38865_39365 .
+*PAR:	a boy is handing the girl a cookie . 41228_42525
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|girl det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|DET 6|4|IOBJ 7|8|DET 8|4|OBJ 9|4|PUNCT
+%wor:	a boy 41228_41469 is 41529_41609 handing 41689_42150 the 42150_42210 girl 42270_42525 a cookie .
+*PAR:	girl is picking her nose I guess . [+ gram] 43613_45740
+%mor:	noun|girl aux|be-Fin-Ind-Pres-S3 verb|pick-Part-Pres-S pron|her-Prs-Gen-S3 noun|nose-Acc pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|NSUBJ 7|3|PARATAXIS 8|3|PUNCT
+%wor:	girl 43613_43832 is 43892_43973 picking 44053_44353 her 44373_44493 nose 44533_44854 I 44914_44934 guess 45415_45740 .
+*PAR:	I don't know what she's doing &=laughs . [+ exc] 46738_47778
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|4|PUNCT
+%wor:	I don't know what 46738_46937 she's 46977_47258 doing 47278_47778 .
+@End

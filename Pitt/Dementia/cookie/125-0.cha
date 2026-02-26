@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/a-00090404-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|77;|male|ProbableAD||Participant|10||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	125-0, audio
+@G:	Cookie
+*PAR:	cookie jar . [+ exc] 1360_1910
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	cookie 1360_1807 jar 1827_1910 .
+*INV:	mhm . 2456_2743
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 2456_2743 .
+*INV:	(..) what's happening (.) in the picture ? 14877_18597
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	what's 14877_14997 happening 15057_15518 in 17901_17961 the 18002_18082 picture 18122_18597 ?
+*PAR:	cookie jar . [+ gram] 19143_19922
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	cookie 19143_19464 jar 19524_19922 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what's happening over here ? 26856_27838
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	what's 26856_26996 happening 27016_27317 over 27357_27537 here 27577_27838 ?
+*PAR:	(..) plate . [+ gram] 38527_38775
+%mor:	noun|plate .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	plate 38527_38775 .
+*PAR:	(..) did I say a cookie jar ? [+ exc] 52256_53437
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|a-Ind-Art noun|cookie noun|jar-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+%wor:	did 52256_52416 I 52476_52496 say 52496_52636 a 52656_52676 cookie 52756_53076 jar 53096_53437 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(w)ell I'll give it xxx . [+ exc] 54398_54946
+%mor:	intj|well pron|I-Prs-Nom-S1~aux|will-Fin-S verb|give-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	(w)ell 54398_54558 I'll 54558_54658 give 54658_54838 it 54858_54946 .
+*INV:	&=coughs .
+*INV:	what's happening to this ? 62849_63871
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|to pron|this-Dem-S1 ?
+%gra:	1|3|OBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	what's 62849_62983 happening 63024_63324 to 63364_63444 this 63484_63871 ?
+*PAR:	footstool . [+ gram] 67147_67646
+%mor:	noun|footstool .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	footstool 67147_67646 .
+*INV:	what's it doing ? 69588_70294
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what's 69588_69748 it 69788_69868 doing 69908_70294 ?
+*PAR:	&-uh they're raidin(g) a cookie &+s jar here . 71770_73951
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|raid-Part-Pres-S det|a-Ind-Art noun|cookie noun|jar-Acc adv|here .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+%wor:	uh 71770_71909 they're 72030_72390 raidin(g) 72390_72690 a 72690_72710 cookie 72710_73070 jar 73090_73451 here 73451_73951 .
+*INV:	and what's this woman doing ? 80557_81658
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|woman verb|do-Part-Pres-S ?
+%gra:	1|2|CC 2|6|ROOT 3|6|COP 4|5|DET 5|6|COMPOUND 6|2|ACL-RELCL 7|2|PUNCT
+%wor:	and what's 80557_80777 this 80777_80957 woman 81017_81257 doing 81317_81658 ?
+*PAR:	<this one is> [//] &-uh &-uh she's cleaning a plate . 82285_88905
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|clean-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	this 82285_82445 one 82586_82726 is 82806_82987 uh 82987_83087 uh 83107_85895 she's 86598_86798 cleaning 87721_88142 a 88202_88222 plate 88584_88905 .
+*INV:	and what's happening here ? 97127_98027
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 97127_97187 what's 97187_97389 happening 97389_97814 here 97834_98027 ?
+*PAR:	this here one ? [+ exc] 98952_99109
+%mor:	pron|this-Dem-S1 adv|here num|one ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-UNMARKED 4|2|PUNCT
+%wor:	this here one 98952_99109 ?
+*INV:	(...) is that everything ? 123841_124551
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing pron|everything-Tot-S1 ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	is 123841_123881 that 123881_124021 everything 124081_124551 ?
+*PAR:	she drops a plate I guess . 126054_127214
+%mor:	pron|she-Prs-Nom-S3 verb|drop-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate-Acc pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|2|PUNCT
+%wor:	she 126054_126064 drops 126144_126425 a 126485_126505 plate 126625_126966 I 127006_127026 guess 127086_127214 .
+*INV:	(..) is that everything now ? 130401_135901
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|everything-Tot-S1 adv|now ?
+%gra:	1|3|COP 2|3|MARK 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	is that 130401_135139 everything 135219_135600 now 135640_135901 ?
+*PAR:	you could do what ? [+ exc] 138387_139127
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|do-Inf-S pron|what-Int-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	you 138387_138447 could 138467_138607 do 138627_138687 what 138767_139127 ?
+*INV:	<is tha(t)> [/] is that everything you see ? 140109_141723
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 ?
+%gra:	1|3|COP 2|3|MARK 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	is 140109_140209 tha(t) 140209_140409 is 140409_140489 that 140509_140650 everything 140710_141090 you 141130_141230 see 141331_141723 ?
+*PAR:	uhhuh . [+ exc]
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	good . 143273_143514
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 143273_143514 .
+@End

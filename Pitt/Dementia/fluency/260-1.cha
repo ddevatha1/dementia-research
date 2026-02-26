@@ -1,0 +1,157 @@
+@UTF8
+@PID:	11312/a-00089713-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|MCI||Participant|26||
+@Media:	260-1, audio
+*INV:	www .
+%exp:	finishing prior task
+@G:	foods
+*PAR:	fruit . 5148_5628
+%mor:	noun|fruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fruit 5148_5628 .
+*PAR:	bread . 6009_6509
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bread 6009_6509 .
+*PAR:	(.) meat . 8413_8912
+%mor:	noun|meat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	meat 8413_8912 .
+*PAR:	(.) icecream . 10576_11055
+%mor:	noun|icecream .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	icecream 10576_11055 .
+*INV:	anything else ? 16061_16642
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	anything 16061_16642 else ?
+*PAR:	did you say fruit@q ? [+ exc] 17522_18422
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S q|fruit ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	did 17522_17602 you 17602_17662 say 17722_17882 fruit@q 17922_18422 ?
+*INV:	no , anything .
+%mor:	intj|no cm|cm pron|anything-Ind-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*PAR:	oh ! [+ exc]
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything you can eat . 22646_22967
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+%wor:	anything you 22646_22967 can eat .
+*PAR:	xxx . [+ exc]
+*PAR:	(.) soup . 26209_26583
+%mor:	noun|soup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	soup 26209_26583 .
+*PAR:	salad . 26649_27130
+%mor:	noun|salad .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salad 26649_27130 .
+*PAR:	(..) toast . 30752_31232
+%mor:	noun|toast .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toast 30752_31232 .
+*PAR:	(.) sweet rolls . 33214_33914
+%mor:	adj|sweet-S1 noun|roll-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	sweet 33214_33414 rolls 33414_33914 .
+*PAR:	candy . 34716_35215
+%mor:	noun|candy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	candy 34716_35215 .
+*PAR:	(..) lettuce salad . 40421_41362
+%mor:	noun|lettuce noun|salad .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	lettuce 40421_40862 salad 40862_41362 .
+*PAR:	xxx . [+ exc]
+*PAR:	peaches . 47945_48405
+%mor:	noun|peach-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	peaches 47945_48405 .
+*PAR:	pears . 48446_48868
+%mor:	noun|pear-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pears 48446_48868 .
+*PAR:	apples . 48906_49309
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 48906_49309 .
+*PAR:	oranges . 49667_49986
+%mor:	noun|orange-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oranges 49667_49986 .
+*PAR:	prunes . 50488_50967
+%mor:	noun|prune-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	prunes 50488_50967 .
+*PAR:	raisins . 52089_52570
+%mor:	noun|raisin-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	raisins 52089_52570 .
+*PAR:	(...) xxx .
+*PAR:	(.) pizza . 65189_65669
+%mor:	noun|pizza .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pizza 65189_65669 .
+*PAR:	spaghetti .
+%mor:	noun|spaghetti .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	S
+*PAR:	&+s sleep . 69637_70136
+%mor:	noun|sleep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sleep 69637_70136 .
+*PAR:	Sunday . 70398_70898
+%mor:	propn|Sunday .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Sunday 70398_70898 .
+*PAR:	snore . 71580_72080
+%mor:	noun|snore .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snore 71580_72080 .
+*PAR:	we don't want people's names ? [+ exc] 73223_74295
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|want-Inf-S noun|person-Plur~part|s noun|name-Plur-Acc ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|PUNCT
+%wor:	we 73223_73283 don't 73323_73483 want 73483_73643 people's 73643_73944 names 74004_74295 ?
+*INV:	no . 74465_74806
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 74465_74806 .
+*PAR:	(..) snake . 79853_80293
+%mor:	noun|snake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	snake 79853_80293 .
+*PAR:	&+s (..) spoon . 87664_88163
+%mor:	noun|spoon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	spoon 87664_88163 .
+*PAR:	silver . 89225_89706
+%mor:	noun|silver .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	silver 89225_89706 .
+*PAR:	(..) shoes . 94571_95051
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	shoes 94571_95051 .
+*PAR:	stockings . 95832_96332
+%mor:	noun|stocking-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	stockings 95832_96332 .
+*PAR:	(.) spill . 101458_101937
+%mor:	verb|spill-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	spill 101458_101937 .
+*PAR:	(..) xxx some people snore &=laughs . [+ exc] 103939_108243
+%mor:	det|some-Def-Ind noun|person-Plur verb|snore-Fin-Ind-Pres-P3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	some 103939_105241 people 105581_107623 snore 107743_108243 .
+*INV:	(.) okay , thank you . 129069_129727
+%mor:	intj|okay cm|cm verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	okay 129069_129377 , thank 129418_129665 you 129665_129727 .
+@End

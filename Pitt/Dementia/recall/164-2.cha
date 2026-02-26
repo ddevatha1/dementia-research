@@ -1,0 +1,116 @@
+@UTF8
+@PID:	11312/a-00089909-0
+@Begin
+@Languages:	eng
+@Participants:	PAR2 Participant, PAR1 Participant, PAR4 Participant
+@ID:	eng|Pitt|PAR2|||||Participant|||
+@ID:	eng|Pitt|PAR1|||||Participant|||
+@ID:	eng|Pitt|PAR4|||||Participant|||
+@Media:	164-2, audio
+@Comment:	Batchalign 0.7.3-beta.7, ASR Engine rev
+*PAR2:	right . 13317_13555
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 13317_13555 .
+*PAR1:	I .
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	fishing with . 587175_587645
+%mor:	noun|fishing-Ger adp|with .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	fishing 587175_587645 with .
+*PAR1:	what are they doing on .
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|do-Part-Pres-S adp|on .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+*PAR2:	what are they doing on . 597464_598525
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|do-Part-Pres-S adp|on .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+%wor:	what are 597464_597704 they 597764_597904 doing 597964_598284 on 598324_598525 .
+*PAR1:	I dunno . 630935_631435
+%mor:	pron|I-Prs-Nom-S1 verb|dunno-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	I 630935_630955 dunno 630955_631435 .
+*PAR1:	what . 631498_631755
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	what 631498_631755 .
+*PAR2:	I dunno what they . 633650_634535
+%mor:	pron|I-Prs-Nom-S1 verb|dunno-Fin-Ind-Pres-S1 pron|what-Int-S1 pron|they-Prs-Nom-P3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|CCOMP 5|2|PUNCT
+%wor:	I dunno 633650_634132 what 634132_634293 they 634333_634535 .
+*PAR1:	we'll John .
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S propn|John .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*PAR2:	we'll paint John Wagon dream . 652167_653928
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|paint-Inf-S propn|John propn|Wagon noun|dream-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|COMPOUND 5|4|FLAT 6|3|OBJ 7|3|PUNCT
+%wor:	we'll 652167_652287 paint 652327_652587 John 652667_652947 Wagon 653107_653428 dream 653428_653928 .
+*PAR1:	is she still house .
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 adv|still noun|house .
+%gra:	1|4|COP 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*PAR2:	she still treehouse .
+%mor:	pron|she-Prs-Nom-S3 adv|still noun|treehouse .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*PAR1:	was dad tired .
+%mor:	aux|be-Fin-Ind-Past-S3-irr noun|dad adj|tired-S1 .
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR1:	when came home last night .
+%mor:	adv|when verb|come-Fin-Ind-Past-S3-irr adv|home adj|last-S1 noun|night .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|ADVMOD 4|5|AMOD 5|2|OBL-UNMARKED 6|2|PUNCT
+*PAR2:	was dad .
+%mor:	aux|be-Fin-Ind-Past-S3-irr noun|dad .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*PAR2:	when came home last night . 672832_673475
+%mor:	adv|when verb|come-Fin-Ind-Past-S3-irr adv|home adj|last-S1 noun|night .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|ADVMOD 4|5|AMOD 5|2|OBL-UNMARKED 6|2|PUNCT
+%wor:	when 672832_672936 came 672936_673019 home 673019_673122 last 673122_673288 night 673288_673475 .
+*PAR1:	Grandma the . 679411_686598
+%mor:	propn|Grandma det|the-Def-Art .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%wor:	Grandma 679411_685958 the 686098_686598 .
+*PAR2:	the .
+%mor:	det|the-Def-Art .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	ready . 695377_695645
+%mor:	adj|ready-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ready 695377_695645 .
+*PAR2:	yet .
+%mor:	adv|yet .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	many . 1250509_1250655
+%mor:	adj|many-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	many 1250509_1250655 .
+*PAR1:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR4:	the little boys got on the steps told to get a [/] a cookie . 1372526_1379675
+%mor:	det|the-Def-Art adj|little-S1 noun|boy-Plur verb|get-Fin-Ind-Past-P3-irr adp|on det|the-Def-Art noun|step-Plur verb|tell-Part-Past-S-irr part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|7|ACL 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|4|PUNCT
+%wor:	the 1372526_1372586 little 1372586_1372746 boys 1372786_1373106 got 1373186_1373406 on 1373606_1373747 the 1373767_1373847 steps 1375548_1375889 told 1375929_1377971 to 1377991_1378031 get 1378091_1378251 a 1378291_1378311 a 1379232_1379252 cookie 1379352_1379675 .
+*PAR4:	it's gonna fall off . 1381254_1382275
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|fall-Inf-S adp|off .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	it's 1381254_1381334 gonna 1381374_1381574 fall 1381654_1381954 off 1382074_1382275 .
+*PAR4:	and the mother doing dishes . 1384275_1387595
+%mor:	cconj|and det|the-Def-Art noun|mother verb|do-Ger-S noun|dish-Plur-Acc .
+%gra:	1|3|CC 2|3|DET 3|5|ROOT 4|3|ACL 5|4|OBJ 6|3|PUNCT
+%wor:	and 1384275_1385498 the 1385498_1385559 mother 1385699_1386040 doing 1386903_1387144 dishes 1387304_1387595 .
+*PAR4:	she's running the water on the floor . 1389150_1390555
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S det|the-Def-Art noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	she's 1389150_1389411 running 1389471_1389672 the 1389672_1389772 water 1389772_1390033 on 1390093_1390153 the 1390173_1390233 floor 1390274_1390555 .
+*PAR4:	her little sister's trying to write him down . 1396795_1401035
+%mor:	pron|her-Prs-Gen-S3 adj|little-S1 noun|sister~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|write-Inf-S pron|he-Prs-Acc-S3 adp|down .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|COMPOUND-PRT 10|5|PUNCT
+%wor:	her 1396795_1396855 little 1396875_1397095 sister's 1397235_1397736 trying 1398097_1398397 to 1398397_1398457 write 1400240_1400541 him 1400541_1400681 down 1400761_1401035 .
+*PAR4:	that's about it . 1407013_1407595
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	that's 1407013_1407132 about 1407172_1407432 it 1407512_1407595 .
+*PAR4:	okay . 1407865_1408133
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1407865_1408133 .
+@End

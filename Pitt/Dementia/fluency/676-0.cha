@@ -1,0 +1,158 @@
+@UTF8
+@PID:	11312/a-00089809-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	bullets
+@ID:	eng|Pitt|PAR|72;|male|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	676-0, audio
+@G:	animals
+*PAR:	dogs . 520_1000
+%mor:	noun|dog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dogs 520_1000 .
+*PAR:	(..) bear . 10709_11122
+%mor:	noun|bear .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bear 10709_11122 .
+*PAR:	&+wo wolves . 13711_14192
+%mor:	noun|wolf-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	wolves 13711_14192 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) how many more ? [+ exc] 23003_23556
+%mor:	adv|how adj|many-S1 adj|more-Cmp-S1 ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	how 23003_23063 many 23083_23223 more 23283_23556 ?
+*INV:	<you still have an> [//] you still have &-uh thirty seconds . 24565_27690
+%mor:	pron|you-Prs-Nom-S2 adv|still verb|have-Fin-Ind-Pres-S2 num|thirty noun|second-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+%wor:	you 24565_24645 still 24846_25026 have 25066_25206 an 25206_25286 you 25807_25887 still 25928_26108 have 26148_26348 uh 26529_26809 thirty 26929_27130 seconds 27230_27690 .
+*PAR:	rabbit . 32499_32926
+%mor:	noun|rabbit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rabbit 32499_32926 .
+*INV:	mhm . 32926_33339
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 32926_33339 .
+*PAR:	fish . 34803_35224
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 34803_35224 .
+*PAR:	did I say squirrels@q ? 37590_38603
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S q|squirrels ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+%wor:	did 37590_37730 I 37830_37850 say 37910_38050 squirrels@q 38110_38603 ?
+*INV:	hmhunh .
+%mor:	intj|hmhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) pg . 47538_47786
+%mor:	noun|pg .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pg 47538_47786 .
+*INV:	mhm . 47786_48039
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 47786_48039 .
+*INV:	(.) okay , that's a minute . 55505_56482
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	okay 55505_55725 , that's 55745_55945 a 55985_56005 minute 56105_56482 .
+*INV:	that's good . 56806_57469
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 56806_56986 good 57066_57469 .
+@G:	F
+*INV:	I'm going to give you another minute . 58527_60208
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|another-Def-Ind noun|minute .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBL-UNMARKED 9|3|PUNCT
+%wor:	I'm 58527_58587 going 58627_58767 to 58767_58807 give 58827_59008 you 59028_59108 another 59188_59588 minute 59708_60208 .
+*INV:	and in that minute's time I want you to name for me as many words as you can think of that start with the letter f@l . 60489_66049
+%mor:	cconj|and adp|in det|that-Def-Dem-Sing noun|minute~part|s noun|time pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|name-Inf-S adp|for pron|I-Prs-Acc-S1 adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of det|that-Def-Dem-Sing verb|start-Inf-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|8|CC 2|6|CASE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|8|OBL 7|8|NSUBJ 8|27|ROOT 9|8|OBJ 10|11|MARK 11|8|XCOMP 12|13|CASE 13|11|OBL 14|15|ADVMOD 15|16|AMOD 16|11|OBJ 17|20|MARK 18|20|NSUBJ 19|20|AUX 20|11|ADVCL 21|20|OBL 22|23|DET 23|20|ADVCL 24|26|CASE 25|26|DET 26|23|OBL 27|8|PUNCT 28|8|PUNCT
+%wor:	and 60489_60569 in 60589_60669 that 60689_60889 minute's 60949_61230 time 61270_61510 I 61590_61610 want 61650_61850 you 61890_61970 to 61990_62070 name 62130_62351 for 62391_62511 me 62571_62651 as 62971_63111 many 63211_63411 words 63532_63832 as 63872_63952 you 63992_64092 can 64112_64232 think 64272_64452 of 64492_64572 that 64633_64773 start 64833_65093 with 65133_65253 the 65273_65353 letter 65433_65693 f 65954_66049 .
+*INV:	all of the words that you can think that start with the letter f@l . 67155_70298
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|word-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|14|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|10|NSUBJ 10|8|CCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|10|OBL-UNMARKED 15|1|PUNCT
+%wor:	all 67155_67275 of 67315_67375 the 67435_67495 words 67595_67895 that 67915_68036 you 68056_68156 can 68176_68336 think 68456_68736 that 68836_68956 start 69016_69257 with 69297_69417 the 69437_69517 letter 69597_69857 f 70157_70298 .
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fire . 71979_72319
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fire 71979_72319 .
+*INV:	+< ready ? 72160_72585
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ready 72160_72585 ?
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&+fran fence .
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm . 75543_75662
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 75543_75662 .
+*PAR:	&-uh fish . 79185_79666
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh fish 79185_79666 .
+*PAR:	&-um fox . 79934_84189
+%mor:	propn|fox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 79934_82488 fox 83689_84189 .
+*INV:	anything that starts with f@l . 105440_107044
+%mor:	pron|anything-Ind-S1 pron|that-Rel verb|start-Fin-Ind-Pres-S3 adp|with propn|for .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBL 5|3|OBL 6|1|PUNCT
+%wor:	anything 105440_105820 that 105820_105960 starts 106020_106320 with 106380_106541 f 106821_107044 .
+*PAR:	oh , I'm not thinking about it . [+ exc] 108263_109529
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|think-Part-Pres-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+%wor:	oh 108263_108402 , I'm 108482_108562 not 108602_108722 thinking 108763_109043 about 109083_109323 it 109343_109529 .
+*INV:	you have &-uh forty seconds left . 110825_112768
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 num|forty noun|second-Plur-Acc verb|leave-Part-Past-S-irr .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+%wor:	you 110825_110904 have 111005_111205 uh 111345_111465 forty 111605_111865 seconds 111965_112366 left 112426_112768 .
+*PAR:	(.) fire . 116971_117447
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fire 116971_117447 .
+*INV:	mhm . 117447_117770
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 117447_117770 .
+*PAR:	France . 119373_119872
+%mor:	propn|France .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	France 119373_119872 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(.) okay , that's a minute . 133612_134514
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minute .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	okay 133612_133853 , that's 133913_134133 a 134133_134153 minute 134213_134514 .
+*PAR:	okay . [+ exc] 134934_135280
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 134934_135280 .
+*INV:	good . 135714_136000
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 135714_136000 .
+*INV:	well we are ticking them off here . 140158_141538
+%mor:	intj|well pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 verb|tick-Part-Pres-S pron|they-Prs-Acc-P3 adp|off adv|here .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|PUNCT
+%wor:	well 140158_140318 we 140338_140398 are 140418_140499 ticking 140539_140779 them 140779_140899 off 140959_141159 here 141219_141538 .
+*INV:	we don't have too much more . 141640_142641
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|have-Inf-S adv|too adj|much-S1 adj|more-Cmp-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|ADVMOD 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%wor:	we 141640_141720 don't 141760_141920 have 141920_142060 too 142080_142200 much 142220_142440 more 142500_142641 .
+@End

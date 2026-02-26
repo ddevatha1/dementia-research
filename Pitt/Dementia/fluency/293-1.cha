@@ -1,0 +1,198 @@
+@UTF8
+@PID:	11312/a-00089725-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|15||
+@Media:	293-1, audio
+@G:	foods
+*INV:	okay , xxx you can start now . 1921_3051
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	okay 1921_2381 , you 2401_2461 can 2461_2582 start 2582_2682 now 2742_3051 .
+*PAR:	can I start with candy@q ? 3083_4363
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|start-Inf-S adp|with q|candy ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|FLAT 6|3|PUNCT
+%wor:	can 3083_3202 I 3342_3362 start 3442_3683 with 3723_3843 candy@q 3863_4363 ?
+*INV:	mhm . 4984_5216
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 4984_5216 .
+*PAR:	+< cake . 5064_5544
+%mor:	noun|cake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cake 5064_5544 .
+*PAR:	bread [/] bread . 5905_8427
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bread 5905_6365 bread 7927_8427 .
+*PAR:	pancake bread . 10129_11450
+%mor:	noun|pancake noun|bread .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	pancake 10129_10809 bread 10950_11450 .
+*PAR:	oh , &-um or bread . 12591_13912
+%mor:	intj|oh cm|cm cconj|or noun|bread .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|CC 4|4|ROOT 5|4|PUNCT
+%wor:	oh 12591_12731 , um 12731_12811 or 12932_13092 bread 13412_13912 .
+*INV:	anything else you can think of that you can eat .
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|10|ROOT 2|1|AMOD 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|7|CASE 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|1|PUNCT
+*PAR:	that you can eat . [+ exc]
+%mor:	sconj|that pron|you-Prs-Nom-S2 aux|can-Fin-S verb|eat-Inf-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	bread .
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	candy , cake , bread +... [+ exc] 24190_25130
+%mor:	noun|candy cm|cm noun|cake cm|cm noun|bread +...
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|1|PUNCT
+%wor:	candy 24190_24409 , cake 24449_24630 , bread 24630_25130 +...
+*PAR:	I'm stuck . [+ exc] 27795_28295
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|stuck-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	I'm stuck 27795_28295 .
+*PAR:	(.) you wouldn't say sugar@q , would you ? [+ exc] 31582_33383
+%mor:	pron|you-Prs-Nom-S2 aux|would-Fin-S~part|not verb|say-Inf-S q|sugar cm|cm aux|would-Fin-S pron|you-Prs-Nom-S2 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|FLAT 6|7|PUNCT 7|4|PARATAXIS 8|7|NSUBJ 9|4|PUNCT
+%wor:	you 31582_31682 wouldn't 31722_32002 say 32002_32182 sugar@q 32303_32663 , would 32683_32843 you 32883_33383 ?
+*INV:	anything at all that can be eaten . 33525_35026
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|7|NSUBJ-PASS 5|7|AUX 6|7|AUX-PASS 7|1|ACL-RELCL 8|1|PUNCT
+%wor:	anything 33525_33865 at 33885_33945 all 34005_34085 that 34125_34225 can 34265_34385 be 34405_34485 eaten 34626_35026 .
+*PAR:	oh , sugar . 35267_36047
+%mor:	intj|oh cm|cm noun|sugar .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh 35267_35327 , sugar 35547_36047 .
+*PAR:	butter . 37130_37629
+%mor:	noun|butter .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	butter 37130_37629 .
+*PAR:	&-um Crisco . 40275_41114
+%mor:	propn|Crisco .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 40275_40474 Crisco 40614_41114 .
+*PAR:	(..) Crisco , sugar , bread , Crisco +... [+ exc] 51608_52809
+%mor:	propn|Crisco cm|cm noun|sugar cm|cm noun|bread cm|cm propn|Crisco +...
+%gra:	1|7|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|LIST 6|7|PUNCT 7|1|LIST 8|1|PUNCT
+%wor:	Crisco 51608_51789 , sugar 51789_51889 , bread 51989_52289 , Crisco 52309_52809 +...
+*PAR:	Crisco@q and after that I forget . [+ exc] 61141_63364
+%mor:	q|Crisco cconj|and adp|after pron|that-Dem pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Pres-S1 .
+%gra:	1|6|FLAT 2|6|CC 3|4|CASE 4|6|OBL 5|6|NSUBJ 6|1|CONJ 7|1|PUNCT
+%wor:	Crisco@q 61141_61822 and 61882_62082 after 62102_62423 that 62483_62703 I 62763_62783 forget 62883_63364 .
+*INV:	+< that's okay . 63884_64645
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 63884_64125 okay 64145_64645 .
+*INV:	that's fine . 64717_65255
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 64717_64897 fine 64917_65255 .
+*INV:	let's try something else +/. 65255_66588
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|try-Inf-S pron|something-Ind-S1 adj|else-S1 +/.
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|4|AMOD 6|1|PUNCT
+%wor:	let's 65255_65757 try 65937_66137 something 66237_66588 else +/.
+@G:	S
+*INV:	now what I'd like you to do is you can start now . 69560_71360
+%mor:	adv|now pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|12|ADVMOD 2|12|NSUBJ-OUTER 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|12|COP 10|12|NSUBJ 11|12|AUX 12|13|ROOT 13|12|ADVMOD 14|12|PUNCT
+%wor:	now 69560_69620 what 69640_69760 I'd 69860_69960 like 69980_70140 you 70160_70240 to 70240_70280 do 70280_70320 is 70320_70360 you 70380_70460 can 70460_70520 start 70560_70780 now 70860_71360 .
+*PAR:	s@l . [+ exc] 72297_72661
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	s 72297_72661 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	you mean names and places ? [+ exc] 73820_75861
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 noun|name-Plur-Acc cconj|and noun|place-Plur ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CC 5|3|CONJ 6|2|PUNCT
+%wor:	you 73820_73882 mean 73922_74122 names 74383_74863 and 75103_75303 places 75383_75861 ?
+*INV:	any word at all that begins with the letter s@l . 76067_79206
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|10|ROOT 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|2|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|9|CASE 11|2|PUNCT
+%wor:	any 76067_76284 word 76444_76844 at 76924_77024 all 77144_77284 that 77344_77464 begins 77484_77825 with 77865_77985 the 78005_78085 letter 78165_78445 s 78725_79206 .
+*PAR:	s@l . [+ exc] 79867_80147
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	s 79867_80147 .
+*INV:	except for names and places and derivatives . 80235_82490
+%mor:	adp|except adp|for noun|name-Plur cconj|and noun|place-Plur cconj|and noun|derivative-Plur .
+%gra:	1|3|CASE 2|3|CASE 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|CC 7|3|CONJ 8|3|PUNCT
+%wor:	except 80235_82490 for names and places and derivatives .
+*INV:	s@l .
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	any word at all .
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR:	alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	soap .
+%mor:	noun|soap .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) &-um sugar . 90201_90782
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 90201_90241 sugar 90301_90782 .
+*PAR:	(.) soap , sugar +... [+ exc]
+%mor:	noun|soap cm|cm noun|sugar +...
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+*PAR:	no names though ? [+ exc] 97635_98775
+%mor:	det|no-Def-Neg noun|name-Plur adv|though ?
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	no 97635_97714 names 97854_98275 though 98275_98775 ?
+*INV:	no , any other word that begin with the letter s@l that you can think of .
+%mor:	intj|no cm|cm det|any-Def-Ind adj|other-S1 noun|word pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|16|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|10|CASE 12|15|OBJ 13|15|NSUBJ 14|15|AUX 15|10|ACL-RELCL 16|12|CASE 17|5|PUNCT
+*INV:	can you think of any more ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	soap and sugar . [+ exc]
+%mor:	noun|soap cconj|and noun|sugar .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*PAR:	(.) I don't think . [+ exc] 112073_112314
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 112073_112093 don't 112153_112314 think .
+*PAR:	there isn't as many with that [//] &+wor those letters . [+ exc] 112994_115114
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3~part|not adv|as adj|many-S1 adp|with det|that-Def-Dem-Plur noun|letter-Plur .
+%gra:	1|2|EXPL 2|8|ROOT 3|2|ADVMOD 4|5|ADVMOD 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+%wor:	there 112994_113173 isn't 113213_113553 as 113673_113753 many 113753_113974 with 114074_114214 that 114234_114434 those 114514_114614 letters 114614_115114 .
+*INV:	I can give you a few more seconds .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art adj|few-S1 adj|more-Cmp-S1 noun|second-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|IOBJ 5|8|DET 6|8|AMOD 7|8|AMOD 8|3|OBJ 9|3|PUNCT
+*INV:	any word that you can think of that begins with the letter s@l . 119146_121793
+%mor:	det|any-Def-Ind noun|word pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|9|NSUBJ 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|3|CASE 8|9|NSUBJ 9|13|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|12|CASE 14|9|PUNCT
+%wor:	any word that you can think of that begins with the letter 119146_121793 s .
+*PAR:	s@l . [+ exc] 122098_122414
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	s 122098_122414 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	Stella . 123559_124058
+%mor:	propn|Stella .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Stella 123559_124058 .
+*PAR:	no [/] no names ! [+ exc] 124479_125419
+%mor:	det|no-Def-Neg noun|name-Plur !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	no 124479_124559 no 124699_124779 names 124919_125419 !
+*INV:	okay . 125854_126039
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 125854_126039 .
+*PAR:	sugar . 129068_129548
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sugar 129068_129548 .
+*INV:	okay , good . 131377_132377
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 131377_131756 , good 131877_132377 .
+@End

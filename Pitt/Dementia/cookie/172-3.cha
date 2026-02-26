@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/a-00090425-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;00.|female|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	172-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	okay . [+ exc] 290_730
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 290_730 .
+*PAR:	little boy is reaching for the cookie jar . 2353_4078
+%mor:	adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	little 2353_2533 boy 2553_2753 is 2813_2873 reaching 2954_3254 for 3294_3374 the 3394_3474 cookie 3494_3775 jar 3835_4078 .
+*PAR:	<in so doing he's tipping over the> [//] &+s and he's handing them to his sister , the cookies . 4175_8140
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|his-Prs-Gen-S3 noun|sister cm|cm det|the-Def-Art noun|cookie-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|11|PUNCT 10|11|DET 11|8|APPOS 12|4|PUNCT
+%wor:	in 4175_4236 so 4336_4436 doing 4596_4937 he's 4997_5157 tipping 5217_5517 over 5578_5798 the 5858_5918 and 6118_6218 he's 6218_6339 handing 6379_6659 them 6659_6759 to 6819_6879 his 6940_7060 sister 7140_7540 , the 7681_7761 cookies 7801_8140 .
+*PAR:	so doing he's tipping over the stool <in the> [//] &-uh in front of the open cupboard . 8622_14251
+%mor:	adv|so verb|do-Part-Pres-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over det|the-Def-Art noun|stool adp|in noun|front adp|of det|the-Def-Art adj|open-S1 noun|cupboard .
+%gra:	1|5|ADVMOD 2|5|ADVCL 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|CASE 10|5|OBL 11|14|CASE 12|14|DET 13|14|AMOD 14|10|NMOD 15|5|PUNCT
+%wor:	so 8622_8722 doing 8842_9103 he's 9143_9323 tipping 9423_9704 over 9764_9964 the 10004_10084 stool 10285_10685 in 11486_11587 the 11667_11767 uh 11987_12167 in 13089_13169 front 13209_13369 of 13369_13409 the 13409_13469 open 13549_13750 cupboard 13850_14251 .
+*PAR:	&-uh the mother is washing dishes . 14998_17088
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	uh 14998_15038 the 15238_15298 mother 15358_15638 is 15999_16179 washing 16259_16599 dishes 16639_17088 .
+*PAR:	and at that time water is overflowing from the sink . 17220_21210
+%mor:	cconj|and adp|at det|that-Def-Dem-Sing noun|time noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%wor:	and 17220_17300 at 17340_17400 that 17440_17620 time 17700_18201 water 18802_19142 is 19282_19402 overflowing 19482_20123 from 20223_20403 the 20463_20544 sink 20724_21210 .
+*PAR:	she's wiping a dish at the time . 23487_25149
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|at det|the-Def-Art noun|time .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	she's 23487_23647 wiping 23727_24067 a 24107_24127 dish 24207_24428 at 24468_24548 the 24568_24628 time 24708_25149 .
+*PAR:	and that's what I +//. [+ exc] 26710_27171
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 +//.
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+%wor:	and 26710_26810 that's 26810_27011 what 27051_27171 I +//.
+*PAR:	her feet are in the water . 27431_28558
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|water .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	her 27431_27511 feet 27611_27791 are 27811_27891 in 27932_27972 the 28012_28072 water 28132_28558 .
+*PAR:	and that's as much as I see . [+ exc] 28714_29774
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|as adj|much-S1 sconj|as pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|8|ROOT 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|5|PUNCT
+%wor:	and 28714_28772 that's 28772_28913 as 28973_29053 much 29093_29293 as 29313_29393 I 29533_29553 see 29653_29774 .
+*PAR:	her back is to the boy and to the girl . 30250_32189
+%mor:	pron|her-Prs-Gen-S3 noun|back aux|be-Fin-Ind-Pres-S3 adp|to det|the-Def-Art noun|boy cconj|and adp|to det|the-Def-Art noun|girl .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|10|ROOT 7|10|CC 8|10|CASE 9|10|DET 10|6|CONJ 11|6|PUNCT
+%wor:	her 30250_30330 back 30371_30613 is 30674_30755 to 30835_30916 the 30977_31058 boy 31360_31562 and 31623_31704 to 31704_31785 the 31805_31886 girl 31926_32189 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

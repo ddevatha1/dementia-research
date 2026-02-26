@@ -1,0 +1,113 @@
+@UTF8
+@PID:	11312/a-00090729-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	bullets
+@ID:	eng|Pitt|PAR|71;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	121-1, audio
+@G:	Cookie
+*PAR:	there's the action . [+ exc] 320_1170
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|action .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 320_500 the 540_620 action 760_1170 .
+*PAR:	there's the action as opposed to state +... [+ exc] 1962_4345
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|action sconj|as verb|oppose-Part-Past-S adp|to noun|state +...
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|2|NSUBJ 5|8|CASE 6|5|FIXED 7|5|FIXED 8|2|ADVCL 9|2|PUNCT
+%wor:	there's 1962_2102 the 2102_2162 action 2162_2442 as 2562_2663 opposed 2723_3263 to 3303_3424 state 3964_4345 +...
+*INV:	right . 4485_4535
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 4485_4535 .
+*INV:	<all of the action that's going on> [>] . 5266_6527
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|8|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|COMPOUND-PRT 9|1|PUNCT
+%wor:	all 5266_5346 of 5346_5406 the 5406_5466 action 5486_5626 that's 5626_5887 going 5887_5987 on 6027_6527 .
+*PAR:	<yeah action &+al alright> [<] . [+ exc] 6107_7248
+%mor:	intj|yeah noun|action intj|alright .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+%wor:	yeah 6107_6207 action 6227_6588 alright 6748_7248 .
+*PAR:	alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	the girl is &-uh holding her finger up to her face . 11029_14779
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|face .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|4|PUNCT
+%wor:	the girl is uh holding 11029_11034 her 11574_13457 finger 13737_14038 up 14098_14178 to 14178_14258 her 14378_14458 face 14598_14779 .
+*PAR:	is it that kind of thing ? [+ exc] 15497_16317
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|that-Def-Dem-Sing noun|kind adp|of noun|thing-Ger ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%wor:	is 15497_15537 it 15537_15577 that 15617_15757 kind 15897_16117 of 16137_16237 thing 16237_16317 ?
+*INV:	go ahead mhm [>] +/. 16397_17057
+%mor:	verb|go-Fin-Imp-S adv|ahead intj|mhm +/.
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|DISCOURSE 4|1|PUNCT
+%wor:	go 16397_16437 ahead 16437_16537 mhm 16557_17057 +/.
+*PAR:	alright [<] <pointing toward the cookie jar what or (.) no> [//] reaching out her hand for a cookie . [+ gram] 17298_21358
+%mor:	intj|alright verb|reach-Part-Pres-S adp|out pron|her-Prs-Gen-S3 noun|hand-Acc adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|2|COMPOUND-PRT 4|5|NMOD-POSS 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+%wor:	alright pointing 17298_17638 toward 17678_17918 the 17938_18038 cookie 18118_18438 jar 18458_18679 what 18759_19399 or 19439_19539 no 19739_19799 reaching 19959_20260 out 20300_20400 her 20420_20500 hand 20540_20720 for 20840_20980 a 20980_21000 cookie 21040_21358 .
+*PAR:	her brother is [//] &+h has one cookie near her hand . 22081_25277
+%mor:	pron|her-Prs-Gen-S3 noun|brother verb|have-Fin-Ind-Pres-S3 num|one noun|cookie-Acc adp|near pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|8|ROOT 4|5|NUMMOD 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+%wor:	her 22081_22161 brother 22201_22561 is 22601_22841 has 23882_24082 one 24202_24322 cookie 24382_24702 near 24702_24903 her 24943_25083 hand 25143_25277 .
+*PAR:	in his right hand he is reaching in the cookie jar . 25395_27865
+%mor:	adp|in pron|his-Prs-Gen-S3 adj|right-S1 noun|hand pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|CASE 2|4|NMOD-POSS 3|4|AMOD 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|11|ROOT 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|7|PUNCT
+%wor:	in 25395_25423 his 25603_25763 right 25843_26344 hand 26344_26484 he 26484_26544 is 26624_26684 reaching 26784_27064 in 27084_27124 the 27124_27204 cookie 27224_27544 jar 27564_27865 .
+*PAR:	the &-um stool is falling over . 30918_32497
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 30918_30978 um 30978_31018 stool 31038_31418 is 31498_31618 falling 31678_32059 over 32159_32497 .
+*PAR:	he has his xxx . 33681_33941
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|his-Prs-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	he 33681_33720 has 33800_33941 his .
+*PAR:	alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh the [/] the woman is wiping the dishes . 39366_40888
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	uh the the woman 39366_39686 is 39746_39907 wiping 40187_40587 the 40587_40647 dishes 40687_40888 .
+*PAR:	she's holding it [//] &+pla &-uh plate in one hand and drying with the other .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S noun|plate-Acc adp|in num|one noun|hand cconj|and verb|drying-Part-Pres-S adp|with det|the-Def-Art adj|other-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|3|OBJ 5|7|CASE 6|7|NUMMOD 7|3|OBL 8|9|CC 9|3|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|3|PUNCT
+*PAR:	&-uh water's &-uh spilling out of the sink . [+ gram] 50227_50989
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	uh 50227_50309 water's 50309_50453 uh 50453_50494 spilling 50494_50680 out 50680_50741 of 50741_50783 the 50783_50844 sink 50844_50989 .
+*PAR:	and the water's running out of the faucet filling the sink .
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|faucet verb|fill-Part-S det|the-Def-Art noun|sink-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|9|ACL 11|12|DET 12|10|OBJ 13|5|PUNCT
+*PAR:	&-um (.) looks as if maybe there's a breeze blowing in the curtain . [+ gram]
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|as sconj|if adv|maybe pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|breeze verb|blow-Ger-S adp|in det|the-Def-Art noun|curtain .
+%gra:	1|12|ROOT 2|6|MARK 3|2|FIXED 4|6|ADVMOD 5|6|EXPL 6|1|ADVCL 7|8|DET 8|6|NSUBJ 9|8|ACL 10|12|CASE 11|12|DET 12|9|OBL 13|1|PUNCT
+*PAR:	yes there is a breeze blowing in the curtains .
+%mor:	intj|yes pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|breeze verb|blow-Ger-S adp|in det|the-Def-Art noun|curtain-Plur .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|9|ROOT 4|5|DET 5|3|NSUBJ 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+*PAR:	(.) the woman is smiling .
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|smile-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*PAR:	they're all smiling .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|all verb|smile-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*PAR:	each one is looking at xxx . 77984_78024
+%mor:	det|each-Def-Tot noun|one aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|at .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBL 6|4|PUNCT
+%wor:	each one 77984_78024 is looking at .
+*PAR:	xxx at [/] at the other person +... 79987_82231
+%mor:	adp|at det|the-Def-Art adj|other-S1 noun|person +...
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	at 79987_80127 at 80147_80628 the 81209_81289 other 81449_81690 person 81770_82231 +...
+*PAR:	the water is splashing . 85258_86088
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	the 85258_85318 water 85318_85501 is 85541_85642 splashing 85804_86088 .
+*PAR:	okay ? [+ exc]
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay fine !
+%mor:	intj|okay adj|fine-S1 !
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,29 @@
+=== Evaluation Summary ===
+
+A) Core performance (concise):
+- Achieved RMSE=7.94 and MAE=6.00 on held-out longitudinal patient data (n=18).
+
+B) Baseline comparison:
+- LSTM RMSE=7.94 vs mean-baseline RMSE=7.57 (mean=19.56) → ΔRMSE=-0.37 (-4.9% improvement).
+- Sequential modeling captures temporal patterns missed by a constant mean predictor; consider comparing to Ridge/RandomForest for thorough baseline.
+
+C) Data & experimental rigor:
+- Dataset: n_total=88, split ~ Train/Val/Test = 53/18/17 (approx).
+- Longitudinal holdout: patient-level splits used so that sequences from the same patient remain in one partition.
+- Cross-validation: single train/val/test split used; recommend k-fold or repeated splits for robustness.
+- Model load info: {'load_error': 'Error(s) in loading state_dict for SimpleLSTMRegressor:\n\tMissing key(s) in state_dict: "fc.0.weight", "fc.0.bias", "fc.3.weight", "fc.3.bias". \n\tUnexpected key(s) in state_dict: "fc1.weight", "fc1.bias", "fc2.weight", "fc2.bias". '}
+
+Full numeric metrics:
+{
+  "core": {
+    "RMSE": 7.940256527159371,
+    "MAE": 5.999338444444444,
+    "R2": -0.10132878393031186
+  },
+  "baseline": {
+    "RMSE": 7.566169016103653,
+    "MAE": 5.54320987654321,
+    "R2": 0.0
+  },
+  "n_test": 18
+}

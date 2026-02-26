@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090725-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;00.|female|Control||Participant|||
+@Media:	118-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	there's the picture .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	&=clears:throat &-uh the water's runnin(g) over . 4554_5831
+%mor:	det|the-Def-Art noun|water~part|s verb|run-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	uh 4554_4594 the 4594_4674 water's 4734_5154 runnin(g) 5254_5675 over 5675_5831 .
+*PAR:	the mother's dryin(g) dishes . 7236_9458
+%mor:	det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 7236_7316 mother's 7416_7937 dryin(g) 8497_8958 dishes 8958_9458 .
+*PAR:	the boy is stealin(g) cookies . 10900_14624
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 10900_10980 boy 11080_11400 is 11560_11821 stealin(g) 13562_14143 cookies 14143_14624 .
+*PAR:	and the girl is takin(g) one . 16035_17715
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S num|one .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 16035_16095 the 16095_16175 girl 16235_16515 is 16616_16716 takin(g) 16836_17377 one 17377_17715 .
+*PAR:	and the boy is gonna fall off the stool . 18799_21443
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	and 18799_18979 the 19019_19080 boy 19180_19440 is 19520_19620 gonna 19701_19941 fall 20061_20402 off 20502_20662 the 20762_20842 stool 20943_21443 .
+*PAR:	and &-uh the water is running . 23347_25751
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	and 23347_23527 uh 23607_23687 the 24148_24248 water 24328_24749 is 25230_25350 running 25450_25751 .
+*PAR:	and the window's open . 33019_34379
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and 33019_33079 the 33099_33199 window's 33279_33759 open 33879_34379 .
+*PAR:	and the grass is growing . 36842_38223
+%mor:	cconj|and det|the-Def-Art noun|grass aux|be-Fin-Ind-Pres-S3 verb|grow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	and 36842_36922 the 36942_37022 grass 37102_37462 is 37542_37642 growing 37723_38223 .
+*INV:	&=laughs okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	it's all the action . [+ exc] 43708_44748
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET-PREDET 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	it's 43708_43848 all 43948_44048 the 44088_44168 action 44308_44748 .
+*INV:	okay good . 45149_46010
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 45149_45449 good 45629_46010 .
+*PAR:	curtain . [+ gram] 49293_49474
+%mor:	noun|curtain .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	curtain 49293_49474 .
+@End

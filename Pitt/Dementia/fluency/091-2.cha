@@ -1,0 +1,181 @@
+@UTF8
+@PID:	11312/a-00089647-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|90;|female|ProbableAD||Participant|17||
+@Media:	091-2, audio
+@G:	animals
+*INV:	okay +//. 600_1100
+%mor:	intj|okay +//.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 600_1100 +//.
+*INV:	for me in one minute and you can start now . 1217_4001
+%mor:	adp|for pron|I-Prs-Acc-S1 adp|in num|one noun|minute cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|2|CASE 2|10|ROOT 3|5|CASE 4|5|NUMMOD 5|2|NMOD 6|9|CC 7|9|NSUBJ 8|9|AUX 9|2|CONJ 10|9|ADVMOD 11|2|PUNCT
+%wor:	for 1217_1360 me 1360_1440 in 1780_1860 one 2080_2260 minute 2320_2641 and 2701_2781 you 2801_2881 can 2901_3021 start 3081_3381 now 3501_4001 .
+*PAR:	&-um cow . 5362_5862
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um cow 5362_5862 .
+*PAR:	a horse . 6623_7223
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 6623_6643 horse 6723_7223 .
+*PAR:	(.) animals . [+ exc] 10465_10965
+%mor:	noun|animal-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	animals 10465_10965 .
+*INV:	mhm . 11284_11565
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 11284_11565 .
+*PAR:	<cow and a horse> [//] and a dog . 12146_13706
+%mor:	cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	cow 12146_12426 and 12466_12566 a 12566_12586 horse 12746_13006 and 13006_13106 a 13106_13126 dog 13206_13706 .
+*INV:	uhhuh . 13899_14127
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 13899_14127 .
+*PAR:	(.) <cow and a horse> [/] cow and a horse and a dog . [+ exc] 18651_22375
+%mor:	noun|cow cconj|and det|a-Ind-Art noun|horse cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|7|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|7|CC 6|7|DET 7|4|CONJ 8|1|PUNCT
+%wor:	cow 18651_18891 and 18951_19051 a 19071_19091 horse 19191_20553 cow 20553_20833 and 20893_20993 a 21013_21033 horse 21254_21614 and 21654_21734 a 21754_21774 dog 21875_22375 .
+*PAR:	an animal ? [+ exc] 23757_24397
+%mor:	det|a-Ind-Art noun|animal ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	an 23757_23837 animal 23897_24397 ?
+*INV:	(.) name all the animals that you can think of . 28563_30785
+%mor:	verb|name-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|9|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|5|CASE 10|1|PUNCT
+%wor:	name 28563_28783 all 28823_28943 the 28963_29043 animals 29184_29504 that 29524_29644 you 29684_29764 can 29784_29904 think 29964_30205 of 30285_30785 .
+*PAR:	(.) I don't know . [+ exc] 37758_38458
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 37758_37778 don't 37798_38458 know .
+*PAR:	cow and a horse . [+ exc] 40621_41462
+%mor:	noun|cow cconj|and det|a-Ind-Art noun|horse .
+%gra:	1|4|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|1|PUNCT
+%wor:	cow 40621_40681 and 40742_40842 a 40842_40862 horse 40962_41462 .
+*PAR:	no dog . [+ exc] 44648_45347
+%mor:	det|no-Def-Neg noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	no 44648_44727 dog 44847_45347 .
+*PAR:	cow and a horse and a dog . [+ exc] 46410_48011
+%mor:	noun|cow cconj|and det|a-Ind-Art noun|horse cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|7|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|7|CC 6|7|DET 7|4|CONJ 8|1|PUNCT
+%wor:	cow 46410_46670 and 46730_46830 a 46850_46870 horse 46950_47270 and 47310_47390 a 47411_47431 dog 47511_48011 .
+*PAR:	I don't know any other animals now . [+ exc] 50616_52617
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|any-Def-Ind adj|other-S1 noun|animal-Plur-Acc adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	I 50616_50635 don't 50675_50835 know 50855_51015 any 51095_51236 other 51336_51536 animals 51636_52037 now 52117_52617 .
+*INV:	can you think of any more animals ? 56544_58004
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 noun|animal-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|3|PUNCT
+%wor:	can 56544_56664 you 56664_56744 think 56744_56904 of 56924_56964 any 57024_57184 more 57244_57404 animals 57504_58004 ?
+*PAR:	cow and a horse . [+ exc] 59066_60285
+%mor:	noun|cow cconj|and det|a-Ind-Art noun|horse .
+%gra:	1|4|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|1|PUNCT
+%wor:	cow 59066_59425 and 59505_59625 a 59645_59665 horse 59785_60285 .
+*PAR:	and a dog . [+ exc] 61169_61906
+%mor:	cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	and 61169_61266 a 61286_61306 dog 61406_61906 .
+*PAR:	I see more of them than anything I guess . [+ exc] 62891_65049
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adj|more-Cmp-S1 adp|of pron|they-Prs-Acc-P3 adp|than pron|anything-Ind-S1 pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|5|CASE 5|3|OBL 6|7|CASE 7|2|OBL 8|9|NSUBJ 9|7|ACL-RELCL 10|2|PUNCT
+%wor:	I 62891_62907 see 63007_63147 more 63228_63428 of 63448_63528 them 63568_63748 than 63748_63888 anything 63988_64468 I 64588_64608 guess 64648_65049 .
+*INV:	okay , that's fine . 65193_66909
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 65193_65849 , that's 66049_66309 fine 66409_66909 .
+@G:	F
+*INV:	now I want you to think of as many words as you +//. 67536_69832
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|think-Inf-S adp|of adv|as adj|many-S1 noun|word-Plur adp|as pron|you-Prs-Nom-S2 +//.
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|12|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|10|CASE 8|9|ADVMOD 9|10|AMOD 10|6|OBL 11|12|CASE 12|10|NMOD 13|3|PUNCT
+%wor:	now 67536_67670 I 67750_67770 want 67790_67930 you 67990_68050 to 68070_68130 think 68170_68371 of 68411_68491 as 68551_68651 many 68731_68951 words 69051_69431 as 69491_69571 you 69591_69832 +//.
+*INV:	and you can begin now . 70021_71882
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 70021_70101 you 70121_70201 can 70241_70381 begin 70421_70901 now 71382_71882 .
+*PAR:	f@l . [+ exc] 72805_73100
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	f 72805_73100 .
+*PAR:	fine . 73226_73724
+%mor:	adj|fine-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fine 73226_73724 .
+*PAR:	fur . 74428_74925
+%mor:	noun|fur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fur 74428_74925 .
+*INV:	+< uhhuh . 74805_75269
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 74805_75269 .
+*PAR:	Friday . 75851_76346
+%mor:	propn|Friday .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Friday 75851_76346 .
+*PAR:	(.) finish . 79076_79569
+%mor:	noun|finish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	finish 79076_79569 .
+*PAR:	no . [+ exc] 80218_80690
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 80218_80690 .
+*INV:	keep going . 81680_82412
+%mor:	verb|keep-Fin-Imp-S verb|go-Ger-S .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%wor:	keep 81680_81872 going 81912_82412 .
+*PAR:	&-uh &-uh flowers . 84941_86922
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 84941_85281 uh 85401_86422 flowers 86422_86922 .
+*PAR:	furniture . 89824_90324
+%mor:	noun|furniture .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	furniture 89824_90324 .
+*PAR:	flaw .
+%mor:	noun|flaw .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) letter f@l ? [+ exc] 99552_100532
+%mor:	noun|letter noun|f ?
+%gra:	1|2|ROOT 2|1|NMOD-UNMARKED 3|1|PUNCT
+%wor:	letter 99552_99812 f 100052_100532 ?
+*PAR:	(..) that's it I guess . [+ exc] 104977_106038
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|NSUBJ 5|3|PARATAXIS 6|3|PUNCT
+%wor:	that's 104977_105197 it 105257_105357 I 105478_105498 guess 105538_106038 .
+*INV:	can you think of any more ? 106078_107183
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	can 106078_106178 you 106218_106298 think 106338_106499 of 106519_106579 any 106659_106779 more 106839_107183 ?
+*INV:	you have about twenty seconds left . 107183_108880
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 adv|about num|twenty noun|second-Plur-Acc verb|leave-Part-Past-S-irr .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|ADVMOD 4|5|NUMMOD 5|2|OBJ 6|2|XCOMP 7|2|PUNCT
+%wor:	you have 107183_107259 about 107279_107520 twenty 107560_107840 seconds 107940_108320 left 108380_108880 .
+*INV:	any more words that begin with the letter f@l . 109642_112084
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 noun|word-Plur pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|DET 2|3|AMOD 3|9|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|8|CASE 7|8|DET 8|5|OBL 9|5|OBL-UNMARKED 10|3|PUNCT
+%wor:	any 109642_109782 more 109882_110062 words 110102_110403 that 110403_110503 begin 110543_110783 with 110803_110923 the 110943_111003 letter 111063_111303 f 111584_112084 .
+*PAR:	fine .
+%mor:	adj|fine-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) furniture . 116330_116810
+%mor:	noun|furniture .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	furniture 116330_116810 .
+*PAR:	flowers . 118795_119293
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	flowers 118795_119293 .
+*PAR:	(..) fashions .
+%mor:	noun|fashion-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

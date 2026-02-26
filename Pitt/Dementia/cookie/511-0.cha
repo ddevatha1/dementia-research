@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/a-00090568-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;|female|PossibleAD||Participant|10||
+@Media:	511-0, audio
+@G:	Cookie
+*INV:	I'd like for you to look at this picture and tell me everything you see happening in that picture . 1090_7150
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|20|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|12|CC 12|7|CONJ 13|12|IOBJ 14|12|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|16|XCOMP 18|20|CASE 19|20|DET 20|17|OBL 21|3|PUNCT
+%wor:	I'd 1090_1150 like 1150_1330 for 1370_1530 you 1570_1670 to 1710_1810 look 1910_2050 at 2110_2190 this 2251_2431 picture 2531_3051 and 3592_3712 tell 3772_4052 me 4112_4192 everything 4432_4993 you 5033_5193 see 5293_5493 happening 5613_6254 in 6374_6454 that 6494_6694 picture 6754_7150 .
+*INV:	all of the action . 7335_8495
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	all 7335_7475 of 7515_7595 the 7655_7755 action 7995_8495 .
+*PAR:	(.) well , I needta read it . [+ exc] 14181_14982
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|needta-Fin-Ind-Pres-S1 verb|read-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	well , I needta 14181_14501 read 14601_14841 it 14881_14982 .
+*INV:	just tell me all of the action you see happening in that picture . 16226_19916
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|ADVMOD 2|13|ROOT 3|2|IOBJ 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|2|PUNCT
+%wor:	just 16226_17707 tell 17727_17827 me 17827_17867 all 17867_17947 of 17968_18008 the 18028_18108 action 18108_18228 you 18228_18288 see 18368_18528 happening 18628_19109 in 19169_19249 that 19289_19469 picture 19529_19916 .
+*PAR:	+< tell you . [+ exc] [+ gram]
+%mor:	verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+*PAR:	well , that's the boy . 22172_23197
+%mor:	intj|well cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|boy .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	well 22172_22232 , that's 22232_22533 the 22673_22773 boy 22833_23197 .
+*PAR:	(.) he wants the cookies . 27979_29241
+%mor:	pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	he 27979_28059 wants 28199_28500 the 28620_28700 cookies 28780_29241 .
+*PAR:	and this must be the mother . 31510_32910
+%mor:	cconj|and pron|this-Dem-S1 aux|must-Fin-S aux|be-Inf-S det|the-Def-Art noun|mother .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	and 31510_31590 this 31610_31790 must 31870_32111 be 32151_32231 the 32311_32391 mother 32472_32910 .
+*PAR:	is that all ? [+ exc] 35298_35821
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 35298_35318 that 35318_35538 all 35598_35821 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	can you see any more action happening in that picture ? 37362_40296
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S det|any-Def-Ind adj|more-Cmp-S1 noun|action-Acc verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|6|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|3|PUNCT
+%wor:	can 37362_37502 you 37542_37642 see 37703_37863 any 37923_38063 more 38143_38364 action 38504_38945 happening 39025_39486 in 39546_39607 that 39647_39827 picture 39887_40296 ?
+*PAR:	&-uh the little girl's helpin(g) . 41110_42954
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~part|s noun|help-Ger .
+%gra:	1|3|DET 2|3|AMOD 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	uh 41110_41250 the 41410_41490 little 41591_41851 girl's 41911_42392 helpin(g) 42493_42954 .
+*PAR:	(.) and he's fallin(g) over . 47729_49009
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 47729_47789 he's 47809_47989 fallin(g) 48089_48669 over 48669_49009 .
+*PAR:	well , I don't know . [+ exc] 55675_56548
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	well 55675_56034 , I 56054_56074 don't 56114_56535 know 56535_56548 .
+*INV:	okay is that it ? 57076_57826
+%mor:	intj|okay aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|DISCOURSE 2|3|COP 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+%wor:	okay 57076_57355 is 57355_57455 that 57495_57636 it 57636_57826 ?
+*INV:	do you wanna look at one more time to see if there's anything else you can see ? 57997_61078
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|wanna verb|look-Inf-S adp|at num|one adj|more-Cmp-S1 noun|time part|to verb|see-Inf-S sconj|if pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|18|ROOT 5|8|CASE 6|8|NUMMOD 7|8|AMOD 8|4|OBL 9|10|MARK 10|4|ADVCL 11|13|MARK 12|13|EXPL 13|10|CCOMP 14|13|NSUBJ 15|14|AMOD 16|18|NSUBJ 17|18|AUX 18|14|ACL-RELCL 19|4|PUNCT
+%wor:	do you 57997_58056 wanna 58136_58336 look 58376_58556 at 58616_58716 one 58876_58996 more 58996_59157 time 59197_59477 to 59497_59557 see 59557_59677 if 59677_59737 there's 59757_59937 anything 59997_60297 else 60357_60498 you 60498_60558 can 60558_60618 see 60618_61078 ?
+*PAR:	+< &-hm (.) and that's the mother . 60699_61838
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|mother .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	hm 60699_60738 and 60738_60798 that's 60838_61118 the 61198_61278 mother 61338_61838 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) and I don't think she knows what they're up to . 67188_69374
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|she-Prs-Nom-S3 verb|know-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|up adp|to .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|12|ROOT 6|7|NSUBJ 7|5|CCOMP 8|7|OBJ 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|5|PUNCT 13|5|PUNCT
+%wor:	and 67188_67369 I 67369_67389 don't 67389_67571 think 67611_67833 she 67893_68014 knows 68054_68437 what 68518_68699 they're 68740_68921 up 68982_69082 to 69203_69374 .
+*INV:	okay . 69540_69865
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 69540_69865 .
+*INV:	thanks .
+%mor:	noun|thanks .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,111 @@
+@UTF8
+@PID:	11312/a-00089891-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|male|MCI||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	120-1, audio
+@G:	George_Immediate
+*PAR:	okay . [+ exc] 2895144_2895624
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2895144_2895624 .
+*PAR:	&-uh just before Thanksgiving George (.) and somebody <visited his (.) family> [//] &-um visited his +... 2896242_2910360
+%mor:	adv|just adp|before propn|Thanksgiving propn|George cconj|and pron|somebody-Ind-S1 verb|visit-Fin-Ind-Past-S3 pron|his-Prs-S3 +...
+%gra:	1|3|ADVMOD 2|3|CASE 3|7|OBL 4|3|FLAT 5|6|CC 6|4|CONJ 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+%wor:	uh 2896242_2896302 just 2896302_2896462 before 2896502_2896942 Thanksgiving 2897403_2898104 George 2898184_2898645 and 2900006_2900126 somebody 2900147_2900567 visited 2902009_2902429 his 2902429_2902710 family 2904112_2904612 um 2906815_2906875 visited 2909498_2909939 his 2909939_2910360 +...
+*PAR:	I guess his granddaughter was there . 2912081_2913576
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|his-Prs-Gen-S3 noun|granddaughter aux|be-Fin-Ind-Past-S3-irr adv|there .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NMOD-POSS 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|2|PUNCT
+%wor:	I 2912081_2912101 guess 2912101_2912261 his 2912281_2912381 granddaughter 2912421_2912981 was 2913021_2913261 there 2913281_2913576 .
+*PAR:	and later they (.) took his granddaughter (.) for a walk . 2914682_2922327
+%mor:	cconj|and adv|late pron|they-Prs-Nom-P3 verb|take-Fin-Ind-Past-P3-irr pron|his-Prs-Gen-S3 noun|granddaughter-Acc adp|for det|a-Ind-Art noun|walk .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	and 2914682_2914942 later 2915503_2915843 they 2915943_2916243 took 2917824_2918025 his 2918065_2918185 granddaughter 2918285_2918965 for 2921527_2921667 a 2921687_2921707 walk 2921827_2922327 .
+*PAR:	and [/] (.) and &-uh she enjoyed it . 2923530_2927752
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|enjoy-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	and 2923530_2923770 and 2926112_2926433 uh 2926693_2926893 she 2926953_2927053 enjoyed 2927153_2927574 it 2927614_2927752 .
+*PAR:	&-you_know I did much better the first time the last time . [+ exc] 2928235_2930538
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1-irr adv|much adj|good-Cmp-S1 det|the-Def-Art adj|first-S1 noun|time det|the-Def-Art adj|last-S1 noun|time .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|ADVMOD 4|2|XCOMP 5|7|DET 6|7|AMOD 7|2|OBL-UNMARKED 8|10|DET 9|10|AMOD 10|2|OBL-UNMARKED 11|2|PUNCT
+%wor:	you_know 2928235_2928575 I 2928655_2928675 did 2928695_2928815 much 2928875_2929035 better 2929075_2929256 the 2929336_2929396 first 2929396_2929636 time 2929656_2929856 the 2929936_2929996 last 2929996_2930197 time 2930217_2930538 .
+*PAR:	I don't do as well this time . [+ exc] 2931178_2932999
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|do-Inf-S adv|as adv|well det|this-Def-Dem-Sing noun|time .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|ADVMOD 6|5|FIXED 7|8|DET 8|4|OBL-UNMARKED 9|4|PUNCT
+%wor:	I 2931178_2931198 don't 2931258_2931818 do 2931939_2931999 as 2932079_2932159 well 2932199_2932299 this 2932419_2932559 time 2932619_2932999 .
+*PAR:	or maybe the noise is bothering . [+ exc] 2933540_2934701
+%mor:	cconj|or adv|maybe det|the-Def-Art noun|noise aux|be-Fin-Ind-Pres-S3 verb|bother-Part-Pres-S .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+%wor:	or 2933540_2933600 maybe 2933600_2933720 the 2933780_2933941 noise 2933981_2934101 is 2934121_2934161 bothering 2934201_2934701 .
+*INV:	+< yes , <I think> [/] I think it's impossible to do it with that noise coming sporadically like that . 2935043_2939513
+%mor:	intj|yes cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|impossible-S1 part|to verb|do-Inf-S pron|it-Prs-Acc-S3 adp|with det|that-Def-Dem-Sing noun|noise verb|come-Ger-S adv|sporadically adp|like pron|that-Dem .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|17|ROOT 5|7|EXPL 6|7|COP 7|4|CCOMP 8|9|MARK 9|7|CSUBJ 10|9|OBJ 11|13|CASE 12|13|DET 13|9|OBL 14|13|ACL 15|14|ADVMOD 16|17|CASE 17|14|OBL 18|4|PUNCT
+%wor:	yes 2935043_2935103 , I 2935103_2935123 think 2935123_2935223 I 2935223_2935243 think 2935243_2935463 it's 2935563_2935724 impossible 2935784_2936325 to 2936365_2936445 do 2936485_2936585 it 2936665_2936745 with 2936765_2936886 that 2936886_2937026 noise 2937106_2937427 coming 2937447_2937747 sporadically 2938188_2938869 like 2938929_2939190 that 2939210_2939513 .
+*PAR:	+< I don't know . [+ exc] 2939513_2939950
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I don't know 2939513_2939950 .
+@G:	George_Questions
+*INV:	do you remember &-um who the story was about ? 2941935_2944718
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|CCOMP 5|6|DET 6|4|NSUBJ 7|4|COP 8|3|PUNCT 9|3|PUNCT
+%wor:	do 2941935_2941974 you 2941974_2942054 remember 2942115_2942535 um 2942836_2943116 who 2943437_2943537 the 2943617_2943677 story 2943757_2944018 was 2944078_2944178 about 2944218_2944718 ?
+*INV:	what were the names of the people in the story ? 2944830_2946258
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr det|the-Def-Art noun|name-Plur adp|of det|the-Def-Art noun|person-Plur adp|in det|the-Def-Art noun|story ?
+%gra:	1|10|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CASE 9|10|DET 10|7|NMOD 11|1|PUNCT
+%wor:	what were 2944830_2944879 the 2944879_2944959 names 2944999_2945240 of 2945260_2945300 the 2945320_2945400 people 2945440_2945741 in 2945781_2945821 the 2945841_2945901 story 2945901_2946258 ?
+*PAR:	well , &-uh Melanie . 2946258_2947489
+%mor:	intj|well cm|cm propn|Melanie .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	well 2946258_2946382 , uh 2946382_2946542 Melanie 2947023_2947489 .
+*INV:	uhhuh . 2947489_2947904
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 2947489_2947904 .
+*PAR:	and [/] and George was it Wills or Wilson ? 2948307_2950066
+%mor:	cconj|and propn|George aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 propn|Wills cconj|or propn|Wilson ?
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|NSUBJ 5|7|ROOT 6|7|CC 7|5|CONJ 8|5|PUNCT
+%wor:	and 2948307_2948387 and 2948427_2948527 George 2948547_2948868 was 2948908_2949008 it 2949068_2949128 Wills 2949168_2949529 or 2949589_2949650 Wilson 2949690_2950066 ?
+*INV:	okay . 2950332_2950731
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 2950332_2950731 .
+*PAR:	(...) and his family . 2956885_2957565
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|family .
+%gra:	1|3|CC 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+%wor:	and his 2956885_2957045 family 2957065_2957565 .
+*INV:	and &-um (..) what were <George's stories about> [//] George's stories ? 2962213_2964265
+%mor:	cconj|and pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur ?
+%gra:	1|2|CC 2|6|ROOT 3|2|COP 4|6|NMOD-POSS 5|4|CASE 6|2|NSUBJ 7|2|PUNCT
+%wor:	and 2962213_2962273 um 2962293_2962334 what 2962334_2962434 were 2962454_2962594 George's 2962594_2962954 stories 2963034_2963435 about 2963475_2963775 George's 2963815_2964176 stories 2964196_2964265 ?
+*INV:	+, oh , about [/] about &-uh &-uh when he was a child . 2964597_2968549
+%mor:	intj|oh cm|cm adp|about adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|child .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|MARK 4|8|ADVMOD 5|8|NSUBJ 6|8|COP 7|8|DET 8|8|ROOT 9|8|PUNCT
+%wor:	oh 2964597_2964676 , about 2964696_2965097 about 2965177_2965617 uh 2965697_2966218 uh 2966258_2967299 when 2967299_2967459 he 2967620_2967720 was 2967880_2968000 a 2968060_2968080 child 2968140_2968549 .
+*INV:	mhm . 2968682_2969181
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 2968682_2969181 .
+*INV:	(...) and why did George hold Melanie's hand tightly ? 2975472_2977833
+%mor:	cconj|and adv|why aux|do-Fin-Ind-Past-S3-irr propn|George verb|hold-Inf-S propn|Melanie~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|5|CC 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|9|ROOT 6|8|NMOD-POSS 7|6|CASE 8|5|OBJ 9|5|ADVMOD 10|5|PUNCT
+%wor:	and 2975472_2975572 why 2975592_2975772 did 2975812_2975952 George 2975992_2976272 hold 2976292_2976492 Melanie's 2976532_2976952 hand 2976993_2977253 tightly 2977333_2977833 ?
+*PAR:	oh , because she was frightened in the big city . 2978036_2980519
+%mor:	intj|oh cm|cm sconj|because pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|in det|the-Def-Art adj|big-S1 noun|city .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|MARK 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|10|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|6|PUNCT
+%wor:	oh 2978036_2978093 , because 2978113_2978453 she 2978473_2978554 was 2978614_2978734 frightened 2978794_2979234 in 2979494_2979554 the 2979574_2979654 big 2979934_2980095 city 2980155_2980519 .
+*INV:	and why didn't Melanie like the city ? 2981782_2983817
+%mor:	cconj|and adv|why aux|do-Fin-Ind-Past-S3-irr~part|not propn|Melanie verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|6|CC 2|6|ADVMOD 3|6|AUX 4|6|ADVMOD 5|6|NSUBJ 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	and 2981782_2981936 why 2981996_2982156 didn't 2982176_2982396 Melanie 2982416_2982756 like 2982836_2983116 the 2983157_2983217 city 2983317_2983817 ?
+*PAR:	I'm guessing it was noisy and dirty . 2987417_2989240
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|guess-Part-Pres-S pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|noisy-S1 cconj|and adj|dirty-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|8|CC 8|6|CONJ 9|3|PUNCT
+%wor:	I'm 2987417_2987479 guessing 2987599_2988000 it 2988040_2988120 was 2988200_2988280 noisy 2988280_2988600 and 2988600_2988720 dirty 2988740_2989240 .
+*INV:	okay , thank you . 2989566_2990726
+%mor:	intj|okay cm|cm verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	okay 2989566_2989850 , thank 2990217_2990522 you 2990563_2990726 .
+@End

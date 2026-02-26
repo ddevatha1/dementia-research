@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/a-00090788-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|59;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	175-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	&=laughs . [+ exc]
+*PAR:	the woman is drying the dishes and the &+w sink is overflowing . 3500_7581
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|DET 6|4|OBJ 7|11|CC 8|9|DET 9|11|NSUBJ 10|11|COP 11|4|CONJ 12|4|PUNCT
+%wor:	the 3500_3560 woman 3580_3860 is 3920_4000 drying 4080_4540 the 4560_4640 dishes 4700_5361 and 5621_5881 the 5981_6081 sink 6541_6801 is 6821_6941 overflowing 7081_7581 .
+*PAR:	the boy's getting the cookies out of the cookie jar . 9044_11644
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|DET 6|4|OBJ 7|11|CASE 8|11|CASE 9|11|DET 10|11|COMPOUND 11|4|OBL 12|4|PUNCT
+%wor:	the 9044_9083 boy's 9123_9443 getting 9523_9803 the 9803_9883 cookies 9923_10283 out 10363_10483 of 10523_10563 the 10583_10683 cookie 10743_11144 jar 11144_11644 .
+*PAR:	and the stool's about to tip over . 12444_14606
+%mor:	cconj|and det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|tip-Inf-S adp|over .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ-OUTER 4|7|COP 5|7|ADVMOD 6|7|MARK 7|8|ROOT 8|7|COMPOUND-PRT 9|7|PUNCT
+%wor:	and 12444_12544 the 12564_12644 stool's 13025_13365 about 13405_13725 to 13745_13805 tip 13885_14085 over 14185_14606 .
+*PAR:	and the girl's telling him to be quiet &=laughs . 16206_18026
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|9|ROOT 6|5|IOBJ 7|9|MARK 8|9|COP 9|5|XCOMP 10|5|PUNCT
+%wor:	and 16206_16266 the 16266_16326 girl's 16346_16726 telling 16786_17086 him 17106_17186 to 17186_17226 be 17326_17426 quiet 17526_18026 .
+*PAR:	&-uh it's a warm sunny day (be)cause the window is open . 22069_25011
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|warm-S1 adj|sunny-S1 noun|day sconj|because det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|AMOD 6|11|ROOT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|COP 11|6|ADVCL 12|6|PUNCT
+%wor:	uh it's 22069_22229 a 22289_22309 warm 22549_22869 sunny 23009_23270 day 23370_23590 (be)cause 23590_23850 the 23850_23910 window 24010_24290 is 24350_24470 open 24570_25011 .
+*PAR:	and she looks like she's sort of <in a> [/] in a daze and doesn't quite know what's going on . 28227_32787
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|sort adp|of adp|in det|a-Ind-Art noun|daze cconj|and aux|do-Fin-Ind-Pres-S3~part|not adv|quite verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|3|CC 2|3|NSUBJ 3|20|ROOT 4|11|MARK 5|11|NSUBJ 6|11|COP 7|11|ADVMOD 8|7|FIXED 9|11|CASE 10|11|DET 11|3|ADVCL 12|16|CC 13|16|AUX 14|16|ADVMOD 15|16|ADVMOD 16|11|CONJ 17|19|OBJ 18|19|AUX 19|16|CCOMP 20|19|COMPOUND-PRT 21|3|PUNCT
+%wor:	and 28227_29048 she 29088_29169 looks 29249_29449 like 29489_29669 she's 29709_29910 sort 29950_30130 of 30150_30230 in 30290_30370 a 30410_30430 in 30971_31031 a 31091_31111 daze 31171_31371 and 31371_31432 doesn't 31452_31872 quite 31992_32233 know 32233_32353 what's 32393_32613 going 32673_32787 on .
+*PAR:	could be daydreaming or daft , one or the other . [+ gram] 34414_38000
+%mor:	aux|could-Fin-S aux|be-Inf-S verb|daydream-Part-Pres-S cconj|or adj|daft-S1 cm|cm num|one cconj|or det|the-Def-Art adj|other-S1 .
+%gra:	1|3|AUX 2|3|AUX 3|10|ROOT 4|5|CC 5|3|CONJ 6|7|PUNCT 7|3|PARATAXIS 8|10|CC 9|10|DET 10|7|CONJ 11|3|PUNCT
+%wor:	could be daydreaming or 34414_36398 daft 36538_36779 , one 36819_36999 or 36999_37359 the 37379_37480 other 37500_38000 .
+*PAR:	is that it ? [+ exc] 46299_46829
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 46299_46339 that 46339_46500 it 46561_46829 ?
+*INV:	okay . 47179_47202
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 47179_47202 .
+*INV:	that's fine . 47787_48217
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 47787_47934 fine 48015_48217 .
+@End

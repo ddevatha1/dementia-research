@@ -1,0 +1,118 @@
+@UTF8
+@PID:	11312/a-00089799-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|17||
+@Media:	635-0, audio
+@G:	animals
+*INV:	as many animals as you can think of .
+%mor:	adv|as adj|many-S1 noun|animal-Plur sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|8|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ACL 8|7|OBL 9|3|PUNCT
+*PAR:	pony .
+%mor:	noun|pony .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	horse .
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) pg . 7694_8193
+%mor:	noun|pg .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pg 7694_8193 .
+*PAR:	(..) chicken . 18114_18594
+%mor:	noun|chicken .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	chicken 18114_18594 .
+*PAR:	turkey . 19476_19955
+%mor:	noun|turkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	turkey 19476_19955 .
+*PAR:	(.) fox . 24163_24662
+%mor:	propn|fox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fox 24163_24662 .
+*PAR:	zibreɪ@u [: zebra] [*] . 25764_26245
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zebra 25764_26245 .
+*INV:	okay , good . 28689_29628
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 28689_29128 , good 29128_29628 .
+@G:	F
+*INV:	now I want you to tell me as many words as you can think of that start with the letter f@l . 38784_45533
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|as adj|many-S1 noun|word-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of det|that-Def-Dem-Sing verb|start-Inf-S adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|21|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|9|ADVMOD 9|10|AMOD 10|6|OBJ 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|6|ADVCL 15|14|OBL 16|17|DET 17|14|ADVCL 18|20|CASE 19|20|DET 20|17|OBL 21|3|PUNCT 22|3|PUNCT
+%wor:	now 38784_38964 I 39244_39264 want 39304_39445 you 39445_39525 to 39525_39585 tell 39645_39885 me 39925_40005 as 40686_40787 many 40867_41047 words 41147_41407 as 41448_41528 you 41568_41648 can 41668_41788 think 41848_42068 of 42149_42289 that 42890_43010 start 43110_43411 with 43831_43971 the 44011_44092 letter 44172_44452 f 45033_45533 .
+*PAR:	f@l ? [+ exc] 46115_46615
+%mor:	propn|for ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	f 46115_46615 ?
+*INV:	yeah . 46877_47336
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 46877_47336 .
+*INV:	&-um I don't want any proper nouns that is names of people or places . 48579_53764
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S det|any-Def-Ind adj|proper-S1 noun|noun-Plur-Acc pron|that-Rel aux|be-Fin-Ind-Pres-S3 noun|name-Plur adp|of noun|person-Plur cconj|or noun|place-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|14|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|12|CASE 12|10|NMOD 13|14|CC 14|12|CONJ 15|4|PUNCT
+%wor:	um 48579_48619 I 50201_50221 don't 50261_50441 want 50481_50621 any 50661_50781 proper 50861_51242 nouns 51302_51722 that 51883_52043 is 52103_52203 names 52263_52523 of 52543_52623 people 52704_53064 or 53144_53224 places 53264_53764 .
+*INV:	and I don't want you to take one word and give me all the forms of that word you can think of . 54566_59431
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|take-Inf-S num|one noun|word-Acc cconj|and verb|give-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|form-Plur-Acc adp|of det|that-Def-Dem-Sing noun|word pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|23|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|10|NUMMOD 10|8|OBJ 11|12|CC 12|8|CONJ 13|12|IOBJ 14|16|DET-PREDET 15|16|DET 16|12|OBJ 17|19|CASE 18|19|DET 19|16|NMOD 20|22|NSUBJ 21|22|AUX 22|19|ACL-RELCL 23|22|OBL 24|5|PUNCT
+%wor:	and 54566_54666 I 54746_54766 don't 54806_54986 want 55026_55146 you 55166_55247 to 55267_55307 take 55367_55667 one 55827_55967 word 56027_56268 and 56288_56388 give 56428_56588 me 56628_56668 all 56828_57069 the 57169_57269 forms 57329_57669 of 57709_57770 that 57810_57930 word 57970_58130 you 58310_58410 can 58450_58570 think 58631_58851 of 58931_59431 .
+*INV:	for example if you give me the word walk@q I wouldn't want you to also give me the words walked@q and walking@q , okay ? 59573_66639
+%mor:	adp|for noun|example sconj|if pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 det|the-Def-Art noun|word-Acc q|walk pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to adv|also verb|give-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|word-Plur-Acc q|walked cconj|and q|walking cm|cm intj|okay ?
+%gra:	1|2|CASE 2|13|OBL 3|5|MARK 4|5|NSUBJ 5|13|ADVCL 6|5|IOBJ 7|8|DET 8|5|OBJ 9|5|FLAT 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|25|ROOT 14|13|OBJ 15|17|MARK 16|17|ADVMOD 17|13|XCOMP 18|17|IOBJ 19|20|DET 20|17|OBJ 21|20|FLAT 22|23|CC 23|21|FLAT 24|25|PUNCT 25|13|DISCOURSE 26|13|PUNCT
+%wor:	for 59573_59713 example 59753_60273 if 60313_60373 you 60413_60513 give 60573_60734 me 60734_60794 the 60834_60914 word 60974_61174 walk@q 61274_61715 I 62155_62195 wouldn't 62195_62415 want 62435_62615 you 62655_62735 to 62735_62796 also 62936_63216 give 63336_63516 me 63536_63576 the 63636_63716 words 63776_64057 walked@q 64157_64617 and 64998_65098 walking@q 65158_66119 , okay 66199_66639 ?
+*PAR:	uhhuh . [+ exc]
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay , as many words that you can think of that start with the letter f@l . 67160_71596
+%mor:	intj|okay cm|cm adp|as adj|many-S1 noun|word-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|start-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|CASE 4|5|AMOD 5|16|ROOT 6|9|OBL 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|6|CASE 11|12|NSUBJ 12|5|ACL-RELCL 13|15|CASE 14|15|DET 15|12|OBL 16|12|OBL-UNMARKED 17|5|PUNCT
+%wor:	okay 67160_67400 , as 67840_67900 many 67960_68161 words 68261_68521 that 68521_68601 you 68621_68701 can 68721_68821 think 68861_69061 of 69121_69262 that 69722_69842 start 69922_70223 with 70263_70383 the 70403_70483 letter 70543_70803 f 71143_71596 .
+*INV:	okay , beginning now . 71665_73405
+%mor:	intj|okay cm|cm verb|begin-Part-Pres-S adv|now .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	okay 71665_71904 , beginning 72365_72805 now 72905_73405 .
+*PAR:	(.) fruit . 76148_76628
+%mor:	noun|fruit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fruit 76148_76628 .
+*PAR:	(..) &+f fudge . 85735_86234
+%mor:	noun|fudge .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fudge 85735_86234 .
+*PAR:	frigidaire . 89359_89858
+%mor:	propn|frigidaire .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frigidaire 89359_89858 .
+*PAR:	(.) fox . 95751_96231
+%mor:	propn|fox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fox 95751_96231 .
+*PAR:	(...) frank . 111933_112413
+%mor:	propn|frank .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frank 111933_112413 .
+*PAR:	(.) finger . 116158_116657
+%mor:	noun|finger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	finger 116158_116657 .
+*PAR:	(.) foil . 125969_126468
+%mor:	noun|foil .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foil 125969_126468 .
+*PAR:	(.) finance . 130717_131197
+%mor:	noun|finance .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	finance 130717_131197 .
+*INV:	okay , that's good . 132640_133861
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 132640_133000 , that's 133060_133301 good 133361_133861 .
+@End

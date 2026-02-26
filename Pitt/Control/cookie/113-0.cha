@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00090714-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|47;|female|Control||Participant|30||
+@Media:	113-0, audio
+@G:	Cookie
+*INV:	and here's the picture .
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|CC 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*PAR:	(.) the little girl's pointing to her mouth . 7053_8600
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|is verb|point-Part-Pres-S adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|3|CASE 5|8|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+%wor:	the 7053_7113 little 7113_7293 girl's 7293_7693 pointing 7833_8073 to 8113_8153 her 8153_8213 mouth 8253_8600 .
+*PAR:	she wants a cookie . 8694_9572
+%mor:	pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	she 8694_8794 wants 8854_9054 a 9114_9134 cookie 9214_9572 .
+*PAR:	the little boy is getting cookies . 10196_11746
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	the little 10196_10355 boy 10415_10655 is 10815_10915 getting 11055_11355 cookies 11415_11746 .
+*PAR:	and he's about to fall off his stool . 11976_13697
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off pron|his-Prs-Gen-S3 noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|4|PUNCT
+%wor:	and 11976_12096 he's 12136_12276 about 12296_12576 to 12636_12696 fall 12816_13056 off 13096_13276 his 13276_13416 stool 13476_13697 .
+*PAR:	the mother's washing dishes . 15000_16530
+%mor:	det|the-Def-Art noun|mother~part|s noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 15000_15060 mother's 15100_15460 washing 15600_16020 dishes 16120_16530 .
+*PAR:	she's wiping a plate . 17802_18858
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 17802_17962 wiping 18142_18442 a 18442_18462 plate 18542_18858 .
+*PAR:	the faucet is running . 20105_21305
+%mor:	det|the-Def-Art noun|faucet aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	the 20105_20164 faucet 20304_20704 is 20724_20824 running 20944_21305 .
+*PAR:	the sink is running over . 22166_23128
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	the 22166_22245 sink 22345_22465 is 22485_22545 running 22585_22846 over 22986_23128 .
+*PAR:	the water is running on the floor . 24213_25553
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the water 24213_24507 is 24527_24607 running 24687_24927 on 24947_25027 the 25027_25087 floor 25187_25553 .
+*PAR:	&-um the curtains are blowing . 28010_29170
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	um the 28010_28070 curtains 28150_28550 are 28590_28670 blowing 28670_29170 .
+*PAR:	(..) so there hasta be a breeze outside &=laughs .
+%mor:	adv|so pron|there-Dem-S1 aux|hast-Fin-S3 aux|be-Inf-S det|a-Ind-Art noun|breeze adv|outside .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|7|ROOT 4|3|COP 5|6|DET 6|4|NSUBJ 7|6|ADVMOD 8|3|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that's all I can see . [+ exc] 41125_41265
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	that's 41125_41265 all I can see .
+*INV:	that's fine . 41565_41806
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 41565_41725 fine 41725_41806 .
+@End

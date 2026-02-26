@@ -1,0 +1,140 @@
+@UTF8
+@PID:	11312/a-00089589-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|53;|male|ProbableAD||Participant|23||
+@Media:	005-0, audio
+@G:	animals
+*INV:	now .
+%mor:	adv|now .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	dog . 3202_3660
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 3202_3660 .
+*PAR:	(.) horse . 4985_5425
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 4985_5425 .
+*PAR:	(.) &-uh tiger . 5425_8710
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 5425_7729 tiger 8210_8710 .
+*PAR:	(.) lion . 8932_9396
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lion 8932_9396 .
+*PAR:	&-um (.) elephant . 9396_9811
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um elephant 9396_9811 .
+*PAR:	(.) giraffe . 16887_17367
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	giraffe 16887_17367 .
+*PAR:	(.) monkey . 18390_18811
+%mor:	noun|monkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	monkey 18390_18811 .
+*PAR:	(..) &-um (..) cat . 24582_30352
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 24582_24950 cat 29852_30352 .
+*PAR:	(..) no , fish no +... [+ exc] 36201_37161
+%mor:	intj|no cm|cm noun|fish intj|no +...
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%wor:	no 36201_36321 , fish 36361_36581 no 36661_37161 +...
+*INV:	no birds . 38384_39024
+%mor:	det|no-Def-Neg noun|bird-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	no 38384_38463 birds 38524_39024 .
+*PAR:	(..) that's all I can think of . [+ exc] 47635_48396
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|3|PUNCT
+%wor:	that's 47635_48396 all I can think of .
+*INV:	okay , you've got a few more seconds yet . 49558_51020
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr det|a-Ind-Art adj|few-S1 adj|more-Cmp-S1 noun|second-Plur-Acc adv|yet .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|9|DET 7|9|AMOD 8|9|AMOD 9|5|OBJ 10|5|ADVMOD 11|5|PUNCT
+%wor:	okay 49558_49698 , you've 49718_49878 got 49898_49998 a 50058_50078 few 50198_50299 more 50319_50439 seconds 50459_50799 yet 50799_51020 .
+*INV:	see if anything else +/. 51457_51960
+%mor:	verb|see-Fin-Imp-S sconj|if pron|anything-Ind-S1 adj|else-S1 +/.
+%gra:	1|4|ROOT 2|3|MARK 3|1|OBJ 4|3|AMOD 5|1|PUNCT
+%wor:	see 51457_51739 if 51880_51960 anything else +/.
+*PAR:	+< horse .
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm . 54153_54294
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 54153_54294 .
+@G:	F
+*INV:	(..) okay , begin whenever you're +... 62542_66785
+%mor:	intj|okay cm|cm verb|begin-Fin-Imp-S adv|whenever pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 +...
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|3|ADVMOD 5|6|NSUBJ 6|4|COP 7|3|PUNCT
+%wor:	okay 62542_65324 , begin 65425_65725 whenever 65965_66265 you're 66285_66785 +...
+*PAR:	find . 67006_67447
+%mor:	verb|find-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	find 67006_67447 .
+*PAR:	(.) fair . 68868_69348
+%mor:	adj|fair-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fair 68868_69348 .
+*PAR:	(.) foolish . 70530_71029
+%mor:	adj|foolish-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foolish 70530_71029 .
+*PAR:	(.) frivolent . 73112_73592
+%mor:	propn|frivolent .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frivolent 73112_73592 .
+*PAR:	(..) five . 79398_79879
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	five 79398_79879 .
+*PAR:	(.) fix . 85845_86325
+%mor:	noun|fix .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fix 85845_86325 .
+*PAR:	(.) find . 88908_89387
+%mor:	verb|find-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	find 88908_89387 .
+*PAR:	(.) figure . 94353_94852
+%mor:	noun|figure .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	figure 94353_94852 .
+*PAR:	(.) fancy . 102650_103130
+%mor:	noun|fancy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fancy 102650_103130 .
+*PAR:	(..) am I allowed to say swear words ? [+ exc] 112420_113779
+%mor:	aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|allow-Part-Past-S part|to verb|say-Inf-S noun|swear noun|word-Plur-Acc ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|COMPOUND 7|5|OBJ 8|3|PUNCT
+%wor:	am 112420_112459 I 112459_112479 allowed 112539_112759 to 112759_112799 say 112799_112939 swear 112999_113259 words 113279_113779 ?
+*INV:	&=laughs if you want &=laughs . 114862_115621
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	if 114862_114961 you 115001_115061 want 115121_115621 .
+*INV:	it probably would be considered inappropriate &=laughs . 117324_118984
+%mor:	pron|it-Prs-Nom-S3 adv|probably aux|would-Fin-S aux|be-Inf-S verb|consider-Part-Past-S adj|inappropriate-S1 .
+%gra:	1|5|NSUBJ-PASS 2|5|ADVMOD 3|5|AUX 4|5|AUX-PASS 5|6|ROOT 6|5|XCOMP 7|5|PUNCT
+%wor:	it 117324_117404 probably 117404_117744 would 117784_117924 be 117924_117964 considered 118024_118464 inappropriate 118484_118984 .
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) fable . 130310_130671
+%mor:	noun|fable .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fable 130310_130671 .
+*PAR:	(.) foolish . 134295_134775
+%mor:	adj|foolish-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foolish 134295_134775 .
+*INV:	okay . 141284_141783
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 141284_141783 .
+@End

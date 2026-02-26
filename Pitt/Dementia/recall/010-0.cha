@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/a-00089826-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|66;|male|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	010-0, audio
+@G:	George_Immediate
+*PAR:	George Anderson went to visit his daughter , Melanie . 16680_22376
+%mor:	propn|George propn|Anderson verb|go-Fin-Ind-Past-S3-irr part|to verb|visit-Inf-S pron|his-Prs-Gen-S3 noun|daughter-Acc cm|cm propn|Melanie .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|9|ROOT 4|5|MARK 5|3|ADVCL 6|7|NMOD-POSS 7|5|OBJ 8|9|PUNCT 9|7|APPOS 10|3|PUNCT
+%wor:	George 16680_17020 Anderson 17100_17581 went 19864_20065 to 20105_20205 visit 20245_20545 his 20545_20706 daughter 20766_21126 , Melanie 21887_22376 .
+*PAR:	(.) and xxx . [+ exc] 25733_26224
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 25733_26224 .
+%com:	alarm goes off
+*INV:	okay , ignore it . 30006_30680
+%mor:	intj|okay cm|cm verb|ignore-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	okay 30006_30220 , ignore 30280_30680 it .
+*INV:	carry on . 30901_31362
+%mor:	verb|carry-Fin-Imp-S adp|on .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%wor:	carry 30901_31121 on 31141_31362 .
+*PAR:	+< <his daughter Melanie> [//] he <went to visit his daughter Melanie> [//] went to the country to visit his daughter Melanie . 31362_35380
+%mor:	pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|country part|to verb|visit-Inf-S pron|his-Prs-Gen-S3 noun|daughter-Acc propn|Melanie-Acc .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|MARK 7|2|ADVCL 8|9|NMOD-POSS 9|7|OBJ 10|7|OBJ 11|2|PUNCT
+%wor:	his 31362_31422 daughter 31422_31582 Melanie 31622_31902 he 31902_31963 went 32023_32163 to 32183_32223 visit 32263_32463 his 32524_32584 daughter 32604_32844 Melanie 32884_33505 went 33505_33666 to 33686_33746 the 33786_33866 country 33886_34186 to 34206_34247 visit 34307_34567 his 34607_34707 daughter 34747_35008 Melanie 35048_35380 .
+*PAR:	and he [//] (.) in his visit with his daughter Melanie , why [//] &-uh time come he hadta get back home . 36334_43218
+%mor:	cconj|and adp|in pron|his-Prs-Gen-S3 noun|visit adp|with pron|his-Prs-Gen-S3 noun|daughter propn|Melanie cm|cm noun|time verb|come-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 aux|hadt-Fin-Ind-S3 verb|get-Inf-S adv|back adv|home .
+%gra:	1|11|CC 2|4|CASE 3|4|NMOD-POSS 4|11|OBL 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|7|APPOS 9|4|PUNCT 10|11|NSUBJ 11|16|ROOT 12|14|NSUBJ 13|14|AUX 14|11|CCOMP 15|14|ADVMOD 16|14|ADVMOD 17|11|PUNCT
+%wor:	and 36334_36631 he 36691_36751 in 37873_37933 his 37973_38093 visit 38153_38414 with 38494_38594 his 38614_38714 daughter 38774_39035 Melanie 39095_39556 , why 39716_39956 uh 40197_41840 time 41900_42140 come 42160_42301 he 42301_42361 hadta 42421_42601 get 42641_42741 back 42761_42982 home 43022_43218 .
+*PAR:	so , he took her back home . 43304_44366
+%mor:	adv|so cm|cm pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|back adv|home .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|PUNCT
+%wor:	so 43304_43402 , he 43463_43523 took 43603_43783 her 43783_43883 back 43963_44164 home 44164_44366 .
+*INV:	okay . 44646_44764
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 44646_44764 .
+*PAR:	oh , that [//] that's terrible . [+ exc] 45566_46686
+%mor:	intj|oh cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|terrible-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	oh 45566_45626 , that 45706_45866 that's 45886_46106 terrible 46186_46686 .
+*PAR:	(.) he would make some keys out of there . [+ exc] 48627_50348
+%mor:	pron|he-Prs-Nom-S3 aux|would-Fin-S verb|make-Inf-S det|some-Def-Ind noun|key-Plur-Acc adp|out adp|of adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|CASE 8|3|OBL 9|3|PUNCT
+%wor:	he 48627_48687 would 48687_48867 make 48947_49167 some 49187_49367 keys 49407_49708 out 49768_49868 of 49908_50008 there 50048_50348 .
+*INV:	it's okay . 50348_51042
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	it's 50348_50628 okay 50688_51042 .
+*INV:	let me write it down . 51429_52257
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|write-Inf-S pron|it-Prs-Acc-S3 adp|down .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|COMPOUND-PRT 6|1|PUNCT
+%wor:	let 51429_51529 me 51549_51609 write 51649_51909 it 51929_52009 down 52029_52257 .
+*PAR:	George Anderson was the primary character . 56311_58505
+%mor:	propn|George propn|Anderson aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|primary-S1 noun|character .
+%gra:	1|6|NSUBJ 2|1|FLAT 3|6|COP 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%wor:	George 56311_56651 Anderson 56711_57131 was 57151_57291 the 57291_57351 primary 57432_58012 character 58072_58505 .
+*PAR:	and he had a daughter . 58572_59333
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|daughter-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and 58572_58672 he 58672_58732 had 58772_58912 a 58952_58972 daughter 59052_59333 .
+*PAR:	she was secondary character . 60414_61576
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|secondary-S1 noun|character .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	she 60414_60474 was 60474_60534 secondary 60554_61095 character 61176_61576 .
+*INV:	mhm . 61576_61997
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 61576_61997 .
+*PAR:	and he visited her . 63340_64140
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|visit-Fin-Ind-Past-S3 pron|her-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	and 63340_63420 he 63440_63500 visited 63580_63981 her 64021_64140 .
+*PAR:	and in the visit he'd said +"/. 64302_65568
+%mor:	cconj|and adp|in det|the-Def-Art noun|visit pron|he-Prs-Nom-S3~aux|would-Fin-Ind-Past-S3 verb|say-Part-Past-S-irr +"/.
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|7|ROOT 8|7|PUNCT
+%wor:	and 64302_64402 in 64442_64522 the 64582_64663 visit 64723_65003 he'd 65084_65244 said 65284_65568 +"/.
+*PAR:	+" Honey , come on back home with me . 65665_67130
+%mor:	noun|honey cm|cm verb|come-Fin-Imp-S adp|on adv|back adv|home adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|8|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|ADVMOD 7|8|CASE 8|3|OBL 9|3|PUNCT
+%wor:	Honey 65665_65865 , come 65925_66106 on 66146_66206 back 66246_66466 home 66526_66687 with 66707_66847 me 66847_67130 .
+*PAR:	in so many words . [+ exc]
+%mor:	adp|in adv|so adj|many-S1 noun|word-Plur .
+%gra:	1|4|CASE 2|3|ADVMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*INV:	+< okay , that's fine . 68919_69974
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay , that's 68919_69593 fine 69733_69974 .
+@End

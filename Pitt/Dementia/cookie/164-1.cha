@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/a-00090418-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|54;|male|ProbableAD||Participant|24||
+@Media:	164-1, audio
+@G:	Cookie
+*INV:	just tell me all the action you see going on in the picture . 1040_4160
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|13|ROOT 3|2|IOBJ 4|6|DET-PREDET 5|6|DET 6|2|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|2|PUNCT
+%wor:	just 1040_1200 tell 1220_1400 me 1420_1480 all 1660_1800 the 1860_1941 action 2121_2541 you 2581_2681 see 2762_2922 going 3002_3302 on 3342_3462 in 3502_3562 the 3582_3683 picture 3723_4160 .
+*PAR:	and there's the picture . 4443_5650
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 4443_4664 there's 4704_5044 the 5064_5144 picture 5204_5650 .
+*PAR:	all the action . [+ exc] [+ gram] 8929_9652
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	all 8929_9029 the 9069_9129 action 9229_9652 .
+*INV:	+< mhm . 10515_10635
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 10515_10635 .
+*PAR:	+< okay the [/] &+m the sink's running over . 11592_13214
+%mor:	intj|okay det|the-Def-Art noun|sink~part|s noun|running-Ger adp|over .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	okay the the 11592_11692 sink's 12072_12312 running 12332_12653 over 12733_13214 .
+*PAR:	&+w water's on the floor . 16423_17523
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	water's 16423_16743 on 16783_16883 the 16883_16943 floor 17023_17523 .
+*PAR:	the [/] the boy's standin(g) on a (.) stool . 19025_24371
+%mor:	det|the-Def-Art noun|boy~part|s noun|standing-Ger adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+%wor:	the 19025_19105 the 20867_20968 boy's 21328_21548 standin(g) 21588_21969 on 21969_22069 a 22129_22149 stool 23871_24371 .
+*PAR:	it's gonna tipple [: topple] [* p:w] over . 26205_27335
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|topple-Inf-S adp|over .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	it's 26205_26293 gonna 26333_26594 topple 26634_26934 over 27014_27335 .
+*PAR:	(.) the lid's off the &+cock cookie jar . 34561_36411
+%mor:	det|the-Def-Art noun|lid~aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+%wor:	the 34561_34621 lid's 34661_34921 off 35002_35142 the 35202_35282 cookie 35382_36104 jar 36104_36411 .
+*PAR:	that's it . [+ exc] 43721_44085
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 43721_43902 it 43982_44085 .
+*INV:	okay ? 44746_44903
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 44746_44903 ?
+@End

@@ -1,0 +1,101 @@
+@UTF8
+@PID:	11312/a-00090513-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|84;|female|ProbableAD||Participant|20||
+@Media:	334-1, audio
+@G:	Cookie
+*INV:	I want you to take a look at this picture here . 360_2400
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture adv|here .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|5|ADVMOD 12|2|PUNCT
+%wor:	I 360_380 want 380_520 you 540_600 to 640_700 take 740_980 a 1000_1020 look 1080_1221 at 1261_1341 this 1381_1541 picture 1641_2082 here 2142_2400 .
+*INV:	I want you to tell me everything that's going on in that picture . 3604_6995
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%wor:	I 3604_3644 want 3664_3804 you 3844_3924 to 3924_3984 tell 4084_4305 me 4345_4405 everything 4625_5146 that's 5166_5366 going 5446_5787 on 5867_6067 in 6147_6227 that 6267_6467 picture 6528_6995 .
+*INV:	everything that you see happening in that picture . 7128_9552
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+%wor:	everything 7128_7529 that 7529_7669 you 7709_7809 see 7889_8030 happening 8130_8670 in 8891_8951 that 8991_9151 picture 9211_9552 .
+*PAR:	well the boy is reaching kɜ˞@u [: for] [* p:n] &+s some &-uh cookies . 12616_15757
+%mor:	intj|well det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	well 12616_12896 the 12956_13036 boy 13096_13336 is 13396_13476 reaching 13556_13896 for 13956_14156 some 14216_14977 uh 14977_15057 cookies 15257_15757 .
+*PAR:	and they're in a jar in a cupboard . 16438_17653
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art noun|jar adp|in det|a-Ind-Art noun|cupboard .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|9|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|6|PUNCT
+%wor:	and 16438_16518 they're 16538_16718 in 16758_16878 a 16938_16958 jar 16958_17158 in 17198_17238 a 17258_17278 cupboard 17338_17653 .
+*PAR:	and the stool is breaking [* s:uk] down . 17739_19370
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|break-Part-Pres-S adp|down .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+%wor:	and 17739_17818 the 17818_17878 stool 17938_18298 is 18319_18379 breaking 18439_18839 down 18879_19370 .
+*PAR:	and the girl is &-uh waiting to be handed one o(f) the cookies . 19920_24021
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|wait-Part-Pres-S part|to aux|be-Inf-S verb|hand-Part-Past-S num|one adp|of det|the-Def-Art noun|cookie-Plur .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|8|MARK 7|8|AUX-PASS 8|5|XCOMP 9|8|XCOMP 10|12|CASE 11|12|DET 12|9|NMOD 13|5|PUNCT
+%wor:	and 19920_20039 the 20079_20159 girl 20220_20560 is 20680_20820 uh 20960_21620 waiting 21640_21940 to 21960_22020 be 22060_22121 handed 22241_22661 one 22821_23021 o(f) 23321_23401 the 23401_23461 cookies 23521_24021 .
+*PAR:	he's in the cupboard &+k trying to get a cookies out of the jar . 26600_29140
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cupboard verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|jar .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|14|ROOT 6|5|ACL 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|14|CASE 12|14|CASE 13|14|DET 14|8|OBL 15|5|PUNCT
+%wor:	he's 26600_26760 in 26820_26900 the 26920_27000 cupboard 27060_27561 trying 27581_27802 to 27802_27842 get 27882_28022 a 28022_28042 cookies 28062_28403 out 28483_28563 of 28563_28603 the 28603_28683 jar 28743_29140 .
+*PAR:	and &-uh his stool is toppling over . [+ gram] 29287_31267
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|topple-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 29287_29425 uh 29425_29505 his 29725_29906 stool 29946_30226 is 30266_30326 toppling 30427_30827 over 30907_31267 .
+*PAR:	and &-uh I don't think she realizes he's falling over . 32711_36261
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|she-Prs-Nom-S3 verb|realize-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|11|ROOT 6|7|NSUBJ 7|5|CCOMP 8|10|NSUBJ 9|10|AUX 10|7|CCOMP 11|10|ADVMOD 12|5|PUNCT
+%wor:	and 32711_32891 uh 32931_33011 I 34614_34634 don't 34674_34795 think 34815_34975 she 35035_35095 realizes 35175_35596 he's 35596_35716 falling 35756_36077 over 36117_36261 .
+*PAR:	she's reaching for a cookie . 36337_37520
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	she's 36337_36518 reaching 36578_36878 for 36938_37059 a 37079_37099 cookie 37159_37520 .
+*PAR:	and here <the dish water> [//] the water in the sink is <flowing off into the> [//] making a puddle on the floor . 39121_44831
+%mor:	cconj|and adv|here det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S det|a-Ind-Art noun|puddle-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|9|CC 2|9|ADVMOD 3|4|DET 4|9|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|AUX 9|14|ROOT 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|9|OBL 15|9|PUNCT
+%wor:	and 39121_39381 here 39641_39841 the 39881_39941 dish 40001_40181 water 40241_40561 the 40962_41062 water 41122_41382 in 41382_41422 the 41422_41502 sink 41582_41802 is 41842_41942 flowing 41982_42282 off 42342_42523 into 42603_43003 the 43083_43143 making 43703_43963 a 43963_43983 puddle 44063_44344 on 44364_44404 the 44424_44484 floor 44544_44831 .
+*PAR:	and the woman is going to step in it or is stepping in it . 44924_47439
+%mor:	cconj|and det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|step-Inf-S adp|in pron|it-Prs-Acc-S3 cconj|or aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|7|OBL 10|12|CC 11|12|AUX 12|7|CONJ 13|14|CASE 14|12|OBL 15|5|PUNCT
+%wor:	and 44924_44984 the 44984_45064 woman 45104_45344 is 45384_45504 going 45764_45965 to 45965_46025 step 46125_46365 in 46445_46505 it 46505_46545 or 46565_46665 is 46725_46825 stepping 46865_47245 in 47265_47345 it 47385_47439 .
+*PAR:	and &-uh what's wrong did you say hm ? [+ exc] 48627_51285
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S intj|hm ?
+%gra:	1|7|CC 2|4|NSUBJ 3|4|COP 4|7|CCOMP 5|7|AUX 6|7|NSUBJ 7|8|ROOT 8|7|DISCOURSE 9|7|PUNCT
+%wor:	and 48627_48786 uh 48846_48926 what's 49307_49487 wrong 49527_49827 did 49867_50027 you 50067_50147 say 50227_50407 hm 51008_51285 ?
+*INV:	everything that's happening . 51549_52668
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+%wor:	everything 51549_51928 that's 51948_52128 happening 52168_52668 .
+*PAR:	and she's trying to dry dishes . 53539_54739
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|dry-Inf-S noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+%wor:	and 53539_53599 she's 53599_53819 trying 53859_54159 to 54159_54199 dry 54199_54400 dishes 54460_54739 .
+*PAR:	and the [//] &-um (.) she's got the curtain mixed up with the dish that she's drying , I think . 54943_60199
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|curtain-Acc verb|mix-Part-Past-S adp|up adp|with det|the-Def-Art noun|dish pron|that-Rel pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|18|ROOT 5|6|DET 6|4|OBJ 7|6|ACL 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|15|OBJ 13|15|NSUBJ 14|15|AUX 15|11|ACL-RELCL 16|18|PUNCT 17|18|NSUBJ 18|4|PARATAXIS 19|4|PUNCT
+%wor:	and 54943_55060 the 55080_55160 um 55361_55501 she's 56842_57023 got 57063_57203 the 57223_57283 curtain 57343_57663 mixed 57703_57964 up 58024_58104 with 58144_58264 the 58284_58364 dish 58424_58724 that 58765_58905 she's 58945_59125 drying 59165_59606 , I 59646_59666 think 59766_60199 .
+*PAR:	and &-uh (.) I don't have my glasses on &-um +... [+ exc] 66333_68275
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S pron|my-Prs-Gen-S1 noun|glasses-Ptan-Acc adp|on +...
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+%wor:	and uh 66333_66353 I 66373_66393 don't 66393_66634 have 66634_66714 my 66734_66774 glasses 66874_67455 on 67555_67735 um 67775_68275 +...
+*PAR:	oh , <the water's> [/] the water's running out of the sink . 73705_75809
+%mor:	intj|oh cm|cm det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|10|ROOT 7|10|CASE 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+%wor:	oh 73705_73745 , the 73765_73825 water's 73885_74265 the 74445_74545 water's 74585_74846 running 74886_75106 out 75146_75246 of 75246_75286 the 75286_75346 sink 75426_75809 .
+*PAR:	and &-uh there's something happening in the yard . 76147_78832
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 verb|happen-Ger-S adp|in det|the-Def-Art noun|yard .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|3|NSUBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	and 76147_76267 uh 76307_76367 there's 77188_77368 something 77388_77689 happening 77769_78189 in 78209_78269 the 78289_78369 yard 78429_78832 .
+*PAR:	I can't see it but +/. [+ exc] 78950_79950
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 cconj|but +/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|CONJ 7|4|PUNCT
+%wor:	I 78950_78970 can't 79150_79410 see 79591_79771 it 79871_79950 but +/.
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	that's good . 81953_82514
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 81953_82193 good 82313_82514 .
+@End

@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00090754-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|61;|female|Control||Participant|28||
+@Media:	140-3, audio
+@G:	Cookie
+*INV:	this picture . 2410_3120
+%mor:	det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	this 2410_2550 picture 2650_3120 .
+*INV:	(.) and I want you to tell me everything that you see happening there everything that's going on . 4353_8902
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|3|CC 2|3|NSUBJ 3|18|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|12|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|11|XCOMP 13|12|ADVMOD 14|12|OBJ 15|17|NSUBJ 16|17|AUX 17|14|ACL-RELCL 18|17|COMPOUND-PRT 19|3|PUNCT
+%wor:	and 4353_4453 I 4533_4553 want 4573_4734 you 4754_4854 to 4874_4934 tell 4994_5194 me 5214_5275 everything 5455_5896 that 5916_6076 you 6116_6236 see 6316_6477 happening 6557_7058 there 7078_7278 everything 7599_7979 that's 7979_8180 going 8220_8540 on 8660_8902 .
+*PAR:	(.) okay . [+ exc] 12248_12747
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 12248_12747 .
+*PAR:	(..) anywhere ? [+ exc] 18645_19085
+%mor:	adv|anywhere ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	anywhere 18645_19085 ?
+*INV:	everything that's happening . 19826_20857
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+%wor:	everything 19826_20187 that's 20187_20327 happening 20387_20857 .
+*PAR:	&-um the little girl's laughing . 21909_24592
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~part|s noun|laugh-Ger .
+%gra:	1|3|DET 2|3|AMOD 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	um 21909_22409 the 23471_23551 little 23611_23771 girl's 23771_24011 laughing 24092_24592 .
+*PAR:	the little boy's getting cookies and he's falling . 25814_28657
+%mor:	det|the-Def-Art adj|little-S1 noun|boy~aux|is verb|get-Part-Pres-S noun|cookie-Plur-Acc cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|3|CASE 5|10|ROOT 6|5|OBJ 7|10|CC 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|5|PUNCT
+%wor:	the 25814_25914 little 25934_26134 boy's 26154_26395 getting 26495_26775 cookies 26875_27476 and 27636_27796 he's 27856_28057 falling 28157_28657 .
+*PAR:	&-uh I guess the mother would be doing dishes and the water's overflowing out of the sink . 31345_37485
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 det|the-Def-Art noun|mother aux|would-Fin-S aux|be-Inf-S verb|do-Part-Pres-S noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 noun|overflow-Ger adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|4|DET 4|7|NSUBJ 5|7|AUX 6|7|AUX 7|2|CCOMP 8|7|OBJ 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|COP 13|7|CONJ 14|17|CASE 15|17|CASE 16|17|DET 17|13|OBL 18|2|PUNCT
+%wor:	uh 31345_31385 I 31666_31706 guess 31746_31906 the 31966_32046 mother 32087_32387 would 32467_32628 be 32648_32748 doing 33510_33850 dishes 33971_34592 and 34872_34973 the 34973_35053 water's 35113_35534 overflowing 35754_36516 out 36616_36736 of 36776_36837 the 36877_36977 sink 37117_37485 .
+*PAR:	&-uh the window's open and I would say the wind is blowing . 39322_41968
+%mor:	det|the-Def-Art noun|window~aux|be-Fin-Ind-Pres-S3 adj|open-S1 cconj|and pron|I-Prs-Nom-S1 aux|would-Fin-S verb|say-Inf-S det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|12|ROOT 5|8|CC 6|8|NSUBJ 7|8|AUX 8|4|CONJ 9|10|DET 10|12|NSUBJ 11|12|AUX 12|8|CCOMP 13|4|PUNCT
+%wor:	uh the 39322_39402 window's 39462_39823 open 40003_40324 and 40364_40484 I 40585_40605 would 40625_40785 say 40825_40945 the 41005_41086 wind 41126_41326 is 41366_41446 blowing 41527_41968 .
+*INV:	(..) okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I guess that's it . [+ exc] 51631_51969
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+%wor:	I 51631_51651 guess 51651_51813 that's 51813_51969 it .
+*INV:	alright . 52240_52646
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 52240_52646 .
+@End

@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00090502-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|female|ProbableAD||Participant|20||
+@Media:	291-1, audio
+@G:	Cookie
+*INV:	what's going on in the picture ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	(.) &-uh the boy in the cookie jar . [+ gram] 3713_4990
+%mor:	det|the-Def-Art noun|boy adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|6|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|NMOD 7|2|PUNCT
+%wor:	uh 3713_3753 the 3753_3833 boy 3873_4033 in 4073_4133 the 4133_4193 cookie 4273_4613 jar 4613_4990 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh the little girl waiting for the cookie . [+ gram] 7477_9604
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|wait-Ger-S adp|for det|the-Def-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	uh 7477_7617 the 7697_7777 little 8157_8357 girl 8438_8638 waiting 8718_8978 for 9038_9118 the 9138_9218 cookie 9298_9604 .
+*PAR:	her hand goes up . 10200_10880
+%mor:	pron|her-Prs-Gen-S3 noun|hand verb|go-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	her 10200_10259 hand 10320_10540 goes 10600_10760 up 10820_10880 .
+*INV:	+< mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	a mother drying dishes . [+ gram] 12483_14083
+%mor:	det|a-Ind-Art noun|mother verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	a 12483_12502 mother 12662_12922 drying 13022_13483 dishes 13583_14083 .
+*PAR:	(.) sink running over . [+ gram] 17064_18164
+%mor:	verb|sink-Fin-Imp-S verb|run-Ger-S adp|over .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|1|PUNCT
+%wor:	sink 17064_17284 running 17424_17744 over 17824_18164 .
+*PAR:	(.) the &-um stool the little boy is on is tilting . 22451_27409
+%mor:	det|the-Def-Art noun|stool det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adp|on aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DET 2|9|NSUBJ-OUTER 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|COP 7|2|ACL-RELCL 8|9|COP 9|9|ROOT 10|9|PUNCT
+%wor:	the 22451_22567 um 22947_23227 stool 23807_24248 the 24408_24488 little 24548_24808 boy 24868_25108 is 25188_25228 on 25328_25468 is 25528_25709 tilting 26909_27409 .
+*INV:	(..) anything else that you see going on in the picture ? 34305_36195
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|10|ROOT 2|1|ADVMOD 3|6|OBJ 4|5|NSUBJ 5|1|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	anything 34305_34625 else 34666_34786 that 34786_34906 you 34906_35007 see 35047_35207 going 35247_35488 on 35548_35648 in 35668_35729 the 35729_35789 picture 35869_36195 ?
+*PAR:	(.) no . [+ exc] 38056_38205
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 38056_38205 .
+*INV:	okay . 38638_38736
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 38638_38736 .
+*INV:	that's fine . 39242_39620
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's fine 39242_39620 .
+@End

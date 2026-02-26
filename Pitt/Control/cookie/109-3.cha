@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/a-00090712-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|female|Control||Participant|30||
+@Media:	109-3, audio
+@G:	Cookie
+*INV:	I'd like you to tell me everything you see going on in this picture . 110_2980
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|15|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|3|PUNCT
+%wor:	I'd 110_170 like 170_330 you 330_430 to 470_570 tell 630_730 me 730_770 everything 790_1090 you 1110_1190 see 1310_1510 going 1650_2010 on 2070_2291 in 2331_2391 this 2411_2571 picture 2651_2980 .
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um there's a boy and a girl and the boy is on the ladder [: stool] [* s:r] &-uh taking cookies out of the &-uh cookie &-uh jar on a stool . 4932_13196
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy cconj|and det|a-Ind-Art noun|girl cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|EXPL 2|24|ROOT 3|4|DET 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|14|CC 9|10|DET 10|14|NSUBJ 11|14|COP 12|14|CASE 13|14|DET 14|2|CONJ 15|14|ACL 16|15|OBJ 17|21|CASE 18|21|CASE 19|21|DET 20|21|COMPOUND 21|15|OBL 22|24|CASE 23|24|DET 24|15|OBL 25|2|PUNCT
+%wor:	um 4932_5152 there's 5672_5852 a 5892_5912 boy 6012_6232 and 6292_6412 a 6432_6452 girl 6532_6793 and 6873_7013 the 7013_7073 boy 7133_7353 is 7353_7493 on 7573_7713 the 7773_7853 stool 7953_9034 uh 9094_9134 taking 9274_9694 cookies 9774_10274 out 10354_10474 of 10494_10574 the 10674_10794 uh 11035_11155 cookie 11195_11635 uh 11935_12195 jar 12215_12435 on 12595_12715 a 12735_12755 stool 12855_13196 .
+*PAR:	and the stool is tilting over . 13984_15984
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 13984_14164 the 14244_14304 stool 14364_14664 is 14744_14844 tilting 14984_15424 over 15544_15984 .
+*PAR:	and &-uh the girl is reaching up and he's passing the cookies to her . 16485_20327
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pass-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|5|COMPOUND-PRT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|12|DET 12|10|OBJ 13|14|CASE 14|10|OBL 15|5|PUNCT
+%wor:	and 16485_16705 uh 16885_16985 the 17005_17085 girl 17145_17365 is 17405_17485 reaching 17565_17946 up 17986_18106 and 18206_18306 he's 18326_18506 passing 18926_19306 the 19326_19386 cookies 19467_19827 to 19907_19967 her 20047_20327 .
+*PAR:	and the mother is drying dishes &-uh in front of the open window . 21007_24930
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc adp|in noun|front adp|of det|the-Def-Art adj|open-S1 noun|window .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|NMOD 13|5|PUNCT
+%wor:	and 21007_21127 the 21147_21227 mother 21288_21548 is 21688_21828 drying 21948_22368 dishes 22468_22928 uh 23329_23509 in 23569_23649 front 23709_23909 of 23929_23969 the 24009_24069 open 24149_24409 window 24489_24930 .
+*PAR:	and &-um the [//] &-uh while she's drying the <dish with the> [//] dish with the towel the sink is running over . 25808_34108
+%mor:	cconj|and sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Acc adp|with det|the-Def-Art noun|towel det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|14|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|14|ADVCL 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|12|DET 12|14|NSUBJ 13|14|AUX 14|15|ROOT 15|14|ADVMOD 16|14|PUNCT
+%wor:	and 25808_26088 um 26488_26628 the 27409_27529 uh 27569_27710 while 28310_28550 she's 28570_28771 drying 28831_29211 the 29251_29351 dish 29592_29852 with 29992_30152 the 30212_30292 dish 31013_31233 with 31453_31614 the 31634_31694 towel 31814_32214 the 32735_32815 sink 32915_33175 is 33215_33335 running 33436_33756 over 33836_34108 .
+*PAR:	and it's all splashing on the floor . 34917_37260
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|all verb|splash-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 34917_35037 it's 35077_35257 all 35317_35478 splashing 35938_36499 on 36539_36619 the 36659_36739 floor 36839_37260 .
+*PAR:	and <there's a cup> [//] &-uh there's two cups and plate <that she's> [//] that are sitting on the counter . 37978_43305
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and noun|plate pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|sit-Part-Pres-S adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|CC 2|3|EXPL 3|13|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|7|CC 7|5|CONJ 8|10|NSUBJ 9|10|AUX 10|5|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|3|PUNCT
+%wor:	and 37978_38078 there's 38098_38298 a 38358_38378 cup 39300_39380 uh 39380_39420 there's 39420_39580 two 39660_39800 cups 39841_40181 and 40241_40341 plate 40442_40822 that 40902_41063 she's 41063_41523 that 41884_42044 are 42084_42204 sitting 42224_42505 on 42545_42625 the 42665_42725 counter 42805_43305 .
+*PAR:	and &-um I don't know . [+ exc] 44489_46053
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	and 44489_44588 um 44588_44628 I 44668_44688 don't 44849_45910 know 45930_46053 .
+*PAR:	there's trees and grass outside . 46092_47653
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|tree-Plur cconj|and noun|grass adv|outside .
+%gra:	1|2|EXPL 2|6|ROOT 3|2|NSUBJ 4|5|CC 5|3|CONJ 6|2|ADVMOD 7|2|PUNCT
+%wor:	there's 46092_46251 trees 46351_46671 and 46712_46792 grass 46832_47132 outside 47212_47653 .
+*PAR:	and the kitchen has all these cabinets . 49758_51679
+%mor:	cconj|and det|the-Def-Art noun|kitchen verb|have-Fin-Ind-Pres-S3 det|all-Def-Tot det|this-Def-Dem-Plur noun|cabinet-Plur-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|DET-PREDET 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	and 49758_49837 the 49837_49897 kitchen 49957_50317 has 50377_50618 all 50798_50878 these 50918_51139 cabinets 51179_51679 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	that it . [+ exc]
+%mor:	sconj|that pron|it-Prs-Nom-S3 .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+@End

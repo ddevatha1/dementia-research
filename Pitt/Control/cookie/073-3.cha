@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/a-00090692-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|76;00.|male|Control||Participant|||
+@Media:	073-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I would like for you to take a look at that picture . 1311_3230
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+%wor:	I 1311_1331 would 1331_1431 like 1431_1631 for 1631_1711 you 1751_1831 to 1871_1951 take 2032_2252 a 2292_2312 look 2392_2572 at 2632_2672 that 2713_2913 picture 2973_3230 .
+*PAR:	okay . [+ exc] 3414_3765
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 3414_3765 .
+*INV:	tell me everything that you see going on in that picture . 4416_7233
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|11|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+%wor:	tell 4416_4595 me 4655_4735 everything 4916_5336 that 5376_5497 you 5557_5657 see 5737_5897 going 5937_6238 on 6318_6478 in 6538_6598 that 6638_6798 picture 6858_7233 .
+*INV:	everything that's happening there . 7901_9283
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+%wor:	everything 7901_8301 that's 8321_8521 happening 8561_9002 there 9042_9283 .
+*PAR:	okay . [+ exc] 10585_11084
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 10585_11084 .
+*PAR:	&=clears:throat the stool that the [/] the boy was standing on was about to fall . 12540_17649
+%mor:	det|the-Def-Art noun|stool pron|that-Rel det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Past-S3-irr adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|10|NSUBJ 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|AUX 7|2|ACL-RELCL 8|3|CASE 9|10|COP 10|12|ROOT 11|12|MARK 12|10|XCOMP 13|10|PUNCT
+%wor:	the 12540_12600 stool 12680_13020 that 13061_13201 the 13261_13361 the 14063_14163 boy 14203_14503 was 14624_14744 standing 14784_15225 on 15305_15425 was 16487_16628 about 16688_16968 to 17008_17069 fall 17149_17649 .
+*PAR:	he was reaching into the cookie jar (.) in the open cupboard . 19093_24524
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar adp|in det|the-Def-Art adj|open-S1 noun|cupboard .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|11|CASE 9|11|DET 10|11|AMOD 11|3|OBL 12|3|PUNCT
+%wor:	he 19093_19153 was 19213_19333 reaching 19413_19794 into 19854_20215 the 20596_20716 cookie 21097_21497 jar 21497_21878 in 23000_23081 the 23121_23221 open 23341_23662 cupboard 24123_24524 .
+*PAR:	little girl was holding up her left hand to receive a cookie . 27996_37636
+%mor:	adj|little-S1 noun|girl aux|be-Fin-Ind-Past-S3-irr verb|hold-Part-Pres-S adp|up pron|her-Prs-Gen-S3 adj|left-S1 noun|hand-Acc part|to verb|receive-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|4|COMPOUND-PRT 6|8|NMOD-POSS 7|8|AMOD 8|4|OBJ 9|10|MARK 10|4|ADVCL 11|12|DET 12|10|OBJ 13|4|PUNCT
+%wor:	little 27996_28216 girl 28276_28657 was 31423_31563 holding 31603_31904 up 31944_32024 her 32084_32184 left 32264_32545 hand 33266_33747 to 35371_35531 receive 35712_36353 a 36994_37014 cookie 37155_37636 .
+*PAR:	the mother <was washing or> [//] drying or washing dishes . 39254_46850
+%mor:	det|the-Def-Art noun|mother noun|drying-Ger cconj|or noun|washing-Ger noun|dish-Plur .
+%gra:	1|6|DET 2|6|COMPOUND 3|6|COMPOUND 4|5|CC 5|3|CONJ 6|6|ROOT 7|6|PUNCT
+%wor:	the 39254_39334 mother 39374_39715 was 41940_42160 washing 42241_42862 or 43042_43123 drying 43183_43664 or 44346_44426 washing 44466_44967 dishes 46350_46850 .
+*PAR:	and the water from the faucet was spilling over the cabinet of the sink . 48451_54811
+%mor:	cconj|and det|the-Def-Art noun|water adp|from det|the-Def-Art noun|faucet aux|be-Fin-Ind-Past-S3-irr verb|spill-Part-Pres-S adp|over det|the-Def-Art noun|cabinet adp|of det|the-Def-Art noun|sink .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX 8|14|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|8|PUNCT
+%wor:	and 48451_48531 the 48531_48591 water 48651_48991 from 49092_49252 the 49272_49332 faucet 49412_50013 was 51155_51355 spilling 51395_51876 over 52137_52457 the 52577_52698 cabinet 53699_54140 of 54180_54240 the 54260_54340 sink 54460_54811 .
+*PAR:	I see two cups and a plate on the right hand side . 56385_61111
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art adj|right-S1 noun|hand noun|side .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|12|CASE 9|12|DET 10|11|AMOD 11|12|COMPOUND 12|2|OBL 13|2|PUNCT
+%wor:	I 56385_56404 see 56504_56664 two 56784_57025 cups 57866_58307 and 59048_59148 a 59168_59188 plate 59288_59709 on 59829_59910 the 59930_59990 right 60050_60270 hand 60310_60511 side 60611_61111 .
+*PAR:	her feet was [* m:a] (.) in a puddle of water &=clears:throat coming from the overflowin(g) sink . 64501_77101
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur aux|be-Fin-Ind-Past-S3-irr adp|in det|a-Ind-Art noun|puddle adp|of noun|water verb|come-Ger-S adp|from det|the-Def-Art verb|overflow-Ger-S noun|sink .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|13|ROOT 7|8|CASE 8|6|NMOD 9|8|ACL 10|13|CASE 11|13|DET 12|13|AMOD 13|9|OBL 14|6|PUNCT
+%wor:	her 64501_64621 feet 64741_65101 was 66361_66722 in 68683_68763 a 68803_68823 puddle 68883_69243 of 69283_69363 water 69423_69783 coming 74926_75246 from 75346_75566 the 75646_75766 overflowin(g) 76026_76747 sink 76747_77101 .
+*INV:	okay that's fine . 77488_78628
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 77488_77927 that's 78047_78247 fine 78247_78628 .
+*PAR:	+< the curtains , (.) the outside +... 78064_79969
+%mor:	det|the-Def-Art noun|curtain-Plur cm|cm det|the-Def-Art adj|outside-S1 +...
+%gra:	1|2|DET 2|5|ROOT 3|5|PUNCT 4|5|DET 5|2|PARATAXIS 6|2|PUNCT
+%wor:	the 78064_78144 curtains 78224_78867 , the 79288_79369 outside 79469_79969 +...
+*INV:	+< that's fine .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	that was good . 80720_81234
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that was 80720_80734 good 80734_81234 .
+@End

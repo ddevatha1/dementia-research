@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/a-00090836-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|47;|female|Control||Participant|30||
+@Media:	275-0, audio
+@G:	Cookie
+*INV:	I have a picture for you now that has a lot of action going on in it . 470_4030
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|picture-Acc adp|for pron|you-Prs-Acc-S2 adv|now pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|action verb|go-Ger-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|ADVMOD 8|9|NSUBJ 9|4|ACL-RELCL 10|11|DET 11|9|OBJ 12|13|CASE 13|11|NMOD 14|13|ACL 15|14|COMPOUND-PRT 16|17|CASE 17|14|OBL 18|2|PUNCT
+%wor:	I 470_490 have 490_590 a 590_610 picture 670_1090 for 1090_1270 you 1330_1430 now 1470_1650 that 1690_1790 has 1830_2011 a 2111_2131 lot 2251_2451 of 2491_2571 action 2731_3151 going 3211_3491 on 3572_3732 in 3792_3872 it 3932_4030 .
+*INV:	what I'd like you to do is to tell me all the action you see going on in the picture . 4732_8431
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|COP 9|10|MARK 10|21|ROOT 11|10|IOBJ 12|14|DET-PREDET 13|14|DET 14|10|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|16|XCOMP 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|10|PUNCT
+%wor:	what 4732_4852 I'd 4952_5012 like 5032_5193 you 5213_5273 to 5293_5353 do 5393_5473 is 5533_5573 to 5593_5653 tell 5693_5853 me 5873_5933 all 6033_6153 the 6193_6273 action 6373_6694 you 6774_6894 see 7054_7234 going 7334_7614 on 7694_7814 in 7874_7934 the 7954_8034 picture 8074_8431 .
+*INV:	and here's the picture . 10696_11650
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|CC 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	and 10696_10936 here's 10976_11156 the 11196_11277 picture 11337_11650 .
+*PAR:	let's see . [+ exc] 14059_14319
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	let's see 14059_14319 .
+*PAR:	the boy's takin(g) the cookies out of the cookie jar . 14539_16789
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|DET 6|4|OBJ 7|11|CASE 8|11|CASE 9|11|DET 10|11|COMPOUND 11|4|OBL 12|4|PUNCT
+%wor:	the 14539_14639 boy's 14659_14879 takin(g) 14959_15299 the 15299_15360 cookies 15640_15960 out 16020_16140 of 16160_16200 the 16220_16301 cookie 16361_16701 jar 16701_16789 .
+*PAR:	and the girl is reaching to get the cookie . 17162_19051
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+%wor:	and 17162_17262 the 17262_17322 girl 17362_17582 is 17662_17722 reaching 17822_18263 to 18383_18443 get 18523_18703 the 18783_18843 cookie 18943_19051 .
+*PAR:	and the boy is falling off the stool . 19504_22327
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 19504_19604 the 19604_19684 boy 19724_20045 is 20185_20405 falling 20766_21206 off 21306_21446 the 21626_21687 stool 21827_22327 .
+*PAR:	&-uh mother is drying the dishes while the water spills over the sink . 24324_27974
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|while det|the-Def-Art noun|water verb|spill-Fin-Ind-Pres-S3 adp|over det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|5|DET 5|3|OBJ 6|9|MARK 7|8|DET 8|9|NSUBJ 9|3|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|3|PUNCT
+%wor:	uh mother 24324_24590 is 24650_24750 drying 24830_25190 the 25210_25291 dishes 25351_25871 while 25991_26151 the 26151_26232 water 26292_26632 spills 26772_27153 over 27213_27393 the 27453_27533 sink 27693_27974 .
+*PAR:	&-uh it looks like the wind's blowing the curtain there . 30319_31559
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|wind~aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S det|the-Def-Art noun|curtain-Acc adv|there .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|AUX 7|2|ADVCL 8|9|DET 9|7|OBJ 10|7|ADVMOD 11|2|PUNCT
+%wor:	uh 30319_30359 it 30359_30399 looks 30399_30519 like 30519_30599 the 30599_30679 wind's 30679_30899 blowing 30899_31239 the 31239_31299 curtain 31339_31559 there .
+*PAR:	(.) she's [//] the mother is stepping out of the water . 36536_38726
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|out adp|of det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|CASE 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	she's 36536_36784 the 37004_37064 mother 37184_37464 is 37525_37605 stepping 37685_38045 out 38085_38165 of 38165_38205 the 38265_38325 water 38545_38726 .
+*PAR:	(..) I guess that's about it . [+ exc] 45728_46526
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+%wor:	I 45728_45748 guess 45788_46028 that's 46028_46288 about 46288_46526 it .
+*INV:	okay +/. 47390_47610
+%mor:	intj|okay +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 47390_47610 +/.
+*PAR:	the boy is handing the girl a cookie too . 47591_49291
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|girl det|a-Ind-Art noun|cookie-Acc adv|too .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|IOBJ 7|8|DET 8|4|OBJ 9|4|ADVMOD 10|4|PUNCT
+%wor:	the boy 47591_47730 is 47770_47810 handing 47890_48290 the 48310_48370 girl 48430_48610 a 48610_48630 cookie 48811_49131 too 49171_49291 .
+*PAR:	I don't know if I've said that . [+ exc] 49471_50330
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|say-Part-Past-S-irr pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|OBJ 10|4|PUNCT
+%wor:	I 49471_49491 don't 49551_49671 know 49671_49772 if 49772_49852 I've 49892_50032 said 50072_50252 that 50272_50330 .
+*PAR:	and she's reaching for it . 50452_51162
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	and 50452_50532 she's 50652_50852 reaching 50933_51162 for it .
+*PAR:	the boy is &-um I don't wanna say falling off the stool &=laughs or stepping off as it's moving , I +... 53215_59941
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|wanna verb|say-Inf-S verb|fall-Ger-S adp|off det|the-Def-Art noun|stool cconj|or verb|step-Part-Pres-S adp|off sconj|as pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|move-Part-Pres-S cm|cm pron|I-Prs-Nom-S1 +...
+%gra:	1|2|DET 2|8|NSUBJ-OUTER 3|8|COP 4|8|NSUBJ 5|8|AUX 6|8|ADVMOD 7|8|ADVMOD 8|21|ROOT 9|8|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|14|CC 14|9|CONJ 15|14|COMPOUND-PRT 16|19|MARK 17|19|NSUBJ 18|19|AUX 19|14|ADVCL 20|21|PUNCT 21|8|PARATAXIS 22|8|PUNCT
+%wor:	the 53215_53295 boy 53355_53655 is 53735_53915 um 56537_56658 I 56678_56698 don't 56698_56858 wanna 56918_57078 say 57178_57298 falling 57458_57859 off 57899_58079 the 58099_58179 stool 58239_58459 or 58479_58539 stepping 58639_59000 off 59080_59220 as 59260_59360 it's 59420_59580 moving 59640_59920 , I 59920_59941 +...
+*INV:	&=laughs .
+*PAR:	+< &=laughs okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	xxx I think that's it . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*INV:	okay good . 65346_65805
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 65346_65638 good 65638_65805 .
+@End

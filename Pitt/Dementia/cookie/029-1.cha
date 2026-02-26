@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/a-00090343-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|68;|male|ProbableAD||Participant|21||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	029-1, audio
+@G:	Cookie
+*PAR:	alright . [+ exc] 260_460
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 260_460 .
+*INV:	tell me what you see going on in that picture . 960_2822
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 960_1141 me 1181_1241 what 1301_1421 you 1461_1561 see 1621_1761 going 1821_2062 on 2102_2202 in 2242_2302 that 2342_2482 picture 2522_2822 .
+*PAR:	I see the little boy stealing cookies from the cookie jar . 4004_7114
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art adj|little-S1 noun|boy-Acc verb|steal-Ger-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|5|ACL 7|6|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|6|OBL 12|2|PUNCT
+%wor:	I 4004_4024 see 4084_4224 the 4264_4344 little 4404_4625 boy 4665_4865 stealing 5085_5466 cookies 5866_6186 from 6207_6327 the 6347_6427 cookie 6467_6807 jar 6807_7114 .
+*INV:	yeah . 7260_7450
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 7260_7450 .
+*PAR:	and <the little girl's> [//] &-uh he gave some to the little girl . 8269_10919
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|give-Fin-Ind-Past-S3-irr det|some-Def-Ind adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%wor:	and 8269_8349 the 8369_8449 little 8509_8729 girl's 8789_9250 uh 9330_9390 he 9450_9530 gave 9630_9851 some 9891_10091 to 10111_10171 the 10231_10311 little 10371_10592 girl 10652_10919 .
+*PAR:	and she's eatin(g) some of the cookies . 10952_12243
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|4|PUNCT
+%wor:	and 10952_11052 she's 11092_11312 eatin(g) 11312_11593 some 11593_11733 of 11733_11773 the 11793_11873 cookies 11913_12243 .
+*INV:	mhm . 12920_13230
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 12920_13230 .
+*PAR:	and I guess this is mama . 13695_14837
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|mama .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+%wor:	and 13695_13775 I 13835_13855 guess 13895_14036 this 14076_14236 is 14276_14376 mama 14456_14837 .
+*PAR:	and she's washing the dishes . 14961_16140
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 14961_15021 she's 15041_15221 washing 15301_15621 the 15661_15742 dishes 15822_16140 .
+*PAR:	and she dropped a dish . 17684_18559
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|drop-Fin-Ind-Past-S3 det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and 17684_17764 she 17804_17884 dropped 17964_18265 a 18305_18325 dish 18405_18559 .
+*PAR:	no [/] no , she didn't drop a dish . 18886_20269
+%mor:	intj|no cm|cm pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|drop-Inf-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	no 18886_18966 no 19046_19146 , she 19426_19526 didn't 19586_19747 drop 19787_20007 a 20047_20067 dish 20167_20269 .
+*PAR:	&-uh the [/] the water that she's washing the dishes with she let run . 20403_24333
+%mor:	det|the-Def-Art noun|water pron|that-Rel pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|with pron|she-Prs-Nom-S3 verb|let-Fin-Ind-S noun|run-Acc .
+%gra:	1|2|DET 2|12|ROOT 3|6|OBJ 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|8|DET 8|6|OBJ 9|11|MARK 10|11|NSUBJ 11|6|ADVCL 12|11|OBJ 13|2|PUNCT
+%wor:	uh 20403_20428 the 20788_20868 the 20988_21048 water 21128_21449 that 21489_21609 she's 21669_21889 washing 21949_22290 the 22310_22390 dishes 22450_22750 with 22831_22991 she 22991_23091 let 23191_23411 run 24132_24333 .
+*PAR:	and it's overflown [/] &+o overflown [/] &=laughs &+o &+o overflown . 25533_30833
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|overflown-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	and 25533_25613 it's 25673_25813 overflown 25953_26574 overflown 27475_28036 overflown 30359_30833 .
+*PAR:	<that doesn't> [/] that doesn't sound right . [+ exc] 32432_34252
+%mor:	pron|that-Dem aux|do-Fin-Ind-Pres-S3~part|not verb|sound-Inf-S adj|right-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%wor:	that 32432_32562 doesn't 32582_32863 that 32903_33083 doesn't 33604_33904 sound 33964_34185 right 34225_34252 .
+*PAR:	did &*INV:no it &-uh +/? [+ exc] 34485_35392
+%mor:	verb|do-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 +/?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	did 34485_34625 it 34825_35066 uh 35106_35392 +/?
+*PAR:	we forgot to turn off the spigot . 36388_37730
+%mor:	pron|we-Prs-Nom-P1 verb|forget-Fin-Ind-Past-P1-irr part|to verb|turn-Inf-S adp|off det|the-Def-Art noun|spigot-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|2|PUNCT
+%wor:	we 36388_36448 forgot 36488_36748 to 36788_36848 turn 36908_37089 off 37209_37289 the 37309_37389 spigot 37449_37730 .
+*PAR:	and so the water is running off <into the> [//] onto the floor here . 38120_42020
+%mor:	cconj|and adv|so det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|off adp|onto det|the-Def-Art noun|floor adv|here .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|6|ADVMOD 12|6|PUNCT
+%wor:	and 38120_38220 so 38280_38360 the 38440_38520 water 38560_38881 is 38901_38981 running 39101_39402 off 39482_39642 into 40103_40323 the 40363_40463 onto 40944_41164 the 41205_41285 floor 41385_41665 here 41765_42020 .
+*PAR:	and mom apparently is washing the dishes . 43468_46421
+%mor:	cconj|and noun|mom adv|apparently aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|ADVMOD 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 43468_43769 mom 44550_44790 apparently 44850_45291 is 45291_45431 washing 45512_45852 the 45872_45932 dishes 46012_46421 .
+*PAR:	and here's this little boy stealing <the cookie> [//] the cookies . 47835_50440
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing adj|little-S1 noun|boy verb|steal-Ger-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|CC 2|9|ROOT 3|2|COP 4|6|DET 5|6|AMOD 6|2|NSUBJ 7|2|ADVCL 8|9|DET 9|7|OBJ 10|2|PUNCT
+%wor:	and 47835_47935 here's 47955_48156 this 48176_48316 little 48356_48556 boy 48597_48817 stealing 48937_49318 the 49338_49418 cookie 49458_49939 the 50039_50199 cookies 50199_50440 .
+*PAR:	<he's gonna> [/] he's gonna fall because his [//] &-uh the [/] <the cookies jar or> [//] <the [/] the [/] the bench [: stool] [* s:r-ret]> [//] the &+s four legged stool <whatever it is> [//] is [/] is gonna fall over with him (.) and the cookie jar . 50620_63690
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S sconj|because det|the-Def-Art num|four adj|legged-S1 noun|stool aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|over adp|with pron|he-Prs-Acc-S3 cconj|and det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|19|ROOT 5|12|MARK 6|9|DET 7|9|NUMMOD 8|9|AMOD 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|4|ADVCL 13|12|COMPOUND-PRT 14|15|CASE 15|12|OBL 16|19|CC 17|19|DET 18|19|COMPOUND 19|15|CONJ 20|4|PUNCT
+%wor:	he's 50620_50700 gonna 50740_50920 he's 51000_51120 gonna 51160_51360 fall 51360_51680 because 51760_52121 his 52161_52241 uh 52241_52281 the 52301_52361 the 53021_53101 cookies 53141_53402 jar 53442_53722 or 54943_54983 the 55023_55103 the 55123_55363 the 55503_55583 stool 55623_55924 the 56004_56064 four 57845_58005 legged 58045_58365 stool 58445_58726 whatever 58846_59226 it 59226_59286 is 59346_59486 is 59586_59686 is 59867_60007 gonna 60087_60267 fall 60327_60587 over 60667_60907 with 60967_61108 him 61128_61228 and 62829_62949 the 62969_63029 cookie 63089_63309 jar 63389_63690 .
+*PAR:	and mama's drying the dishes as usual for mamas (.) if they don't have a husband that dries them or washes them or whatever . 67161_76201
+%mor:	cconj|and noun|mama~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|as adj|usual-S1 adp|for noun|mama-Plur sconj|if pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S det|a-Ind-Art noun|husband-Acc pron|that-Rel verb|dry-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 cconj|or verb|wash-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 cconj|or pron|whatever-Int-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|25|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|10|CASE 10|4|OBL 11|15|MARK 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|4|ADVCL 16|17|DET 17|15|OBJ 18|19|NSUBJ 19|17|ACL-RELCL 20|19|OBJ 21|22|CC 22|19|CONJ 23|22|OBJ 24|25|CC 25|23|CONJ 26|4|PUNCT
+%wor:	and 67161_67221 mama's 67261_67661 drying 67801_68122 the 68162_68242 dishes 68282_68522 as 68522_68562 usual 68562_69664 for 69924_70045 mamas 70085_70485 if 72688_72768 they 72768_72848 don't 72889_73069 have 73089_73249 a 73269_73289 husband 73349_73690 that 73690_73830 dries 74230_74471 them 74471_74611 or 75032_75112 washes 75172_75552 them 75552_75672 or 75793_75833 whatever 75933_76201 .
+*PAR:	&-uh let's see now . [+ exc] 78416_81461
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S adv|now .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+%wor:	uh 78416_78797 let's 80499_80699 see 80940_81160 now 81240_81461 .
+*PAR:	I guess there's more things I'm sposta see . [+ exc] 84916_86686
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|thing-Plur pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|sposta verb|see-Inf-S .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|EXPL 4|2|CCOMP 5|6|AMOD 6|4|NSUBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|ACL-RELCL 11|2|PUNCT
+%wor:	I 84916_84936 guess 84956_85096 there's 85116_85277 more 85337_85497 things 85518_85718 I'm 85798_85859 sposta 85919_86280 see 86440_86686 .
+*INV:	no , you tell me when you finished . 88001_89291
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adv|when pron|you-Prs-Nom-S2 verb|finish-Fin-Ind-Past-S2 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|4|IOBJ 6|8|ADVMOD 7|8|NSUBJ 8|4|ADVCL 9|4|PUNCT
+%wor:	no 88001_88066 , you 88206_88306 tell 88346_88527 me 88547_88607 when 88688_88788 you 88828_88908 finished 88948_89291 .
+*PAR:	let's see here now . [+ exc] 89583_90253
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S adv|here adv|now .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|3|ADVMOD 6|1|PUNCT
+%wor:	let's 89583_89791 see 89851_89992 here 89992_90072 now 90092_90253 .
+*PAR:	oh , &-uh (.) and the [/] the water is &-uh flowing out <of the> [/] of the sink they forgot to turn off whoever's doing the [/] &+w &-uh the dishwashing . [+ gram] 91437_100173
+%mor:	intj|oh cm|cm cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink pron|they-Prs-Nom-P3 verb|forget-Fin-Ind-Past-P3-irr part|to verb|turn-Inf-S adp|off pron|whoever-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dishwashing-Acc-Ger .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|CC 4|5|DET 5|7|NSUBJ 6|7|AUX 7|21|ROOT 8|11|CASE 9|11|CASE 10|11|DET 11|7|OBL 12|13|NSUBJ 13|7|PARATAXIS 14|15|MARK 15|13|XCOMP 16|15|COMPOUND-PRT 17|19|NSUBJ 18|19|AUX 19|15|CCOMP 20|21|DET 21|19|OBJ 22|7|PUNCT
+%wor:	oh 91437_91597 , uh 91597_91638 and 93882_93982 the 93982_94062 the 94463_94523 water 94603_94924 is 95024_95184 uh 95285_95465 flowing 95465_95826 out 95886_95986 of 96026_96066 the 96086_96186 of 96387_96447 the 96487_96567 sink 96667_96908 they 97228_97349 forgot 97389_97649 to 97669_97729 turn 97790_97990 off 98070_98190 whoever's 98250_98691 doing 98731_98972 the 98972_99032 uh 99312_99433 the 99513_99593 dishwashing 99673_100173 .
+*PAR:	mom apparently here , she forgot to turn off the water . 100595_102920
+%mor:	noun|mom adv|apparently adv|here cm|cm pron|she-Prs-Nom-S3 verb|forget-Fin-Ind-Past-S3-irr part|to verb|turn-Inf-S adp|off det|the-Def-Art noun|water .
+%gra:	1|6|VOCATIVE 2|3|ADVMOD 3|6|ADVMOD 4|3|PUNCT 5|6|NSUBJ 6|11|ROOT 7|8|MARK 8|6|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|6|PUNCT
+%wor:	mom 100595_100815 apparently 100876_101517 here 101517_101617 , she 101637_101777 forgot 101797_101998 to 102038_102098 turn 102158_102318 off 102378_102479 the 102519_102599 water 102659_102920 .
+*PAR:	and the [/] the water is spilling out <over the> [//] &+f <onto the floor> [//] onto the kitchen floor . 102962_108472
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|onto det|the-Def-Art noun|kitchen noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|5|COMPOUND-PRT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|5|PUNCT
+%wor:	and 102962_103022 the 103022_103482 the 103482_103563 water 103623_103923 is 103983_104104 spilling 105166_105546 out 105626_105747 over 105807_105987 the 106007_106087 onto 106468_106688 the 106748_106829 floor 106929_107209 onto 107229_107470 the 107570_107630 kitchen 107670_108051 floor 108131_108472 .
+*PAR:	and the little girl has pushed over the (.) chair [: stool] [* s:r] (..) with the boy that [//] &-uh he [//] that was reaching up to get the cookies . 109714_122434
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|have-Fin-Ind-Pres-S3 verb|push-Part-Past-S adp|over det|the-Def-Art noun|stool adp|with det|the-Def-Art noun|boy pron|that-Rel aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S adp|up part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|20|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|DET 12|6|OBL 13|15|NSUBJ 14|15|AUX 15|12|ACL-RELCL 16|15|COMPOUND-PRT 17|18|MARK 18|15|ADVCL 19|20|DET 20|18|OBJ 21|6|PUNCT
+%wor:	and 109714_109774 the 109774_109834 little 109834_110154 girl 110154_110234 has 110234_110775 pushed 110775_111056 over 111116_111316 the 111356_111456 stool 111456_113980 with 119689_119829 the 119829_119890 boy 119930_120150 that 120210_120370 uh 120370_120410 he 120490_120551 that 120591_121011 was 121131_121252 reaching 121352_121652 up 121692_121772 to 121813_121893 get 121933_122033 the 122073_122133 cookies 122173_122434 .
+*PAR:	&-uh I [//] either he [: she] [* s:r-ret] [//] she pushed it over or he fell over with it . 123100_126120
+%mor:	cconj|either pron|she-Prs-Nom-S3 verb|push-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|over cconj|or pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|over adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC-PRECONJ 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|8|CC 7|8|NSUBJ 8|3|CONJ 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|3|PUNCT
+%wor:	uh 123100_123160 I 123160_123180 either 123220_123420 she 123461_123541 she 123701_123821 pushed 124222_124483 it 124483_124583 over 124643_124863 or 124983_125064 he 125064_125124 fell 125364_125605 over 125625_125805 with 125845_126025 it 126025_126120 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-you_know it &-uh I [/] I [//] &-uh excuse me but &-you_know I [/] I was +... [+ exc] 129561_133881
+%mor:	pron|it-Prs-Nom-S3 verb|excuse-Fin-Ind-S pron|I-Prs-Acc-S1 cconj|but pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr +...
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CC 5|6|NSUBJ 6|2|CONJ 7|2|PUNCT
+%wor:	you_know 129561_129853 it 129933_130093 uh 130173_130334 I 130374_130394 I 130474_130494 uh 130494_130935 excuse 131235_131736 me 131797_131857 but 131857_131917 you_know 131917_133740 I 133740_133760 I 133780_133800 was 133820_133881 +...
+@End

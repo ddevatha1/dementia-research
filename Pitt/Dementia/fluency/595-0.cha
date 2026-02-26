@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/a-00089790-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;|male|ProbableAD||Participant|16||
+@Media:	595-0, audio
+@G:	animals
+*INV:	begin now . 260_2121
+%mor:	verb|begin-Fin-Imp-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	begin 260_2121 now .
+*PAR:	animals . [+ exc] 3223_3597
+%mor:	noun|animal-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	animals 3223_3597 .
+*PAR:	a horse . 3663_4156
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 3663_3683 horse 3743_4156 .
+*PAR:	a cow . 4203_4670
+%mor:	det|a-Ind-Art noun|cow .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a cow 4203_4670 .
+*PAR:	a sheep . 4724_5224
+%mor:	det|a-Ind-Art noun|sheep .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a sheep 4724_5224 .
+*PAR:	(.) a deer . 7747_8386
+%mor:	det|a-Ind-Art noun|deer .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 7747_7766 deer 7886_8386 .
+*PAR:	a rabbit . 8928_9480
+%mor:	det|a-Ind-Art noun|rabbit .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 8928_8947 rabbit 9047_9480 .
+*PAR:	a dog . 12391_12991
+%mor:	det|a-Ind-Art noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 12391_12431 dog 12491_12991 .
+*PAR:	a cat . 13090_13432
+%mor:	det|a-Ind-Art noun|cat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a cat 13090_13432 .
+*PAR:	a mouse . 14033_14632
+%mor:	det|a-Ind-Art noun|mouse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 14033_14052 mouse 14132_14632 .
+*PAR:	(..) a horse . 21360_21940
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 21360_21380 horse 21440_21940 .
+*PAR:	I guess I used that , didn't I ? [+ exc] 22303_23563
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Past-S1 pron|that-Dem cm|cm aux|do-Fin-Ind-Past-S1-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|7|PUNCT 7|2|PARATAXIS 8|7|ADVMOD 9|7|NSUBJ 10|2|PUNCT
+%wor:	I guess 22303_22361 I 22481_22501 used 22601_22761 that 22781_22941 , didn't 23021_23241 I 23282_23563 ?
+*PAR:	(..) elephant .
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	tiger . 33552_34033
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tiger 33552_34033 .
+*PAR:	leopard . 35354_35835
+%mor:	noun|leopard .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	leopard 35354_35835 .
+*PAR:	(.) a pony . 42955_43475
+%mor:	det|a-Ind-Art noun|pony .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 42955_42975 pony 42975_43475 .
+*INV:	(...) you got five more seconds anything else you can think of . 55031_57694
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr num|five adj|more-Cmp-S1 noun|second-Plur-Acc pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|5|NUMMOD 4|5|AMOD 5|2|OBJ 6|2|OBJ 7|6|AMOD 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|10|OBL 12|2|PUNCT
+%wor:	you 55031_55090 got 55110_55290 five 55371_55591 more 55631_55771 seconds 55811_56152 anything 56172_56512 else 56552_56692 you 56692_56772 can 56792_56913 think 56953_57133 of 57213_57694 .
+*PAR:	reindeer . 59399_59859
+%mor:	noun|reindeer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	reindeer 59399_59859 .
+*PAR:	I said a sheep@q , I think . [+ exc] 61966_63500
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|a-Ind-Art q|sheep cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|FLAT 5|7|PUNCT 6|7|NSUBJ 7|2|PARATAXIS 8|2|PUNCT
+%wor:	I 61966_61986 said 62026_62247 a 62287_62307 sheep@q 62468_63069 , I 63170_63190 think 63190_63500 .
+*INV:	okay , good . 63751_64153
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay , good 63751_64153 .
+@End

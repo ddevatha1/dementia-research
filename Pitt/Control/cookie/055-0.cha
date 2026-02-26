@@ -1,0 +1,93 @@
+@UTF8
+@PID:	11312/a-00090675-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|Control||Participant|30||
+@Media:	055-0, audio
+@G:	Cookie
+*INV:	okay and here's the picture . 300_1500
+%mor:	intj|okay cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|CC 3|6|ROOT 4|3|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+%wor:	okay 300_520 and 600_800 here's 800_1000 the 1040_1120 picture 1180_1500 .
+*PAR:	&=clears:throat a girl and a boy and a stool . [+ gram] 4963_8325
+%mor:	det|a-Ind-Art noun|girl cconj|and det|a-Ind-Art noun|boy cconj|and det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|8|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|8|CC 7|8|DET 8|2|CONJ 9|2|PUNCT
+%wor:	a 4963_4983 girl 5043_5383 and 5744_5824 a 5844_5864 boy 5964_6344 and 7625_7705 a 7725_7745 stool 7825_8325 .
+*PAR:	cookies . [+ gram] 9387_9886
+%mor:	noun|cookie-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cookies 9387_9886 .
+*PAR:	cookie jar . [+ gram] 10168_11010
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	cookie 10168_10507 jar 10547_11010 .
+*PAR:	open closet . [+ gram] 12770_13609
+%mor:	adj|open-S1 noun|closet .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	open 12770_13029 closet 13109_13609 .
+*INV:	okay . 15382_15492
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 15382_15492 .
+*PAR:	curtains . [+ gram] 15602_16102
+%mor:	noun|curtain-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	curtains 15602_16102 .
+*INV:	+< what's going on in the picture ? 16182_17470
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 16182_16383 going 16443_16723 on 16823_16983 in 17063_17103 the 17123_17204 picture 17244_17470 ?
+*INV:	what kind of action is there ? 17584_18910
+%mor:	det|what-Def-Int noun|kind adp|of noun|action aux|be-Fin-Ind-Pres-S3 adv|there ?
+%gra:	1|2|DET 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	what 17584_17664 kind 17664_17804 of 17804_17884 action 18004_18385 is 18465_18585 there 18645_18910 ?
+*PAR:	oh the little boy's reaching for the cookies and the stool's falling over . 19506_23518
+%mor:	intj|oh det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur cconj|and det|the-Def-Art noun|stool~part|s verb|fall-Part-Pres-S adv|over .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|15|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|14|CC 11|12|DET 12|14|NMOD-POSS 13|12|CASE 14|9|CONJ 15|14|ADVMOD 16|6|PUNCT
+%wor:	oh 19506_19626 the 19646_19746 little 19786_20167 boy's 20287_20547 reaching 20607_20947 for 21048_21148 the 21168_21228 cookies 21288_21668 and 21728_21808 the 21808_21888 stool's 21949_22409 falling 22850_23190 over 23250_23518 .
+*PAR:	she's laughing I think &+wai waiting for a cookie . 25426_28456
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 verb|wait-Ger-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|NSUBJ 5|3|PARATAXIS 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+%wor:	she's 25426_25592 laughing 25653_27054 I 27054_27074 think 27074_27294 waiting 27494_27755 for 27815_27975 a 27995_28015 cookie 28075_28456 .
+*PAR:	the mother's drying dishes . 29307_31617
+%mor:	det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 29307_29367 mother's 29387_29747 drying 30728_31088 dishes 31128_31617 .
+*PAR:	the water's spilling over . 32671_34242
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	the 32671_32750 water's 32810_33230 spilling 33330_33771 over 33831_34242 .
+*PAR:	there's two tea [//] &+k coffee cups , a saucer a plate . 35701_39741
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|coffee noun|cup-Plur cm|cm det|a-Ind-Art noun|saucer det|a-Ind-Art noun|plate .
+%gra:	1|2|EXPL 2|10|ROOT 3|5|NUMMOD 4|5|COMPOUND 5|2|NSUBJ 6|8|PUNCT 7|8|DET 8|5|APPOS 9|10|DET 10|8|APPOS 11|2|PUNCT
+%wor:	there's 35701_35873 two 36193_36353 tea 36453_36634 coffee 37154_37515 cups 37535_37895 , a 38435_38455 saucer 38576_39256 a 39276_39296 plate 39396_39741 .
+*PAR:	let me see . [+ exc] 41289_41599
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	let 41289_41298 me 41298_41358 see 41478_41599 .
+*PAR:	the (.) view from the outside . [+ gram] 43562_44552
+%mor:	det|the-Def-Art noun|view adp|from det|the-Def-Art adj|outside-S1 .
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	the 43562_43702 view 43763_43843 from 43843_43963 the 43983_44063 outside 44163_44552 .
+*PAR:	a tree and some shrubs . [+ gram] 44643_45943
+%mor:	det|a-Ind-Art noun|tree cconj|and det|some-Def-Ind noun|shrub-Plur .
+%gra:	1|2|DET 2|5|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|2|PUNCT
+%wor:	a 44643_44663 tree 44763_45063 and 45263_45363 some 45363_45443 shrubs 45443_45943 .
+*PAR:	(..) the plate she's wiping . [+ gram] 53587_54728
+%mor:	det|the-Def-Art noun|plate pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S .
+%gra:	1|2|DET 2|5|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|2|PUNCT
+%wor:	the 53587_53647 plate 53647_53848 she's 53848_54148 wiping 54228_54728 .
+*PAR:	tea towel . [+ gram] 55188_55769
+%mor:	noun|tea noun|towel .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	tea 55188_55328 towel 55388_55769 .
+*PAR:	any more ? [+ exc]
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	hmhunh that's fine . 59948_60695
+%mor:	intj|hmhunh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	hmhunh 59948_60069 that's 60069_60271 fine 60351_60695 .
+@End

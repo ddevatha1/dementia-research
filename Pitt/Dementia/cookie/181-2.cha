@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/a-00090431-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|80;00.|female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	181-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	&-uh she's &-um &+w &+w &+w washing dishes . 3792_4812
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	uh 3792_3952 she's 4112_4812 um washing dishes .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and this one , he's trying to get up in the cupboard , cookie jar . 7875_10178
+%mor:	cconj|and det|this-Def-Dem-Sing noun|one cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S adp|up adp|in det|the-Def-Art noun|cupboard cm|cm noun|cookie noun|jar .
+%gra:	1|7|CC 2|3|DET 3|7|OBL-UNMARKED 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|16|ROOT 8|9|MARK 9|7|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|16|PUNCT 15|16|COMPOUND 16|13|APPOS 17|7|PUNCT
+%wor:	and this 7875_7895 one 7895_8015 , he's 8035_8136 trying 8176_8336 to 8376_8436 get 8476_8596 up 8616_8716 in 8736_8796 the 8796_8856 cupboard 8916_9237 , cookie 9577_9857 jar 9877_10178 .
+*PAR:	&+th that doesn't make (th)em alike . [+ es] 15131_16441
+%mor:	pron|that-Dem aux|do-Fin-Ind-Pres-S3~part|not verb|make-Inf-S pron|they-Prs-Acc-P3 adj|alike-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+%wor:	that 15131_15211 doesn't 15211_15351 make 15371_15611 (th)em 15611_16052 alike 16092_16441 .
+*INV:	okay , anything else you see going on ? 18287_20147
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|AMOD 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|3|PUNCT
+%wor:	okay 18287_18437 , anything 18437_18958 else 19038_19219 you 19239_19299 see 19379_19519 going 19560_19840 on 19880_20147 ?
+*PAR:	he's fallin(g) off of the stool . 24550_25953
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	he's 24550_24690 fallin(g) 24730_25231 off 25231_25331 of 25331_25371 the 25391_25512 stool 25572_25953 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and the sink's running over . 30316_31386
+%mor:	cconj|and det|the-Def-Art noun|sink~part|s noun|running-Ger adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 30316_30376 the 30376_30436 sink's 30496_30736 running 30796_31037 over 31097_31386 .
+*PAR:	water . [+ gram] 32975_33305
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	water 32975_33305 .
+*PAR:	I guess that's it , huh ? [+ exc] 37879_38748
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm intj|huh ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|PUNCT 7|5|VOCATIVE 8|2|PUNCT
+%wor:	I guess that's 37879_38327 it 38387_38527 , huh 38527_38748 ?
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

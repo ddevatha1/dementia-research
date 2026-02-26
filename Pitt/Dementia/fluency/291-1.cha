@@ -1,0 +1,155 @@
+@UTF8
+@PID:	11312/a-00089724-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|72;|female|ProbableAD||Participant|20||
+@Media:	291-1, audio
+@G:	foods
+*INV:	www .
+%exp:	previous task
+*INV:	okay , now . 3273_4204
+%mor:	intj|okay cm|cm adv|now .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|ADVMOD 4|1|PUNCT
+%wor:	okay 3273_4204 , now .
+*PAR:	oranges . 5879_6367
+%mor:	noun|orange-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oranges 5879_6367 .
+*PAR:	bananas . 6539_7000
+%mor:	noun|banana-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bananas 6539_7000 .
+*PAR:	apples . 7803_8290
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apples 7803_8290 .
+*PAR:	meat . 9752_10248
+%mor:	noun|meat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	meat 9752_10248 .
+*PAR:	turkey . 10814_11310
+%mor:	noun|turkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	turkey 10814_11310 .
+*PAR:	chicken . 12133_12615
+%mor:	noun|chicken .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	chicken 12133_12615 .
+*PAR:	&-uh apple sauce . 15138_16719
+%mor:	noun|apple noun|sauce .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	uh 15138_15198 apple 15258_16019 sauce 16219_16719 .
+*PAR:	do I continue ? [+ exc] 21426_22205
+%mor:	aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|continue-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	do 21426_21485 I 21625_21645 continue 21705_22205 ?
+*INV:	+< mhm , you got a whole minute to go . 22407_23900
+%mor:	intj|mhm cm|cm pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr det|a-Ind-Art adj|whole-S1 noun|minute-Acc part|to verb|go-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|9|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|MARK 9|4|ADVCL 10|4|PUNCT
+%wor:	mhm 22407_22466 , you 22466_22526 got 22946_23087 a 23087_23107 whole 23167_23467 minute 23787_23900 to go .
+*PAR:	oh . [+ exc] 24008_24428
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 24008_24428 .
+*INV:	+< about thirty seconds to go . 24048_25729
+%mor:	adv|about num|thirty noun|second-Plur part|to verb|go-Inf-S .
+%gra:	1|2|ADVMOD 2|3|NUMMOD 3|5|ROOT 4|5|MARK 5|3|ACL 6|3|PUNCT
+%wor:	about 24048_24168 thirty 24188_24308 seconds 24448_24788 to 24808_25009 go 25229_25729 .
+*PAR:	&-um (.) cabbage . 28692_30454
+%mor:	noun|cabbage .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 28692_28893 cabbage 29954_30454 .
+*PAR:	lettuce . 30755_31254
+%mor:	noun|lettuce .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lettuce 30755_31254 .
+*PAR:	(.) bread . 35760_36259
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bread 35760_36259 .
+*PAR:	(.) cheese . 38723_39222
+%mor:	noun|cheese .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cheese 38723_39222 .
+*INV:	anything else you can think of ? 44250_45790
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of ?
+%gra:	1|6|ROOT 2|1|AMOD 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|5|OBL 7|1|PUNCT
+%wor:	anything 44250_44971 else 45011_45131 you 45171_45251 can 45351_45511 think 45511_45790 of ?
+*PAR:	no . [+ exc]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I don't know . [+ exc] 48457_49176
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 48457_48475 don't 48495_48656 know 48676_49176 .
+*INV:	things to eat . 50358_51579
+%mor:	noun|thing-Plur part|to verb|eat-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|ACL 4|1|PUNCT
+%wor:	things 50358_50678 to 50759_50859 eat 51079_51579 .
+*PAR:	you always get me in here in the afternoon when I've had it already &=laughs . [+ exc] 52683_56547
+%mor:	pron|you-Prs-Nom-S2 adv|always verb|get-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adp|in adv|here adp|in det|the-Def-Art noun|afternoon adv|when pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|have-Part-Past-S-irr pron|it-Prs-Acc-S3 adv|already .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|15|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|9|CASE 8|9|DET 9|3|OBL 10|13|ADVMOD 11|13|NSUBJ 12|13|AUX 13|3|ADVCL 14|13|OBJ 15|13|ADVMOD 16|3|PUNCT
+%wor:	you 52683_52781 always 52841_53102 get 53182_53322 me 53382_53462 in 53542_53703 here 53783_54023 in 54043_54123 the 54143_54223 afternoon 54343_54924 when 55004_55145 I've 55285_55385 had 55565_55826 it 55886_55986 already 56066_56547 .
+*INV:	well , maybe next time I'll get you in the morning . 61199_62334
+%mor:	intj|well cm|cm adv|maybe adj|next-S1 noun|time pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S pron|you-Prs-Acc-S2 adp|in det|the-Def-Art noun|morning-Ger .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|ADVMOD 4|5|AMOD 5|8|OBL-UNMARKED 6|8|NSUBJ 7|8|AUX 8|12|ROOT 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|8|PUNCT
+%wor:	well 61199_62334 , maybe next time I'll get you in the morning .
+@G:	S
+*INV:	and you can start now .
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	&-uh sandwich . 65661_66198
+%mor:	noun|sandwich .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 65661_65701 sandwich 65721_66198 .
+*PAR:	oh gosh &=laughs . [+ exc] 72500_73623
+%mor:	intj|oh intj|gosh .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 72500_72723 gosh 73123_73623 .
+*INV:	anything you can think of with the letter s@l . 76687_77989
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|9|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBL 6|8|CASE 7|8|DET 8|4|OBL 9|8|CASE 10|1|PUNCT
+%wor:	anything 76687_77989 you can think of with the letter s .
+*PAR:	sugar . 80191_80651
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sugar 80191_80651 .
+*PAR:	salt . 80932_81431
+%mor:	noun|salt .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salt 80932_81431 .
+*INV:	mhm . 81443_81912
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 81443_81912 .
+*PAR:	and &-um sauerkraut . 83355_83754
+%mor:	cconj|and noun|sauerkraut .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and um sauerkraut 83355_83754 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) you always get me in the afternoon when I'm beat . [+ exc] 100672_103614
+%mor:	pron|you-Prs-Nom-S2 adv|always verb|get-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|afternoon adv|when pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|beat-Part-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|11|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|3|ADVCL 12|3|PUNCT
+%wor:	you 100672_100752 always 100792_101052 get 101112_101232 me 101292_101332 in 101392_101472 the 101512_101612 afternoon 101733_102293 when 102373_102513 I'm 102654_102714 beat 103114_103614 .
+*INV:	&=laughs .
+*INV:	anything else you can think of that begins with the letter s@l ? 109361_112303
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s ?
+%gra:	1|12|ROOT 2|1|AMOD 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|5|OBL 7|8|NSUBJ 8|1|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|11|CASE 13|1|PUNCT
+%wor:	anything 109361_109661 else 109681_109801 you 109821_109901 can 109901_110021 think 110041_110201 of 110241_110301 that 110321_110422 begins 110422_110742 with 110762_110882 the 110882_110942 letter 111022_111282 s 111803_112303 ?
+*PAR:	did I say sugar@q salt@q &=laughs ? [+ exc] 115547_116968
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S q|sugar q|salt ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|FLAT 5|3|FLAT 6|3|PUNCT
+%wor:	did 115547_115647 I 115747_115767 say 115847_116008 sugar@q 116068_116449 salt@q 116469_116968 ?
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay . 122446_122805
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 122446_122805 .
+@End

@@ -1,0 +1,212 @@
+@UTF8
+@PID:	11312/a-00091405-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|13||
+@Media:	319-0, audio
+*INV:	now what I want you to do is I'm gonna give you a word . 2303_4725
+%mor:	adv|now pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|word-Acc .
+%gra:	1|12|ADVMOD 2|12|NSUBJ-OUTER 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|12|COP 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|15|ROOT 13|12|IOBJ 14|15|DET 15|12|OBJ 16|12|PUNCT
+%wor:	now 2303_2443 what 2503_2623 I 2723_2743 want 2783_2963 you 2983_3084 to 3104_3144 do 3204_3304 is 3404_3464 I'm 3544_3624 gonna 3664_3865 give 3885_4105 you 4125_4225 a 4305_4325 word 4425_4725 .
+*INV:	and I'd like you to come up with a short simple sentence using that word . 4746_8162
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|come-Inf-S adp|up adp|with det|a-Ind-Art adj|short-S1 adj|simple-S1 noun|sentence verb|use-Ger-S det|that-Def-Dem-Sing noun|word-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|COMPOUND-PRT 9|13|CASE 10|13|DET 11|13|AMOD 12|13|AMOD 13|7|OBL 14|7|ADVCL 15|16|DET 16|14|OBJ 17|4|PUNCT
+%wor:	and 4746_4826 I'd 4926_4986 like 4986_5146 you 5166_5226 to 5246_5306 come 5346_5487 up 5487_5587 with 5607_5727 a 5767_5787 short 5947_6248 simple 6348_6688 sentence 6768_7229 using 7289_7569 that 7589_7850 word 7910_8162 .
+*INV:	let me give you an example . 8691_9912
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|example-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|6|DET 6|3|OBJ 7|1|PUNCT
+%wor:	let 8691_8811 me 8831_8891 give 8951_9111 you 9151_9272 an 9312_9372 example 9412_9912 .
+*INV:	if I give you the word table@q you can say something like +"/. 10133_13061
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|the-Def-Art noun|word-Acc q|table pron|you-Prs-Nom-S2 aux|can-Fin-S verb|say-Inf-S pron|something-Ind-S1 adp|like +"/.
+%gra:	1|3|MARK 2|3|NSUBJ 3|10|ADVCL 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|FLAT 8|10|NSUBJ 9|10|AUX 10|12|ROOT 11|10|OBJ 12|10|DISCOURSE 13|10|PUNCT
+%wor:	if I 10133_10153 give 10213_10393 you 10413_10513 the 10553_10633 word 10673_10894 table@q 10974_12015 you 12035_12115 can 12135_12296 say 12316_12456 something 12556_12896 like 12936_13061 +"/.
+*INV:	+" your dinner is on the table . 13137_14559
+%mor:	pron|your-Prs-Gen-S2 noun|dinner aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|table .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	your 13137_13257 dinner 13277_13577 is 13677_13777 on 13858_13998 the 14018_14098 table 14178_14559 .
+*PAR:	hm . [+ exc] 15339_15839
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hm 15339_15839 .
+*INV:	how (a)bout the word pencil@q . 15848_16921
+%mor:	adv|how adp|about det|the-Def-Art noun|word q|pencil .
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|4|FLAT 6|1|PUNCT
+%wor:	how (a)bout 15848_15980 the 16020_16140 word 16180_16361 pencil@q 16421_16921 .
+*INV:	give me a short sentence using the word pencil@q . 17473_20205
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|short-S1 noun|sentence-Acc verb|use-Ger-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|9|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|1|OBJ 6|5|ACL 7|8|DET 8|6|OBJ 9|8|FLAT 10|1|PUNCT
+%wor:	give 17473_17522 me 17602_17662 a 17722_17742 short 17882_18203 sentence 18323_18804 using 18884_19124 the 19144_19244 word 19284_19544 pencil@q 19705_20205 .
+*PAR:	may I use your pencil , please ? 21066_22828
+%mor:	aux|may-Fin-S pron|I-Prs-Nom-S1 verb|use-Inf-S pron|your-Prs-Gen-S2 noun|pencil-Acc cm|cm intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|PUNCT 7|3|DISCOURSE 8|3|PUNCT
+%wor:	may 21066_21186 I 21327_21347 use 21427_21587 your 21607_21727 pencil 21767_22228 , please 22328_22828 ?
+*INV:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I like this . [+ exc] 27874_28715
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I 27874_27894 like 27934_28155 this 28215_28715 .
+*INV:	do you ? 29136_29776
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	do 29136_29236 you 29276_29776 ?
+*PAR:	&=laughs . [+ exc]
+*INV:	+< how (a)bout this one ? 30570_31600
+%mor:	adv|how adp|about det|this-Def-Dem-Sing noun|one ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	how (a)bout 30570_31017 this 31057_31257 one 31397_31600 ?
+*INV:	tree@q . 31697_32197
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 31697_32197 .
+*INV:	give me a short sentence using the word tree@q . 32978_35306
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|short-S1 noun|sentence-Acc verb|use-Ger-S det|the-Def-Art noun|word-Acc q|tree .
+%gra:	1|9|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|1|OBJ 6|5|ACL 7|8|DET 8|6|OBJ 9|8|FLAT 10|1|PUNCT
+%wor:	give 32978_33078 me 33078_33158 a 33178_33198 short 33318_33598 sentence 33679_34119 using 34179_34399 the 34419_34499 word 34559_34779 tree@q 34899_35306 .
+*PAR:	come down off the tree , you'll fall ! 35306_37260
+%mor:	verb|come-Fin-Imp-S adp|down adp|off det|the-Def-Art noun|tree cm|cm pron|you-Prs-Nom-S2~aux|will-Fin-S verb|fall-Inf-S !
+%gra:	1|9|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|9|PUNCT 7|9|NSUBJ 8|9|AUX 9|1|PARATAXIS 10|1|PUNCT
+%wor:	come 35306_35520 down 35640_35940 off 36000_36100 the 36120_36180 tree 36260_36480 , you'll 36520_36720 fall 36760_37260 !
+*PAR:	&=laughs &+c (be)cause I've fallen out of (th)em . [+ exc] 37395_40832
+%mor:	sconj|because pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|fall-Part-Past-S-irr adp|out adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|5|FIXED 7|4|OBL 8|4|PUNCT
+%wor:	(be)cause 37395_39842 I've 39862_39942 fallen 39982_40343 out 40403_40463 of 40463_40503 (th)em 40503_40832 .
+*INV:	have you ? 41123_41644
+%mor:	verb|have-Fin-Imp-S2 pron|you-Prs-Acc-S2 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	have 41123_41403 you 41443_41644 ?
+*PAR:	yeah , I'm climbing like a boy when I was young . [+ exc] 41824_44327
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|climb-Part-Pres-S adp|like det|a-Ind-Art noun|boy adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|young-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|ADVMOD 10|12|NSUBJ 11|12|COP 12|5|ADVCL 13|5|PUNCT
+%wor:	yeah 41824_42004 , I'm 42004_42064 climbing 42164_42625 like 42645_42846 a 42866_42886 boy 43006_43226 when 43266_43427 I 43487_43507 was 43587_43747 young 43827_44327 .
+*INV:	now I'm gonna give you two words . 46152_47612
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+%wor:	now 46152_46272 I'm 46272_46332 gonna 46332_46472 give 46532_46713 you 46713_46773 two 46853_46973 words 47113_47612 .
+*PAR:	now how did I get this thing on +/? [+ exc] 47935_49655
+%mor:	adv|now adv|how aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|get-Inf-S det|this-Def-Dem-Sing noun|thing-Acc-Ger adp|on +/?
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+%wor:	now 47935_48135 how 48135_48255 did 48315_48456 I 48496_48516 get 48616_48756 this 48796_48997 thing 49037_49177 on 49177_49655 +/?
+*INV:	+< I put that on there . 49255_50012
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr pron|that-Dem adp|on adv|there .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|OBL 6|2|PUNCT
+%wor:	I put 49255_49297 that 49317_49397 on 49437_49518 there 49538_50012 .
+*PAR:	oh , did you ? [+ exc] 50012_50679
+%mor:	intj|oh cm|cm aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	oh , did 50012_50179 you 50179_50679 ?
+*INV:	mhm . 50804_50819
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 50804_50819 .
+*PAR:	&=laughs alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay , I'm going to give you two words , Missus Lastname . 52407_52843
+%mor:	intj|okay cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc cm|cm propn|Missus propn|Lastname .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|7|MARK 7|5|XCOMP 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|12|PUNCT 12|10|APPOS 13|12|FLAT 14|5|PUNCT
+%wor:	okay , I'm going to give you two words , Missus Lastname 52407_52843 .
+*INV:	and I want you both of those words in a sentence for me . 55068_57710
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|both-Def-Tot adp|of det|that-Def-Dem-Plur noun|word-Plur adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|13|ROOT 4|3|IOBJ 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|CASE 10|11|DET 11|3|OBL 12|13|CASE 13|11|NMOD 14|3|PUNCT
+%wor:	and 55068_55128 I 55208_55228 want 55268_55388 you 55448_55568 both 55768_56028 of 56048_56128 those 56148_56409 words 56449_56709 in 56749_56809 a 56849_56869 sentence 56989_57489 for 57529_57710 me .
+*INV:	in one sentence use the two words I give you . 58010_60569
+%mor:	adp|in num|one noun|sentence verb|use-Fin-Imp-S det|the-Def-Art num|two noun|word-Plur-Acc pron|I-Prs-Nom-S1 verb|give-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|CASE 2|3|NUMMOD 3|4|OBL 4|10|ROOT 5|7|DET 6|7|NUMMOD 7|4|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|IOBJ 11|4|PUNCT
+%wor:	in 58010_58090 one 58310_58490 sentence 58570_59051 use 59151_59311 the 59331_59431 two 59471_59611 words 59651_59911 I 60011_60031 give 60091_60311 you 60352_60569 .
+*INV:	don't worry about the order just use both of them . 61072_63332
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about det|the-Def-Art noun|order adv|just verb|use-Fin-Imp-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|ADVMOD 8|3|ADVCL 9|8|OBJ 10|11|CASE 11|9|NMOD 12|3|PUNCT
+%wor:	don't 61072_61252 worry 61272_61452 about 61472_61632 the 61652_61733 order 61893_62133 just 62193_62413 use 62433_62573 both 62613_62853 of 62893_62973 them 62993_63332 .
+*INV:	child@q hospital@q . 63894_65515
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 63894_64595 hospital@q 65015_65515 .
+*PAR:	she's in the children's hospital . 66876_68577
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|child-Plur~part|s noun|hospital .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|CASE 4|5|DET 5|7|NMOD-POSS 6|5|CASE 7|7|ROOT 8|7|PUNCT
+%wor:	she's 66876_67197 in 67257_67337 the 67357_67437 children's 67517_67997 hospital 68077_68577 .
+*INV:	okay . 69032_69158
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 69032_69158 .
+*INV:	how (a)bout cold@q winter@q ? 75326_77648
+%mor:	adv|how adp|about q|cold q|winter ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|FLAT 4|1|FLAT 5|1|PUNCT
+%wor:	how 75326_75426 (a)bout 75426_75706 cold@q 75846_77148 winter@q 77148_77648 ?
+*PAR:	cold@q winter@q . [+ exc] 78790_79690
+%mor:	q|cold q|winter .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	cold@q 78790_79190 winter@q 79190_79690 .
+*PAR:	let's get ready for the &+s winter (be)cause it's gonna be very cold . 80932_85096
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S adj|ready-S1 adp|for det|the-Def-Art noun|winter sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go aux|be-Inf-S adv|very adj|cold-S1 .
+%gra:	1|14|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|14|MARK 9|14|NSUBJ 10|14|AUX 11|14|ADVMOD 12|14|COP 13|14|ADVMOD 14|3|ADVCL 15|1|PUNCT
+%wor:	let's 80932_81133 get 81193_81333 ready 81433_81693 for 81813_81973 the 82013_82094 winter 82914_83235 (be)cause 83235_83535 it's 83575_83655 gonna 83715_83915 be 83975_84055 very 84216_84516 cold 84596_85096 .
+*INV:	okay . 85646_85656
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 85646_85656 .
+*PAR:	&-mm I like this . [+ exc] 92543_93604
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	mm 92543_92604 I 92704_92724 like 92784_93044 this 93104_93604 .
+*PAR:	if don't know &=laughs +... [+ exc] 95166_96007
+%mor:	sconj|if aux|do-Fin-Ind-Pres-S~part|not verb|know-Fin-Imp-S +...
+%gra:	1|4|MARK 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	if 95166_95206 don't 95226_95447 know 95507_96007 +...
+*INV:	okay [/] okay . 98130_98800
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 98130_98800 okay .
+*INV:	chair@q doctor@q sit@q . 100332_103115
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 100332_101473 doctor@q 101473_102615 sit@q 102615_103115 .
+*PAR:	the doctor is sick in the chair . 105498_108220
+%mor:	det|the-Def-Art noun|doctor aux|be-Fin-Ind-Pres-S3 adj|sick-S1 adp|in det|the-Def-Art noun|chair .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 105498_105598 doctor 105698_106319 is 106439_106539 sick 106779_107020 in 107360_107460 the 107520_107620 chair 107720_108220 .
+*INV:	okay . 109503_110003
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 109503_110003 .
+*PAR:	xxx . [+ exc]
+*INV:	bureau@q +/. 115994_116494
+%mor:	q|bureau +/.
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	bureau@q 115994_116494 +/.
+*PAR:	pardon . [+ exc] 117356_117841
+%mor:	noun|pardon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pardon 117356_117841 .
+*INV:	bureau@q open@q drawer@q . 118297_121181
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 118297_119700 open@q 119760_120220 drawer@q 120681_121181 .
+*INV:	use those words in a sentence . 121643_123064
+%mor:	verb|use-Fin-Imp-S det|that-Def-Dem-Plur noun|word-Plur-Acc adp|in det|a-Ind-Art noun|sentence .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%wor:	use 121643_121803 those 121823_121943 words 121943_122044 in 122264_122384 a 122544_122564 sentence 122564_123064 .
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	don't open that drawer . 124207_125669
+%mor:	aux|do-Fin-Imp-S~part|not verb|open-Fin-Imp-S det|that-Def-Dem-Sing noun|drawer-Acc .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	don't 124207_124448 open 124568_124828 that 124888_125049 drawer 125169_125669 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-mm this is kinda +... [+ exc] 130218_131390
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|kinda +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	mm 130218_130278 this 130458_130639 is 130679_130779 kinda 130899_131390 +...
+*INV:	okay . 131680_132180
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 131680_132180 .
+@End

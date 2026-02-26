@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/a-00089867-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|male|ProbableAD||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	058-0, audio
+@G:	George_Unknown
+*PAR:	Melanie was the daughter . 10864_11952
+%mor:	propn|Melanie aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|daughter .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	Melanie 10864_11304 was 11304_11425 the 11485_11565 daughter 11605_11952 .
+*PAR:	she was a granddaughter . 12346_13087
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|granddaughter .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	she was 12346_12486 a 12506_12526 granddaughter 12587_13087 .
+*INV:	mhm . 13268_13708
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 13268_13708 .
+*PAR:	and her grandfather George told her the story about where [/] where he useta live . 14789_22157
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|grandfather propn|George verb|tell-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 det|the-Def-Art noun|story-Acc adp|about adv|where pron|he-Prs-Nom-S3 noun|useta verb|live-Fin-Ind-Pres-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|3|APPOS 5|13|ROOT 6|5|IOBJ 7|8|DET 8|5|OBJ 9|10|CASE 10|8|NMOD 11|13|NSUBJ 12|13|NSUBJ 13|8|ACL 14|5|PUNCT
+%wor:	and 14789_15129 her 15249_15389 grandfather 15669_16530 George 16610_16971 told 18392_18592 her 18592_18712 the 18732_18792 story 18852_19193 about 19313_19633 where 19693_20874 where 21054_21234 he 21274_21395 useta 21435_21755 live 21815_22157 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and &-uh he decided to take her on a trip to see this area . 23999_29042
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|decide-Fin-Ind-Past-S3 part|to verb|take-Inf-S pron|her-Prs-Acc-S3 adp|on det|a-Ind-Art noun|trip part|to verb|see-Inf-S det|this-Def-Dem-Sing noun|area-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|13|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|11|MARK 11|5|ADVCL 12|13|DET 13|11|OBJ 14|3|PUNCT
+%wor:	and 23999_24237 uh 24317_24718 he 24738_24798 decided 24958_25438 to 25498_25538 take 25618_25899 her 25939_26079 on 27560_27640 a 27720_27740 trip 27800_28021 to 28081_28161 see 28261_28441 this 28501_28661 area 28761_29042 .
+*PAR:	and &-uh he held her by the hand . 31175_34139
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|hold-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|by det|the-Def-Art noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	and 31175_31696 uh 31756_32738 he 32758_32798 held 32878_33138 her 33138_33198 by 33238_33459 the 33479_33559 hand 33639_34139 .
+*PAR:	and &-uh although he did this she was frightened . 35825_40251
+%mor:	cconj|and sconj|although pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr pron|this-Dem-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S .
+%gra:	1|8|CC 2|4|MARK 3|4|NSUBJ 4|8|ADVCL 5|4|OBJ 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|8|ROOT 9|8|PUNCT
+%wor:	and 35825_38208 uh 38248_38368 although 38408_38749 he 38849_38889 did 38909_39089 this 39129_39270 she 39350_39450 was 39550_39670 frightened 39751_40251 .
+*PAR:	and then <they went> [//] they walked through the area where he had lived . 40753_46279
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|walk-Fin-Ind-Past-P3 adp|through det|the-Def-Art noun|area adv|where pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|live-Part-Past-S .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|11|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|4|PUNCT
+%wor:	and 40753_40813 then 40813_41053 they 41193_41314 went 41454_41654 they 43376_43496 walked 43536_43856 through 43876_44117 the 44157_44257 area 44357_44597 where 44617_44978 he 45018_45058 had 45558_45718 lived 45779_46279 .
+*INV:	okay . 52526_52947
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 52526_52947 .
+@End

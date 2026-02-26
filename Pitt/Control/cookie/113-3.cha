@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/a-00090717-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|50;|female|Control||Participant|30||
+@Media:	113-3, audio
+@G:	Cookie
+*INV:	okay and here's the picture . 1941_3120
+%mor:	intj|okay cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|CC 3|6|ROOT 4|3|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+%wor:	okay 1941_2081 and 2101_2221 here's 2221_2442 the 2482_2562 picture 2662_3120 .
+*PAR:	little boy getting in the cookie jar . [+ gram] 8288_9898
+%mor:	adj|little-S1 noun|boy verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|AMOD 2|7|ROOT 3|2|ACL 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|2|PUNCT
+%wor:	little 8288_8535 boy 8535_8675 getting 8775_9076 in 9096_9196 the 9216_9296 cookie 9376_9777 jar 9777_9898 .
+*PAR:	and the little girl holding out her hand for some cookies . 11124_15390
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|hold-Ger-S adp|out pron|her-Prs-Gen-S3 noun|hand-Acc adp|for det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|11|ROOT 5|4|ACL 6|5|COMPOUND-PRT 7|8|NMOD-POSS 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|4|PUNCT
+%wor:	and 11124_11224 the 11224_11284 little 11284_11564 girl 11604_12145 holding 12246_12626 out 12686_12827 her 12827_12907 hand 12967_13408 for 13548_13768 some 14630_14810 cookies 14890_15390 .
+*PAR:	and a stool the boy is on is about to tip over . 15612_19878
+%mor:	cconj|and det|a-Ind-Art noun|stool det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|tip-Inf-S adp|over .
+%gra:	1|9|CC 2|3|DET 3|9|NSUBJ 4|5|DET 5|7|NSUBJ 6|7|COP 7|3|ACL-RELCL 8|9|COP 9|12|ROOT 10|11|MARK 11|9|XCOMP 12|11|COMPOUND-PRT 13|9|PUNCT
+%wor:	and 15612_16112 a 16593_16613 stool 16693_17315 the 17495_17595 boy 17715_17976 is 18036_18136 on 18216_18336 is 18396_18497 about 18537_18797 to 18837_18917 tip 19018_19218 over 19378_19878 .
+*PAR:	and a lady is drying a dish . 20661_24027
+%mor:	cconj|and det|a-Ind-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 20661_20821 a 20841_20861 lady 20961_21362 is 21542_21943 drying 22945_23405 a 23466_23486 dish 23566_24027 .
+*PAR:	and the water is running over overflowing from the sink . 24211_28393
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|CASE 7|5|OBL 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+%wor:	and 24211_24271 the 24271_24351 water 24411_24831 is 24871_25011 running 25091_25431 over 25532_25892 overflowing 27013_27513 from 27533_27673 the 27713_27773 sink 27893_28393 .
+*PAR:	&-uh you said just the action ? [+ exc] 30476_31762
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr adv|just det|the-Def-Art noun|action-Acc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|ADVMOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	uh you 30476_30595 said 30655_30795 just 30815_31036 the 31076_31136 action 31296_31762 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< the lady is stepping in the water on the floor . 32758_36439
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	the lady 32758_32857 is 32977_33097 stepping 33197_33637 in 33677_33758 the 33778_33858 water 33918_34318 on 35739_35819 the 35819_35879 floor 35939_36439 .
+*PAR:	&-hm I don't know what's goin(g) on outside the window . [+ exc] 41648_43915
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|outside det|the-Def-Art noun|window .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|4|PUNCT
+%wor:	hm 41648_41688 I 41788_41808 don't 41808_42028 know 42128_42409 what's 42469_42769 goin(g) 42809_43915 on outside the window .
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	that's fine thank you . 48976_49477
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|3|PARATAXIS 5|4|OBJ 6|3|PUNCT
+%wor:	that's 48976_49136 fine 49136_49216 thank 49216_49316 you 49356_49477 .
+@End

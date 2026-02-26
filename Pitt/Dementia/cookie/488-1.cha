@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090558-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|17||
+@Media:	488-1, audio
+@G:	Cookie
+*INV:	happening . 260_680
+%mor:	verb|happen-Part-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	happening 260_680 .
+*INV:	everything that you see happening in that picture . 800_3151
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+%wor:	everything 800_1200 that 1220_1341 you 1361_1461 see 1561_1701 happening 1801_2302 in 2342_2422 that 2462_2662 picture 2722_3151 .
+*INV:	what's going on in that picture ? 3603_5288
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 3603_3803 going 3863_4223 on 4283_4464 in 4524_4584 that 4624_4804 picture 4844_5288 ?
+*PAR:	the [/] the water's flowing on the floor . 6226_8234
+%mor:	det|the-Def-Art noun|water~part|s verb|flow-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 6226_6325 the 6726_6826 water's 6926_7266 flowing 7326_7707 on 7767_7847 the 7867_7947 floor 7967_8234 .
+*INV:	uhhuh . 8659_8929
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uhhuh 8659_8929 .
+*INV:	what else ? 9129_9750
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	what 9129_9268 else 9368_9750 ?
+*PAR:	and she's drying dishes . 11751_12956
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	and 11751_11851 she's 11911_12151 drying 12211_12552 dishes 12612_12956 .
+*INV:	mhm . 13384_13533
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 13384_13533 .
+*PAR:	and he's up in the cookie jar . 14819_16409
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|up adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	and 14819_14959 he's 15019_15239 up 15299_15419 in 15459_15519 the 15539_15599 cookie 15659_16000 jar 16040_16409 .
+*PAR:	(...) and she's drying dishes . 27871_29573
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	and 27871_28111 she's 28291_28652 drying 28732_29112 dishes 29152_29573 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay good . 31653_32211
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 31653_31954 good 32015_32211 .
+*PAR:	thank you very much . [+ exc] 32477_33100
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adv|very adv|much .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+%wor:	thank 32477_32678 you 32698_32758 very 32798_32979 much 32979_33100 .
+@End

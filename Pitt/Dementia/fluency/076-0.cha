@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00089642-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|25||
+@Media:	076-0, audio
+@Comment:	poor audio quality, tape cuts off early
+@G:	animals
+*INV:	okay , and you can begin now all of the animals . 220_3901
+%mor:	intj|okay cm|cm cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now det|all-Def-Tot adp|of det|the-Def-Art noun|animal-Plur .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|6|ADVMOD 8|6|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|6|PUNCT
+*PAR:	now what was it you can't see ? [+ exc] 4442_5400
+%mor:	adv|now pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|see-Inf-S ?
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|COP 4|2|NSUBJ 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|2|ACL-RELCL 9|2|PUNCT
+*PAR:	birds ? [+ exc] 5462_5962
+%mor:	noun|bird-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	or fish . 6183_6709
+%mor:	cconj|or noun|fish .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*PAR:	or fish . [+ exc] 6763_7383
+%mor:	cconj|or noun|fish .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*PAR:	xxx . [+ exc]
+*INV:	and you can begin now . 9900_11465
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	xxx cat . 12126_12626
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	dog . 15008_15508
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	monkey . 16111_16611
+%mor:	noun|monkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(..) horse . 21403_21903
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cow . 22025_22525
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	tape cuts off
+@End

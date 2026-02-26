@@ -1,0 +1,138 @@
+@UTF8
+@PID:	11312/a-00089699-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|12||
+@Media:	222-1, audio
+@G:	foods
+*INV:	www .
+%exp:	previous task
+*INV:	think of that can be eaten . 3377_4874
+%mor:	verb|think-Fin-Imp-S adp|of pron|that-Dem aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|6|ROOT 2|3|CASE 3|1|OBL 4|6|AUX 5|6|AUX-PASS 6|1|CCOMP 7|1|PUNCT
+%wor:	think 3377_3577 of 3657_3757 that 3797_3917 can 3957_4118 be 4178_4258 eaten 4458_4874 .
+*INV:	you can start now . 4874_6240
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	you 4874_4899 can 4939_5079 start 5159_5560 now 5740_6240 .
+*INV:	+< tell me all the things that can be eaten . 7947_10046
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|thing-Plur-Acc pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|9|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|9|NSUBJ-PASS 7|9|AUX 8|9|AUX-PASS 9|5|ACL-RELCL 10|1|PUNCT
+%wor:	tell 7947_8124 me 8164_8224 all 8364_8464 the 8484_8584 things 8665_8925 that 8925_9025 can 9045_9205 be 9245_9326 eaten 9546_10046 .
+*PAR:	I can't +/. [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not +/.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	oh , to eat ? [+ exc] 11148_11709
+%mor:	intj|oh cm|cm part|to verb|eat-Inf-S ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|MARK 4|4|ROOT 5|4|PUNCT
+%wor:	oh , to 11148_11228 eat 11369_11709 ?
+*INV:	right . 11751_12249
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 11751_12249 .
+*PAR:	oh gee . [+ exc] 13912_14654
+%mor:	intj|oh intj|gee .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 13912_14073 gee 14173_14654 .
+*INV:	(..) anything that can be eaten .
+%mor:	pron|anything-Ind-S1 pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr .
+%gra:	1|5|ROOT 2|5|NSUBJ-PASS 3|5|AUX 4|5|AUX-PASS 5|1|ACL-RELCL 6|1|PUNCT
+*PAR:	(.) what in the heck did we have all that ? [+ exc] 23988_24288
+%mor:	pron|what-Int-S1 adp|in det|the-Def-Art noun|heck aux|do-Fin-Ind-Past-P1-irr pron|we-Prs-Nom-P1 verb|have-Inf-S det|all-Def-Tot pron|that-Dem ?
+%gra:	1|7|OBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|7|AUX 6|7|NSUBJ 7|9|ROOT 8|9|DET-PREDET 9|7|OBJ 10|7|PUNCT
+%wor:	what 23988_24288 in the heck did we have all that ?
+*PAR:	(..) sauce . 31618_32099
+%mor:	noun|sauce .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sauce 31618_32099 .
+*INV:	okay , anything else that can be eaten ? 32877_34778
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 pron|that-Rel aux|can-Fin-S aux|be-Inf-S verb|eat-Part-Past-S-irr ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|AMOD 5|8|NSUBJ-PASS 6|8|AUX 7|8|AUX-PASS 8|3|ACL-RELCL 9|3|PUNCT
+%wor:	okay 32877_33077 , anything 33137_33517 else 33577_33797 that 33817_33917 can 33938_34078 be 34078_34178 eaten 34278_34778 ?
+*PAR:	&-um (...) eat ? [+ exc] 35605_46809
+%mor:	verb|eat-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 35605_35839 eat 46309_46809 ?
+*INV:	what can you eat ? 47731_49091
+%mor:	pron|what-Int-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|eat-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what 47731_47873 can 47974_48177 you 48258_48380 eat 48603_49091 ?
+*PAR:	oh , (..) what in the heck is all that stuff I have ? [+ exc] 64081_66422
+%mor:	intj|oh cm|cm pron|what-Int-S1 adp|in det|the-Def-Art noun|heck aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|that-Def-Dem-Sing noun|stuff pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 ?
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|10|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|10|COP 8|10|DET-PREDET 9|10|DET 10|12|ROOT 11|12|NSUBJ 12|10|ACL-RELCL 13|10|PUNCT
+%wor:	oh 64081_64301 , what 64301_64441 in 64461_64501 the 64501_64561 heck 64641_64841 is 64881_64981 all 65082_65182 that 65222_65362 stuff 65442_65682 I 65782_65802 have 65922_66422 ?
+@G:	S
+*INV:	okay , let me change directions , okay . 74231_77735
+%mor:	intj|okay cm|cm verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|change-Inf-S noun|direction-Plur-Acc cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|8|PUNCT 8|3|DISCOURSE 9|3|PUNCT
+%wor:	okay 74231_75672 , let 75672_75813 me 75833_75893 change 75973_76273 directions 76333_77054 , okay 77235_77735 .
+*INV:	with the letter s@l . 78696_80578
+%mor:	adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%wor:	with 78696_78877 the 79177_79237 letter 79337_79598 s 80078_80578 .
+*PAR:	s@l ? [+ exc] 81039_81520
+%mor:	x|s ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	s 81039_81520 ?
+*INV:	mhm , you can start now . 81820_83622
+%mor:	intj|mhm cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	mhm 81820_82021 , you 82522_82602 can 82622_82742 start 82802_83062 now 83142_83622 .
+*INV:	any word that begins with the letter s@l . 83943_86246
+%mor:	det|any-Def-Ind noun|word pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|8|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|7|CASE 9|2|PUNCT
+%wor:	any word 83943_84204 that 84224_84324 begins 84344_84684 with 84684_84805 the 84845_84905 letter 84965_85225 s 85766_86246 .
+*PAR:	letter s@l . [+ exc] 87269_88589
+%mor:	noun|letter part|s .
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+%wor:	letter 87269_87568 s 88089_88589 .
+*PAR:	(..) well , then sometimes if we have this [//] the s@l +... [+ exc] 96136_101039
+%mor:	intj|well cm|cm adv|then adv|sometimes sconj|if pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|the-Def-Art noun|s-Acc +...
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|ADVMOD 5|7|MARK 6|7|NSUBJ 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+%wor:	well 96136_96276 , then 96296_96416 sometimes 96516_97117 if 98158_98239 we 98319_98399 have 98499_98699 this 98739_98980 the 100061_100322 s 100542_101039 +...
+*INV:	I want you to think of a word that begins with the letter s@l . 101784_104876
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|think-Inf-S adp|of det|a-Ind-Art noun|word pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|NSUBJ 10|8|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|13|CASE 15|2|PUNCT
+%wor:	I 101784_101804 want 101844_101984 you 102004_102084 to 102124_102184 think 102224_102405 of 102445_102525 a 102585_102605 word 102745_103126 that 103186_103306 begins 103366_103747 with 103767_103867 the 103887_103967 letter 104027_104267 s 104407_104876 .
+*INV:	tell me words that begin with the letter s@l . 104888_107872
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 noun|word-Plur-Acc pron|that-Rel verb|begin-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|9|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|8|CASE 7|8|DET 8|5|OBL 9|8|CASE 10|1|PUNCT
+%wor:	tell me 104888_104968 words 105149_105609 that 105669_105789 begin 105830_106210 with 106270_106410 the 106450_106531 letter 106611_106911 s 107372_107872 .
+*PAR:	the letter s@l . [+ exc] 108133_109275
+%mor:	det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%wor:	the 108133_108193 letter 108273_108513 s 108914_109275 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh (.) to get something to eat ? [+ exc] 112742_118189
+%mor:	part|to verb|get-Inf-S pron|something-Ind-S1 part|to verb|eat-Inf-S ?
+%gra:	1|2|MARK 2|5|ROOT 3|2|OBJ 4|5|MARK 5|3|ACL 6|2|PUNCT
+%wor:	uh 112742_112782 to 116868_116928 get 116968_117108 something 117148_117489 to 117509_117569 eat 117689_118189 ?
+*INV:	okay . 118731_119230
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 118731_119230 .
+*INV:	any word that begins with the letter s@l . 120754_123837
+%mor:	det|any-Def-Ind noun|word pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|8|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|7|CASE 9|2|PUNCT
+%wor:	any 120754_120934 word 121054_121454 that 121534_121655 begins 121695_122175 with 122215_122336 the 122356_122456 letter 122536_122836 s 123337_123837 .
+*PAR:	s@l . [+ exc] 124900_125399
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	s 124900_125399 .
+*INV:	s@l . 126542_127003
+%mor:	x|s .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	s 126542_127003 .
+*INV:	any word that begins with the letter s@l . 127265_129548
+%mor:	det|any-Def-Ind noun|word pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|2|DET 2|8|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|7|CASE 9|2|PUNCT
+%wor:	any 127265_127325 word 127325_127525 that 127565_127665 begins 127685_128086 with 128106_128226 the 128246_128306 letter 128407_128667 s 129048_129548 .
+*PAR:	well , we hafta go to the doctor's . 132736_134257
+%mor:	intj|well cm|cm pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|go-Fin-S adp|to det|the-Def-Art noun|doctor~part|s .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|8|CASE 10|5|PUNCT
+%wor:	well 132736_132915 , we 132975_133055 hafta 133095_133336 go 133376_133436 to 133556_133596 the 133636_133696 doctor's 133757_134257 .
+@End

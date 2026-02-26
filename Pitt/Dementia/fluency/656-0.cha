@@ -1,0 +1,202 @@
+@UTF8
+@PID:	11312/a-00089804-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|59;|female|MCI||Participant|29||
+@Media:	656-0, audio
+@G:	animals
+*INV:	begin now . 0_1760
+%mor:	verb|begin-Fin-Imp-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	begin 0_1220 now 1260_1760 .
+*PAR:	okay . [+ exc] 1765_2000
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 1765_2000 .
+*PAR:	cat . 3101_3601
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 3101_3601 .
+*PAR:	dog . 3821_4321
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 3821_4321 .
+*PAR:	canary . 5022_5522
+%mor:	noun|canary .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	canary 5022_5522 .
+*PAR:	fish . 6463_6962
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 6463_6962 .
+*PAR:	(.) &-um &+r rhinoceros . 9184_11424
+%mor:	noun|rhinocero-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 9184_9244 rhinoceros 10924_11424 .
+*PAR:	tiger . 12106_12605
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tiger 12106_12605 .
+*PAR:	lion . 12846_13345
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lion 12846_13345 .
+*PAR:	&-um monkey . 15088_15648
+%mor:	noun|monkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 15088_15128 monkey 15148_15648 .
+*PAR:	&-um hippopotamus . 15830_18371
+%mor:	noun|hippopotamus .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 15830_17891 hippopotamus 17891_18371 .
+*PAR:	zebra . 19533_20033
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zebra 19533_20033 .
+*PAR:	horse . 20274_20774
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horse 20274_20774 .
+*PAR:	cow . 21816_22315
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 21816_22315 .
+*PAR:	hen .
+%mor:	intj|hen .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-hm chicken [/] (.) chicken . 26220_26720
+%mor:	noun|chicken .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hm chicken chicken 26220_26720 .
+*PAR:	and &-uh pony . 29477_31508
+%mor:	cconj|and noun|pony .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 29477_30958 uh 30958_30998 pony 31018_31508 .
+*PAR:	(.) &-um lion , horse +... [+ exc] 34694_37537
+%mor:	noun|lion cm|cm noun|horse +...
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+%wor:	um 34694_34880 lion 36981_37537 , horse +...
+*PAR:	&-um orangutan . 40683_41183
+%mor:	noun|orangutan .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um orangutan 40683_41183 .
+*PAR:	or wait &=sighs . [+ exc] 41844_42484
+%mor:	cconj|or verb|wait-Fin-Imp-S .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	or 41844_41924 wait 41984_42484 .
+*PAR:	(..) &-uh lion . 44990_52500
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 44990_52079 lion 52079_52500 .
+*PAR:	tiger . 52559_53059
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tiger 52559_53059 .
+*PAR:	monkey . 55844_56202
+%mor:	noun|monkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	monkey 55844_56202 .
+*PAR:	I said monkey@q . 56404_57164
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|monkey .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%wor:	I 56404_56424 said 56464_56624 monkey@q 56664_57164 .
+*PAR:	tiger . [+ exc] 57247_57425
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tiger 57247_57425 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	F
+*INV:	now I'm going to change directions . 62836_63996
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|change-Inf-S noun|direction-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+%wor:	now 62836_62896 I'm 62916_62976 going 62996_63136 to 63136_63176 change 63176_63456 directions 63496_63996 .
+*INV:	now I want you to think of the letter f@l . 64516_66458
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|think-Inf-S adp|of det|the-Def-Art noun|letter noun|f .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT 11|3|PUNCT
+%wor:	now 64516_64637 I 64717_64737 want 64817_64957 you 64997_65077 to 65077_65117 think 65117_65217 of 65217_65257 the 65257_65318 letter 65358_65578 f 65958_66458 .
+*INV:	and you can begin now . 66757_67581
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and you can 66757_66779 begin 66799_67099 now 67219_67581 .
+*PAR:	okay . [+ exc] 68261_68500
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 68261_68500 .
+*PAR:	fence . 68601_69100
+%mor:	noun|fence .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fence 68601_69100 .
+*PAR:	foyer . 70381_70862
+%mor:	noun|foyer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foyer 70381_70862 .
+*PAR:	&-uh funnel . 72002_72483
+%mor:	noun|funnel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh funnel 72002_72483 .
+*PAR:	&+fu &-um furniture . 74164_76385
+%mor:	noun|furniture .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 74164_75725 furniture 75885_76385 .
+*PAR:	&-um Ford . 77846_79386
+%mor:	propn|Ford .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 77846_78268 Ford 78888_79386 .
+*PAR:	oh , not [/] not free white . [+ exc] 84314_85333
+%mor:	intj|oh cm|cm part|not adj|free-S1 adj|white-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	oh , not 84314_84454 not 84774_84914 free 84974_85135 white 85195_85333 .
+*PAR:	just any word ? [+ exc] 85456_87136
+%mor:	adv|just det|any-Def-Ind noun|word ?
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	just 85456_85615 any 86456_86576 word 86636_87136 ?
+*INV:	any word that begins with the letter f@l . 87449_89282
+%mor:	det|any-Def-Ind noun|word pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|DET 2|8|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|4|OBL-UNMARKED 9|2|PUNCT
+%wor:	any 87449_87549 word 87649_87890 that 87890_88010 begins 88010_88271 with 88291_88371 the 88371_88451 letter 88491_88712 f 88892_89282 .
+*PAR:	+< okay . [+ exc] 88961_89213
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 88961_89213 .
+*PAR:	freeway . 89281_89753
+%mor:	noun|freeway .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	freeway 89281_89753 .
+*PAR:	&-um &-uh I said furniture@q , freeway@q . [+ exc] 92927_94244
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|furniture cm|cm q|freeway .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|FLAT 4|5|PUNCT 5|3|FLAT 6|2|PUNCT
+%wor:	um uh 92927_92942 I 92982_93002 said 93062_93223 furniture@q 93343_93684 , freeway@q 93744_94244 .
+*PAR:	&-um frisbee . 96410_96910
+%mor:	noun|frisbee .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um frisbee 96410_96910 .
+*PAR:	&=sighs I [//] &+s &-uh frisbee , funnel , &-um (.) &-hm (.) furniture . [+ exc] 99435_107762
+%mor:	noun|frisbee cm|cm noun|funnel cm|cm noun|furniture .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|1|PUNCT
+%wor:	I 99435_99455 uh 99495_99935 frisbee 100315_100716 , funnel 100796_101176 , um 101196_101897 hm 101917_102297 furniture 107281_107762 .
+*PAR:	freeway . 110825_111324
+%mor:	noun|freeway .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	freeway 110825_111324 .
+*PAR:	farm . 114888_115368
+%mor:	noun|farm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	farm 114888_115368 .
+*PAR:	&-um (.) I said funnel@q , huh . [+ exc] 123075_124648
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr q|funnel cm|cm intj|huh .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|FLAT 4|5|PUNCT 5|3|APPOS 6|2|PUNCT
+%wor:	um 123075_123175 I 123355_123375 said 123475_123676 funnel@q 123756_124648 , huh .
+*INV:	okay . 126398_126456
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 126398_126456 .
+*PAR:	+< food . 126578_126739
+%mor:	noun|food .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	food 126578_126739 .
+@End

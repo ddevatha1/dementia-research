@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/a-00090664-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;00.|male|Control||Participant|||
+@Media:	034-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I'm gonna have you take a look at this picture . 210_1960
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|have-Inf-S pron|you-Prs-Nom-S2 verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|4|OBJ 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|4|PUNCT
+%wor:	I'm 210_270 gonna 270_390 have 430_590 you 590_670 take 710_910 a 951_971 look 1031_1191 at 1231_1291 this 1331_1491 picture 1591_1960 .
+*INV:	and tell me everything that you see happening in that picture . 2653_5489
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|11|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	and 2653_2773 tell 2813_3013 me 3093_3154 everything 3294_3694 that 3714_3854 you 3895_3995 see 4115_4275 happening 4455_4916 in 4956_5016 that 5056_5216 picture 5256_5489 .
+*INV:	everything that's going on in there . 5617_7271
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|7|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+%wor:	everything 5617_5957 that's 5957_6178 going 6258_6558 on 6758_6859 in 6919_6999 there 7039_7271 .
+*PAR:	tell you everything that's going on ? [+ exc] 13388_14850
+%mor:	verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|7|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|COMPOUND-PRT 8|1|PUNCT
+%wor:	tell 13388_13608 you 13628_13688 everything 13688_14068 that's 14068_14249 going 14309_14569 on 14669_14850 ?
+*INV:	mhm . 14947_15157
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 14947_15157 .
+*PAR:	there's a little girl asking her brother for a cookie . 16590_19366
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl verb|ask-Ger-S pron|her-Prs-Gen-S3 noun|brother adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|EXPL 2|11|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|8|NMOD-POSS 8|6|IOBJ 9|11|CASE 10|11|DET 11|6|OBL 12|2|PUNCT
+%wor:	there's 16590_16810 a 16850_16870 little 16910_17130 girl 17190_17531 asking 17711_18072 her 18092_18192 brother 18252_18553 for 18653_18793 a 18833_18873 cookie 18954_19366 .
+*PAR:	<he is on a &+s step> [//] he's on a high stepstool reaching up high for the cookies . 19836_26967
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art adj|high-S1 noun|stepstool verb|reach-Ger-S adp|up adj|high-S1 adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|AMOD 6|12|ROOT 7|6|ACL 8|7|COMPOUND-PRT 9|7|ADVMOD 10|12|CASE 11|12|DET 12|7|OBL 13|6|PUNCT
+%wor:	he 19836_19935 is 20035_20176 on 20256_20376 a 20436_20456 &+s 20456_20576 step 21418_21758 he's 22099_22239 on 22319_22420 a 22460_22480 high 22560_22840 stepstool 22920_24143 reaching 25224_25585 up 25625_25725 high 25846_26106 for 26146_26266 the 26286_26366 cookies 26467_26967 .
+*PAR:	and the stool is going out from under him . 27795_31575
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|out adp|from adp|under pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|CASE 9|5|OBL 10|5|PUNCT
+%wor:	and 27795_27975 the 28015_28135 stool 29716_30036 is 30096_30196 going 30276_30536 out 30596_30717 from 30777_30957 under 31037_31277 him 31297_31575 .
+*PAR:	he is going to fall . 31698_32870
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	he 31698_31757 is 31857_31937 going 31997_32238 to 32258_32318 fall 32418_32870 .
+*PAR:	the mother is washing dishes and not paying attention . 34760_39362
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and part|not verb|pay-Part-Pres-S noun|attention-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|OBJ 6|8|CC 7|8|ADVMOD 8|4|CONJ 9|8|OBJ 10|4|PUNCT
+%wor:	the 34760_34839 mother 34899_35220 is 35500_35640 washing 35760_36140 dishes 36200_36661 and 38022_38182 not 38262_38462 paying 38562_38822 attention 38862_39362 .
+*PAR:	<the sink> [//] the water in the sink is overflowing . 40070_43216
+%mor:	det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|COP 7|7|ROOT 8|7|PUNCT
+%wor:	the 40070_40150 sink 40310_40571 the 41473_41553 water 41653_41954 in 41974_42034 the 42054_42134 sink 42235_42475 is 42556_42636 overflowing 42716_43216 .
+*PAR:	she doesn't seem to be aware of it . 44721_46285
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S adj|aware-S1 adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|9|CASE 9|7|OBL 10|4|PUNCT
+%wor:	she 44721_44821 doesn't 44881_45162 seem 45222_45382 to 45422_45483 be 45543_45623 aware 45703_46044 of 46104_46204 it 46224_46285 .
+*PAR:	the [//] through the window we can see a walkway then a grassy area and another part of the house maybe a garage . 49262_61980
+%mor:	adp|through det|the-Def-Art noun|window pron|we-Prs-Nom-P1 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art noun|walkway-Acc adv|then det|a-Ind-Art adj|grassy-S1 noun|area cconj|and det|another-Def-Ind noun|part adp|of det|the-Def-Art noun|house adv|maybe det|a-Ind-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|21|ROOT 7|8|DET 8|6|OBJ 9|12|ADVMOD 10|12|DET 11|12|AMOD 12|8|APPOS 13|15|CC 14|15|DET 15|8|CONJ 16|18|CASE 17|18|DET 18|15|NMOD 19|21|ADVMOD 20|21|DET 21|15|APPOS 22|6|PUNCT
+%wor:	the 49262_49382 through 49662_49983 the 50023_50143 window 50383_50804 we 50924_51024 can 51084_51224 see 51405_51665 a 52987_53007 walkway 53147_53768 then 56773_56973 a 57013_57033 grassy 57113_57594 area 57714_58055 and 59176_59296 another 59357_59677 part 59837_60078 of 60118_60158 the 60198_60258 house 60318_60679 maybe 60979_61279 a 61360_61380 garage 61480_61980 .
+*PAR:	there's two [/] &+sau two cups and a plate on a kitchen counter . 65239_71050
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|a-Ind-Art noun|kitchen noun|counter .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|2|PUNCT
+%wor:	there's 65239_65619 two 66520_66761 two 67522_67682 cups 67782_68163 and 68383_68483 a 68503_68523 plate 68643_69064 on 69304_69404 a 69444_69465 kitchen 70125_70486 counter 70566_71050 .
+*PAR:	(..) the cookie jar is full . 75774_77176
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|full-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 75774_75854 cookie 75934_76234 jar 76254_76495 is 76555_76655 full 76795_77176 .
+*PAR:	and the boy has the lid off and has one cookie in his hand . 77797_81797
+%mor:	cconj|and det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|lid-Acc adp|off cconj|and verb|have-Fin-Ind-Pres-S3 num|one noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|14|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|9|CC 9|4|CONJ 10|11|NUMMOD 11|9|OBJ 12|14|CASE 13|14|NMOD-POSS 14|9|OBL 15|4|PUNCT
+%wor:	and 77797_77937 the 77997_78077 boy 78137_78398 has 78518_78759 the 78779_78839 lid 78899_79060 off 79140_79341 and 80082_80183 has 80203_80383 one 80544_80684 cookie 80744_81025 in 81085_81145 his 81165_81326 hand 81406_81797 .
+*PAR:	that's it . [+ exc] 83806_84216
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 83806_84012 it 84093_84216 .
+*INV:	okay . 84355_84694
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 84355_84694 .
+*INV:	thank you . 85131_85194
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	thank you 85131_85194 .
+@End

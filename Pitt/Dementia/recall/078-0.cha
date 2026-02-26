@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/a-00089880-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|female|ProbableAD||Participant|17||
+@Media:	078-0, audio
+@G:	George_Immediate
+*INV:	tell me what can you remember about the story ? 111101_112902
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S adp|about det|the-Def-Art noun|story ?
+%gra:	1|9|ROOT 2|1|IOBJ 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|1|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+%wor:	tell 111101_111221 me 111261_111301 what 111341_111461 can 111481_111621 you 111661_111741 remember 111762_112142 about 112162_112382 the 112402_112463 story 112523_112902 ?
+*PAR:	oh , gee , that's [/] that's &-um +... [+ exc] 114946_116686
+%mor:	intj|oh cm|cm intj|gee cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|3|PUNCT 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%wor:	oh 114946_115147 , gee 115227_115367 , that's 115687_115928 that's 115928_116168 um 116188_116686 +...
+*PAR:	she went off to <the what> [//] the country . 123399_125061
+%mor:	pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|off adp|to det|the-Def-Art noun|country .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	she 123399_123479 went 123539_123659 off 123719_123860 to 123960_124040 the 124100_124180 what 124260_124401 the 124461_124521 country 124561_125061 .
+*PAR:	(.) is that right ? [+ exc] 126285_126776
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|right-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	is 126285_126325 that 126325_126405 right 126405_126776 ?
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh (...) <now see I> [//] &+ca now I &+ca can't get the +... 128207_128707
+%mor:	adv|now pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|get-Inf-S det|the-Def-Art +...
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	uh now see I now I can't get the 128207_128707 +...
+*PAR:	no , I [/] &+c I can't . [+ exc]
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	I guess I wasn't &+s &+th thinking right again . [+ exc] 141125_143657
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr~part|not verb|think-Part-Pres-S adv|right adv|again .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|8|ADVMOD 8|6|ADVMOD 9|2|PUNCT
+%wor:	I 141125_141145 guess 141145_141305 I 141345_141365 wasn't 141465_142445 thinking 142706_143046 right 143106_143657 again .
+*INV:	+< mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< &-um (.) can you read that again ? [+ exc] 147649_148479
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|read-Inf-S pron|that-Dem adv|again ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	um 147649_147689 can 147689_147749 you 147769_147829 read 147869_148009 that 148009_148169 again 148189_148479 ?
+*INV:	not at the moment . 149990_150546
+%mor:	part|not adp|at det|the-Def-Art noun|moment .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	not 149990_150130 at 150170_150231 the 150251_150331 moment 150351_150546 .
+*PAR:	no . [+ exc] 150831_151056
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 150831_151056 .
+*INV:	+< no , <I wanna> [//] I want you to see if you can remember something [//] anything at all . 151056_154794
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|see-Inf-S sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S pron|anything-Ind-S1 adp|at det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|14|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|7|CCOMP 12|11|OBJ 13|14|CASE 14|11|OBL 15|4|PUNCT
+%wor:	no , I 151056_151071 wanna 151071_151251 I 151311_151331 want 151511_151611 you 151651_151711 to 151731_151792 see 151892_152012 if 152052_152112 you 152152_152232 can 152252_152372 remember 152412_152772 something 152832_153333 anything 153873_154253 at 154293_154393 all 154473_154794 .
+*PAR:	+< yeah , I was remembering and then all of a &+s +... [+ exc] 154794_156652
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|remember-Part-Pres-S cconj|and adv|then det|all-Def-Tot adp|of det|a-Ind-Art +...
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|8|CC 7|8|ADVMOD 8|5|CONJ 9|10|CASE 10|8|NMOD 11|5|PUNCT
+%wor:	yeah 154794_154874 , I 154934_154954 was 154994_155114 remembering 155215_155676 and 155676_155816 then 155816_155937 all 156037_156137 of 156178_156218 a 156258_156652 +...
+*PAR:	see , I got nervous and I can't think . [+ exc] 156881_158881
+%mor:	verb|see-Fin-Imp-S cm|cm pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr adj|nervous-S1 cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S .
+%gra:	1|10|ROOT 2|4|PUNCT 3|4|NSUBJ 4|1|PARATAXIS 5|4|XCOMP 6|10|CC 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|CONJ 11|1|PUNCT
+%wor:	see 156881_157040 , I 157040_157060 got 157100_157281 nervous 157461_157923 and 157983_158063 I 158143_158163 can't 158224_158464 think 158544_158881 .
+*INV:	yeah . 159088_159586
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 159088_159586 .
+*PAR:	&-uh (...) alright , now <I can't> [/] I can't say something . [+ exc] 167579_169661
+%mor:	intj|alright cm|cm adv|now pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|say-Inf-S pron|something-Ind-S1 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+%wor:	uh 167579_167619 alright 167619_167919 , now 167919_167979 I 167979_167999 can't 168019_168120 I 168120_168140 can't 168200_169061 say 169061_169161 something 169161_169661 .
+*INV:	you can't think , okay . 170424_171919
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|think-Inf-S cm|cm intj|okay .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|PUNCT 6|4|DISCOURSE 7|4|PUNCT
+%wor:	you 170424_170524 can't 170544_170784 think 170824_171025 , okay 171446_171919 .
+*INV:	give yourself a minute or two . 172908_174160
+%mor:	verb|give-Fin-Imp-S pron|yourself-Prs-Acc-reflx-S2 det|a-Ind-Art noun|minute-Acc cconj|or num|two .
+%gra:	1|6|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|6|CC 6|4|CONJ 7|1|PUNCT
+%wor:	give 172908_173049 yourself 173069_173349 a 173409_173429 minute 173489_173770 or 173830_173910 two 173950_174160 .
+*INV:	see if anything comes to mind . 175553_177045
+%mor:	verb|see-Fin-Imp-S sconj|if pron|anything-Ind-S1 verb|come-Fin-Ind-Pres-S3 adp|to noun|mind .
+%gra:	1|6|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|6|CASE 6|4|OBL 7|1|PUNCT
+%wor:	see 175553_175633 if 175633_175734 anything 175774_176094 comes 176134_176375 to 176435_176495 mind 176555_177045 .
+*INV:	anything at all . 177364_177898
+%mor:	pron|anything-Ind-S1 adp|at det|all-Def-Tot .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	anything 177364_177517 at 177557_177657 all 177737_177898 .
+*PAR:	was it something about a barn or xxx ? 178791_181154
+%mor:	aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 pron|something-Ind-S1 adp|about det|a-Ind-Art noun|barn cconj|or ?
+%gra:	1|3|COP 2|3|NSUBJ 3|7|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|CC 8|3|PUNCT
+%wor:	was 178791_178911 it 178951_179031 something 179071_179292 about 179292_179572 a 179592_179612 barn 179692_180173 or 180654_181154 ?
+@End

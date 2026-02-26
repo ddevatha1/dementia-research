@@ -1,0 +1,101 @@
+@UTF8
+@PID:	11312/a-00089844-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|63;|male|MCI||Participant|26||
+@Media:	033-0, audio
+@G:	George_Immediate
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*INV:	can you tell me everything you can remember about the story . 74303_76253
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|about det|the-Def-Art noun|story .
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	can 74303_74403 you 74403_74483 tell 74483_74643 me 74643_74683 everything 74703_75004 you 75004_75084 can 75104_75224 remember 75224_75564 about 75604_75825 the 75845_75925 story 75965_76253 .
+*PAR:	well , &-uh George Miller lived in the city . 77788_79931
+%mor:	intj|well cm|cm propn|George propn|Miller verb|live-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|city .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|3|FLAT 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	well 77788_78048 , uh 78048_78088 George 78168_78589 Miller 78649_78969 lived 79029_79250 in 79290_79350 the 79390_79470 city 79590_79931 .
+*PAR:	and he had a granddaughter named Melody . 80051_82113
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|granddaughter-Acc verb|name-Part-Past-S propn|Melody .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|5|ACL 7|6|XCOMP 8|3|PUNCT
+%wor:	and 80051_80131 he 80151_80211 had 80291_80451 a 80491_80511 granddaughter 80572_81232 named 81293_81573 Melody 81613_82113 .
+*PAR:	and he formerly lived in the country . 82995_84758
+%mor:	cconj|and pron|he-Prs-Nom-S3 adv|formerly verb|live-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 82995_83075 he 83095_83155 formerly 83255_83716 lived 83816_84056 in 84077_84157 the 84177_84257 country 84317_84758 .
+*PAR:	and his granddaughter was very much interested in his home &=clears:throat in the country . 84858_89790
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|granddaughter aux|be-Fin-Ind-Past-S3-irr adv|very adv|much adj|interested-S1 adp|in pron|his-Prs-Gen-S3 noun|home adp|in det|the-Def-Art noun|country .
+%gra:	1|7|CC 2|3|NMOD-POSS 3|7|NSUBJ 4|7|COP 5|6|ADVMOD 6|7|ADVMOD 7|13|ROOT 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|7|PUNCT
+%wor:	and 84858_84918 his 84938_85058 granddaughter 85098_85679 was 85739_85899 very 86019_86260 much 86320_86520 interested 86580_87161 in 87221_87301 his 87361_87581 home 87842_88202 in 89144_89204 the 89224_89304 country 89364_89790 .
+*PAR:	so , one day he took her by the hand and took her to his country home . 90025_95396
+%mor:	adv|so cm|cm num|one noun|day pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|by det|the-Def-Art noun|hand cconj|and verb|take-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|country adv|home .
+%gra:	1|6|ADVMOD 2|1|PUNCT 3|4|NUMMOD 4|6|OBL-UNMARKED 5|6|NSUBJ 6|17|ROOT 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|12|CC 12|6|CONJ 13|12|OBJ 14|16|CASE 15|16|NMOD-POSS 16|12|OBL 17|12|ADVMOD 18|6|PUNCT
+%wor:	so 90025_90125 , one 90385_90506 day 90546_90726 he 90806_90866 took 91727_91867 her 91908_91988 by 92028_92188 the 92208_92288 hand 92368_92809 and 92909_93069 took 93610_93770 her 93790_93870 to 93930_94031 his 94171_94491 country 94752_95052 home 95152_95396 .
+*PAR:	and she became frightened . 96134_97516
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	and 96134_96234 she 96294_96394 became 96514_96935 frightened 97035_97516 .
+*PAR:	and he then immediately brought her back to the city . 98416_102037
+%mor:	cconj|and pron|he-Prs-Nom-S3 adv|then adv|immediately verb|bring-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adv|back adp|to det|the-Def-Art noun|city .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|ADVMOD 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|5|ADVMOD 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+%wor:	and 98416_98576 he 98636_98716 then 99056_99296 immediately 100157_100637 brought 100757_100957 her 100977_101077 back 101117_101318 to 101378_101438 the 101498_101578 city 101678_102037 .
+*INV:	okay , good . 102539_104438
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 102539_103019 , good 104120_104438 .
+*INV:	thank you . 104921_105421
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	thank 104921_105160 you 105200_105421 .
+@G:	George_Delayed
+*INV:	xxx .
+*PAR:	so , that's where George Miller had his grandson . 397741_401282
+%mor:	adv|so cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|where propn|George propn|Miller verb|have-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|grandson-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|10|ROOT 6|8|NSUBJ 7|6|FLAT 8|5|ADVCL-RELCL 9|10|NMOD-POSS 10|8|OBJ 11|5|PUNCT
+%wor:	so 397741_397821 , that's 397861_398141 where 398201_398401 George 398461_398821 Miller 398902_399222 had 399302_399522 his 399562_399742 grandson 400783_401282 .
+*PAR:	and &+th he [//] they lived in the city . 403846_405485
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|live-Fin-Ind-Past-P3 adp|in det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	and 403846_404006 he 404206_404306 they 404426_404566 lived 404646_404907 in 404947_405007 the 405027_405127 city 405207_405485 .
+*PAR:	and he told (th)em about the country place that he was raised . 405707_410772
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|they-Prs-Acc-P3 adp|about det|the-Def-Art noun|country noun|place sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|raise-Part-Past-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|12|MARK 10|12|NSUBJ-PASS 11|12|AUX-PASS 12|8|ACL 13|3|PUNCT
+%wor:	and 405707_405847 he 405867_405947 told 406688_406988 (th)em 406988_407148 about 407649_408109 the 408189_408309 country 408790_409090 place 409170_409550 that 409570_409711 he 409771_409851 was 410051_410191 raised 410291_410772 .
+*PAR:	and [/] and the little child wanted to visit it . 410949_415893
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|child verb|want-Fin-Ind-Past-S3 part|to verb|visit-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+%wor:	and 410949_412410 and 412450_412590 the 412631_412751 little 413411_413652 child 413732_414132 wanted 414212_414493 to 414573_414793 visit 415294_415614 it 415654_415893 .
+*PAR:	and they did . 415954_417081
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	and 415954_416095 they 416515_416655 did 416755_417081 .
+*PAR:	and the [/] the child became frightened . 417156_420478
+%mor:	cconj|and det|the-Def-Art noun|child verb|become-Fin-Ind-Past-S3-irr adj|frighten-S1 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%wor:	and 417156_417316 the 419058_419158 the 419198_419278 child 419358_419659 became 419699_420059 frightened 420079_420478 .
+*PAR:	and he hastened back to the city . 421279_422461
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|hasten-Fin-Ind-Past-S3 adv|back adp|to det|the-Def-Art noun|city .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	and he hastened 421279_421701 back 421801_422042 to 422082_422162 the 422202_422282 city 422362_422461 .
+@G:	George_Questions
+*INV:	okay , can you tell me the child's name ? 424284_425446
+%mor:	intj|okay cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|child~part|s noun|name-Acc ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|IOBJ 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|5|OBJ 11|5|PUNCT
+%wor:	okay , can 424284_424424 you 424424_424484 tell 424504_424625 me 424625_424685 the 424725_424785 child's 424845_425145 name 425205_425446 ?
+*PAR:	no . [+ exc]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay , and what time of the year did George move in with his son's family ? 428512_431819
+%mor:	intj|okay cm|cm cconj|and det|what-Def-Int noun|time adp|of det|the-Def-Art noun|year aux|do-Fin-Ind-Past-S3-irr propn|George verb|move-Inf-S adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|11|CC 4|5|DET 5|11|OBL-UNMARKED 6|8|CASE 7|8|DET 8|5|NMOD 9|11|AUX 10|11|NSUBJ 11|17|ROOT 12|11|COMPOUND-PRT 13|17|CASE 14|15|NMOD-POSS 15|17|NMOD-POSS 16|15|CASE 17|11|OBL 18|11|PUNCT
+%wor:	okay 428512_428791 , and 429111_429171 what 429171_429292 time 429312_429492 of 429512_429552 the 429572_429632 year 429632_429812 did 429872_429972 George 430012_430352 move 430432_430632 in 430652_430712 with 430793_430913 his 430933_431013 son's 431053_431393 family 431453_431819 ?
+*PAR:	(..) it was the fall , I believe .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|fall cm|cm pron|I-Prs-Nom-S1 verb|believe-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|7|ROOT 5|7|PUNCT 6|7|NSUBJ 7|4|PARATAXIS 8|4|PUNCT
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/a-00089823-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|53;|male|ProbableAD||Participant|23||
+@Media:	005-0, audio
+@G:	George_Immediate
+*INV:	can you tell me everything you can remember from the story . 6184_9005
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|remember-Inf-S adp|from det|the-Def-Art noun|story .
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+%wor:	can 6184_6284 you 6324_6404 tell 6444_6604 me 6604_6664 everything 6704_7064 you 7084_7164 can 7204_7344 remember 7384_7825 from 8225_8305 the 8345_8425 story 8505_9005 .
+*PAR:	well , it appears is that George &-uh was &-uh +... 10868_13049
+%mor:	intj|well cm|cm pron|it-Prs-Nom-S3 verb|appear-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 sconj|that propn|George aux|be-Fin-Ind-Past-S3-irr +...
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|8|ROOT 5|4|COP 6|8|MARK 7|8|NSUBJ 8|4|CCOMP 9|4|PUNCT
+%wor:	well 10868_11067 , it 11087_11167 appears 11187_11547 is 11587_11688 that 11828_11968 George 12028_12448 uh 12768_12848 was 12868_12948 uh 13008_13049 +...
+*PAR:	no , I can't tell you anything . [+ exc] 16876_16996
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|anything-Ind-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|6|IOBJ 8|6|OBJ 9|6|PUNCT
+%wor:	no 16876_16996 , I can't tell you anything .
+*INV:	any names ? 20038_20306
+%mor:	det|any-Def-Ind noun|name-Plur ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any 20038_20158 names 20158_20306 ?
+*PAR:	George . 21605_22017
+%mor:	propn|George .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	George 21605_22017 .
+*INV:	mhm , anything [//] any other names ? 22427_24112
+%mor:	intj|mhm cm|cm det|any-Def-Ind adj|other-S1 noun|name-Plur ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	mhm 22427_23060 , anything 23060_23420 any 23520_23660 other 23720_23880 names 23981_24112 ?
+*PAR:	+< Melanie .
+%mor:	propn|Melanie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay . 24692_25053
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 24692_25053 .
+*INV:	any other information at all that comes to mind ? 27623_29893
+%mor:	det|any-Def-Ind adj|other-S1 noun|information adp|at det|all-Def-Tot pron|that-Rel verb|come-Fin-Ind-Pres-S3 adp|to noun|mind ?
+%gra:	1|3|DET 2|3|AMOD 3|9|ROOT 4|5|CASE 5|3|NMOD 6|7|NSUBJ 7|5|ACL-RELCL 8|9|CASE 9|7|OBL 10|3|PUNCT
+%wor:	any 27623_27723 other 27803_27963 information 28003_28544 at 28584_28684 all 28784_28944 that 29004_29204 comes 29204_29424 to 29464_29524 mind 29565_29893 ?
+*INV:	what [/] what were they doing ? 29893_30966
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr pron|they-Prs-Nom-P3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what 29893_30005 what 30145_30265 were 30305_30425 they 30445_30545 doing 30625_30966 ?
+*PAR:	they went to the city . 32686_32818
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|to det|the-Def-Art noun|city .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	they 32686_32818 went to the city .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else at all ? 40134_41323
+%mor:	pron|anything-Ind-S1 adj|else-S1 adp|at det|all-Def-Tot ?
+%gra:	1|4|ROOT 2|1|AMOD 3|4|CASE 4|1|NMOD 5|1|PUNCT
+%wor:	anything 40134_40473 else 40533_40774 at 40794_40934 all 41014_41323 ?
+*PAR:	(..) no . [+ exc] 41374_41635
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 41374_41635 .
+*INV:	think about it for a minute . 52783_53788
+%mor:	verb|think-Fin-Imp-S adp|about pron|it-Prs-Acc-S3 adp|for det|a-Ind-Art noun|minute .
+%gra:	1|6|ROOT 2|3|CASE 3|1|OBL 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%wor:	think 52783_52944 about 52964_53207 it 53247_53307 for 53348_53449 a 53469_53489 minute 53529_53788 .
+*INV:	see if anything springs to mind . 53824_55346
+%mor:	verb|see-Fin-Imp-S sconj|if pron|anything-Ind-S1 noun|spring-Plur-Acc adp|to noun|mind .
+%gra:	1|6|ROOT 2|4|MARK 3|4|COMPOUND 4|1|OBJ 5|6|CASE 6|4|NMOD 7|1|PUNCT
+%wor:	see 53824_53933 if 53933_53994 anything 54074_54437 springs 54498_54801 to 54861_54942 mind 55002_55346 .
+*PAR:	(..) they went to see where he lived in the city . 66380_68040
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr part|to verb|see-Inf-S adv|where pron|he-Prs-Nom-S3 verb|live-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|city .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|MARK 4|2|XCOMP 5|7|ADVMOD 6|7|NSUBJ 7|4|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+%wor:	they 66380_66460 went 66481_66622 to 66662_66723 see 66824_66965 where 66986_67147 he 67168_67208 lived 67269_67471 in 67491_67551 the 67572_67632 city 67733_68040 .
+*INV:	mhm . 68042_68496
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 68042_68496 .
+*PAR:	(..) that's all I can remember . [+ exc] 81457_82578
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|remember-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	that's 81457_81619 all 81680_81781 I 81842_81863 can 81863_81964 remember 82086_82578 .
+*INV:	okay . 82638_82971
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 82638_82971 .
+@End

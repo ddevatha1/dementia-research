@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/a-00090590-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|20||
+@Media:	591-0, audio
+@G:	Cookie
+*INV:	is take a look at that picture . 310_1900
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|take-Inf-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|AUX 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	is 310_390 take 430_650 a 690_710 look 790_971 at 1011_1091 that 1151_1351 picture 1471_1900 .
+*INV:	take a look at that picture and tell me everything that you see happening in that picture . 2493_7573
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|17|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|14|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|1|PUNCT
+%wor:	take 2493_2713 a 2753_2773 look 2834_2974 at 3014_3074 that 3114_3274 picture 3334_3775 and 3915_4056 tell 4136_4376 me 4476_4556 everything 4817_5378 that 5418_5558 you 5618_5758 see 5858_6059 happening 6199_6780 in 6840_6940 that 7000_7201 picture 7261_7573 .
+*PAR:	(.) what do +/? [+ exc] 11948_12227
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 +/?
+%gra:	1|2|ROOT 2|1|AUX 3|1|PUNCT
+%wor:	what 11948_12048 do 12048_12227 +/?
+*INV:	+< tell me everything that's going on in that picture +/. 12103_14653
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture +/.
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%wor:	tell 12103_12189 me 12229_12289 everything 12449_12850 that's 12870_13050 going 13150_13531 on 13591_13831 in 13891_13991 that 14032_14212 picture 14292_14653 +/.
+*PAR:	mhm [/] mhm . [+ exc] 15020_15600
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 15020_15080 mhm 15100_15600 .
+*INV:	+< everything that's happening there . 15321_16451
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+%wor:	everything 15321_15400 that's 15400_15601 happening 15661_16142 there 16182_16451 .
+*PAR:	do you want them crossed out or just say it out loud ? [+ exc] 16663_18850
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|they-Prs-Acc-P3 verb|cross-Part-Past-S adp|out cconj|or adv|just verb|say-Inf-S pron|it-Prs-Acc-S3 adp|out adv|loud ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|OBJ 5|3|XCOMP 6|5|COMPOUND-PRT 7|9|CC 8|9|ADVMOD 9|3|CONJ 10|9|OBJ 11|9|COMPOUND-PRT 12|9|ADVMOD 13|3|PUNCT
+%wor:	do 16663_16723 you 16723_16803 want 16823_16983 them 17003_17104 crossed 17164_17524 out 17584_17765 or 17845_17905 just 17985_18186 say 18226_18366 it 18366_18426 out 18466_18586 loud 18627_18850 ?
+*INV:	+< no , just say it out loud what you see happening . 18807_20750
+%mor:	intj|no cm|cm adv|just verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out adv|loud pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|11|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|4|PUNCT
+%wor:	no 18807_18847 , just 18847_18927 say 18927_19087 it 19087_19168 out 19228_19348 loud 19408_19709 what 19769_19909 you 19969_20029 see 20049_20250 happening 20250_20750 .
+*PAR:	+< okay , &-uh the little boy's climbing the &+cri cookie jar . 21071_25300
+%mor:	intj|okay cm|cm det|the-Def-Art adj|little-S1 noun|boy~aux|is verb|climb-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|5|CASE 7|10|ROOT 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|7|PUNCT
+%wor:	okay 21071_21171 , uh 21212_21272 the 21773_21833 little 21873_22053 boy's 22133_22494 climbing 23476_23977 the 24037_24097 cookie 24438_24758 jar 24839_25300 .
+*PAR:	&-uh <he has> [//] the little boy has [/] has cookies [//] a cookie in his hand that he got by climbing the step ladder which is ready to fall . 27193_41783
+%mor:	det|the-Def-Art adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand sconj|that pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr sconj|by verb|climb-Part-Pres-S det|the-Def-Art noun|step noun|ladder-Acc pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|22|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|12|MARK 11|12|NSUBJ 12|4|CCOMP 13|14|MARK 14|12|ADVCL 15|17|DET 16|17|COMPOUND 17|14|OBJ 18|20|NSUBJ 19|20|COP 20|17|ACL-RELCL 21|22|MARK 22|20|XCOMP 23|4|PUNCT
+%wor:	uh 27193_27273 he 28413_28473 has 28533_28694 the 28974_29094 little 29174_29354 boy 29894_30155 has 30255_30475 has 32856_33137 cookies 33437_33917 a 34157_34177 cookie 34277_34578 in 34578_34638 his 34658_34778 hand 34838_35238 that 36839_36959 he 36999_37039 got 37099_37359 by 37460_37640 climbing 37820_38380 the 38500_38580 step 38660_38901 ladder 38981_39341 which 40101_40281 is 40342_40482 ready 40982_41202 to 41262_41322 fall 41402_41783 .
+*PAR:	the sister is asking for &-uh something to eat . 43614_47534
+%mor:	det|the-Def-Art noun|sister aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for pron|something-Ind-S1 part|to verb|eat-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|CASE 6|4|OBL 7|8|MARK 8|6|ACL 9|4|PUNCT
+%wor:	the 43614_43694 sister 43734_44075 is 44135_44215 asking 44355_44776 for 44856_45177 uh 45317_45518 something 46760_47101 to 47121_47181 eat 47362_47534 .
+*PAR:	she has started little and wants some more . 47683_49990
+%mor:	pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|start-Part-Past-S adj|little-S1 cconj|and verb|want-Fin-Ind-Pres-S3 det|some-Def-Ind adj|more-Cmp-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|6|CC 6|3|CONJ 7|8|DET 8|6|OBJ 9|3|PUNCT
+%wor:	she 47683_47763 has 47823_47963 started 48043_48524 little 48605_48865 and 48925_49026 wants 49086_49406 some 49426_49527 more 49547_49990 .
+*PAR:	&-uh let's see now . [+ exc] 52346_53536
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S adv|now .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+%wor:	uh 52346_52413 let's 52573_52914 see 52934_53115 now 53135_53536 .
+*PAR:	<the mother> [/] the mother has &+s &+s a small mess in the kitchen &=laughs <lucky it's> [/] lucky it's small . 54934_64324
+%mor:	det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|small-S1 noun|mess-Acc adp|in det|the-Def-Art noun|kitchen adj|lucky-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|small-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|13|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|6|AMOD 11|13|NSUBJ 12|13|COP 13|10|CCOMP 14|3|PUNCT
+%wor:	the 54934_54994 mother 55014_55334 the 59278_59358 mother 59378_59639 has 59779_60079 a 60860_60880 small 60980_61320 mess 61420_61781 in 61881_61941 the 61981_62061 kitchen 62141_62642 lucky 62922_63182 it's 63202_63362 lucky 63523_63723 it's 63783_63923 small 63983_64324 .
+*PAR:	&-uh the mother is now <washing and &+dr no yeah> [//] she's washing and drying the dishes in the kitchen . 66062_72069
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adv|now pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S cconj|and verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|DET 2|7|NSUBJ-OUTER 3|7|COP 4|7|ADVMOD 5|7|NSUBJ 6|7|AUX 7|14|ROOT 8|9|CC 9|7|CONJ 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|9|OBL 15|7|PUNCT
+%wor:	uh 66062_66102 the 66582_66682 mother 66702_66943 is 67283_67423 now 67544_67744 washing 67844_68224 and 68585_68685 &+dr 68685_68805 no 68965_69066 yeah 69406_69526 she's 69626_69806 washing 69867_70187 and 70227_70307 drying 70327_70688 the 70728_70808 dishes 70848_71268 in 71328_71389 the 71429_71489 kitchen 71569_72069 .
+*PAR:	her water has spilled over terribly bad . 73587_77437
+%mor:	pron|her-Prs-Gen-S3 noun|water aux|have-Fin-Ind-Pres-S3 verb|spill-Part-Past-S adp|over adv|terribly adj|bad-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|ADVMOD 7|4|XCOMP 8|4|PUNCT
+%wor:	her 73587_73672 water 73732_74012 has 74072_74252 spilled 75093_75474 over 75554_75915 terribly 76475_76936 bad 77016_77437 .
+*PAR:	and looks like sister's back to try for some more cookies . 79939_87586
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 adp|like noun|sister~part|s noun|back part|to verb|try-Inf-S adp|for det|some-Def-Ind adj|more-Cmp-S1 noun|cookie-Plur .
+%gra:	1|2|CC 2|12|ROOT 3|6|CASE 4|6|NMOD-POSS 5|4|CASE 6|2|OBL 7|8|MARK 8|2|ADVCL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|2|PUNCT
+%wor:	and 79939_80059 looks 83723_83923 like 83943_84143 sister's 84183_84564 back 84624_84884 to 85004_85104 try 85565_85865 for 85925_86065 some 86145_86346 more 86366_86626 cookies 87086_87586 .
+*INV:	okay good . 88841_89729
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 88841_89189 good 89229_89729 .
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

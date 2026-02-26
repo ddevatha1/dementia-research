@@ -1,0 +1,218 @@
+@UTF8
+@PID:	11312/a-00089759-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|85;|female|ProbableAD||Participant|18||
+@Media:	458-0, audio
+@G:	animals
+*INV:	name all the animals you can think of . 100_2262
+%mor:	verb|name-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|animal-Plur-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|8|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|1|PUNCT
+%wor:	name 100_2262 all the animals you can think of .
+*PAR:	all kinds of animals . [+ exc]
+%mor:	det|all-Def-Tot noun|kind-Plur adp|of noun|animal-Plur .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR:	horse .
+%mor:	noun|horse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	dog .
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-um animals . [+ exc]
+%mor:	noun|animal-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	horse cow and a dog . [+ exc] 14294_14755
+%mor:	noun|horse noun|cow cconj|and det|a-Ind-Art noun|dog .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|2|PUNCT
+%wor:	horse 14294_14434 cow 14434_14574 and 14614_14674 a 14674_14694 dog 14694_14755 .
+*PAR:	oh gosh . [+ exc] 15895_16355
+%mor:	intj|oh intj|gosh .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 15895_15975 gosh 16035_16355 .
+*PAR:	&-uh I guess fish@q could be xxx [//] an animal , isn't it ? 17002_23097
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 q|fish aux|could-Fin-S aux|be-Inf-S det|a-Ind-Art noun|animal cm|cm aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|2|NSUBJ 2|11|ROOT 3|7|FLAT 4|7|AUX 5|7|COP 6|7|DET 7|2|CCOMP 8|9|PUNCT 9|2|PARATAXIS 10|9|ADVMOD 11|2|PARATAXIS 12|2|PUNCT
+%wor:	uh 17002_20116 I 20137_20157 guess 20197_20377 fish@q 20477_20837 could 20897_21097 be 21137_21237 xxx 21297_21497 an 21557_22197 animal 22257_22598 , isn't 22658_23097 it ?
+*PAR:	well , xxx . [+ exc] 24178_24678
+%mor:	intj|well cm|cm .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%wor:	well 24178_24678 , .
+*PAR:	&-um chicken . 26580_27079
+%mor:	noun|chicken .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um chicken 26580_27079 .
+*PAR:	&-um xxx . [+ exc] 28201_28680
+%wor:	um 28201_28680 .
+*PAR:	horse xxx chicken . [+ exc] 32246_33527
+%mor:	noun|horse noun|chicken .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	horse 32246_32827 chicken 33027_33527 .
+*PAR:	&-hm this is hard to do . [+ exc] 35509_38271
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|hard-S1 part|to verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	hm 35509_35669 this 36230_36550 is 36630_36810 hard 36870_37191 to 37591_37711 do 37771_38271 .
+*PAR:	xxx oh goodness . [+ exc] 39494_40454
+%mor:	intj|oh noun|goodness .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 39494_39653 goodness 39973_40454 .
+*PAR:	I don't know animals . [+ exc] 45562_46583
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S noun|animal-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	I 45562_45582 don't 45642_45863 know 45863_46043 animals 46083_46583 .
+*PAR:	isn't that something . [+ exc] 47325_48105
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem pron|something-Ind-S1 .
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	isn't 47325_47505 that 47525_47605 something 47605_48105 .
+*PAR:	&-uh I hate to say rat@q . 49107_52353
+%mor:	pron|I-Prs-Nom-S1 verb|hate-Fin-Ind-Pres-S1 part|to verb|say-Inf-S q|rat .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|FLAT 6|2|PUNCT
+%wor:	uh 49107_51290 I 51350_51370 hate 51390_51570 to 51590_51630 say 51730_51890 rat@q 52010_52353 .
+*PAR:	but I don't know if that's considered +... [+ exc] 52413_53832
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 verb|consider-Part-Past-S +...
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|9|MARK 7|9|NSUBJ-PASS 8|9|AUX-PASS 9|5|CCOMP 10|5|PUNCT
+%wor:	but 52413_52551 I 52651_52671 don't 52671_52791 know 52791_52932 if 52952_52992 that's 52992_53332 considered 53332_53832 +...
+*PAR:	is that a considered +..? [+ exc] 54173_55015
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art verb|consider-Part-Past-S +..?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	is 54173_54273 that 54293_54433 a 54453_54474 considered 54534_55015 +..?
+*INV:	anything that you can think of . 55254_56716
+%mor:	pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|6|ROOT 2|5|OBJ 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|2|CASE 7|1|PUNCT
+%wor:	anything 55254_55515 that 55595_55695 you 56196_56336 can 56336_56436 think 56436_56536 of 56536_56716 .
+*PAR:	+< alright . 56576_56877
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	alright 56576_56877 .
+*INV:	okay , good .
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*PAR:	well , I [/] I can't think of &+an a lot +/. [+ exc] 59240_61101
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|a-Ind-Art noun|lot +/.
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	well 59240_59460 , I 59720_59740 I 59901_59921 can't 59961_60221 think 60261_60441 of 60481_60562 a 60842_60862 lot 60962_61101 +/.
+@G:	F
+*PAR:	oh , gee f@l is a bad word to get . [+ exc] 61603_64051
+%mor:	intj|oh cm|cm intj|gee propn|for aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|bad-S1 noun|word part|to verb|get-Inf-S .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|REPARANDUM 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|AMOD 8|10|ROOT 9|10|MARK 10|8|ACL 11|8|PUNCT
+%wor:	oh 61603_61683 , gee 61863_62384 f 62464_62484 is 62584_62685 a 62745_62765 bad 62825_63065 word 63145_63426 to 63506_63586 get 63646_64051 .
+*PAR:	I mean , it's hard to figure a lot of them for f@l . [+ exc] 64051_67128
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 part|to verb|figure-Inf-S det|a-Ind-Art noun|lot-Acc adp|of pron|they-Prs-Acc-P3 adp|for propn|for .
+%gra:	1|2|NSUBJ 2|6|PARATAXIS 3|2|PUNCT 4|6|EXPL 5|6|COP 6|14|ROOT 7|8|MARK 8|6|CSUBJ 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|14|CASE 14|8|OBL 15|6|PUNCT
+%wor:	I mean 64051_64227 , it's 64287_64427 hard 64467_64767 to 64828_64908 figure 65028_65368 a 65609_65629 lot 65709_65909 of 65949_66029 them 66049_66229 for 66350_66530 f 66790_67128 .
+*INV:	any word at all .
+%mor:	det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*INV:	just say them . 68669_68936
+%mor:	adv|just verb|say-Fin-Imp-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	just say them 68669_68936 .
+*PAR:	&-uh it doesn't hafta be a thing , does it ? [+ exc] 69414_71071
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not adv|hafta aux|be-Inf-S det|a-Ind-Art noun|thing-Ger cm|cm aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|7|NSUBJ 2|7|AUX 3|7|ADVMOD 4|7|ADVMOD 5|7|COP 6|7|DET 7|10|ROOT 8|9|PUNCT 9|7|PARATAXIS 10|9|NSUBJ 11|7|PUNCT
+%wor:	uh it 69414_69514 doesn't 69554_69874 hafta 69895_70175 be 70235_70315 a 70395_70415 thing 70515_70776 , does 70876_71071 it ?
+*INV:	no , any word at all . 71256_72252
+%mor:	intj|no cm|cm det|any-Def-Ind noun|word adp|at det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%wor:	no 71256_71517 , any 71657_71817 word 71917_72158 at 72178_72252 all .
+*PAR:	f@l . [+ exc] 72658_72779
+%mor:	propn|for .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	f 72658_72779 .
+*PAR:	fool . 72892_73352
+%mor:	verb|fool-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fool 72892_73352 .
+*INV:	mhm . 73533_73852
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 73533_73852 .
+*PAR:	that's fool@k which I am &=laughs . [+ exc] 74253_77475
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|fool pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	that's 74253_74513 fool 74974_75734 which 76435_76635 I 76815_76835 am 76976_77475 .
+*PAR:	well , alright . [+ exc] 79698_80398
+%mor:	intj|well cm|cm intj|alright .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	well 79698_79878 , alright 79898_80398 .
+*PAR:	&-uh friend . 80579_81719
+%mor:	noun|friend .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 80579_80799 friend 81220_81719 .
+*PAR:	&-uh four . 82741_85104
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 82741_83762 four 84623_85104 .
+*PAR:	&-uh that's for &+f the number four . [+ exc] 86246_88628
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|for det|the-Def-Art noun|number num|four .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|6|ROOT 6|5|NUMMOD 7|5|PUNCT
+%wor:	uh 86246_86286 that's 86286_86526 for 86546_86706 the 87647_87727 number 87787_88048 four 88128_88628 .
+*PAR:	&-um &+f &+f f@l [/] &-um f@l fresh . 92853_96036
+%mor:	adp|for adj|fresh-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	um f 92853_92873 um 93093_93434 f 94054_94074 fresh 95536_96036 .
+*PAR:	&-um &+fri &+fr friend . 102323_103064
+%mor:	noun|friend .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 102323_102363 friend 102643_103064 .
+*PAR:	oh , I got friend@q . [+ exc] 103184_104028
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr q|friend .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|FLAT 6|4|PUNCT
+%wor:	oh 103184_103263 , I 103363_103383 got 103423_103583 friend@q 103643_104028 .
+*PAR:	&-uh four friend +//. [+ exc] 104244_105105
+%mor:	num|four noun|friend +//.
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%wor:	uh 104244_104324 four 104824_104984 friend 105044_105105 +//.
+*PAR:	oh , goodness I should know more f@l-s . [+ exc] 105285_107364
+%mor:	intj|oh cm|cm noun|goodness pron|I-Prs-Nom-S1 aux|should-Fin-S verb|know-Inf-S adv|more adv|fs .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|ADVMOD 8|6|ADVMOD 9|6|PUNCT
+%wor:	oh 105285_105424 , goodness 105564_105845 I 106005_106025 should 106105_106285 know 106385_106545 more 106625_106925 fs 107025_107364 .
+*PAR:	&-uh &+fi fine . 109987_110487
+%mor:	adj|fine-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh fine 109987_110487 .
+*PAR:	full . 112809_113308
+%mor:	adj|full-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	full 112809_113308 .
+*PAR:	&+fee feel . 114070_114569
+%mor:	verb|feel-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	feel 114070_114569 .
+*PAR:	friend . 115831_116330
+%mor:	noun|friend .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	friend 115831_116330 .
+*PAR:	&-uh I got them before . [+ exc] 116932_118086
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr pron|they-Prs-Acc-P3 adv|before .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%wor:	uh 116932_116972 I 116992_117012 got 117072_117232 them 117252_117492 before 117632_118086 .
+*PAR:	oh gee huh . [+ exc] 118334_119494
+%mor:	intj|oh intj|gee intj|huh .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%wor:	oh 118334_118474 gee 118614_118874 huh 118994_119494 .
+*PAR:	find . 120197_120696
+%mor:	verb|find-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	find 120197_120696 .
+*PAR:	xxx . [+ exc]
+*INV:	okay , that's fine , good ! 121872_123521
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 cm|cm adj|good-S1 !
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|7|ROOT 6|7|PUNCT 7|5|CONJ 8|5|PUNCT
+%wor:	okay , that's 121872_123019 fine 123019_123220 , good 123240_123521 !
+*PAR:	+< feel . 123361_123860
+%mor:	verb|feel-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	feel 123361_123860 .
+@End

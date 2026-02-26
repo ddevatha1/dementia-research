@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00090575-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|83;|female|PossibleAD||Participant|17||
+@Media:	530-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that's going on in this picture . 780_3870
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%wor:	I 780_800 want 800_920 you 960_1020 to 1080_1160 tell 1220_1441 me 1481_1541 everything 1621_2122 that's 2162_2362 going 2422_2783 on 2863_3023 in 3123_3183 this 3244_3404 picture 3484_3870 .
+*INV:	I want you to tell me everything that you see happening in this picture . 4365_7649
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+%wor:	I 4365_4385 want 4426_4566 you 4606_4666 to 4726_4786 tell 4846_5026 me 5047_5107 everything 5227_5668 that 5668_5808 you 5828_5948 see 6008_6168 happening 6228_6809 in 7030_7110 this 7130_7290 picture 7370_7649 .
+*PAR:	are you countin(g) (th)em ? [+ exc] 7771_8550
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|count-Part-Pres-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	are 7771_7871 you 7871_7971 countin(g) 7971_8412 (th)em 8432_8550 ?
+*INV:	<just tell> [//] just say them to me . 9955_11177
+%mor:	adv|just verb|say-Fin-Imp-S pron|they-Prs-Acc-P3 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%wor:	just 9955_10195 tell 10215_10375 just 10415_10696 say 10696_10836 them 10836_10936 to 11056_11116 me 11136_11177 .
+*PAR:	well the mother's &-uh &+dy &+dry &-uh dryin(g) dishes . 11331_16321
+%mor:	intj|well det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur .
+%gra:	1|6|DISCOURSE 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%wor:	well 11331_11551 the 11751_11831 mother's 11831_12292 uh 12292_12332 uh 12373_12473 dryin(g) 15438_15879 dishes 15879_16321 .
+*PAR:	and &-uh she let the water run over . 18023_20248
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|6|COMPOUND-PRT 8|3|PUNCT
+%wor:	and 18023_18344 uh 18464_18564 she 18745_18845 let 18925_19065 the 19105_19165 water 19226_19546 run 19606_19787 over 19847_20248 .
+*PAR:	and &-um (.) the little one's got the cookie jar . 21968_29959
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|one~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|6|PUNCT
+%wor:	and 21968_22288 um 22368_22689 the 27977_28057 little 28117_28317 one's 28437_28638 got 28718_28878 the 28918_28998 cookie 29078_29419 jar 29459_29959 .
+*PAR:	and the little boy almost fell off the +... 32043_33986
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy adv|almost verb|fall-Fin-Ind-Past-S3-irr adp|off det|the-Def-Art +...
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|ADVMOD 6|8|ROOT 7|6|CASE 8|6|OBL 9|6|PUNCT
+%wor:	and the 32043_32063 little 32263_32463 boy 32523_32704 almost 32784_33164 fell 33224_33445 off 33525_33745 the 33805_33986 +...
+*PAR:	they had a stool . 35960_37300
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|stool-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	they 35960_36240 had 36240_36440 a 36520_36540 stool 36800_37300 .
+*PAR:	and she had couple dishes , a couple cups and a plate . 41723_48807
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr noun|couple noun|dish-Plur-Acc cm|cm det|a-Ind-Art noun|couple noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|3|CC 2|3|NSUBJ 3|12|ROOT 4|5|COMPOUND 5|3|OBJ 6|9|PUNCT 7|9|DET 8|9|COMPOUND 9|5|CONJ 10|12|CC 11|12|DET 12|5|CONJ 13|3|PUNCT
+%wor:	and 41723_41803 she 41823_41923 had 42003_42203 couple 44505_44885 dishes 44925_45425 , a 46786_46806 couple 46886_47547 cups 47547_48007 and 48087_48187 a 48227_48247 plate 48307_48807 .
+*PAR:	the &-uh little ones didn't have anything . 49773_51413
+%mor:	det|the-Def-Art adj|little-S1 noun|one-Plur aux|do-Fin-Ind-Past-P3-irr~part|not verb|have-Inf-S pron|anything-Ind-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	the 49773_49853 uh 49893_50013 little 50073_50294 ones 50314_50474 didn't 50514_50714 have 50734_50895 anything 50955_51413 .
+*PAR:	she's drying the dishes . 56667_58188
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 56667_56926 drying 57026_57447 the 57487_57607 dishes 57688_58188 .
+*PAR:	and <her water> [//] the water run over . 63077_65417
+%mor:	cconj|and det|the-Def-Art noun|water noun|run adv|over .
+%gra:	1|4|CC 2|4|DET 3|4|COMPOUND 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 63077_63157 her 63157_63278 water 63359_63742 the 64428_64509 water 64589_64892 run 64932_65134 over 65195_65417 .
+*PAR:	huhuh . [+ exc]
+%mor:	intj|huhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00090448-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|81;|male|MCI||Participant|25||
+@Media:	212-1, audio
+@G:	Cookie
+*INV:	going on in the picture .
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*INV:	and there's the picture .
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	reaching up in the cupboard for cookies . [+ gram] 3814_5350
+%mor:	verb|reach-Part-Pres-S adp|up adp|in det|the-Def-Art noun|cupboard adp|for noun|cookie-Plur .
+%gra:	1|7|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|7|CASE 7|5|NMOD 8|1|PUNCT
+%wor:	reaching 3814_4135 up 4175_4275 in 4315_4395 the 4395_4475 cupboard 4475_4795 for 4816_4956 cookies 4996_5350 .
+*PAR:	standing on the stool . [+ gram] 5417_6530
+%mor:	verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	standing 5417_5837 on 5857_5977 the 5997_6077 stool 6177_6530 .
+*PAR:	the girl's reaching up for some to the &-um +... 6720_9570
+%mor:	det|the-Def-Art noun|girl~part|s verb|reach-Part-Pres-S adp|up adp|for det|some-Def-Ind adp|to det|the-Def-Art +...
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|9|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|9|CASE 9|7|NMOD 10|4|PUNCT
+%wor:	the 6720_6798 girl's 6838_7139 reaching 7199_7559 up 7619_7720 for 7820_7920 some 7980_8280 to 9102_9222 the 9362_9462 um 9462_9570 +...
+*PAR:	she has her arm raised up to receive that . 11010_14108
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|arm-Acc verb|raise-Part-Past-S adp|up part|to verb|receive-Inf-S pron|that-Dem .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|5|COMPOUND-PRT 7|8|MARK 8|5|ADVCL 9|8|OBJ 10|2|PUNCT
+%wor:	she 11010_11084 has 11124_11265 her 11305_11405 arm 11485_11645 raised 12046_12346 up 12386_12506 to 12907_12987 receive 13047_13588 that 13608_14108 .
+*PAR:	&+sh she's washin(g) dishes . 15777_16777
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	she's 15777_15897 washin(g) 15937_16377 dishes 16377_16777 .
+*PAR:	she has on an apron . 18638_19876
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|apron .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	she 18638_18718 has 18798_18999 on 19099_19179 an 19239_19319 apron 19399_19876 .
+*PAR:	there's water spillin(g) on the floor . 20084_22384
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|water verb|spill-Ger-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|EXPL 2|7|ROOT 3|2|NSUBJ 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|2|PUNCT
+%wor:	there's 20084_20259 water 20539_20860 spillin(g) 21180_21640 on 21640_21740 the 21760_21840 floor 21920_22384 .
+*PAR:	the faucet's running . 22861_24063
+%mor:	det|the-Def-Art noun|faucet~part|s noun|running-Ger .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	the 22861_22941 faucet's 23021_23461 running 23581_24063 .
+*PAR:	there are three cups and &-uh &-uh a cup [//] dish . 24886_30086
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|three noun|cup-Plur cconj|and det|a-Ind-Art noun|dish .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+%wor:	there 24886_24982 are 24982_25062 three 25102_25363 cups 26503_26843 and 26944_27084 uh 27104_27224 uh 27624_28284 a 28284_28304 cup 28985_29185 dish 29765_30086 .
+*PAR:	there's a cupboard . 30684_31434
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cupboard .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 30684_30864 a 30924_30944 cupboard 31104_31434 .
+*PAR:	there's the &-uh curtains and an outdoor scene of &-uh landscaping . 32424_39848
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|curtain-Plur cconj|and det|a-Ind-Art adj|outdoor-S1 noun|scene adp|of noun|landscaping-Ger .
+%gra:	1|2|EXPL 2|10|ROOT 3|4|DET 4|2|NSUBJ 5|8|CC 6|8|DET 7|8|AMOD 8|4|CONJ 9|10|CASE 10|8|NMOD 11|2|PUNCT
+%wor:	there's 32424_32744 the 32804_32905 uh 33085_33205 curtains 34345_34805 and 35226_35326 an 35346_35426 outdoor 35486_35866 scene 36006_36346 of 36446_36626 uh 36706_39288 landscaping 39348_39848 .
+*PAR:	often see a tree . [+ gram] 42449_43510
+%mor:	adv|often verb|see-Fin-Imp-S det|a-Ind-Art noun|tree-Acc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	often 42449_42729 see 42809_42989 a 42989_43009 tree 43109_43510 .
+*INV:	(.) good . 48840_48960
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 48840_48960 .
+@End

@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00090334-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;00.|male|MCI||Participant|||
+@Media:	016-1, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	here's the picture .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*PAR:	&-uh the water's spilling over . 4152_4183
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%wor:	uh 4152_4183 the water's spilling over .
+*PAR:	drying the dishes [/] dishes . [+ gram] 6914_8180
+%mor:	verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	drying 6914_7234 the 7895_7995 dishes 7995_8180 dishes .
+*PAR:	stealing from the cookie jar . [+ gram] 9056_10317
+%mor:	verb|steal-Part-Pres-S adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|OBL 6|1|PUNCT
+%wor:	stealing 9056_9336 from 9476_9616 the 9616_9776 cookie 9876_10236 jar 10256_10317 .
+*PAR:	&-uh silencing [//] the girl silencing the boy . [+ gram] 11323_16113
+%mor:	det|the-Def-Art noun|girl verb|silence-Ger-S det|the-Def-Art noun|boy-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	uh 11323_11363 silencing 12865_13686 the 13907_14227 girl 14528_14748 silencing 14928_15649 the 15649_15730 boy 15810_16113 .
+*PAR:	&-um don't see anything going on outside . [+ gram] 17392_22780
+%mor:	aux|do-Fin-Imp-S~part|not verb|see-Fin-Imp-S pron|anything-Ind-S1 verb|go-Ger-S adp|on adv|outside .
+%gra:	1|3|AUX 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|4|ACL 6|5|COMPOUND-PRT 7|5|ADVMOD 8|3|PUNCT
+%wor:	um don't see anything 17392_21439 going 21719_21979 on 22040_22240 outside 22280_22780 .
+*PAR:	boy tipping over . [+ gram] 24305_25165
+%mor:	intj|boy verb|tip-Part-S adv|over .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	boy 24305_24443 tipping 24483_24804 over 25084_25165 .
+*PAR:	&-uh woman walking in a puddle . [+ gram] 28905_29966
+%mor:	noun|woman verb|walk-Ger-S adp|in det|a-Ind-Art noun|puddle .
+%gra:	1|5|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+%wor:	uh 28905_28945 woman 28945_29265 walking 29706_29906 in 29906_29946 a 29946_29966 puddle .
+*PAR:	&-uh I don't see anything else that's happening . [+ exc] 33092_38942
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|5|AMOD 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|4|PUNCT
+%wor:	uh 33092_37459 I 37479_37499 don't 37519_37780 see 37820_37900 anything 37900_38220 else 38220_38381 that's 38381_38641 happening 38641_38942 .
+*INV:	okay . 44269_44359
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 44269_44359 .
+@End

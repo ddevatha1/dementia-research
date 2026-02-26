@@ -1,0 +1,121 @@
+@UTF8
+@PID:	11312/a-00090456-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|17||
+@Media:	218-0, audio
+@G:	Cookie
+*INV:	okay ? 50_320
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 50_320 ?
+*INV:	and I want you to tell me everything that you see going on in that picture . 1251_5335
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|CC 2|3|NSUBJ 3|16|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|12|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|11|XCOMP 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|3|PUNCT
+%wor:	and 1251_1371 I 1491_1512 want 1572_1752 you 1832_1932 to 2012_2092 tell 2172_2413 me 2473_2533 everything 2773_3374 that 3414_3554 you 3614_3735 see 3855_4035 going 4135_4395 on 4456_4576 in 4616_4696 that 4736_4896 picture 4936_5335 .
+*INV:	just tell me everything that you see happening here . 6138_8840
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|ADVMOD 10|2|PUNCT
+%wor:	just 6138_6358 tell 6398_6579 me 6639_6699 everything 6879_7360 that 7380_7520 you 7580_7680 see 7780_7920 happening 8020_8461 here 8541_8840 .
+*INV:	there's the picture . 9648_10328
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	there's 9648_9863 the 9883_9963 picture 10023_10328 .
+*PAR:	you [//] I'm sposta tell you everything that's happening ? [+ exc] 12740_14550
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|sposta verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|IOBJ 6|4|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|4|PUNCT
+%wor:	you 12740_12847 I'm 12887_13007 sposta 13067_13448 tell 13508_13688 you 13768_13869 everything 13869_14109 that's 14109_14249 happening 14249_14550 ?
+*INV:	yeah , mhm .
+%mor:	intj|yeah cm|cm intj|mhm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*PAR:	<how many over> [//] there [//] there's one two three [/] three women . 17363_20631
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|one num|two num|three noun|woman-Plur .
+%gra:	1|2|EXPL 2|6|ROOT 3|6|NUMMOD 4|6|NUMMOD 5|6|NUMMOD 6|2|NSUBJ 7|2|PUNCT
+%wor:	how 17363_17423 many 17423_17503 over 17543_17623 there 17623_17723 there's 17723_17923 one 18103_18264 two 18404_18604 three 19245_19505 three 19885_20146 women 20246_20631 .
+*PAR:	has some aprons on her . [+ gram] 22729_24313
+%mor:	verb|have-Fin-Ind-Pres-S3 det|some-Def-Ind noun|apron-Plur-Acc adp|on pron|her-Prs-Acc-S3 .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%wor:	has 22729_22869 some 22909_23529 aprons 23549_23910 on 23990_24130 her 24150_24313 .
+*PAR:	going to &-uh wash and dryer there . [+ gram] 25906_28956
+%mor:	verb|go-Part-Pres-S part|to verb|wash-Inf-S cconj|and verb|dryer-Inf-S adv|there .
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|5|CC 5|3|CONJ 6|3|ADVMOD 7|1|PUNCT
+%wor:	going 25906_26172 to 26273_26373 uh 26553_26613 wash 26773_28375 and 28395_28515 dryer 28555_28795 there 28795_28956 .
+*PAR:	little boy is xxx fast . [+ jar] 36755_38054
+%mor:	adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adj|fast-S1 .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	little 36755_36956 boy 36976_37176 is 37216_37276 fast 37636_38054 .
+*INV:	&=laughs .
+*PAR:	&=laughs . [+ exc]
+*INV:	now then . 40458_40636
+%mor:	adv|now adv|then .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	now 40458_40636 then .
+*INV:	+< what's happening in the picture . 41959_42580
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	what's 41959_42199 happening 42239_42580 in the picture .
+*PAR:	<washing the> [//] washing dishes . [+ gram] 43594_45664
+%mor:	noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	washing 43594_43840 the 44000_44901 washing 44901_45241 dishes 45281_45664 .
+*INV:	okay . 46313_46442
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 46313_46442 .
+*INV:	what else is happening ?
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	hm ? [+ exc]
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what else is happening ?
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*PAR:	what else is happening here ? [+ exc] 57104_57233
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	what 57104_57233 else is happening here ?
+*INV:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh then see a minute ago the girls I guess are gettin(g) up there and gonna xxx <a cookie> [//] cookies . [+ jar] 60128_64352
+%mor:	adv|then verb|see-Fin-Imp-S det|a-Ind-Art noun|minute adv|ago det|the-Def-Art noun|girl-Plur pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adp|up adv|there cconj|and adp|gonna noun|cookie-Plur .
+%gra:	1|2|ADVMOD 2|16|ROOT 3|4|DET 4|5|OBL-UNMARKED 5|2|ADVMOD 6|7|DET 7|11|NSUBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|11|AUX 11|2|PARATAXIS 12|11|COMPOUND-PRT 13|11|ADVMOD 14|16|CC 15|16|CASE 16|13|CONJ 17|2|PUNCT
+%wor:	uh then see a 60128_60147 minute 60147_60428 ago 60448_60568 the 60608_60668 girls 60728_60968 I 61089_61109 guess 61149_61329 are 61369_61489 gettin(g) 61489_61849 up 61849_61890 there 61890_62050 and 62150_62310 gonna 62310_62971 a 63091_63111 cookie 63191_63752 cookies 63852_64352 .
+*PAR:	he didn't get us cookies . 65774_66676
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|get-Inf-S pron|we-Prs-Acc-P1 noun|cookie-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|IOBJ 6|4|OBJ 7|4|PUNCT
+%wor:	he didn't 65774_66015 get 66015_66195 us 66235_66335 cookies 66335_66676 .
+*INV:	(.) what's happening over here ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	oh the [/] &+la the &-uh +...
+%mor:	intj|oh det|the-Def-Art +...
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*PAR:	these women that are +...
+%mor:	det|this-Def-Dem-Plur noun|woman-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 +...
+%gra:	1|2|DET 2|4|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+*PAR:	there are +...
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 +...
+%gra:	1|2|EXPL 2|2|ROOT 3|2|PUNCT
+*PAR:	cease this all to send the ball . [+ jar] 94560_94780
+%mor:	verb|cease-Fin-Imp-S pron|this-Dem-S1 det|all-Def-Tot part|to verb|send-Inf-S det|the-Def-Art noun|ball-Acc .
+%gra:	1|7|ROOT 2|1|OBJ 3|2|DET 4|5|MARK 5|1|ADVCL 6|7|DET 7|5|OBJ 8|1|PUNCT
+%wor:	cease 94560_94700 this 94700_94780 all to send the ball .
+*INV:	pardon ?
+%mor:	noun|pardon ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	I heard it might but I'm sayin(g) let's tell her send the button and that's it . [+ jar] [+ exc] 96101_99503
+%mor:	pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Past-S1-irr pron|it-Prs-Nom-S3 aux|might-Fin-S cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|say-Part-Pres-S verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|tell-Inf-S pron|her-Prs-Acc-S3 verb|send-Inf-S det|the-Def-Art noun|button-Acc cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|19|ROOT 3|4|NSUBJ 4|2|CCOMP 5|8|CC 6|8|NSUBJ 7|8|AUX 8|2|CONJ 9|8|XCOMP 10|9|OBJ 11|9|XCOMP 12|11|IOBJ 13|11|XCOMP 14|15|DET 15|13|OBJ 16|19|CC 17|19|NSUBJ 18|19|COP 19|2|CONJ 20|2|PUNCT
+%wor:	I 96101_96121 heard 96161_96361 it 96401_96441 might 96441_96721 but 96721_96781 I'm 96801_96901 sayin(g) 96981_97421 let's 97421_97581 tell 97681_97882 her 97902_97982 send 98022_98362 the 98382_98462 button 98522_98822 and 98862_98942 that's 98942_99342 it 99402_99503 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	you'll see it happen . [+ exc] 101648_102330
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 verb|happen-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%wor:	you'll 101648_101802 see 101802_101984 it 101984_102086 happen 102086_102330 .
+@End

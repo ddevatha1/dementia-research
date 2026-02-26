@@ -1,0 +1,230 @@
+@UTF8
+@PID:	11312/a-00091357-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|61;|male|ProbableAD||Participant|13||
+@Media:	207-0, audio
+*INV:	use the word pencil@q in a sentence for me . 1100_4981
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art noun|sentence adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|7|CASE 6|7|DET 7|1|OBL 8|9|CASE 9|7|NMOD 10|1|PUNCT
+%wor:	use 1100_1320 the 1340_1420 word 1480_1780 pencil@q 2320_3521 in 3561_3641 a 3681_3701 sentence 3841_4441 for 4481_4621 me 4681_4981 .
+*PAR:	pencil@q ? [+ exc] 5581_6081
+%mor:	q|pencil ?
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	pencil@q 5581_6081 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&+li or [//] &-uh sign your name ! [+ exc] 8723_10333
+%mor:	verb|sign-Fin-Imp-S pron|your-Prs-Gen-S2 noun|name-Acc !
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%wor:	or 8723_9023 uh 9103_9323 sign 9423_9703 your 9763_9883 name 9943_10333 !
+*INV:	okay . 10363_10863
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 10363_10863 .
+*PAR:	you sign your name with a +//. [+ exc] 11563_13062
+%mor:	pron|you-Prs-Nom-S2 verb|sign-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|name-Acc adp|with det|a-Ind-Art +//.
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|OBL 6|2|PUNCT 7|2|PUNCT
+%wor:	you 11563_11644 sign 11724_11964 your 12024_12124 name 12164_12424 with 12464_12584 a 12604_13062 +//.
+*PAR:	oh , no , not a pencil . [+ exc] 13184_14424
+%mor:	intj|oh cm|cm intj|no cm|cm part|not det|a-Ind-Art noun|pencil .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|3|PUNCT 5|7|ADVMOD 6|7|DET 7|7|ROOT 8|7|PUNCT
+%wor:	oh 13184_13324 , no 13364_13464 , not 13604_13764 a 13804_13824 pencil 13924_14424 .
+*PAR:	wiss [: with] [*] a &-uh +... [+ exc] 14645_15555
+%mor:	adp|with det|a-Ind-Art +...
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%wor:	with 14645_14785 a 14885_14905 uh 15246_15555 +...
+*PAR:	<what do you> [/] what do you call a +... [+ exc] 15748_17390
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S det|a-Ind-Art +...
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+%wor:	what 15748_15868 do 15908_15948 you 15968_16028 what 16068_16189 do 16189_16229 you 16229_16329 call 16409_16710 a 16890_17390 +...
+*INV:	but I want you to use the word pencil@q . 17953_19886
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|DET 8|6|OBJ 9|6|FLAT 10|3|PUNCT
+%wor:	but 17953_18053 I 18174_18194 want 18254_18414 you 18434_18514 to 18554_18635 use 18775_18935 the 18955_19036 word 19096_19316 pencil@q 19397_19886 .
+*PAR:	oh , these things here ? [+ exc] 19978_21351
+%mor:	intj|oh cm|cm det|this-Def-Dem-Plur noun|thing-Plur adv|here ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	oh 19978_20098 , these 20319_20620 things 20660_21021 here 21061_21351 ?
+*INV:	that's a pen . 21351_22242
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pen .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	that's 21351_21642 a 21642_21662 pen 21742_22242 .
+*PAR:	+< well , <what is> [/] what is this ? [+ exc] 21823_23232
+%mor:	intj|well cm|cm pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|COP 5|3|NSUBJ 6|3|PUNCT
+%wor:	well 21823_21963 , what 21963_22183 is 22223_22304 what 22444_22584 is 22645_22745 this 22805_23232 ?
+*INV:	it's a pen . 23232_23848
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pen .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	it's 23232_23346 a 23366_23386 pen 23507_23848 .
+*PAR:	yeah , that's what you use &-uh when you sign your name &-uh in the +... [+ exc] 25470_30342
+%mor:	intj|yeah cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|use-Fin-Ind-Pres-S2 adv|when pron|you-Prs-Nom-S2 verb|sign-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|name-Acc adp|in det|the-Def-Art +...
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|14|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|10|ADVMOD 9|10|NSUBJ 10|7|ADVCL 11|12|NMOD-POSS 12|10|OBJ 13|14|CASE 14|10|OBL 15|5|PUNCT
+%wor:	yeah 25470_25670 , that's 25770_25970 what 26030_26191 you 26271_26371 use 26551_26872 uh 26872_27012 when 27713_27853 you 27893_27993 sign 28093_28354 your 28394_28514 name 28574_28894 uh 29555_29695 in 29876_30016 the 30016_30342 +...
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	that's right . 30342_30941
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 30342_30637 right 30677_30941 .
+*PAR:	+< yeah , that [//] what is that ? [+ exc] 30897_32032
+%mor:	intj|yeah cm|cm pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|COP 5|3|NSUBJ 6|3|PUNCT
+%wor:	yeah 30897_31037 , that 31037_31358 what 31458_31598 is 31638_31738 that 31758_32032 ?
+*PAR:	that's a pen . [+ exc] 32032_33045
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pen .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	that's 32032_32299 a 32359_32379 pen 32679_33045 .
+*INV:	+< a pen . 32940_33379
+%mor:	det|a-Ind-Art noun|pen .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 32940_32960 pen 32960_33379 .
+*PAR:	oh , a pen . [+ exc] 33581_34501
+%mor:	intj|oh cm|cm det|a-Ind-Art noun|pen .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	oh 33581_33881 , a 33881_33901 pen 34001_34501 .
+*INV:	+< mhm , a pen . 34282_35074
+%mor:	intj|mhm cm|cm det|a-Ind-Art noun|pen .
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|DET 4|1|PARATAXIS 5|1|PUNCT
+%wor:	mhm 34282_34542 , a 34562_34582 pen 34662_35074 .
+*PAR:	okay . [+ exc] 35243_35704
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 35243_35704 .
+*INV:	+< can you use the word pencil in a sentence ? 35404_38427
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc noun|pencil-Acc adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|DET 5|3|OBJ 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+%wor:	can 35404_35524 you 35584_35684 use 35844_36044 the 36064_36145 word 36205_36445 pencil 36725_37306 in 37646_37706 a 37766_37786 sentence 37927_38427 ?
+*PAR:	no . [+ exc] 39010_39127
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 39010_39127 .
+*PAR:	uhuh . [+ exc]
+%mor:	intj|uhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	no ?
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	you could say “you sign your name with a pencil” . 41390_43692
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|say-Inf-S pron|you-Prs-Nom-S2 verb|sign-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|name-Acc adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|NSUBJ 5|3|CCOMP 6|7|NMOD-POSS 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|3|PUNCT
+%wor:	you 41390_41491 could 41531_41691 say 41771_41911 you 41971_42071 sign 42171_42472 your 42512_42652 name 42692_42912 with 42932_43052 a 43092_43112 pencil 43192_43692 .
+*INV:	that would be alright . 44037_44954
+%mor:	pron|that-Dem aux|would-Fin-S aux|be-Inf-S adj|alright-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	that 44037_44133 would 44153_44274 be 44294_44354 alright 44454_44954 .
+*PAR:	well , I always sign my name with that . [+ exc] 45475_47729
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 adv|always verb|sign-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|name-Acc adp|with pron|that-Dem .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|9|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+%wor:	well 45475_45675 , I 45775_45795 always 45875_46136 sign 46196_46476 my 46536_46716 name 46796_47057 with 47117_47257 that 47297_47729 .
+*INV:	it's better to do it with a pen . 47818_49227
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 part|to verb|do-Inf-S pron|it-Prs-Acc-S3 adp|with det|a-Ind-Art noun|pen .
+%gra:	1|3|EXPL 2|3|COP 3|9|ROOT 4|5|MARK 5|3|CSUBJ 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|3|PUNCT
+%wor:	it's 47818_48058 better 48058_48318 to 48358_48438 do 48518_48598 it 48659_48739 with 48779_48899 a 48919_48939 pen 48999_49227 .
+*PAR:	+< xxx , yeah . [+ exc] 49139_49227
+%mor:	cm|cm intj|yeah .
+%gra:	1|2|PUNCT 2|2|ROOT 3|2|PUNCT
+%wor:	, yeah 49139_49227 .
+*INV:	yeah . 49279_49540
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 49279_49540 .
+*INV:	what about the word tree@q ? 50060_51380
+%mor:	pron|what-Int-S1 adp|about det|the-Def-Art noun|word q|tree ?
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|4|FLAT 6|1|PUNCT
+%wor:	what 50060_50160 about 50180_50380 the 50400_50480 word 50540_50740 tree@q 50880_51380 ?
+*INV:	can you use the word tree@q +/. 52101_53661
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|use-Inf-S det|the-Def-Art noun|word-Acc q|tree +/.
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|FLAT 7|3|PUNCT
+%wor:	can 52101_52221 you 52241_52341 use 52501_52681 the 52701_52781 word 52821_53021 tree@q 53161_53661 +/.
+*PAR:	tree@q ? [+ exc] 53982_54393
+%mor:	q|tree ?
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 53982_54393 ?
+*INV:	+, in a sentence ? 54302_54862
+%mor:	adp|in det|a-Ind-Art noun|sentence ?
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	in 54302_54342 a 54342_54362 sentence 54362_54862 ?
+*PAR:	apple tree ? [+ exc] 54622_55252
+%mor:	noun|apple noun|tree ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	apple 54622_54942 tree 55002_55252 ?
+*INV:	any sort of a tree . 55783_56749
+%mor:	det|any-Def-Ind noun|sort adp|of det|a-Ind-Art noun|tree .
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	any 55783_55923 sort 56023_56163 of 56203_56243 a 56283_56303 tree 56363_56749 .
+*INV:	just put the word tree@q into a sentence . 57484_60025
+%mor:	adv|just verb|put-Fin-Imp-S det|the-Def-Art noun|word-Acc q|tree adp|into det|a-Ind-Art noun|sentence .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|4|DET 4|2|OBJ 5|2|FLAT 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+%wor:	just 57484_57664 put 57764_57924 the 57964_58044 word 58104_58304 tree@q 58424_58925 into 59105_59305 a 59385_59405 sentence 59525_60025 .
+*PAR:	(..) I don't know . [+ exc] 66291_66792
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 66291_66311 don't 66351_66511 know 66511_66792 .
+*INV:	no ? 67132_67419
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 67132_67419 ?
+*PAR:	I don't know what [/] &-uh what you want me to do ! [+ exc] 67532_70055
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|do-Inf-S !
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|10|MARK 10|7|XCOMP 11|4|PUNCT
+%wor:	I 67532_67552 don't 67592_67753 know 67773_67893 what 67953_68233 uh 68273_68313 what 68834_68994 you 69034_69134 want 69174_69354 me 69414_69474 to 69554_69614 do 69715_70055 !
+*INV:	well +/. 70515_70814
+%mor:	intj|well +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	well 70515_70814 +/.
+*PAR:	&-uh I wouldn't know . [+ exc] 70976_72730
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	uh 70976_71056 I 71777_71797 wouldn't 71897_72217 know 72277_72730 .
+*INV:	you don't like the word pencil@q . 73118_74419
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|like-Inf-S det|the-Def-Art noun|word-Acc q|pencil .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|FLAT 8|4|PUNCT
+%wor:	you 73118_73198 don't 73218_73358 like 73358_73538 the 73558_73618 word 73679_73839 pencil@q 73919_74419 .
+*INV:	you [/] you said you [/] you sign your name with a pen . 75260_78362
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|sign-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|name-Acc adp|with det|a-Ind-Art noun|pen .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|2|PUNCT
+%wor:	you 75260_75340 you 75500_75580 said 75660_75840 you 76321_76421 you 76741_76841 sign 76941_77202 your 77242_77362 name 77402_77602 with 77622_77742 a 77762_77782 pen 77862_78362 .
+*INV:	that's a good sentence . 78843_79923
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|sentence .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	that's 78843_79043 a 79083_79103 good 79183_79343 sentence 79423_79923 .
+*PAR:	+< yeah . [+ exc] 79824_80324
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 79824_80324 .
+*INV:	that's [/] that's a real good sentence . 80384_81945
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|real-S1 adj|good-S1 noun|sentence .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%wor:	that's 80384_80544 that's 80644_80824 a 80885_80905 real 80985_81165 good 81205_81365 sentence 81445_81945 .
+*INV:	can you (.) put the word tree@q into a sentence ? 82446_85848
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S det|the-Def-Art noun|word-Acc q|tree adp|into det|a-Ind-Art noun|sentence ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|3|FLAT 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+%wor:	can 82446_82586 you 82666_82786 put 83707_83867 the 83907_83987 word 84047_84247 tree@q 84427_84908 into 84928_85148 a 85228_85248 sentence 85348_85848 ?
+*PAR:	(..) apple tree ! 87790_88608
+%mor:	noun|apple noun|tree !
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	apple 87790_88090 tree 88170_88608 !
+*INV:	mhm . 88608_88891
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 88608_88891 .
+*INV:	okay . 89091_89432
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 89091_89432 .
+*INV:	that's good enough . 89472_90352
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 adv|enough .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	that's 89472_89632 good 89692_89832 enough 89852_90352 .
+*INV:	<do you> [//] have you got an apple tree in your +/? 92258_93902
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Past-S-irr det|a-Ind-Art noun|apple noun|tree-Acc adp|in pron|your-Prs-Gen-S2 +/?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|8|CASE 8|3|OBL 9|3|PUNCT
+%wor:	do 92258_92318 you 92358_92418 have 92538_92679 you 92679_92739 got 92759_92879 an 92899_92979 apple 93020_93200 tree 93280_93461 in 93481_93561 your 93621_93902 +/?
+@End

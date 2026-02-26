@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00090684-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt|PAR|62;00.|female|Control||Participant|||
+@Media:	068-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	it's a sunny day (be)cause the window's open . 1311_3460
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|sunny-S1 noun|day sconj|because det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|10|ROOT 6|10|MARK 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|5|ADVCL 11|5|PUNCT
+%wor:	it's 1311_1451 a 1511_1531 sunny 1611_1851 day 1952_2252 (be)cause 2252_2492 the 2492_2573 window's 2613_2933 open 3033_3460 .
+*PAR:	this is the interpreted one . [+ exc] 3999_5239
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art verb|interpret-Part-Past-S noun|one .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	this 3999_4115 is 4175_4235 the 4255_4315 interpreted 4375_4956 one 5056_5239 .
+*PAR:	okay then &-um the little boy is reaching up to get a cookie an(d) he's about to fall off the chair [: stool] [* s:r] . 5458_10264
+%mor:	intj|okay adv|then det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|7|DISCOURSE 2|7|ADVMOD 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|21|ROOT 8|7|COMPOUND-PRT 9|10|MARK 10|7|ADVCL 11|12|DET 12|10|OBJ 13|16|CC 14|16|NSUBJ 15|16|COP 16|7|CONJ 17|18|MARK 18|16|XCOMP 19|21|CASE 20|21|DET 21|18|OBL 22|7|PUNCT
+%wor:	okay 5458_5778 then 5858_6078 um 6238_6338 the 7180_7240 little 7240_7480 boy 7520_7701 is 7701_7781 reaching 7841_8121 up 8141_8221 to 8261_8301 get 8342_8462 a 8482_8502 cookie 8542_8762 an(d) 8762_8862 he's 8862_8942 about 8942_9103 to 9123_9183 fall 9183_9383 off 9443_9543 the 9583_9644 stool 9764_10264 .
+*PAR:	and &-uh the water's overflowing in the sinks [: sink] [* s:r] . 11679_15606
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 noun|overflow-Ger adp|in det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 11679_12220 uh 12641_12701 the 13402_13523 water's 13944_14244 overflowing 14304_14805 in 14825_14886 the 14906_14966 sink 15106_15606 .
+*PAR:	and the mother is drying the dishes but she doesn't see the water flowing over the &+s +//. 16389_20017
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|but pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|see-Inf-S det|the-Def-Art noun|water-Acc verb|flow-Ger-S adp|over det|the-Def-Art +//.
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|7|DET 7|5|OBJ 8|12|CC 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|5|CONJ 13|14|DET 14|12|OBJ 15|14|ACL 16|17|CASE 17|15|OBL 18|5|PUNCT
+%wor:	and 16389_16469 the 16489_16549 mother 16589_16850 is 16950_17090 drying 17190_17531 the 17571_17631 dishes 17732_18333 but 18433_18553 she 18614_18694 doesn't 18734_18994 see 19034_19155 the 19155_19235 water 19255_19475 flowing 19515_19736 over 19776_19876 the 19876_20017 +//.
+*PAR:	obviously she is just spaced out somewhere (be)cause she doesn't know that the boy's getting the cookies and she doesn't know the water's overflowing in the sink an(d) even she's standing in it . 20174_29050
+%mor:	adv|obviously pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|just verb|space-Part-Past-S adp|out adv|somewhere sconj|because pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S sconj|that det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 noun|overflow-Ger adp|in det|the-Def-Art noun|sink cconj|and adv|even pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|38|ROOT 6|5|COMPOUND-PRT 7|5|ADVMOD 8|12|MARK 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|5|ADVCL 13|17|MARK 14|15|DET 15|17|NSUBJ 16|17|AUX 17|12|CCOMP 18|19|DET 19|17|OBJ 20|24|CC 21|24|NSUBJ 22|24|AUX 23|24|ADVMOD 24|5|CONJ 25|26|DET 26|28|NSUBJ 27|28|COP 28|24|CCOMP 29|31|CASE 30|31|DET 31|28|OBL 32|36|CC 33|36|ADVMOD 34|36|NSUBJ 35|36|AUX 36|24|CONJ 37|38|CASE 38|36|OBL 39|5|PUNCT
+%wor:	obviously 20174_20574 she 20715_20835 is 20975_21115 just 21216_21536 spaced 21677_22037 out 22178_22338 somewhere 22398_22819 (be)cause 22819_23039 she 23079_23140 doesn't 23200_23540 know 23941_24122 that 24182_24302 the 24322_24402 boy's 24422_24683 getting 24743_25003 the 25003_25063 cookies 25124_25464 and 25504_25605 she 25645_25725 doesn't 25765_26025 know 26025_26126 the 26166_26246 water's 26286_26566 overflowing 26627_27108 in 27108_27148 the 27148_27228 sink 27288_27488 an(d) 27508_27669 even 27669_27829 she's 27849_28009 standing 28029_28430 in 28450_28530 it 28550_29050 .
+*PAR:	&=sighs &-um (.) <the &+l little> [/] the little girl <has her> [/] has her hand [//] finger on her mouth so she's &-um telling the little boy to be quiet an(d) not let mother know that we're getting the cookies out of the cookie jar . 31212_46751
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|on pron|her-Prs-Gen-S3 noun|mouth sconj|so pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S det|the-Def-Art adj|little-S1 noun|boy part|to aux|be-Inf-S adj|quiet-S1 cconj|and part|not verb|let-Inf-S noun|mother-Acc verb|know-Inf-S sconj|that pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|35|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|4|ADVCL 14|16|DET 15|16|AMOD 16|13|IOBJ 17|19|MARK 18|19|COP 19|13|XCOMP 20|22|CC 21|22|ADVMOD 22|13|CONJ 23|22|OBJ 24|22|XCOMP 25|28|MARK 26|28|NSUBJ 27|28|AUX 28|24|CCOMP 29|30|DET 30|28|OBJ 31|35|CASE 32|35|CASE 33|35|DET 34|35|COMPOUND 35|28|OBL 36|4|PUNCT
+%wor:	um 31212_32333 the 35617_35677 &+l 35677_35797 little 35918_36178 the 36238_36318 little 36338_36518 girl 36558_36779 has 36879_37139 her 37159_37299 has 38361_38601 her 38621_38721 hand 38801_39041 finger 39141_39402 on 39442_39522 her 39542_39622 mouth 39662_40022 so 40083_40203 she's 40403_40783 um 41084_41364 telling 42586_42886 the 42886_42966 little 42986_43146 boy 43166_43326 to 43346_43386 be 43427_43487 quiet 43567_43987 an(d) 43987_44087 not 44087_44248 let 44288_44408 mother 44468_44688 know 44708_44908 that 44968_45068 we're 45068_45209 getting 45209_45429 the 45449_45509 cookies 45529_45829 out 45889_45990 of 45990_46050 the 46050_46130 cookie 46150_46450 jar 46450_46751 .
+*PAR:	and &-um I'd say mother's in some kind of a depression or something . 49724_54824
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|would-Fin-S verb|say-Inf-S noun|mother-Acc~part|s adp|in det|some-Def-Ind noun|kind adp|of det|a-Ind-Art noun|depression cconj|or pron|something-Ind-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|4|OBJ 6|5|CASE 7|9|CASE 8|9|DET 9|4|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|14|CC 14|12|CONJ 15|4|PUNCT
+%wor:	and 49724_50024 um 52627_52667 I'd 52667_52727 say 52727_52827 mother's 52988_53248 in 53288_53348 some 53408_53548 kind 53568_53728 of 53728_53769 a 53769_53789 depression 53829_54269 or 54329_54389 something 54469_54824 .
+*PAR:	(..) just not with it . [+ gram] 59576_60297
+%mor:	adv|just part|not adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	just 59576_59736 not 59776_59916 with 59996_60156 it 60196_60297 .
+@End

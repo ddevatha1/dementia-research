@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/a-00090484-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|71;|female|MCI||Participant|26||
+@Media:	260-2, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at this picture . 280_2300
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+%wor:	I'd 280_340 like 360_580 for 580_680 you 720_800 to 800_881 take 961_1201 a 1221_1241 look 1301_1442 at 1462_1542 this 1582_1742 picture 1842_2300 .
+*INV:	take a look at that picture and tell me everything that you see happening in that picture . 3446_7487
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|17|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|14|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|1|PUNCT
+%wor:	take 3446_3626 a 3646_3666 look 3706_3826 at 3846_3906 that 3926_4067 picture 4107_4487 and 4508_4588 tell 4628_4848 me 4908_4968 everything 5069_5549 that 5570_5710 you 5770_5870 see 5950_6111 happening 6211_6712 in 6772_6832 that 6872_7012 picture 7092_7487 .
+*INV:	everything's that going on there . 7975_9777
+%mor:	pron|everything-Tot-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|4|NSUBJ 2|3|COP 3|6|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|3|PUNCT
+%wor:	everything's 7975_8395 that 8395_8535 going 8595_8916 on 9016_9196 there 9277_9777 .
+*PAR:	the boy's in the cookie jar but the stool is lopsided . 12374_21118
+%mor:	det|the-Def-Art noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar cconj|but det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|lopsided-Part-Past-S .
+%gra:	1|2|DET 2|7|NMOD-POSS 3|2|CASE 4|7|CASE 5|7|DET 6|7|COMPOUND 7|12|ROOT 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|COP 12|7|CONJ 13|7|PUNCT
+%wor:	the 12374_12494 boy's 13034_13654 in 15675_15755 the 15775_15955 cookie 15995_16316 jar 16336_16596 but 16676_16836 the 16876_16976 stool 18357_18677 is 18797_18957 lopsided 20618_21118 .
+*PAR:	he couldn't be standing like that . 21878_23312
+%mor:	pron|he-Prs-Nom-S3 aux|could-Fin-S~part|not aux|be-Inf-S verb|stand-Part-Pres-S adp|like pron|that-Dem .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	he 21878_21938 couldn't 21998_22239 be 22259_22319 standing 22419_22859 like 22879_23059 that 23079_23312 .
+*PAR:	on a stool on two legs . [+ gram] 24700_26121
+%mor:	adp|on det|a-Ind-Art noun|stool adp|on num|two noun|leg-Plur .
+%gra:	1|3|CASE 2|3|DET 3|6|ROOT 4|6|CASE 5|6|NUMMOD 6|3|NMOD 7|3|PUNCT
+%wor:	on 24700_24780 a 24840_24860 stool 24960_25240 on 25340_25420 two 25500_25640 legs 25700_26121 .
+*PAR:	and the mother's lettin(g) the water run over the sink . 30589_33068
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|7|DET 7|5|OBJ 8|5|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|5|PUNCT
+%wor:	and 30589_30770 the 30770_30871 mother's 30931_31214 lettin(g) 31274_31596 the 31596_31657 water 31657_31939 run 32020_32181 over 32241_32503 the 32544_32624 sink 32765_33068 .
+*PAR:	(...) well , I assume she's already washed the plate that she's drying . 49758_53748
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|assume-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already verb|wash-Part-Past-S det|the-Def-Art noun|plate-Acc pron|that-Rel pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|14|ROOT 5|8|NSUBJ-PASS 6|8|AUX 7|8|ADVMOD 8|4|CCOMP 9|10|DET 10|8|OBJ 11|14|OBJ 12|14|NSUBJ 13|14|AUX 14|10|ACL-RELCL 15|4|PUNCT
+%wor:	well 49758_49938 , I 50058_50078 assume 50098_50538 she's 50678_50979 already 51579_51860 washed 51920_52160 the 52240_52320 plate 52380_52680 that 52680_52841 she's 52861_53121 drying 53261_53748 .
+*PAR:	I don't know what else she is &=laughs . [+ exc] 53942_55680
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 adj|else-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|5|ADVMOD 7|8|NSUBJ 8|5|ACL-RELCL 9|4|PUNCT
+%wor:	I 53942_53962 don't 54002_54162 know 54182_54422 what 54742_54923 else 54963_55083 she 55103_55223 is 55423_55680 .
+*PAR:	whether that would be mistake or not . [+ gram] [+ exc] 56065_58005
+%mor:	sconj|whether pron|that-Dem aux|would-Fin-S aux|be-Inf-S noun|mistake cconj|or part|not .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|COP 5|7|ROOT 6|7|CC 7|5|CONJ 8|5|PUNCT
+%wor:	whether 56065_56304 that 56344_56504 would 56544_56664 be 56704_56784 mistake 56904_57385 or 57425_57465 not 57505_58005 .
+*PAR:	(..) that's about all I can see there . [+ exc] 69068_70408
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adv|there .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|8|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|ADVMOD 9|4|PUNCT
+%wor:	that's 69068_69208 about 69208_69308 all 69348_69428 I 69448_69468 can 69468_69669 see 69749_69990 there 69990_70408 .
+*INV:	okay that's fine . 70992_72275
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 70992_71272 that's 71613_71793 fine 71874_72275 .
+@End

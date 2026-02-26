@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/a-00091265-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|72;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	007-0, audio
+*PAR:	we write with a pencil . 581_1682
+%mor:	pron|we-Prs-Nom-P1 verb|write-Fin-Ind-Pres-P1 adp|with det|a-Ind-Art noun|pencil .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	we 581_641 write 701_942 with 962_1102 a 1122_1142 pencil 1182_1682 .
+*INV:	tree@q . 3751_4250
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+%wor:	tree@q 3751_4250 .
+*PAR:	a tree grows right outside my window . 5576_7639
+%mor:	det|a-Ind-Art noun|tree verb|grow-Fin-Ind-Pres-S3 adv|right adp|outside pron|my-Prs-Gen-S1 noun|window .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|ADVMOD 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	a 5576_5595 tree 5675_5896 grows 5976_6216 right 6297_6457 outside 6517_6939 my 6979_7079 window 7139_7639 .
+*INV:	now I'm going to give you two words and I want you to use both those words in one brief simple sentence . 13546_19508
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|use-Inf-S cconj|both det|that-Def-Dem-Plur noun|word-Plur-Acc adp|in num|one adj|brief-S1 adj|simple-S1 noun|sentence .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|23|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|NUMMOD 9|6|OBJ 10|12|CC 11|12|NSUBJ 12|4|CONJ 13|12|OBJ 14|15|MARK 15|12|XCOMP 16|18|CC-PRECONJ 17|18|DET 18|15|OBJ 19|23|CASE 20|23|NUMMOD 21|23|AMOD 22|23|AMOD 23|15|OBL 24|4|PUNCT
+%wor:	now 13546_13666 I'm 13666_13746 going 13766_13906 to 13926_13966 give 14026_14186 you 14226_14306 two 14406_14626 words 14666_15087 and 15247_15327 I 15387_15407 want 15447_15567 you 15607_15687 to 15727_15787 use 16007_16208 both 16268_16488 those 16528_16788 words 16848_17268 in 17769_17849 one 17989_18149 brief 18249_18529 simple 18649_18950 sentence 19010_19508 .
+*INV:	you don't needta worry about the order . 19729_21130
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|needta-Inf-S verb|worry-Inf-S adp|about det|the-Def-Art noun|order .
+%gra:	1|5|NSUBJ 2|5|AUX 3|4|ADVMOD 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	you don't 19729_19870 needta 19890_20070 worry 20110_20231 about 20271_20451 the 20471_20551 order 20671_21130 .
+*INV:	child@q hospital@q . 22372_24094
+%mor:	q|child q|hospital .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	child@q 22372_23613 hospital@q 23613_24094 .
+*PAR:	I took the child to the hospital xxx . 27520_29001
+%mor:	pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1-irr det|the-Def-Art noun|child-Acc adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	I 27520_27540 took 27540_27700 the 27740_27840 child 27900_28180 to 28200_28300 the 28360_28461 hospital 28501_29001 .
+*INV:	(.) cold@q winter@q . 39853_41493
+%mor:	q|cold q|winter .
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+%wor:	cold@q 39853_39872 winter@q 40993_41493 .
+*PAR:	we had a very cold winter last year . 42876_44577
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr det|a-Ind-Art adv|very adj|cold-S1 noun|winter-Acc adj|last-S1 noun|year .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|DET 4|5|ADVMOD 5|6|AMOD 6|2|OBJ 7|8|AMOD 8|2|OBL-UNMARKED 9|2|PUNCT
+%wor:	we 42876_42956 had 42996_43136 a 43156_43176 very 43256_43456 cold 43536_44577 winter last year .
+*INV:	now then . 52225_52431
+%mor:	adv|now adv|then .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	now 52225_52431 then .
+*INV:	three words . 53728_54487
+%mor:	num|three noun|word-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%wor:	three 53728_53927 words 53987_54487 .
+*INV:	you needta use all three words in one brief sentence and you don't needta worry about the order . 54929_59716
+%mor:	pron|you-Prs-Nom-S2 aux|needta-Fin-Ind-Pres-S2 verb|use-Fin-Ind-Pres-S2 det|all-Def-Tot num|three noun|word-Plur-Acc adp|in num|one adj|brief-S1 noun|sentence cconj|and pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|needta-Inf-S verb|worry-Inf-S adp|about det|the-Def-Art noun|order .
+%gra:	1|3|NSUBJ 2|3|AUX 3|19|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|10|CASE 8|10|NUMMOD 9|10|AMOD 10|3|OBL 11|15|CC 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|3|CONJ 16|15|XCOMP 17|19|CASE 18|19|DET 19|16|OBL 20|3|PUNCT
+%wor:	you 54929_55009 needta 55009_55249 use 55369_55510 all 55550_55670 three 55690_55890 words 55930_56191 in 56231_56311 one 56531_56711 brief 56832_57132 sentence 57272_57833 and 57873_57974 you 57994_58074 don't 58094_58274 needta 58294_58494 worry 58554_58755 about 58795_58995 the 59015_59095 order 59216_59716 .
+*INV:	chair@q doctor@q sit@q . 60359_64103
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	chair@q 60359_61018 doctor@q 62000_63442 sit@q 63603_64103 .
+*PAR:	(.) I sat in a chair +... [+ exc] 75477_76578
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Past-S1-irr adp|in det|a-Ind-Art noun|chair +...
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	I 75477_75497 sat 75577_75857 in 75877_75978 a 76038_76058 chair 76078_76578 +...
+*PAR:	huh chair@q doctor@q sit@q . [+ exc] 77719_80016
+%mor:	intj|huh q|chair q|doctor q|sit .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|1|PUNCT
+%wor:	huh 77719_78221 chair@q 78241_78662 doctor@q 78722_79363 sit@q 79563_80016 .
+*PAR:	I sat in a chair while my mother went in to see the doctor . 80966_84972
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Past-S1-irr adp|in det|a-Ind-Art noun|chair sconj|while pron|my-Prs-Gen-S1 noun|mother verb|go-Fin-Ind-Past-S3-irr adv|in part|to verb|see-Inf-S det|the-Def-Art noun|doctor-Acc .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|9|MARK 7|8|NMOD-POSS 8|9|NSUBJ 9|2|ADVCL 10|9|ADVMOD 11|12|MARK 12|9|ADVCL 13|14|DET 14|12|OBJ 15|2|PUNCT
+%wor:	I sat 80966_81266 in 81306_81427 a 81487_81507 chair 81667_81967 while 82829_82969 my 83089_83210 mother 83270_83550 went 83590_83770 in 83811_83891 to 83931_84011 see 84091_84271 the 84291_84392 doctor 84472_84972 .
+*INV:	bureau@q open@q drawer@q . 95845_98847
+%mor:	q|bureau q|open q|drawer .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	bureau@q 95845_97286 open@q 97346_97846 drawer@q 98347_98847 .
+*PAR:	the drawer was open in the bureau . 100950_102732
+%mor:	det|the-Def-Art noun|drawer aux|be-Fin-Ind-Past-S3-irr adj|open-S1 adp|in det|the-Def-Art noun|bureau .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the drawer 100950_101190 was 101450_101610 open 101670_101950 in 101991_102111 the 102111_102171 bureau 102251_102732 .
+*INV:	(.) okay . 102806_102891
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 102806_102891 .
+@End

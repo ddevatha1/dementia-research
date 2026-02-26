@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00090574-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|50;|female|MCI||Participant|27||
+@Media:	529-0, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at this picture . 100_1780
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+%wor:	I'd 100_160 like 160_320 for 340_460 you 480_560 to 560_600 take 600_801 a 821_841 look 901_1021 at 1061_1141 this 1181_1341 picture 1422_1780 .
+*INV:	and I want you to tell me everything that's happening in this picture . 2403_5549
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|CC 2|3|NSUBJ 3|14|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|3|PUNCT
+%wor:	and 2403_2503 I 2543_2563 want 2583_2744 you 2744_2804 to 2884_2944 tell 3024_3265 me 3385_3485 everything 3745_4166 that's 4186_4346 happening 4386_4847 in 4887_4947 this 4987_5148 picture 5228_5549 .
+*INV:	everything that you see going on there . 6169_8041
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|7|ROOT 2|5|OBL 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|2|CASE 7|5|ADVMOD 8|1|PUNCT
+%wor:	everything 6169_6810 that 6830_6950 you 6970_7071 see 7151_7291 going 7351_7631 on 7732_7832 there 7872_8041 .
+*PAR:	the water's spilling over the sink . 10236_12099
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 10236_10316 water's 10376_10716 spilling 10756_11237 over 11317_11518 the 11578_11658 sink 11798_12099 .
+*PAR:	and stool's tipping when the boy's tryin(g) to get a cookie . [+ gram] 13061_18811
+%mor:	cconj|and noun|stool~part|s noun|tipping-Ger adv|when det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|CC 2|4|NMOD-POSS 3|2|CASE 4|13|ROOT 5|9|ADVMOD 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|11|MARK 11|9|XCOMP 12|13|DET 13|11|OBJ 14|4|PUNCT
+%wor:	and 13061_14241 stool's 14341_14882 tipping 16043_16443 when 17163_17344 the 17344_17404 boy's 17484_17744 tryin(g) 17824_18104 to 18104_18144 get 18184_18344 a 18364_18384 cookie 18464_18811 .
+*PAR:	(.) mother's drying the dishes . 24481_25849
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 24481_24829 drying 24889_25209 the 25209_25289 dishes 25349_25849 .
+*PAR:	&-uh the girl's askin(g) for another cookie . 26100_30970
+%mor:	det|the-Def-Art noun|girl~aux|is verb|ask-Part-Pres-S adp|for det|another-Def-Ind noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	uh 26100_26140 the 27281_27361 girl's 27461_27841 askin(g) 28022_28422 for 28422_28562 another 29043_29443 cookie 30584_30970 .
+*PAR:	you can see outside into the garden . 32927_34810
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adv|outside adp|into det|the-Def-Art noun|garden .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	you can 32927_33087 see 33167_33347 outside 33407_34028 into 34068_34288 the 34328_34408 garden 34468_34810 .
+*PAR:	do you want more ? [+ exc] 39834_40415
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	do 39834_39874 you 39874_39974 want 40014_40134 more 40194_40415 ?
+*INV:	no that's [//] if you're done then +/. 42098_43348
+%mor:	intj|no sconj|if pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|do-Part-Past-S-irr adv|then +/.
+%gra:	1|5|DISCOURSE 2|5|MARK 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	no 42098_42138 that's 42138_42380 if 42723_42864 you're 42884_43166 done 43307_43348 then +/.
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay good . 44335_44860
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 44335_44577 good 44678_44860 .
+@End

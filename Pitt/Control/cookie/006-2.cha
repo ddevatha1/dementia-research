@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/a-00090637-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|72;|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	006-2, audio
+@G:	Cookie
+*PAR:	&=clears:throat wait (un)til I put my glasses on . [+ exc] 3540_3930
+%mor:	verb|wait-Fin-Imp-S sconj|until pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr pron|my-Prs-Gen-S1 noun|glasses-Ptan-Acc adp|on .
+%gra:	1|7|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|1|PUNCT
+%wor:	wait 3540_3930 (un)til I put my glasses on .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	oh , there's a girl &-uh reachin(g) for a cookie . 5702_8730
+%mor:	intj|oh cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|10|ROOT 5|6|DET 6|4|NSUBJ 7|6|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|4|PUNCT
+%wor:	oh 5702_5742 , there's 6402_6702 a 6702_6722 girl 6742_6883 uh 6963_7183 reachin(g) 7643_7963 for 7963_8123 a 8143_8163 cookie 8243_8730 .
+*PAR:	a boy is &-uh up standing on a stool . 9284_12470
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 adv|up verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	a 9284_9304 boy 9344_9645 is 9765_9945 uh 10085_11206 up 11226_11326 standing 11566_11946 on 11966_12066 a 12106_12126 stool 12226_12470 .
+*PAR:	he's fallin(g) off a stool . 12507_13748
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 12507_12667 fallin(g) 12707_13047 off 13047_13227 a 13247_13267 stool 13367_13748 .
+*PAR:	he's got his hand in the cookie jar . 13766_15216
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|his-Prs-Gen-S3 noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+%wor:	he's 13766_13846 got 13866_14046 his 14046_14106 hand 14146_14346 in 14366_14426 the 14426_14486 cookie 14546_14886 jar 14886_15216 .
+*PAR:	girl has her hand up to her mouth . [+ gram] 16288_18182
+%mor:	noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|COMPOUND-PRT 6|8|CASE 7|8|NMOD-POSS 8|2|OBL 9|2|PUNCT
+%wor:	girl 16288_16528 has 16608_16768 her 16808_16908 hand 16948_17208 up 17248_17348 to 17408_17489 her 17549_17649 mouth 17709_18182 .
+*PAR:	&-um the mother is &-uh washing dishes . 19230_22665
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	um 19230_19310 the 20471_20571 mother 21031_21372 is 21472_21632 uh 21732_21792 washing 21892_22332 dishes 22372_22665 .
+*PAR:	the stink [: sink] [* p:w-ret] [//] sink is overflowing . 22853_24394
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 22853_22933 sink 23033_23313 sink 23453_23674 is 23714_23814 overflowing 23894_24394 .
+*PAR:	the window is open &=clears throat . 25235_26796
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 noun|throat .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	the 25235_25315 window 25375_25675 is 25795_25915 open 25995_26276 throat 26296_26796 .
+*PAR:	she's drying the dishes . 27597_28618
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	she's 27597_27797 drying 27857_28217 the 28237_28297 dishes 28357_28618 .
+*PAR:	the water's all over the floor . 29371_30841
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+%wor:	the 29371_29431 water's 29491_29831 all 29911_30031 over 30111_30291 the 30311_30371 floor 30451_30841 .
+*PAR:	she's getting her feet wet . 30952_32925
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+%wor:	she's 30952_31132 getting 31172_31452 her 31452_31552 feet 32212_32432 wet 32533_32925 .
+*PAR:	looks like the breeze is blowin(g) in . 33774_35428
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|breeze aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S adp|in .
+%gra:	1|7|ROOT 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|AUX 6|1|ADVCL 7|6|OBL 8|1|PUNCT
+%wor:	looks 33774_33993 like 34033_34234 the 34234_34314 breeze 34374_34674 is 34694_34774 blowin(g) 34834_35254 in 35254_35428 .
+*PAR:	and &-uh there's some dirty dishes on the counter . 37376_39510
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind adj|dirty-S1 noun|dish-Plur adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|CC 2|3|EXPL 3|9|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+%wor:	and 37376_37736 uh 37796_37896 there's 37956_38136 some 38156_38276 dirty 38276_38516 dishes 38576_38917 on 38977_39077 the 39077_39137 counter 39197_39510 .
+*INV:	alright good .
+%mor:	intj|alright adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+@End

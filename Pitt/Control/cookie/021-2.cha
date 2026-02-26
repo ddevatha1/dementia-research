@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/a-00090652-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|75;00.|female|Control||Participant|||
+@Media:	021-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	okay what do you see goin(g) on in that picture ? 820_2630
+%mor:	intj|okay pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|DISCOURSE 2|6|OBJ 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|5|PUNCT
+%wor:	okay 820_1000 what 1080_1220 do 1220_1260 you 1280_1401 see 1481_1641 goin(g) 1661_1921 on 1921_2042 in 2082_2142 that 2162_2282 picture 2342_2630 ?
+*PAR:	mother's washing dishes . 2803_4104
+%mor:	noun|mother~part|s noun|washing-Ger noun|dish-Plur .
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	mother's 2803_3084 washing 3164_3544 dishes 3604_4104 .
+*PAR:	the sink is overflowing . 4200_5447
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 4200_4286 sink 4406_4686 is 4726_4847 overflowing 4947_5447 .
+*PAR:	the boy's falling off a chair [: stool] [* s:r] as he's getting for the cookie . [+ gram] 5789_9047
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool sconj|as pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|for det|the-Def-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|4|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|4|PUNCT
+%wor:	the 5789_5868 boy's 5909_6229 falling 6329_6730 off 6810_6990 a 7111_7131 stool 7271_7612 as 7732_7832 he's 7892_8072 getting 8153_8413 for 8433_8533 the 8533_8613 cookie 8693_9047 .
+*PAR:	girl's reaching up for the cookie . [+ gram] 9696_11538
+%mor:	noun|girl~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|the-Def-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	girl's 9696_10056 reaching 10136_10537 up 10597_10697 for 10757_10857 the 10897_10978 cookie 11038_11538 .
+*PAR:	&-um I did say the water is running down . [+ exc] 13221_15444
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|down .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|ADVMOD 9|3|PUNCT
+%wor:	um 13221_13261 I 13301_13321 did 13401_13541 say 13601_13722 the 13742_13822 water 13942_14263 is 14303_14423 running 14503_14864 down 14944_15444 .
+*PAR:	the mother's looking out the window . 18103_19811
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	the 18103_18149 mother's 18209_18530 looking 18570_18891 out 18971_19111 the 19171_19251 window 19311_19811 .
+*PAR:	(.) &-uh dishes of course are on the sink . 23262_25062
+%mor:	noun|dish-Plur adp|of noun|course aux|be-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|sink .
+%gra:	1|7|NSUBJ 2|7|ADVMOD 3|2|FIXED 4|7|COP 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+%wor:	uh 23262_23298 dishes 23359_23679 of 23719_23759 course 23799_24060 are 24120_24220 on 24240_24340 the 24360_24440 sink 24601_25062 .
+*PAR:	think that's about it . [+ exc] 30735_31535
+%mor:	verb|think-Fin-Imp-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|5|ROOT 2|5|NSUBJ 3|5|COP 4|5|CASE 5|1|CCOMP 6|1|PUNCT
+%wor:	think 30735_30855 that's 30895_31095 about 31155_31416 it 31476_31535 .
+*INV:	okay . 32409_32619
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 32409_32619 .
+*INV:	alright good . 33699_34421
+%mor:	intj|alright adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	alright 33699_34060 good 34200_34421 .
+@End

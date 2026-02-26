@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/a-00090422-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|14||
+@Media:	168-1, audio
+@G:	Cookie
+*INV:	I want you +... 810_1150
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I 810_830 want 830_950 you 1050_1150 +...
+*INV:	oh just hold on a minute .
+%mor:	intj|oh adv|just verb|hold-Fin-Imp-S adp|on det|a-Ind-Art noun|minute .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	I want you to tell me everything that you see going on in the picture . 3011_5603
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|2|PUNCT
+%wor:	I want 3011_3132 you 3172_3232 to 3272_3332 tell 3432_3672 me 3672_3772 everything 3952_4533 that 4533_4653 you 4713_4793 see 4913_5093 going 5193_5454 on 5514_5554 in 5574_5603 the picture .
+*INV:	tell me everything that you see happening in that picture . 7024_9738
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	tell 7024_7135 me 7195_7255 everything 7415_7816 that 7816_7976 you 8016_8096 see 8236_8396 happening 8516_8837 in 8857_8897 that 8917_9157 picture 9277_9738 .
+*PAR:	+< okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh <there's a cook> [//] a [/] &+b <a boy's> [//] a boy is &-uh taking &-uh cookies and &-uh givin(g) one to the girl , imagine . 11320_23878
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc cconj|and verb|give-Part-Pres-S num|one adp|to det|the-Def-Art noun|girl cm|cm verb|imagine-Fin-Imp-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|4|OBJ 6|7|CC 7|4|CONJ 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|13|PUNCT 13|4|PARATAXIS 14|4|PUNCT
+%wor:	uh 11320_11360 there's 11921_12141 a 12201_12221 cook 12321_12562 a 12822_12842 a 13243_13263 boy's 13763_14064 a 14965_14985 boy 15145_15486 is 15766_15967 uh 17469_17849 taking 17869_18310 uh 18390_18571 cookies 18731_19332 and 20694_20914 uh 21114_21235 givin(g) 21795_22316 one 22316_22476 to 22536_22637 the 22677_22737 girl 22817_23097 , imagine 23378_23878 .
+*PAR:	(.) and she wants one . 26926_27727
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 num|one .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	and 26926_27026 she 27206_27326 wants 27426_27727 one .
+*PAR:	I don't know &=laughs . [+ exc] 28187_28410
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 28187_28207 don't 28207_28410 know .
+*PAR:	the &-uh mother's &-uh washing dishes . 30471_33419
+%mor:	det|the-Def-Art noun|mother~part|s noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NMOD-POSS 3|2|CASE 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	the 30471_30571 uh 30691_30811 mother's 31192_31592 uh 31832_32193 washing 32193_32694 dishes 32954_33419 .
+*PAR:	she spilled it . 34756_35436
+%mor:	pron|she-Prs-Nom-S3 verb|spill-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	she 34756_34777 spilled 34917_35337 it 35377_35436 .
+*PAR:	(.) &-uh she's washing dishes . 38386_41066
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	uh 38386_38442 she's 40004_40184 washing 40264_40685 dishes 40725_41066 .
+*PAR:	and &-uh (.) &-uh <I can> [/] I can dance [* s:uk] outside to you ? [+ exc] 50431_53621
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|dance-Inf-S adv|outside adp|to pron|you-Prs-Acc-S2 ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|4|PUNCT
+%wor:	and 50431_50511 uh 50531_50631 uh 50931_50992 I 50992_51012 can 51052_51212 I 51412_51432 can 51472_51613 dance 51893_52254 outside 52434_52995 to 53295_53396 you 53516_53621 ?
+*PAR:	huh ? [+ exc]
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	all the action that you see going on . 55683_57173
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|3|DET-PREDET 2|3|DET 3|8|ROOT 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|3|PUNCT
+%wor:	all the action 55683_55900 that 56040_56220 you 56220_56281 see 56341_56461 going 56501_56661 on 56721_57173 .
+*INV:	&*PAR:alright everything that you see happening . 57443_57943
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|5|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+%wor:	everything that you see happening 57443_57943 .
+*PAR:	oh (.) &-uh +... [+ exc]
+%mor:	intj|oh +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what's happening over here ? 67399_67599
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	what's 67399_67519 happening 67519_67599 over here ?
+*PAR:	&-uh oh , he's gonna fall &=laughs . 69642_70788
+%mor:	intj|oh cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	uh 69642_69823 oh 69823_69943 , he's 69983_70123 gonna 70163_70343 fall 70403_70788 .
+*PAR:	and [/] &-uh and she's laughin(g) at them there . 74591_78775
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at pron|they-Prs-Acc-P3 adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|CASE 6|4|OBL 7|4|ADVMOD 8|4|PUNCT
+%wor:	and 74591_74850 uh 74930_75071 and 77034_77134 she's 77234_77494 laughin(g) 77614_78115 at 78115_78175 them 78195_78275 there 78275_78775 .
+*PAR:	&*INV:okay I don't know what else . [+ exc] 82453_83560
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+%wor:	I 82453_82473 don't 82473_82653 know 82673_82854 what 82934_83095 else 83115_83560 .
+*PAR:	I don't know . [+ exc] 83857_84239
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I don't 83857_83998 know 83998_84239 .
+@End

@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/a-00090657-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|83;00.|female|Control||Participant|||
+@Media:	022-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	mention that you see going on in the picture . 500_2610
+%mor:	verb|mention-Fin-Imp-S sconj|that pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|9|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+%wor:	mention 500_640 that 780_940 you 960_1060 see 1160_1340 going 1441_1741 on 1801_1921 in 2001_2041 the 2081_2141 picture 2201_2610 .
+*INV:	okay ? 3623_4101
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 3623_4101 ?
+*PAR:	oh goody . [+ exc] 4290_4764
+%mor:	intj|oh intj|goody .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh goody 4290_4764 .
+*PAR:	that boy's climbed on a stool that's falling over to get a cookie . 6046_12312
+%mor:	sconj|that noun|boy~aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Past-S adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|over part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|MARK 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|15|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|13|MARK 13|10|ADVCL 14|15|DET 15|13|OBJ 16|4|PUNCT
+%wor:	that 6046_6206 boy's 6386_6806 climbed 6927_7487 on 7547_7667 a 7707_7727 stool 8468_9209 that's 9389_9690 falling 9770_10210 over 10350_10771 to 11331_11391 get 11492_11652 a 11692_11712 cookie 11812_12312 .
+*PAR:	and the little girl is standin(g) below him tryin(g) to get the cookie from his hand . 13169_19169
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S sconj|below pron|he-Prs-Acc-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc adp|from pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|16|ROOT 7|8|CASE 8|6|OBL 9|6|ADVCL 10|11|MARK 11|9|XCOMP 12|13|DET 13|11|OBJ 14|16|CASE 15|16|NMOD-POSS 16|11|OBL 17|6|PUNCT
+%wor:	and 13169_13249 the 13249_13309 little 13349_13550 girl 13610_13891 is 13971_14031 standin(g) 14072_14613 below 14613_15035 him 15155_15416 tryin(g) 16259_16680 to 16680_16740 get 17463_17643 the 17704_17764 cookie 17844_18185 from 18245_18426 his 18426_18627 hand 18707_19169 .
+*PAR:	and the mother is washing dishes while the water's runnin(g) over in the sink on the floor . 20501_28491
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc sconj|while det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|sink adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|18|ROOT 6|5|OBJ 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|5|ADVCL 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|18|CASE 17|18|DET 18|15|NMOD 19|5|PUNCT
+%wor:	and 20501_20561 the 20561_20641 mother 21402_21722 is 21882_22083 washing 24045_24526 dishes 24566_25027 while 25127_25387 the 25407_25487 water's 25547_26048 runnin(g) 26168_26649 over 26649_26969 in 27050_27130 the 27170_27250 sink 27350_27590 on 27751_27811 the 27851_27931 floor 27991_28491 .
+*PAR:	and <the window is> [//] the sun's shining &=laughs . 29233_32818
+%mor:	cconj|and det|the-Def-Art noun|sun~part|s noun|shine-Ger .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and 29233_29333 the 29353_29453 window 29573_30174 is 30314_30474 the 31796_31876 sun's 31976_32317 shining 32337_32818 .
+*PAR:	there's two cups and this plate on the counter . 39191_43413
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|this-Def-Dem-Sing noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|10|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+%wor:	there's 39191_39351 two 39451_39631 cups 39711_40151 and 40832_40972 this 41012_41272 plate 41512_42073 on 42633_42713 the 42753_42833 counter 42913_43413 .
+*PAR:	and maybe the mother is drying a plate . 44274_47107
+%mor:	cconj|and adv|maybe det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	and 44274_44354 maybe 44374_44674 the 45335_45415 mother 45495_45775 is 45855_45955 drying 46035_46496 a 46536_46556 plate 46716_47107 .
+*PAR:	that's all I see . [+ exc] 49707_50427
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	that's 49707_49838 all 49918_50038 I 50138_50158 see 50258_50427 .
+*INV:	okay good . 50839_51960
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 50839_51199 good 51559_51960 .
+@End

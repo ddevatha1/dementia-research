@@ -1,0 +1,160 @@
+@UTF8
+@PID:	11312/a-00089729-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|13||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	319-0, audio
+*PAR:	www .
+%exp:	previous task
+@G:	animals
+*INV:	name as many animals as you can think of and you can start now . 2191_5065
+%mor:	verb|name-Fin-Imp-S adp|as adj|many-S1 noun|animal-Plur-Acc sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|14|ROOT 2|3|ADVMOD 3|4|AMOD 4|1|OBJ 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|1|ADVCL 9|8|OBL 10|13|CC 11|13|NSUBJ 12|13|AUX 13|1|CONJ 14|13|ADVMOD 15|1|PUNCT
+%wor:	name 2191_2331 as 2331_2371 many 2411_2491 animals 2551_2831 as 2891_2991 you 3031_3111 can 3131_3271 think 3311_3511 of 3571_3651 and 3691_3791 you 3811_3871 can 3911_4052 start 4132_4452 now 4572_5065 .
+*PAR:	pigs . 7209_7693
+%mor:	noun|pig-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pigs 7209_7693 .
+*PAR:	chickens . 8691_9174
+%mor:	noun|chicken-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	chickens 8691_9174 .
+*PAR:	horses . 10633_11115
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horses 10633_11115 .
+*PAR:	cows . 12115_12596
+%mor:	noun|cow-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cows 12115_12596 .
+*PAR:	mules . 13617_14116
+%mor:	noun|mule-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mules 13617_14116 .
+*PAR:	&-um (.) horses . 15940_20826
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 15940_16000 horses 20326_20826 .
+*PAR:	that's a mule though . [+ exc] 21649_23029
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mule adv|though .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	that's 21649_21848 a 21928_21948 mule 22008_22469 though 22529_23029 .
+*PAR:	&-um <horses cows> [//] chickens . 24472_26314
+%mor:	noun|chicken-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um horses 24472_24893 cows 24953_25373 chickens 25814_26314 .
+*PAR:	&-um (.) pigs . 30465_32206
+%mor:	noun|pig-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 30465_31706 pigs 31706_32206 .
+*PAR:	that's the same thing though . [+ exc] 32632_34107
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-S1 noun|thing-Ger adv|though .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	that's 32632_32807 the 32807_32887 same 32967_33247 thing 33307_33567 though 33607_34107 .
+*PAR:	&-hm xxx horses and cows and mules and chickens and all that kind of stuff we got home and I can't think of anything . [+ exc] 36730_43896
+%mor:	noun|horse-Plur cconj|and noun|cow-Plur cconj|and noun|mule-Plur cconj|and noun|chicken-Plur cconj|and det|all-Def-Tot det|that-Def-Dem-Sing noun|kind adp|of noun|stuff pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1-irr adv|home cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|anything-Ind-S1 .
+%gra:	1|15|NSUBJ 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|7|CC 7|1|CONJ 8|11|CC 9|11|DET-PREDET 10|11|DET 11|1|CONJ 12|13|CASE 13|11|NMOD 14|15|NSUBJ 15|23|ROOT 16|15|ADVMOD 17|21|CC 18|21|NSUBJ 19|21|AUX 20|21|ADVMOD 21|15|CONJ 22|23|CASE 23|21|OBL 24|15|PUNCT
+%wor:	hm 36730_36890 horses 37191_37631 and 37671_37771 cows 37831_38271 and 38332_38432 mules 38612_39292 and 39372_39513 chickens 40533_41014 and 41034_41114 all 41194_41314 that 41334_41474 kind 41514_41755 of 41755_41795 stuff 41855_42115 we 42135_42195 got 42235_42415 home 42455_42615 and 42635_42735 I 42836_42856 can't 42856_43096 think 43136_43356 of 43356_43396 anything 43396_43896 .
+*PAR:	&-hm (.) &-uh butter . 50488_51629
+%mor:	noun|butter .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hm 50488_50528 uh 50588_50888 butter 51129_51629 .
+*PAR:	that you use in the kitchen . [+ exc] 52335_54353
+%mor:	sconj|that pron|you-Prs-Nom-S2 verb|use-Fin-Ind-Pres-S2 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	that 52335_53112 you 53312_53412 use 53512_53572 in 53612_53672 the 53692_53772 kitchen 53853_54353 .
+*PAR:	flour and stuff in the kitchen . 56016_57918
+%mor:	noun|flour cconj|and noun|stuff adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|6|ROOT 2|3|CC 3|1|CONJ 4|6|CASE 5|6|DET 6|1|NMOD 7|1|PUNCT
+%wor:	flour 56016_56597 and 56637_56737 stuff 56817_57117 in 57177_57258 the 57278_57358 kitchen 57418_57918 .
+*PAR:	eggs plentiful in the kitchen . 59441_61181
+%mor:	noun|egg-Plur adj|plentiful-S1 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	eggs 59441_59621 plentiful 59761_60401 in 60461_60521 the 60541_60601 kitchen 60681_61181 .
+*INV:	+< okay , good . 63244_64503
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 63244_63743 , good 64003_64503 .
+@G:	F
+*INV:	now we're going to change directions . 65098_66204
+%mor:	adv|now pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|go-Part-Pres-S part|to verb|change-Inf-S noun|direction-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+%wor:	now we're going 65098_65204 to 65204_65244 change 65304_65644 directions 65704_66204 .
+*INV:	now +/. 66806_67305
+%mor:	adv|now +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	now 66806_67305 +/.
+*PAR:	did I get any ? [+ exc] 67604_68606
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|get-Inf-S det|any-Def-Ind ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did 67604_67686 I 67866_67886 get 67906_68046 any 68106_68606 ?
+*INV:	you did and you can start now . 69006_70507
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|2|CONJ 7|6|ADVMOD 8|2|PUNCT
+%wor:	you did and 69006_69087 you 69167_69267 can 69327_69447 start 69487_69867 now 70007_70507 .
+*PAR:	fanny . 71749_72248
+%mor:	propn|fanny .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fanny 71749_72248 .
+*PAR:	&-um (.) food . 76195_76575
+%mor:	noun|food .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 76195_76575 food .
+*PAR:	&-um xxx I can't think of any other than that . [+ exc] 82204_84426
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|any-Def-Ind adj|other-S1 adp|than pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|7|OBL 10|4|PUNCT
+%wor:	um 82204_82384 I 82424_82444 can't 82765_82965 think 82985_83185 of 83185_83225 any 83245_83426 other 83466_83746 than 83786_83926 that 83926_84426 .
+*PAR:	baking food (.) to bake . 85769_88674
+%mor:	noun|baking-Ger noun|food part|to verb|bake-Inf-S .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|MARK 4|2|ACL 5|2|PUNCT
+%wor:	baking 85769_86170 food 86290_86891 to 87972_88073 bake 88193_88674 .
+*PAR:	&-hm (.) food +... [+ exc] 91323_94287
+%mor:	noun|food +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hm 91323_91363 food 93787_94287 +...
+*INV:	as many words beginning with the letter f@l as you can think of . 95730_99885
+%mor:	adv|as adj|many-S1 noun|word-Plur verb|begin-Ger-S adp|with det|the-Def-Art noun|letter adv|for sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|13|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|12|ADVMOD 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|4|ADVCL 13|12|OBL 14|3|PUNCT
+%wor:	as 95730_95850 many 95950_96210 words 96291_96631 beginning 96671_97052 with 97072_97192 the 97212_97292 letter 97352_97612 f 98013_98033 as 98253_98354 you 98414_98494 can 98514_98634 think 98995_99615 of 99615_99885 .
+*PAR:	+< f@l ? [+ exc]
+%mor:	propn|for ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	well , I don't think xxx . [+ exc] 100557_101719
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	well 100557_100737 , I 100737_100757 don't 100797_101098 think 101258_101719 .
+*PAR:	the letter f@l . [+ exc] 103749_104651
+%mor:	det|the-Def-Art noun|letter noun|f .
+%gra:	1|2|DET 2|3|ROOT 3|2|NMOD-UNMARKED 4|2|PUNCT
+%wor:	the 103749_103829 letter 103909_104651 f .
+*PAR:	I know that's food@q . 105612_106653
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 q|food .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|FLAT 6|2|PUNCT
+%wor:	I 105612_105632 know 105632_105752 that's 105792_106012 food@q 106153_106653 .
+*PAR:	and &-um (..) &-hm +... 107835_108356
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 107835_108096 um 108156_108356 hm +...
+*PAR:	no . [+ exc] 114706_115100
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 114706_115100 .
+*PAR:	a horse ain't no food . [+ exc] 115410_116690
+%mor:	det|a-Ind-Art noun|horse aux|be-Fin-Ind-Pres-S3~part|not det|no-Def-Neg noun|food .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	a 115410_115427 horse 115548_115868 ain't 115868_115988 no 115988_116069 food 116209_116690 .
+*PAR:	&=whispers I can't think of nothing else . [+ exc] 119073_120534
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of pron|nothing-Neg-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|CASE 6|4|OBL 7|6|AMOD 8|4|PUNCT
+%wor:	I 119073_119093 can't 119113_119293 think 119333_119553 of 119573_119673 nothing 119673_120034 else 120034_120534 .
+*PAR:	&=whispers I can't think of another one (.) with an f@l . [+ exc] 124920_128361
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|another-Def-Ind noun|one adp|with det|a-Ind-Art noun|f .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%wor:	I 124920_124940 can't 125060_125461 think 125621_125901 of 125961_126082 another 126122_126462 one 126522_126783 with 127323_127503 an 127524_127624 f 128004_128361 .
+*PAR:	I could find one but you said don't +/. [+ exc] 129186_131368
+%mor:	pron|I-Prs-Nom-S1 aux|could-Fin-S verb|find-Inf-S num|one cconj|but pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr aux|do-Fin-Ind-Pres-S3~part|not +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|OBJ 5|7|CC 6|7|NSUBJ 7|3|CONJ 8|7|CCOMP 9|8|ADVMOD 10|3|PUNCT
+%wor:	I 129186_129206 could 129246_129386 find 129446_129806 one 129927_130087 but 130127_130287 you 130547_130668 said 130728_130848 don't 130868_131368 +/.
+@End

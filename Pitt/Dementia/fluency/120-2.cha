@@ -1,0 +1,206 @@
+@UTF8
+@PID:	11312/a-00089652-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|79;|male|MCI||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	120-2, audio
+@G:	animals
+*PAR:	okay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	good , okay .
+%mor:	adj|good-S1 cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*INV:	any pet animals and you can begin now .
+%mor:	det|any-Def-Ind noun|pet noun|animal-Plur cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|now .
+%gra:	1|3|DET 2|3|COMPOUND 3|7|NSUBJ 4|7|CC 5|7|NSUBJ 6|7|AUX 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+*PAR:	African lion &=laughs .
+%mor:	adj|African-S1 noun|lion .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*PAR:	baboon .
+%mor:	noun|baboon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cat . 9257_9755
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 9257_9755 .
+*PAR:	dog . 10258_10756
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 10258_10756 .
+*PAR:	elephant . 11040_11538
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 11040_11538 .
+*PAR:	&-um f@l g@l giraffe . 13482_14584
+%mor:	propn|for propn|gram noun|giraffe .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	um f 13482_13502 g 13682_13702 giraffe 14103_14584 .
+*PAR:	hyena . 15806_16206
+%mor:	noun|hyena .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hyena 15806_16206 .
+*PAR:	i@l [/] &-uh i@l j@l jackal . 20011_20851
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 noun|jackal .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	i uh 20011_20151 i 20151_20171 j 20311_20331 jackal 20351_20851 .
+*PAR:	jackass . 22054_22553
+%mor:	noun|jackass .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	jackass 22054_22553 .
+*PAR:	k@l &-uh l@l &-uh llama . 23416_26158
+%mor:	intj|thousand propn|l noun|llama .
+%gra:	1|3|ROOT 2|1|VOCATIVE 3|1|VOCATIVE 4|1|PUNCT
+%wor:	k 23416_23435 uh 23635_25657 l 26138_26158 uh llama .
+*PAR:	lion . 29662_30143
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lion 29662_30143 .
+*PAR:	l@l m@l monkey . 32446_33286
+%mor:	propn|l x|million noun|monkey .
+%gra:	1|3|COMPOUND 2|1|FLAT 3|3|ROOT 4|3|PUNCT
+%wor:	l 32446_32466 m 32566_32586 monkey 32786_33286 .
+*PAR:	mongoose . 33928_34427
+%mor:	noun|mongoose .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mongoose 33928_34427 .
+*PAR:	if that's an animal mongoose@q . [+ exc] 35369_36508
+%mor:	sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|animal q|mongoose .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|COMPOUND 6|6|FLAT 7|6|PUNCT
+%wor:	if 35369_35408 that's 35428_35628 an 35628_35688 animal 35688_35968 mongoose@q 36008_36508 .
+*PAR:	&-um m@l [/] m@l n@l [/] n@l o@l orangutan . 38951_43475
+%mor:	noun|m x|and adp|of noun|orangutan .
+%gra:	1|4|ROOT 2|1|FLAT 3|4|CASE 4|1|NMOD 5|1|PUNCT
+%wor:	um 38951_39111 m 39671_39691 m 41233_41253 n 41913_41933 n 42294_42314 o 42414_42434 orangutan 42994_43475 .
+*PAR:	o@l p@l &+p &+p puma . 45196_48277
+%mor:	adp|of noun|p noun|puma .
+%gra:	1|3|CASE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	o 45196_45216 p 45516_45536 puma 47779_48277 .
+*PAR:	p@l q@l r@l [/] &-um r@l [/] r@l [/] r@l &+rhino rhinocerus [//] yeah rhinoceros . 49081_57352
+%mor:	noun|p propn|q x|be intj|yeah noun|rhinocero-Plur .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|FLAT 4|5|DISCOURSE 5|2|LIST 6|2|PUNCT
+%wor:	p 49081_49101 q 49622_49642 r 49982_50002 um 50102_51544 r 52125_52145 r 52165_52185 r 55530_55550 rhinocerus 56071_56652 yeah 56652_56852 rhinoceros 56852_57352 .
+*PAR:	r@l s@l [/] s@l &-uh &-uh t@l [/] t@l tiger . 58916_63838
+%mor:	x|be part|s noun|t noun|tiger .
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	r 58916_58936 s 59156_59176 s 60817_60837 uh 60977_61217 uh 61217_61297 t 62518_62538 t 62898_62918 tiger 63338_63838 .
+*INV:	okay , good . 64470_65427
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	okay 64470_65427 , good .
+*PAR:	xxx . [+ exc]
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	u@l v@l w@l aren't many of those . [+ exc] 68173_68821
+%mor:	pron|you-Prs-Nom-S2 aux|have-Fin-Ind-Pres-S1 pron|with-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2~part|not adj|many-S1 adp|of pron|that-Dem-P1 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|8|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+%wor:	u v w aren't many of 68173_68321 those 68321_68821 .
+@G:	F
+*INV:	anything you can think of beginning with the letter f@l and you can start now . 72574_73365
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S sconj|of verb|begin-Part-Pres-S adp|with det|the-Def-Art noun|letter noun|f cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|15|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|6|MARK 6|4|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|6|OBL 11|14|CC 12|14|NSUBJ 13|14|AUX 14|1|CONJ 15|14|ADVMOD 16|1|PUNCT
+%wor:	anything you can think of beginning with the letter f and you can start 72574_72764 now 72924_73365 .
+*PAR:	(o)kay . [+ exc]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	face .
+%mor:	verb|face-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	facsimile .
+%mor:	noun|facsimile .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	facile .
+%mor:	intj|facile .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh fast . 77739_78519
+%mor:	adj|fast-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 77739_77759 fast 78019_78519 .
+*PAR:	further . 79040_79520
+%mor:	adj|further-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	further 79040_79520 .
+*PAR:	few . 81042_81542
+%mor:	adj|few-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	few 81042_81542 .
+*PAR:	fun . 83104_83585
+%mor:	noun|fun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fun 83104_83585 .
+*PAR:	&-uh from . 85047_85827
+%mor:	adp|from .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 85047_85227 from 85327_85827 .
+*PAR:	&-uh fly . 87330_88090
+%mor:	verb|fly-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 87330_87510 fly 87590_88090 .
+*PAR:	fortuitous . 89632_90113
+%mor:	adj|fortuitous-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fortuitous 89632_90113 .
+*PAR:	&-uh &-uh fortuitous [//] f@l [/] f@l fumigate . 92136_97082
+%mor:	adp|for noun|fumigate .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	uh 92136_92356 uh 92997_93278 fortuitous 94319_95621 f 95681_95701 f 95741_95761 fumigate 96582_97082 .
+*PAR:	funnel . 97745_98244
+%mor:	noun|funnel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	funnel 97745_98244 .
+*PAR:	funeral . 99647_100146
+%mor:	noun|funeral .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	funeral 99647_100146 .
+*PAR:	&-uh family . 102310_102791
+%mor:	noun|family .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh family 102310_102791 .
+*PAR:	fame . 103693_104192
+%mor:	noun|fame .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fame 103693_104192 .
+*PAR:	fortune . 104514_105013
+%mor:	noun|fortune .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fortune 104514_105013 .
+*PAR:	&-uh future . 107538_108078
+%mor:	noun|future .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 107538_107578 future 107578_108078 .
+*PAR:	did I get that future@q ? [+ exc] 108460_109438
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|get-Inf-S det|that-Def-Dem-Sing q|future ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|FLAT 6|3|PUNCT
+%wor:	did 108460_108578 I 108598_108618 get 108618_108698 that 108738_108878 future@q 108938_109438 ?
+*PAR:	&-uh future [//] &-uh &+forti fortitude . 110182_113100
+%mor:	noun|fortitude .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh future 110182_110699 uh 111760_112580 fortitude 112600_113100 .
+*PAR:	&-uh factory . 114481_115681
+%mor:	noun|factory .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh 114481_115181 factory 115181_115681 .
+*PAR:	fake . 117423_117916
+%mor:	adj|fake-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fake 117423_117916 .
+*PAR:	&-uh fourteen .
+%mor:	num|fourteen .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	(.) and &-uh &-uh +... 125391_126831
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 125391_125591 uh 125651_126171 uh 126331_126831 +...
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	+< alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

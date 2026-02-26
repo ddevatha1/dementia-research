@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/a-00091343-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|55;|female|ProbableAD||Participant|29||
+@Media:	178-0, audio
+@Comment:	the audio file has other overlapping recordings
+*INV:	use the word pencil@q in a brief simple sentence . 2244_4908
+%mor:	verb|use-Fin-Imp-S det|the-Def-Art noun|word-Acc q|pencil adp|in det|a-Ind-Art adj|brief-S1 adj|simple-S1 noun|sentence .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|9|CASE 6|9|DET 7|9|AMOD 8|9|AMOD 9|1|OBL 10|1|PUNCT
+*PAR:	&-uh the pencil is something <we use to write> [//] &-um which we use to write . 6973_11321
+%mor:	det|the-Def-Art noun|pencil aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 pron|which-Rel-S1 pron|we-Prs-Nom-P1 verb|use-Fin-Ind-Pres-P1 part|to verb|write-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|4|PUNCT
+*INV:	(...) tree@q . 12223_12723
+%mor:	q|tree .
+%gra:	1|1|FLAT 2|1|PUNCT
+*PAR:	the tree is tall .
+%mor:	det|the-Def-Art noun|tree aux|be-Fin-Ind-Pres-S3 adj|tall-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*INV:	(..) okay , now I'm gonna give you two words . 35433_37071
+%mor:	intj|okay cm|cm adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|word-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|7|IOBJ 9|10|NUMMOD 10|7|OBJ 11|7|PUNCT
+*INV:	<I'd like to> [//] &+lu I'd like you to use both of them in the same sentence . 37071_40700
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|use-Inf-S det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in det|the-Def-Art adj|same-S1 noun|sentence .
+%gra:	1|3|NSUBJ 2|3|AUX 3|13|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|9|CASE 9|7|NMOD 10|13|CASE 11|13|DET 12|13|AMOD 13|6|OBL 14|3|PUNCT
+*INV:	it doesn't matter what order they come in . 41682_43444
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|matter-Inf-S det|what-Def-Int noun|order-Acc pron|they-Prs-Nom-P3 verb|come-Fin-Ind-Pres-P3 adp|in .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|COMPOUND-PRT 10|4|PUNCT
+*INV:	child@q and hospital@q . 43746_45310
+%mor:	q|child cconj|and q|hospital .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+*PAR:	the child was taken to the hospital . 45915_46976
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Past-S3-irr verb|take-Part-Past-S-irr adp|to det|the-Def-Art noun|hospital .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	cold@q and winter@q . 48944_55833
+%mor:	q|cold cconj|and q|winter .
+%gra:	1|3|FLAT 2|3|CC 3|1|FLAT 4|1|PUNCT
+*PAR:	xxx .
+%com:	poor audio recording does not allow for PAR's response to be heard
+*INV:	(..) now I'm gonna give you three words . 62601_75410
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|give-Inf-S pron|you-Prs-Acc-S2 num|three noun|word-Plur-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+*INV:	you can use all three of them in the same sentence . 78013_79894
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|use-Inf-S det|all-Def-Tot num|three adp|of pron|they-Prs-Acc-P3 adp|in det|the-Def-Art adj|same-S1 noun|sentence .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|11|CASE 9|11|DET 10|11|AMOD 11|3|OBL 12|3|PUNCT
+*INV:	chair@q doctor@q sit@q . 80775_84098
+%mor:	q|chair q|doctor q|sit .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+*PAR:	the doctor is [//] will sit <in his chair> [/] in his chair . 85119_89123
+%mor:	det|the-Def-Art noun|doctor aux|will-Fin-S verb|sit-Inf-S adp|in pron|his-Prs-Gen-S3 noun|chair .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*INV:	bureau@q open@q and drawer@q . 90524_99989
+%mor:	q|bureau q|open cconj|and q|drawer .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|CC 4|2|FLAT 5|1|PUNCT
+*PAR:	open the bureau drawer . 100970_102851
+%mor:	verb|open-Fin-Imp-S det|the-Def-Art noun|bureau noun|drawer-Acc .
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+@End

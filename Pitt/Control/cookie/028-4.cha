@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00090659-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;00.|female|Control||Participant|||
+@Media:	028-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	take a look at this picture and tell me everything that you see happening in that picture . 60_4550
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|17|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|14|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|1|PUNCT
+%wor:	take 60_220 a 260_280 look 340_500 at 540_620 this 660_821 picture 921_1342 and 1902_1982 tell 2003_2183 me 2203_2263 everything 2383_2864 that 2904_3024 you 3044_3144 see 3224_3385 happening 3445_3905 in 3946_4006 that 4046_4166 picture 4226_4550 .
+*INV:	everything that you see going on . 5167_6550
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+%wor:	everything 5167_5488 that 5488_5608 you 5628_5708 see 5748_5888 going 5909_6209 on 6289_6550 .
+*PAR:	the boy is on a stool that is falling while he's trying to get some cookies out of the cookie jar in the top shelf (.) of the cupboard . 8667_18667
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S sconj|while pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar adp|in det|the-Def-Art adj|top-S1 noun|shelf adp|of det|the-Def-Art noun|cupboard .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|29|ROOT 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|ADVCL 14|15|MARK 15|13|XCOMP 16|17|DET 17|15|OBJ 18|22|CASE 19|22|CASE 20|22|DET 21|22|COMPOUND 22|15|OBL 23|26|CASE 24|26|DET 25|26|AMOD 26|15|OBL 27|29|CASE 28|29|DET 29|26|NMOD 30|6|PUNCT
+%wor:	the 8667_8747 boy 8787_9067 is 9607_9707 on 9807_9907 a 9968_9988 stool 10108_10508 that 10748_10868 is 10908_11008 falling 11148_11609 while 13070_13270 he's 13290_13430 trying 13530_13870 to 13931_14011 get 14091_14251 some 14311_14451 cookies 14471_14871 out 14931_15051 of 15071_15131 the 15151_15232 cookie 15312_15632 jar 15652_15912 in 15992_16052 the 16072_16152 top 16232_16452 shelf 16532_16873 of 18014_18074 the 18094_18174 cupboard 18234_18667 .
+*PAR:	the little girl is reaching for a cookie . 19317_21797
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	the 19317_19395 little 19435_19635 girl 19675_19895 is 19975_20075 reaching 20355_20736 for 20856_21056 a 21216_21236 cookie 21356_21797 .
+*PAR:	it looks like she's sort of laughing at the boy or putting her finger up to her mouth to be quiet so her mother doesn't hear who is in the kitchen drying dishes but the water in the sink is overflowing onto the floor and she's stepping in the water . 23081_37631
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|sort adp|of verb|laugh-Part-Pres-S adp|at det|the-Def-Art noun|boy cconj|or verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth part|to aux|be-Inf-S adj|quiet-S1 sconj|so pron|her-Prs-Gen-S3 noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|hear-Inf-S pron|who-Rel aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|kitchen noun|drying-Ger noun|dish-Plur cconj|but det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|EXPL 2|53|ROOT 3|8|MARK 4|8|NSUBJ 5|8|AUX 6|8|ADVMOD 7|6|FIXED 8|2|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|8|CONJ 14|15|NMOD-POSS 15|13|OBJ 16|13|COMPOUND-PRT 17|19|CASE 18|19|NMOD-POSS 19|13|OBL 20|22|MARK 21|22|COP 22|13|ADVCL 23|28|MARK 24|25|NMOD-POSS 25|28|NSUBJ 26|28|AUX 27|28|ADVMOD 28|2|PARATAXIS 29|35|NSUBJ 30|35|COP 31|35|CASE 32|35|DET 33|35|COMPOUND 34|35|COMPOUND 35|28|CCOMP 36|43|CC 37|38|DET 38|43|NSUBJ 39|41|CASE 40|41|DET 41|38|NMOD 42|43|AUX 43|28|CONJ 44|46|CASE 45|46|DET 46|43|OBL 47|50|CC 48|50|NSUBJ 49|50|AUX 50|43|CONJ 51|53|CASE 52|53|DET 53|50|OBL 54|2|PUNCT
+%wor:	it 23081_23141 looks 23141_23301 like 23321_23481 she's 23501_23641 sort 23661_23841 of 23861_23941 laughing 24021_24421 at 24461_24542 the 24582_24642 boy 24682_24922 or 25082_25182 putting 26163_26423 her 26443_26543 finger 26603_26863 up 26903_26983 to 27023_27083 her 27123_27203 mouth 27223_27443 to 27464_27544 be 27584_27664 quiet 27744_28184 so 28264_28344 her 28464_28544 mother 28624_28884 doesn't 28945_29265 hear 29305_29505 who 29605_29685 is 29765_29845 in 29905_29965 the 29985_30065 kitchen 30105_30466 drying 31706_32067 dishes 32107_32527 but 32747_32867 the 32907_32987 water 33067_33448 in 33988_34068 the 34088_34168 sink 34268_34528 is 34588_34688 overflowing 34769_35429 onto 35569_35769 the 35809_35889 floor 35969_36290 and 36330_36430 she's 36450_36630 stepping 36670_37070 in 37090_37150 the 37170_37250 water 37290_37631 .
+*PAR:	the window is open . 40845_41795
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 40845_40905 window 40945_41185 is 41245_41305 open 41385_41795 .
+*PAR:	looks like &+s it's summer outside . [+ gram] 43408_46432
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|summer adv|outside .
+%gra:	1|6|ROOT 2|5|MARK 3|5|NSUBJ 4|5|COP 5|1|ADVCL 6|5|ADVMOD 7|1|PUNCT
+%wor:	looks 43408_43628 like 43669_43869 it's 43869_43949 summer 45531_45792 outside 45932_46432 .
+*PAR:	yeah there's trees with leaves . 46593_48403
+%mor:	intj|yeah pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|tree-Plur adp|with noun|leave-Plur .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|6|ROOT 4|3|NSUBJ 5|6|CASE 6|4|NMOD 7|3|PUNCT
+%wor:	yeah 46593_46793 there's 46813_46973 trees 47073_47434 with 47494_47634 leaves 47975_48403 .
+*PAR:	is that all (.) you want me to do ? [+ exc] 48956_50642
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|do-Inf-S ?
+%gra:	1|3|COP 2|5|MARK 3|8|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|3|PUNCT
+%wor:	is 48956_49036 that 49036_49156 all 49176_49297 you 50078_50158 want 50178_50298 me 50318_50398 to 50438_50478 do 50498_50642 ?
+*PAR:	she's [//] (.) doesn't look it's like she hears them . 51039_55586
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|look-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3 verb|hear-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|9|ROOT 4|5|NSUBJ 5|8|COP 6|8|MARK 7|8|NSUBJ 8|3|CCOMP 9|8|OBJ 10|3|PUNCT
+%wor:	she's 51039_51319 doesn't 54003_54224 look 54224_54364 it's 54484_54564 like 54624_54804 she 54844_54945 hears 55025_55305 them 55345_55586 .
+*PAR:	she doesn't seem to be aware of them . 56731_58031
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S adj|aware-S1 adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|9|CASE 9|7|OBL 10|4|PUNCT
+%wor:	she 56731_56791 doesn't 56851_57111 seem 57131_57271 to 57271_57311 be 57331_57391 aware 57471_57731 of 57791_57831 them 57851_58031 .
+*PAR:	some of the dishes are already washed and dried . 61813_63949
+%mor:	det|some-Def-Ind adp|of det|the-Def-Art noun|dish-Plur aux|be-Fin-Ind-Pres-P3 adv|already verb|wash-Part-Past-S cconj|and verb|dry-Part-Past-S .
+%gra:	1|7|NSUBJ-PASS 2|4|CASE 3|4|DET 4|1|NMOD 5|7|AUX-PASS 6|7|ADVMOD 7|9|ROOT 8|9|CC 9|7|CONJ 10|7|PUNCT
+%wor:	some 61813_61973 of 61993_62053 the 62053_62113 dishes 62153_62433 are 62493_62593 already 62633_62874 washed 62934_63354 and 63434_63514 dried 63534_63949 .
+*PAR:	is that all you want me to say ? [+ exc] 68877_69779
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|say-Inf-S ?
+%gra:	1|3|COP 2|5|MARK 3|8|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|3|PUNCT
+%wor:	is 68877_68917 that 68917_69057 all 69077_69197 you 69217_69277 want 69277_69417 me 69437_69497 to 69517_69597 say 69597_69779 ?
+*INV:	okay . 70397_70658
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 70397_70658 .
+@End

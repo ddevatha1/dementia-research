@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/a-00090458-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|17||
+@Media:	220-0, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	in the picture . 1700_2190
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	in 1700_1760 the 1800_1880 picture 1920_2190 .
+*PAR:	cookie jar . [+ gram] 3206_3996
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	cookie 3206_3501 jar 3501_3996 .
+*INV:	okay . 4625_5101
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 4625_5101 .
+*PAR:	and (.) two children . [+ gram] 6042_10103
+%mor:	cconj|and num|two noun|child-Plur .
+%gra:	1|3|CC 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+%wor:	and 6042_6362 two 9343_9523 children 9603_10103 .
+*PAR:	one [//] the boy's up on a stool . 10804_12705
+%mor:	det|the-Def-Art noun|boy~part|s adv|up adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	one 10804_10964 the 11264_11344 boy's 11384_11764 up 11844_11944 on 12044_12124 a 12184_12204 stool 12304_12705 .
+*PAR:	and the little girl's standing up holding her hand for a cookie . 13010_16030
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~aux|is verb|stand-Part-Pres-S adp|up verb|hold-Ger-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NMOD-POSS 5|4|CASE 6|13|ROOT 7|6|COMPOUND-PRT 8|6|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|6|PUNCT
+%wor:	and 13010_13110 the 13110_13190 little 13230_13450 girl's 13510_13871 standing 13911_14372 up 14412_14512 holding 14552_14893 her 14893_14993 hand 15033_15274 for 15334_15454 a 15474_15494 cookie 15554_16030 .
+*PAR:	then there's a lady that is drying some dishes . 17077_20502
+%mor:	adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lady pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|some-Def-Ind noun|dish-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|10|ROOT 4|5|DET 5|3|NSUBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|10|DET 10|8|OBJ 11|3|PUNCT
+%wor:	then 17077_17237 there's 17297_17578 a 17658_17678 lady 17778_18179 that 18700_18860 is 18940_19120 drying 19261_19701 some 19781_19942 dishes 20002_20502 .
+*PAR:	but the only thing she is she gettin(g) water on the floor . [+ gram] 21465_24215
+%mor:	cconj|but det|the-Def-Art adj|only-S1 noun|thing-Ger pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|get-Part-Pres-S noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|12|ROOT 5|8|NSUBJ 6|8|AUX 7|8|NSUBJ 8|4|ACL-RELCL 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|4|PUNCT
+%wor:	but 21465_21605 the 21645_21705 only 21805_21985 thing 22065_22266 she 22326_22426 is 22526_22626 she 22666_22747 gettin(g) 22867_23147 water 23147_23508 on 23588_23688 the 23728_23809 floor 23869_24215 .
+*PAR:	that [//] she has a problem there . 25154_26654
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|problem-Acc adv|there .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%wor:	that 25154_25351 she 25451_25552 has 25632_25772 a 25812_25832 problem 25912_26413 there 26453_26654 .
+*PAR:	and she has &-uh two plates and two xxx . [+ jar] 28868_32888
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|two noun|plate-Plur-Acc cconj|and num|two .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|NUMMOD 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|PUNCT
+%wor:	and 28868_29068 she 29669_29789 has 29909_30269 uh 30350_30610 two 31751_31912 plates 31972_32372 and 32553_32653 two 32713_32888 .
+*PAR:	and the water comes sprinkling over . 34791_36881
+%mor:	cconj|and det|the-Def-Art noun|water verb|come-Fin-Ind-Pres-S3 verb|sprinkle-Ger-S adp|over .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|4|PUNCT
+%wor:	and 34791_34896 the 34896_34956 water 35016_35356 comes 35476_35797 sprinkling 35937_36578 over 36638_36881 .
+*PAR:	and <a kid> [//] the boy's up at the cookie jar . 37045_39030
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adv|up adp|at det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|9|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+%wor:	and 37045_37159 a 37179_37199 kid 37319_37519 the 37800_37880 boy's 37940_38300 up 38400_38481 at 38541_38601 the 38641_38721 cookie 38781_39030 jar .
+*PAR:	and his sister didn't get a cookie from him yet &=laughs . 40985_43688
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|do-Fin-Ind-Past-S3-irr~part|not verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc adp|from pron|he-Prs-Acc-S3 adv|yet .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|11|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|6|ADVMOD 12|6|PUNCT
+%wor:	and 40985_41204 his 41264_41404 sister 41525_41865 didn't 41905_42105 get 42145_42286 a 42326_42346 cookie 42426_42746 from 42786_42947 him 43007_43147 yet 43207_43688 .
+*INV:	&=laughs .
+*PAR:	but he has one in his hand now . 46053_47895
+%mor:	cconj|but pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one adp|in pron|his-Prs-Gen-S3 noun|hand adv|now .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|ADVMOD 9|3|PUNCT
+%wor:	but 46053_46173 he 46233_46313 has 46413_46593 one 46693_46813 in 46853_46933 his 46953_47113 hand 47173_47474 now 47534_47895 .
+*PAR:	he has one in his hand and one in the top of the cookie jar . 48737_51907
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one adp|in pron|his-Prs-Gen-S3 noun|hand cconj|and num|one adp|in det|the-Def-Art noun|top adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|8|CC 8|3|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|NMOD 16|2|PUNCT
+%wor:	he 48737_48795 has 48875_49015 one 49155_49275 in 49315_49395 his 49435_49595 hand 49635_49956 and 49996_50096 one 50176_50296 in 50356_50436 the 50496_50576 top 50676_50937 of 51037_51117 the 51157_51257 cookie 51657_51907 jar .
+*PAR:	so she finally got a cookie . 53328_54808
+%mor:	adv|so pron|she-Prs-Nom-S3 adv|finally verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	so 53328_53399 she 53559_53639 finally 53719_54079 got 54119_54319 a 54339_54359 cookie 54439_54808 .
+*PAR:	if he ever puts his arm down &=laughs . [+ gram] 57724_59464
+%mor:	sconj|if pron|he-Prs-Nom-S3 adv|ever verb|put-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|arm-Acc adp|down .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|4|PUNCT
+%wor:	if 57724_57842 he 57882_57962 ever 58102_58283 puts 58363_58603 his 58623_58763 arm 58863_59063 down 59123_59464 .
+*PAR:	&+sh hers is up but she's [: he's] [* s:r] still got his (.) right in his hand &=laughs . 60060_66096
+%mor:	pron|her-Prs-S3 aux|be-Fin-Ind-Pres-S3 adv|up cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still verb|get-Part-Past-S-irr pron|his-Prs-Gen-S3 adj|right-S1 adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|3|NSUBJ 2|3|COP 3|13|ROOT 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CONJ 9|10|NMOD-POSS 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|3|PUNCT
+%wor:	hers 60060_60280 is 60340_60461 up 60541_60621 but 60661_60922 he's 60942_61223 still 61323_61524 got 61564_61765 his 61805_62005 right 65094_65315 in 65335_65375 his 65395_65596 hand 65596_66096 .
+@End

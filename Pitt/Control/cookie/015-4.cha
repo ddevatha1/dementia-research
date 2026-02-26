@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00090648-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|70;00.|female|Control||Participant|||
+@Media:	015-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me everything that you see happening in that picture . 590_2980
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	tell 590_710 me 730_790 everything 870_1190 that 1210_1310 you 1330_1430 see 1530_1670 happening 1770_2190 in 2230_2290 that 2310_2470 picture 2510_2980 .
+*INV:	everything that you see going on . 4952_6304
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+%wor:	everything 4952_5252 that 5252_5352 you 5372_5432 see 5512_5652 going 5692_5972 on 6052_6304 .
+*PAR:	okay start ? [+ exc] 6632_7392
+%mor:	intj|okay verb|start-Fin-Imp-S ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 6632_6912 start 7013_7392 ?
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	okay a little boy is getting a cookie out of the cookie jar . 8713_12145
+%mor:	intj|okay det|a-Ind-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|13|ROOT 7|8|DET 8|6|OBJ 9|13|CASE 10|13|CASE 11|13|DET 12|13|COMPOUND 13|6|OBL 14|6|PUNCT
+%wor:	okay 8713_9073 a 9174_9194 little 9254_9454 boy 9514_9834 is 10134_10394 getting 10494_10754 a 10814_10834 cookie 10914_11235 out 11335_11435 of 11435_11495 the 11495_11555 cookie 11615_11915 jar 11975_12145 .
+*PAR:	he's standing on a stool . 12215_13356
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 12215_12355 standing 12375_12755 on 12815_12895 a 12935_12955 stool 13055_13356 .
+*PAR:	it's tipped over and he's handing <his sister a> [//] his [//] another little girl a cookie . 13516_19161
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Past-S adp|over cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|another-Def-Ind adj|little-S1 noun|girl-Acc det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|13|ROOT 4|3|COMPOUND-PRT 5|8|CC 6|8|NSUBJ 7|8|AUX 8|3|CONJ 9|11|DET 10|11|AMOD 11|8|OBJ 12|13|DET 13|8|OBJ 14|3|PUNCT
+%wor:	it's 13516_13596 tipped 13676_13976 over 14076_14336 and 14397_14477 he's 14497_14637 handing 14697_15077 his 15097_15217 sister 15277_15678 a 15938_15958 his 16979_17120 another 17300_17620 little 17640_17800 girl 17840_18161 a 18461_18481 cookie 18661_19161 .
+*PAR:	and the little girl is saying ssh because they don't want their mother to see . 19442_23446
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S noun|ssh-Acc sconj|because pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|want-Inf-S pron|their-Prs-Gen-P3 noun|mother-Acc part|to verb|see-Inf-S .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|16|ROOT 7|6|OBJ 8|12|MARK 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|6|ADVCL 13|14|NMOD-POSS 14|12|OBJ 15|16|MARK 16|12|XCOMP 17|6|PUNCT
+%wor:	and 19442_19883 the 20123_20183 little 20223_20423 girl 20463_20723 is 20804_20904 saying 20964_21324 ssh 21404_21484 because 21765_22105 they 22105_22205 don't 22225_22385 want 22405_22545 their 22606_22726 mother 22786_23006 to 23066_23146 see 23266_23446 .
+*PAR:	and the mother is wiping a dish . 23547_25309
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 23547_23627 the 23647_23727 mother 23767_23987 is 24167_24247 wiping 24327_24748 a 24808_24828 dish 25048_25309 .
+*PAR:	and she has the water [/] water running <in her> [/] in her faucet which is overflowing the sink and splashing on the floor . 25430_32590
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|water-Acc verb|run-Ger-S adp|in pron|her-Prs-Gen-S3 noun|faucet pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc cconj|and verb|splash-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|CC 2|3|NSUBJ 3|19|ROOT 4|5|DET 5|3|OBJ 6|5|ACL 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|12|NSUBJ 11|12|AUX 12|5|ACL-RELCL 13|14|DET 14|12|OBJ 15|16|CC 16|12|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|3|PUNCT
+%wor:	and 25430_25510 she 25530_25630 has 25730_25930 the 25990_26070 water 26150_26490 water 26691_27011 running 27171_27491 in 27571_27671 her 27751_27872 in 28272_28372 her 28472_28632 faucet 29273_29693 which 29733_29913 is 29953_30033 overflowing 30133_30834 the 30854_30934 sink 31054_31294 and 31395_31495 splashing 31515_32055 on 32115_32175 the 32195_32295 floor 32315_32590 .
+*PAR:	and she's stepping in a puddle . 33176_34561
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|a-Ind-Art noun|puddle .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 33176_33256 she's 33296_33456 stepping 33496_33937 in 33997_34077 a 34117_34137 puddle 34217_34561 .
+*PAR:	and she's wearing an apron . 34617_36099
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S det|a-Ind-Art noun|apron-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 34617_34717 she's 34777_34958 wearing 35018_35378 an 35418_35498 apron 35618_36099 .
+*PAR:	and &-um (.) outside is the yard with the path . 36878_44484
+%mor:	cconj|and adv|outside aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|yard adp|with det|the-Def-Art noun|path .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|COP 4|5|DET 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+%wor:	and 36878_37738 um 42022_42142 outside 42162_42783 is 42843_42943 the 43003_43083 yard 43183_43624 with 43684_43824 the 43824_43904 path 43984_44484 .
+*PAR:	and there are two cups on the table . 46086_49288
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur adp|on det|the-Def-Art noun|table .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+%wor:	and 46086_47006 there 47407_47567 are 47567_47647 two 47687_47867 cups 47947_48328 on 48488_48588 the 48608_48688 table 48788_49288 .
+*PAR:	and she's wearing an apern [: apron] . 50761_52362
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S det|a-Ind-Art noun|apron-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 50761_50841 she's 50881_51061 wearing 51121_51502 an 51542_51622 apron 51862_52362 .
+*PAR:	and (..) I guess that's it then . [+ exc] 54826_59226
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adv|then .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|6|ADVMOD 8|3|PUNCT
+%wor:	and 54826_55948 I 58531_58551 guess 58611_58791 that's 58811_58992 it 59032_59112 then 59132_59226 .
+*PAR:	she's a [//] has short sleeves . 59392_60789
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|have-Fin-Ind-Pres-S3 adj|short-S1 noun|sleeve-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%wor:	she's 59392_59613 a 59673_59693 has 59833_60013 short 60113_60374 sleeves 60474_60789 .
+*PAR:	there are curtains on the windows . 60854_62009
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|on det|the-Def-Art noun|window-Plur .
+%gra:	1|2|EXPL 2|6|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|2|PUNCT
+%wor:	there 60854_60994 are 60994_61054 curtains 61075_61455 on 61535_61615 the 61655_61715 windows 61775_62009 .
+*PAR:	the cupboard door is open . 62036_63278
+%mor:	det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	the 62036_62116 cupboard 62156_62456 door 62496_62717 is 62777_62877 open 62957_63278 .
+*PAR:	<there's only> [//] &-uh &-uh there's a handle <on one of the> [//] on three of the cupboard doors but not on the rest . 67866_73326
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|handle adp|on num|three adp|of det|the-Def-Art noun|cupboard noun|door-Plur cconj|but part|not adp|on det|the-Def-Art noun|rest .
+%gra:	1|2|EXPL 2|15|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|4|NMOD 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|NMOD 11|15|CC 12|15|ADVMOD 13|15|CASE 14|15|DET 15|10|CONJ 16|2|PUNCT
+%wor:	there's 67866_68046 only 68106_68306 uh 68366_68406 uh 68406_68767 there's 68787_68987 a 69047_69067 handle 69167_69568 on 69708_69888 one 70048_70168 of 70188_70248 the 70248_70649 on 70689_70809 three 71170_71390 of 71410_71450 the 71450_71510 cupboard 71570_71891 doors 71911_72211 but 72251_72371 not 72431_72591 on 72651_72732 the 72752_72812 rest 72892_73326 .
+*PAR:	that's crazy . [+ exc] 74385_74965
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|crazy-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 74385_74554 crazy 74654_74965 .
+*PAR:	okay . [+ exc] 76336_76717
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 76336_76717 .
+@End

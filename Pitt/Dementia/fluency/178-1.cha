@@ -1,0 +1,188 @@
+@UTF8
+@PID:	11312/a-00089670-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|female|ProbableAD||Participant|24||
+@Media:	178-1, audio
+@G:	animals
+*INV:	all the animals you can think of in that minute . 640_3702
+%mor:	det|all-Def-Tot det|the-Def-Art noun|animal-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|in det|that-Def-Dem-Sing noun|minute .
+%gra:	1|3|DET-PREDET 2|3|DET 3|10|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBL 8|10|CASE 9|10|DET 10|6|OBL 11|3|PUNCT
+%wor:	all 640_740 the 760_820 animals 1000_1500 you 1700_1820 can 1841_2001 think 2101_2341 of 2441_2621 in 2901_2981 that 3001_3142 minute 3202_3702 .
+*INV:	it can be farm animals zoo animals or pets . 4303_8526
+%mor:	pron|it-Prs-Nom-S3 aux|can-Fin-S aux|be-Inf-S noun|farm noun|animal-Plur noun|zoo noun|animal-Plur cconj|or noun|pet-Plur .
+%gra:	1|7|NSUBJ 2|7|AUX 3|7|COP 4|5|COMPOUND 5|7|COMPOUND 6|7|COMPOUND 7|9|ROOT 8|9|CC 9|7|CONJ 10|7|PUNCT
+%wor:	it 4303_4343 can 4383_4503 be 4523_4583 farm 4703_4983 animals 5043_5624 zoo 6404_6584 animals 6644_7265 or 7845_7925 pets 8026_8526 .
+*INV:	but I don't want birds or fish . 9488_11648
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S noun|bird-Plur-Acc cconj|or noun|fish .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|OBJ 7|8|CC 8|6|CONJ 9|5|PUNCT
+%wor:	but 9488_9587 I 9687_9707 don't 9727_9907 want 9927_10087 birds 10207_10768 or 10908_10988 fish 11148_11648 .
+*INV:	okay , all the animals that you can think of in a minute . 12330_16273
+%mor:	intj|okay cm|cm det|all-Def-Tot det|the-Def-Art noun|animal-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of adp|in det|a-Ind-Art noun|minute .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET-PREDET 4|5|DET 5|13|ROOT 6|9|OBL 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|6|CASE 11|13|CASE 12|13|DET 13|9|OBL 14|5|PUNCT
+%wor:	okay 12330_12570 , all 13251_13391 the 13431_13531 animals 13591_13971 that 13991_14091 you 14131_14232 can 14272_14392 think 14472_14692 of 14792_14892 in 15553_15633 a 15673_15693 minute 15773_16273 .
+*INV:	starting now . 16374_17735
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	starting 16374_16914 now 17235_17735 .
+*PAR:	(.) cows . 20058_20558
+%mor:	noun|cow-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cows 20058_20558 .
+*PAR:	horses . 21058_21479
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	horses 21058_21479 .
+*PAR:	chickens . 22881_23381
+%mor:	noun|chicken-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	chickens 22881_23381 .
+*PAR:	goats . 25104_25603
+%mor:	noun|goat-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	goats 25104_25603 .
+*PAR:	&+a apes . 28047_28487
+%mor:	noun|ape-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apes 28047_28487 .
+*PAR:	monkeys . 29388_29888
+%mor:	noun|monkey-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	monkeys 29388_29888 .
+*PAR:	(.) giraffes . 33793_34293
+%mor:	noun|giraffe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	giraffes 33793_34293 .
+*PAR:	lions . 36596_37096
+%mor:	noun|lion-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lions 36596_37096 .
+*PAR:	tigers . 37858_38357
+%mor:	noun|tiger-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tigers 37858_38357 .
+*PAR:	&-um (..) &-um (..) zebras . 41000_54496
+%mor:	noun|zebras-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 41000_47989 um 53515_53916 zebras 53996_54496 .
+*PAR:	and &-um cats . 57663_60284
+%mor:	cconj|and noun|cat-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 57663_57903 um 57983_58343 cats 59784_60284 .
+*PAR:	dogs . 60699_61125
+%mor:	noun|dog-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dogs 60699_61125 .
+*PAR:	(.) and &-um &+g goats . 65971_70154
+%mor:	cconj|and noun|goat-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 65971_66230 um 66310_66630 goats 69673_70154 .
+*PAR:	(.) and &-um +... 72816_73016
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 72816_73016 um +...
+*INV:	okay hold it +//. 78423_79869
+%mor:	intj|okay verb|hold-Fin-Imp-S pron|it-Prs-Acc-S3 +//.
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	okay 78423_78864 hold 79164_79364 it 79404_79869 +//.
+@G:	foods
+*INV:	in a minute . 80426_80808
+%mor:	adp|in det|a-Ind-Art noun|minute .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	in 80426_80506 a 80546_80566 minute 80626_80808 .
+*INV:	starting now . 81046_82186
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	starting 81046_81567 now 81687_82186 .
+*PAR:	&-um corn . 83189_84530
+%mor:	noun|corn .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 83189_83530 corn 84030_84530 .
+*PAR:	beans . 85173_85672
+%mor:	noun|bean-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	beans 85173_85672 .
+*PAR:	&+p bread . 87918_88398
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bread 87918_88398 .
+*PAR:	&+s rolls . 90182_90640
+%mor:	noun|roll-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rolls 90182_90640 .
+*PAR:	and cabbage . 92325_93103
+%mor:	cconj|and noun|cabbage .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 92325_92443 cabbage 92603_93103 .
+*PAR:	and carrots . 93425_94786
+%mor:	cconj|and noun|carrot-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 93425_93945 carrots 94286_94786 .
+*PAR:	and &-uh meat . 95062_100494
+%mor:	cconj|and noun|meat .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 95062_95247 uh 96288_98191 meat 100013_100494 .
+*PAR:	and &-uh tomatoes . 101256_104899
+%mor:	cconj|and noun|tomato-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 101256_101356 uh 101396_102857 tomatoes 104399_104899 .
+*PAR:	and &+l lettuce . 106681_107162
+%mor:	cconj|and noun|lettuce .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and lettuce 106681_107162 .
+*PAR:	and cabbage . 107357_109584
+%mor:	cconj|and noun|cabbage .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 107357_107422 cabbage 109084_109584 .
+*PAR:	and &-uh (.) milk . 111327_118514
+%mor:	cconj|and noun|milk .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 111327_111667 uh 111767_113289 milk 118014_118514 .
+*PAR:	cheese . 119897_120396
+%mor:	noun|cheese .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cheese 119897_120396 .
+*PAR:	fish . 123481_123962
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fish 123481_123962 .
+*PAR:	and &-uh (..) &-uh &-um potatoes . 126904_143192
+%mor:	cconj|and noun|potato-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 126904_136429 uh 136469_138590 uh 138590_138630 um 138670_138810 potatoes 142692_143192 .
+*INV:	okay . 143934_144374
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 143934_144374 .
+@G:	S
+*INV:	all that you can think of that begins with the letter s@l . 144715_147563
+%mor:	det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of pron|that-Rel verb|begin-Fin-Ind-Pres-S3 adp|with det|the-Def-Art noun|letter part|s .
+%gra:	1|8|NSUBJ 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|2|CASE 7|8|NSUBJ 8|12|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|11|CASE 13|8|PUNCT
+%wor:	all 144715_144815 that 144855_144995 you 145055_145155 can 145195_145335 think 145395_145576 of 145616_145716 that 145736_145856 begins 145876_146316 with 146357_146477 the 146497_146557 letter 146597_146897 s 147338_147563 .
+*INV:	starting now . 147759_148859
+%mor:	verb|start-Part-Pres-S adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	starting 147759_148259 now 148359_148859 .
+*PAR:	sea . 149942_150441
+%mor:	noun|sea .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sea 149942_150441 .
+*PAR:	scissors . 153226_153725
+%mor:	noun|scissors-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	scissors 153226_153725 .
+*PAR:	(.) &-um shoes . 157573_159313
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 157573_157953 shoes 158813_159313 .
+*PAR:	&-um spigot . 163799_171723
+%mor:	noun|spigot .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 163799_164057 spigot 171242_171723 .
+*INV:	okay . 212510_212863
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 212510_212863 .
+@End

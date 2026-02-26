@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00090601-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|60;|female|PossibleAD||Participant|18||
+@Media:	624-0, audio
+@G:	Cookie
+*INV:	I want you to take a look at that picture and tell me everything that you see going on in that picture . 1580_7100
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|22|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|12|CC 12|2|CONJ 13|12|IOBJ 14|12|OBJ 15|18|OBJ 16|17|NSUBJ 17|14|ACL-RELCL 18|17|XCOMP 19|18|COMPOUND-PRT 20|22|CASE 21|22|DET 22|18|OBL 23|2|PUNCT
+%wor:	I 1580_1600 want 1620_1760 you 1760_1860 to 1860_1940 take 2021_2261 a 2321_2341 look 2421_2582 at 2622_2682 that 2722_2902 picture 2963_3424 and 4025_4145 tell 4185_4386 me 4426_4486 everything 4646_5127 that 5147_5268 you 5308_5428 see 5528_5669 going 5749_6069 on 6150_6310 in 6390_6450 that 6470_6651 picture 6711_7100 .
+*INV:	everything that's happening there . 7914_9277
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+%wor:	everything 7914_8274 that's 8294_8455 happening 8515_8956 there 9036_9277 .
+*PAR:	well , little boy &=clears_throat reachin(g) out for the cookie jar . [+ gram] 13811_17811
+%mor:	intj|well cm|cm adj|little-S1 noun|boy verb|reach-Part-Pres-S adp|out adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|AMOD 4|10|ROOT 5|4|ACL 6|5|COMPOUND-PRT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|4|PUNCT
+%wor:	well 13811_14031 , little 14431_14631 boy 14691_14911 reachin(g) 16232_16593 out 16593_16713 for 16773_16853 the 16873_16953 cookie 16993_17333 jar 17333_17811 .
+*PAR:	and the stool he's standin(g) on tilts over . 19435_22798
+%mor:	cconj|and det|the-Def-Art noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on noun|tilt-Plur adv|over .
+%gra:	1|3|CC 2|3|DET 3|9|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|8|CASE 8|6|OBL 9|6|ADVMOD 10|3|PUNCT
+%wor:	and 19435_19835 the 19915_20035 stool 20436_20756 he's 20776_20896 standin(g) 20936_21456 on 21456_21657 tilts 21777_22237 over 22357_22798 .
+*PAR:	and &-um (.) he's handin(g) some cookies down to the little girl . 25994_34682
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc adp|down adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|11|CASE 9|11|DET 10|11|AMOD 11|4|OBL 12|4|PUNCT
+%wor:	and 25994_26274 um 26334_28136 he's 29978_30138 handin(g) 30198_32861 some 32861_33041 cookies 33061_33421 down 33461_33682 to 33722_33782 the 33822_33882 little 33922_34102 girl 34182_34682 .
+*PAR:	and the mother's &+w dryin(g) dishes (.) and spills water on the floor . 37879_45229
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|drying-Ger noun|dish-Plur cconj|and verb|spill-Fin-Ind-Pres-S3 noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|12|ROOT 7|8|CC 8|6|CONJ 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|6|PUNCT
+%wor:	and 37879_38039 the 38039_38099 mother's 38139_38479 dryin(g) 39000_39421 dishes 39421_39881 and 43226_43606 spills 43787_44167 water 44227_44528 on 44588_44648 the 44688_44748 floor 44768_45229 .
+*PAR:	and (.) she's lookin(g) out the window . 54502_55769
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	and 54502_54562 she's 54602_54783 lookin(g) 54843_55184 out 55184_55244 the 55264_55344 window 55384_55769 .
+*PAR:	that's it . [+ exc] 56447_56840
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 56447_56667 it 56727_56840 .
+*INV:	good . 57409_57730
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	good 57409_57730 .
+@End

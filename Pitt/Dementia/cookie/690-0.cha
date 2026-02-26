@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/a-00090619-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|12||
+@Media:	690-0, audio
+@G:	Cookie
+*INV:	picture and tell me everything that you see happening in that picture . 30_3840
+%mor:	verb|picture-Fin-Imp-S cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|12|ROOT 2|3|CC 3|1|CONJ 4|3|IOBJ 5|3|OBJ 6|9|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|1|PUNCT
+%wor:	picture 30_250 and 893_1014 tell 1054_1254 me 1315_1375 everything 1536_1957 that 1977_2118 you 2158_2259 see 2359_2520 happening 2600_3122 in 3182_3243 that 3283_3463 picture 3544_3840 .
+*INV:	everything that's going on in there . 4247_5934
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|7|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+%wor:	everything 4247_4628 that's 4628_4809 going 4929_5251 on 5351_5512 in 5572_5652 there 5693_5934 .
+*INV:	what do you see happening ? 15340_15980
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|happen-Ger-S ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%wor:	what 15340_15800 do 15900_15940 you 15940_15980 see happening ?
+*PAR:	oh you want me to &+t &+t on that ? [+ exc] 16320_17300
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to adp|on pron|that-Dem ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|MARK 6|7|CASE 7|3|OBL 8|3|PUNCT
+%wor:	oh 16320_16360 you 16360_16420 want 16460_16580 me 16600_16660 to 16660_16700 on 16740_16780 that 16800_17300 ?
+*INV:	yeah <you can> [/] you can just tell me . 16930_18101
+%mor:	intj|yeah pron|you-Prs-Nom-S2 aux|can-Fin-S adv|just verb|tell-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+%wor:	yeah 16930_18101 you can you can just tell me .
+*PAR:	oh okay . [+ exc]
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR:	&-uh looks like the mother is doing [//] washing the dishes . 19323_23004
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|8|ROOT 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|AUX 6|1|ADVCL 7|8|DET 8|6|OBJ 9|1|PUNCT
+%wor:	uh 19323_19342 looks 19702_19902 like 19943_20123 the 20123_20183 mother 20263_20543 is 20643_20763 doing 20863_21203 washing 21964_22304 the 22344_22404 dishes 22504_23004 .
+*PAR:	and &-uh the little boy is &=sighs tryin(g) to get cookies <up the cookie jar> [//] up in the cookie jar . 24258_32518
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|up adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|14|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|8|COMPOUND-PRT 11|14|CASE 12|14|DET 13|14|COMPOUND 14|8|OBL 15|6|PUNCT
+%wor:	and 24258_24558 uh 24618_24658 the 24899_24979 little 25019_25179 boy 25279_25620 is 25720_25900 tryin(g) 28325_28585 to 28585_28625 get 28765_28926 cookies 29106_29567 up 29627_29747 the 29987_30068 cookie 30408_30729 jar 30769_31069 up 31410_31510 in 31590_31650 the 31650_31710 cookie 31770_32111 jar 32171_32518 .
+*PAR:	and there's a little girl with him . 33493_35317
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|EXPL 3|8|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%wor:	and 33493_33674 there's 33674_34074 a 34094_34114 little 34155_34335 girl 34395_34655 with 34756_34956 him 34996_35317 .
+*PAR:	and &-uh that's [//] the [/] &-uh the [/] &-uh oh the bench [: stool] [* s:r] <or what do you call it> [//] &-uh is [//] it looks like it's gonna fall . 36633_48173
+%mor:	cconj|and intj|oh det|the-Def-Art noun|stool pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|6|CC 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|NSUBJ 6|11|ROOT 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ADVCL 12|6|PUNCT
+%wor:	and 36633_36833 uh 36913_37033 that's 37093_37434 the 38075_38175 uh 38195_38295 the 38315_38456 uh 38456_40960 oh 42202_42463 the 43044_43124 stool 43144_43585 or 43665_43785 what 44005_44146 do 44146_44186 you 44186_44286 call 44326_44606 it 44666_44787 uh 44887_45848 is 45889_46049 it 46049_46089 looks 46850_47031 like 47071_47271 it's 47291_47391 gonna 47431_47652 fall 47712_48173 .
+*PAR:	and &-um that's [/] &-uh that's about all I can see . [+ exc] 53610_58377
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|8|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+%wor:	and 53610_53891 um 53991_56775 that's 56775_56936 uh 56976_57036 that's 57056_57256 about 57276_57437 all 57457_57537 I 57577_57597 can 57637_57777 see 57877_58377 .
+*PAR:	and those [//] I guess this is breakfast . 58479_62725
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|breakfast .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+%wor:	and 58479_58659 those 58819_59019 I 59099_59119 guess 59180_59380 this 59380_59620 is 59680_59821 breakfast 62225_62725 .
+*INV:	okay that's fine . 68160_69100
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay 68160_68282 that's 68364_68752 fine 68752_69100 .
+@End

@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/a-00090638-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|Control||Participant|||
+@Media:	006-3, audio
+@G:	Cookie
+*INV:	I'm gonna show you a picture . 3295_4416
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	I'm 3295_3355 gonna 3355_3475 show 3495_3675 you 3715_3815 a 3815_3835 picture 3916_4416 .
+*INV:	in the picture there's some things going on there's some action taking place . 5398_9209
+%mor:	adp|in det|the-Def-Art noun|picture pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|thing-Plur verb|go-Ger-S adp|on pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|action verb|take-Ger-S noun|place-Acc .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL 4|5|EXPL 5|15|ROOT 6|7|DET 7|5|NSUBJ 8|7|ACL 9|8|COMPOUND-PRT 10|11|EXPL 11|5|PARATAXIS 12|13|DET 13|11|NSUBJ 14|13|ACL 15|14|OBJ 16|5|PUNCT
+%wor:	in 5398_5438 the 5458_5518 picture 5618_5999 there's 6019_6199 some 6219_6440 things 6540_6820 going 6901_7221 on 7321_7421 there's 7421_7722 some 7742_7902 action 7982_8303 taking 8363_8724 place 8764_9209 .
+*INV:	what I want you to do is look at the picture and just tell me anything you see going on . 9745_13532
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and adv|just verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|20|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|14|CC 13|14|ADVMOD 14|8|CONJ 15|14|IOBJ 16|14|OBJ 17|18|NSUBJ 18|16|ACL-RELCL 19|18|XCOMP 20|19|COMPOUND-PRT 21|8|PUNCT
+%wor:	what 9745_9865 I 9865_9885 want 9905_10046 you 10086_10186 to 10206_10246 do 10286_10366 is 10446_10527 look 10587_10727 at 10747_10827 the 10867_10927 picture 11007_11408 and 11428_11508 just 11528_11668 tell 11708_11909 me 11929_11989 anything 12129_12510 you 12550_12630 see 12710_12850 going 12931_13251 on 13331_13532 .
+*PAR:	well the kids are in the kitchen with their mother &-uh &-uh takin(g) cookies out o(f) the cookie jar . 17687_24512
+%mor:	intj|well det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|kitchen sconj|with pron|their-Prs-Gen-P3 noun|mother verb|take-Ger-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|7|DISCOURSE 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|17|ROOT 8|11|MARK 9|10|NMOD-POSS 10|11|NSUBJ 11|7|ADVCL 12|11|OBJ 13|17|CASE 14|17|CASE 15|17|DET 16|17|COMPOUND 17|11|OBL 18|7|PUNCT
+%wor:	well 17687_17887 the 18347_18447 kids 18847_19108 are 19148_19248 in 19268_19348 the 19368_19428 kitchen 19488_19828 with 19888_20048 their 20068_20189 mother 20229_20529 uh 20569_20649 uh 20709_20849 takin(g) 22450_22831 cookies 22831_23231 out 23311_23431 o(f) 23431_23511 the 23511_23571 cookie 23631_23992 jar 24012_24512 .
+*PAR:	a boy's handin(g) it to the girl . 25113_26834
+%mor:	det|a-Ind-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|girl .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	a 25113_25133 boy's 25193_25513 handin(g) 25573_25913 it 25913_25973 to 26013_26113 the 26194_26274 girl 26334_26834 .
+*PAR:	and the boy's &-uh <on a> [/] on a &-uh stool and he's tripping [: tipping] [* p:w] over . 27274_30984
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|12|ROOT 8|11|CC 9|11|NSUBJ 10|11|AUX 11|7|CONJ 12|11|COMPOUND-PRT 13|7|PUNCT
+%wor:	and 27274_27335 the 27335_27395 boy's 27455_27795 uh 27975_28996 on 28996_29116 a 29156_29176 on 29276_29316 a 29376_29396 uh 29396_29476 stool 29536_29917 and 30097_30197 he's 30217_30337 tipping 30397_30757 over 30817_30984 .
+*PAR:	he's gonna fall on the floor . 31018_32159
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	he's 31018_31118 gonna 31158_31378 fall 31438_31658 on 31698_31758 the 31758_31818 floor 31878_32159 .
+*PAR:	the mother's standing there doing the dishes . 32303_34214
+%mor:	det|the-Def-Art noun|mother~part|s noun|standing-Ger adv|there verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|8|ROOT 5|4|ADVMOD 6|4|ACL 7|8|DET 8|6|OBJ 9|4|PUNCT
+%wor:	the 32303_32383 mother's 32403_32683 standing 32703_33103 there 33144_33304 doing 33344_33584 the 33604_33684 dishes 33724_34214 .
+*PAR:	she's washing the dishes looking out the open window . 34866_37337
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc verb|look-Part-Pres-S adp|out det|the-Def-Art adj|open-S1 noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|DET 5|3|OBJ 6|3|ADVCL 7|6|COMPOUND-PRT 8|10|DET 9|10|AMOD 10|6|OBJ 11|3|PUNCT
+%wor:	she's 34866_35086 washing 35146_35546 the 35566_35626 dishes 35686_36027 looking 36067_36347 out 36407_36527 the 36588_36648 open 36728_36988 window 37048_37337 .
+*PAR:	and the water's runnin(g) down over the sink on [/] on the floor getting her feet wet . 38370_44217
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|down adp|over det|the-Def-Art noun|sink adp|on det|the-Def-Art noun|floor verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|16|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|5|ADVCL 14|15|NMOD-POSS 15|13|OBJ 16|13|XCOMP 17|5|PUNCT
+%wor:	and 38370_38910 the 38930_38990 water's 39050_39431 runnin(g) 39511_39871 down 39871_40232 over 41353_41533 the 41553_41633 sink 41754_42054 on 42234_42394 on 42474_42575 the 42575_42635 floor 42715_43035 getting 43135_43416 her 43456_43576 feet 43676_43916 wet 43976_44217 .
+*PAR:	and <there are> [//] she's dryin(g) a dish . 45056_47796
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 45056_45236 there 45236_45456 are 45536_45697 she's 46418_46618 dryin(g) 46678_47279 a 47279_47299 dish 47420_47796 .
+*PAR:	and there are a couple o(f) dishes sitting on the &+k kitchen counter . 48722_52411
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|couple adp|of noun|dish-Plur verb|sit-Ger-S adp|on det|the-Def-Art noun|kitchen noun|counter .
+%gra:	1|3|CC 2|3|EXPL 3|12|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|7|ACL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|OBL 13|3|PUNCT
+%wor:	and 48722_48942 there 48942_49143 are 49143_49403 a 49623_49643 couple 49744_50044 o(f) 50064_50144 dishes 50144_50525 sitting 50585_50926 on 50986_51086 the 51126_51186 kitchen 51527_51867 counter 51927_52411 .
+*PAR:	and looking out the window &-uh it's probably in the spring or summer of the year . 52508_58459
+%mor:	cconj|and verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably adp|in det|the-Def-Art noun|spring-Ger cconj|or noun|summer adp|of det|the-Def-Art noun|year .
+%gra:	1|11|CC 2|11|CSUBJ 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|11|NSUBJ 7|11|COP 8|11|ADVMOD 9|11|CASE 10|11|DET 11|16|ROOT 12|13|CC 13|11|CONJ 14|16|CASE 15|16|DET 16|11|NMOD 17|11|PUNCT
+%wor:	and 52508_52629 looking 52829_53149 out 53210_53330 the 53370_53430 window 53510_53811 uh 53811_53851 it's 55674_55834 probably 55914_56475 in 56555_56655 the 56675_56736 spring 56836_57156 or 57196_57256 summer 57317_57677 of 57777_57898 the 57918_57978 year 58038_58459 .
+*INV:	okay . 60191_60501
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 60191_60501 .
+@End

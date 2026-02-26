@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/a-00090850-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|61;|female|Control||Participant|29||
+@Media:	299-1, audio
+@G:	Cookie
+*INV:	I am gonna show you a picture . 140_1600
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 part|go verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	I 140_160 am 200_280 gonna 280_460 show 700_880 you 920_1021 a 1021_1041 picture 1121_1600 .
+*INV:	and in the picture there's some things going on . 2082_4296
+%mor:	cconj|and adp|in det|the-Def-Art noun|picture pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|thing-Plur verb|go-Ger-S adp|on .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|10|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|9|COMPOUND-PRT 11|6|PUNCT
+%wor:	and 2082_2162 in 2182_2262 the 2282_2362 picture 2422_2783 there's 2783_2943 some 2963_3123 things 3243_3524 going 3584_3864 on 3984_4296 .
+*INV:	what I want you to do is just look at the picture and describe to me any action you see taking place or anything you see happening . 4925_10889
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 adv|just verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and verb|describe-Inf-S adp|to pron|I-Prs-Acc-S1 det|any-Def-Ind noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|take-Ger-S noun|place-Acc cconj|or pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|9|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|COP 8|9|ADVMOD 9|27|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|CC 14|9|CONJ 15|16|CASE 16|14|OBL 17|18|DET 18|14|OBJ 19|20|NSUBJ 20|18|ACL-RELCL 21|20|ADVCL 22|21|OBJ 23|24|CC 24|22|CONJ 25|26|NSUBJ 26|24|ACL-RELCL 27|26|XCOMP 28|9|PUNCT
+%wor:	what 4925_5005 I 5005_5025 want 5045_5206 you 5226_5326 to 5326_5366 do 5426_5506 is 5626_5706 just 5746_5947 look 6267_6407 at 6427_6507 the 6527_6607 picture 6647_7028 and 7048_7108 describe 7128_7689 to 7709_7789 me 7829_7909 any 7949_8089 action 8249_8670 you 8830_8930 see 8990_9130 taking 9191_9531 place 9591_9951 or 10012_10072 anything 10132_10372 you 10372_10472 see 10532_10672 happening 10712_10889 .
+*PAR:	the kids are swiping some cookies . 12374_14057
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|swipe-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the kids 12374_12595 are 12635_12735 swiping 12935_13376 some 13436_13596 cookies 13716_14057 .
+*PAR:	and [/] &-uh and a stool is upsetting . 14191_16412
+%mor:	cconj|and det|a-Ind-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|upsetting-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 14191_14391 uh 14451_14731 and 14731_14911 a 14991_15011 stool 15291_15632 is 15692_15812 upsetting 15912_16412 .
+*PAR:	and <the kid> [//] the girl's tellin(g) him to be quiet so his mother over there washin(g) dishes and the sink's overflowin(g) . [+ gram] 16953_22056
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 adv|so pron|his-Prs-Gen-S3 noun|mother adp|over pron|there-Prs-Gen-P3 noun|washing-Ger noun|dish-Plur cconj|and det|the-Def-Art noun|sink~part|s noun|overflow-Ger .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|21|ROOT 6|5|IOBJ 7|9|MARK 8|9|COP 9|5|XCOMP 10|16|ADVMOD 11|12|NMOD-POSS 12|16|NSUBJ 13|16|CASE 14|16|NMOD-POSS 15|16|COMPOUND 16|9|OBL 17|21|CC 18|19|DET 19|21|NMOD-POSS 20|19|CASE 21|16|CONJ 22|5|PUNCT
+%wor:	and 16953_17033 the 17033_17093 kid 17153_17353 the 17473_17553 girl's 17833_18133 tellin(g) 18213_18534 him 18534_18594 to 18594_18634 be 18634_18674 quiet 18674_19034 so 19074_19154 his 19194_19294 mother 19394_19674 over 19714_19875 there 19895_20035 washin(g) 20075_20455 dishes 20455_20815 and 20875_20955 the 20955_21015 sink's 21115_21376 overflowin(g) 21556_22056 .
+*PAR:	and &-uh the window's up . 23277_25299
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adv|up .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	and 23277_23757 uh 23857_24118 the 24378_24478 window's 24538_24938 up 25038_25299 .
+*PAR:	and &-uh I don't see much more than that . [+ exc] 26625_30255
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S adv|much adj|more-Cmp-S1 adp|than pron|that-Dem .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|7|ADVMOD 7|5|OBJ 8|9|CASE 9|7|OBL 10|5|PUNCT
+%wor:	and 26625_27366 uh 27446_28888 I 28949_28969 don't 29009_29149 see 29209_29349 much 29449_29670 more 29770_29990 than 30030_30151 that 30191_30255 .
+*PAR:	she's dryin(g) dishes . 30411_31180
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	she's 30411_30591 dryin(g) 30631_30992 dishes 30992_31180 .
+*PAR:	did you say action ? [+ exc] 31313_32210
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S noun|action-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did 31313_31393 you 31393_31473 say 31553_31713 action 31814_32210 ?
+*INV:	right . 32835_33080
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 32835_33080 .
+*PAR:	I about it . [+ exc] [+ gram] 34398_34801
+%mor:	pron|I-Prs-Nom-S1 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	I 34398_34418 about 34418_34658 it 34698_34801 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	cookie jar lid's fallin(g) . [+ gram] 36101_37261
+%mor:	noun|cookie noun|jar noun|lid~part|s noun|falling-Ger .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	cookie 36101_36341 jar 36421_36622 lid's 36682_36902 fallin(g) 36922_37261 .
+*INV:	okay . 37534_37644
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 37534_37644 .
+@End

@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/a-00090698-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|female|Control||Participant|30||
+@Media:	092-0, audio
+@G:	Cookie
+*INV:	okay here's the picture . 330_1440
+%mor:	intj|okay adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	okay 330_710 here's 710_950 the 990_1050 picture 1130_1440 .
+*PAR:	Drew's in the kitchen and mother is drying a dish . 7255_10101
+%mor:	propn|Drew~part|s adp|in det|the-Def-Art noun|kitchen cconj|and noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|9|NSUBJ 2|1|CASE 3|5|CASE 4|5|DET 5|9|OBL 6|7|CC 7|5|CONJ 8|9|AUX 9|11|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+%wor:	Drew's 7255_7395 in 7455_7535 the 7555_7635 kitchen 7735_8096 and 8196_8256 mother 8316_8616 is 8716_8816 drying 9276_9737 a 9817_9837 dish 9997_10101 .
+*PAR:	the sink is overflowing and her feet are in the water . 10397_13300
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S cconj|and pron|her-Prs-Gen-S3 noun|foot-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|11|CC 6|7|NMOD-POSS 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|DET 11|4|CONJ 12|4|PUNCT
+%wor:	the 10397_10517 sink 10657_10978 is 11018_11158 overflowing 11258_12059 and 12139_12199 her 12199_12279 feet 12339_12659 are 12659_12779 in 12799_12839 the 12899_12979 water 13079_13300 .
+*PAR:	the boy is &+cl tipping on the stool as he tries to reach in the cookie jar . 14624_21869
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|on det|the-Def-Art noun|stool sconj|as pron|he-Prs-Nom-S3 verb|try-Fin-Ind-Pres-S3 part|to verb|reach-Inf-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|16|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|MARK 9|10|NSUBJ 10|4|ADVCL 11|12|MARK 12|10|XCOMP 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|4|PUNCT
+%wor:	the 14624_14684 boy 14684_14964 is 14964_15304 tipping 16745_17066 on 17126_17266 the 17306_17406 stool 17566_18066 as 19267_19367 he 19367_19427 tries 19548_19928 to 20028_20128 reach 20288_20548 in 20588_20669 the 20669_20749 cookie 20889_21269 jar 21369_21869 .
+*PAR:	the little girl has her finger to her lips . 23071_25252
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|9|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+%wor:	the little 23071_23271 girl 23291_23551 has 23771_23951 her 23951_24091 finger 24131_24452 to 24512_24572 her 24612_24752 lips 24752_25252 .
+*PAR:	stool is falling . [+ gram] 31603_31943
+%mor:	noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	stool 31603_31943 is falling .
+*PAR:	the boy has a cookie in his hand . 33404_34944
+%mor:	det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+%wor:	the boy 33404_33604 has 33684_33944 a 34004_34024 cookie 34104_34384 in 34404_34444 his 34464_34545 hand 34545_34944 .
+*PAR:	that's the extent of the action . [+ exc] 40682_40949
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|extent adp|of det|the-Def-Art noun|action .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+%wor:	that's the extent 40682_40889 of 40929_40949 the action .
+*INV:	mkay .
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

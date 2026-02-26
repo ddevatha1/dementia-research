@@ -1,0 +1,122 @@
+@UTF8
+@PID:	11312/a-00089766-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|79;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	474-0, audio
+@G:	animals
+*PAR:	dog . 841_981
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog 841_981 .
+*PAR:	cat . 2204_2428
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat 2204_2428 .
+*PAR:	lamb . 3727_3844
+%mor:	noun|lamb .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lamb 3727_3844 .
+*PAR:	cow . 5169_5463
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cow 5169_5463 .
+*PAR:	giraffe . 7634_8064
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	giraffe 7634_8064 .
+*PAR:	lion . 10579_10787
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	lion 10579_10787 .
+*PAR:	tiger . 11902_12203
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tiger 11902_12203 .
+*PAR:	elephant . 17432_17573
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 17432_17573 .
+*PAR:	hyena . 19997_20358
+%mor:	noun|hyena .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hyena 19997_20358 .
+*PAR:	(...) goat .
+%mor:	noun|goat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	(...) any others ? 39412_39808
+%mor:	det|any-Def-Ind noun|other-Plur ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	any 39412_39599 others 39599_39808 ?
+*PAR:	huh ? [+ exc]
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	any others you can think of ?
+%mor:	det|any-Def-Ind noun|other-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|think-Inf-S adp|of ?
+%gra:	1|2|DET 2|6|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|5|OBL 7|2|PUNCT
+*PAR:	xxx , I guess . [+ exc]
+%mor:	cm|cm pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|PUNCT 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@G:	F
+*PAR:	four .
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fellow .
+%mor:	adj|fellow-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fact . 67100_67421
+%mor:	noun|fact .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fact 67100_67421 .
+*PAR:	(..) few . 74086_74425
+%mor:	adj|few-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	few 74086_74425 .
+*PAR:	floozy . 77149_77429
+%mor:	adj|floozy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	floozy 77149_77429 .
+*INV:	&=laughs that's a word . 77630_80868
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|word .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	that's 77630_80533 a 80633_80653 word 80713_80868 .
+*PAR:	&=laughs . [+ exc]
+*PAR:	from .
+%mor:	adp|from .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fish .
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	&-uh you didn't want that . [+ exc]
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not verb|want-Inf-S pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	that's okay .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*INV:	any words at all .
+%mor:	det|any-Def-Ind noun|word-Plur adp|at det|all-Def-Tot .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR:	flower .
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	fixture . 100022_100243
+%mor:	noun|fixture .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fixture 100022_100243 .
+*PAR:	(..) frame . 100482_100783
+%mor:	noun|frame .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	frame 100482_100783 .
+*PAR:	(..) fussy . 107430_107828
+%mor:	adj|fussy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	fussy 107430_107828 .
+*PAR:	fairy .
+%mor:	noun|fairy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

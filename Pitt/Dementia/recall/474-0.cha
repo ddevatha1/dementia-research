@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/a-00090020-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|79;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	474-0, audio
+@G:	George_Immediate
+*PAR:	and &-uh in the city . 20761_21865
+%mor:	cconj|and adp|in det|the-Def-Art noun|city .
+%gra:	1|4|CC 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	and 20761_20941 uh 21101_21201 in 21321_21361 the 21382_21442 city 21562_21865 .
+*PAR:	and she was pleased to get back to the country . 23506_25377
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|pleased-S1 part|to verb|get-Inf-S adv|back adp|to det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	and 23506_23705 she 23765_23865 was 23925_24066 pleased 24166_24486 to 24506_24546 get 24566_24667 back 24687_24887 to 24907_24947 the 24947_25027 country 25047_25377 .
+*INV:	okay , anything else ? 25788_31660
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	okay 25788_30896 , anything 30956_31297 else 31377_31660 ?
+*PAR:	no . [+ exc] 35166_35504
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 35166_35504 .
+*INV:	okay . 35652_35887
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 35652_35887 .
+@G:	George_Delayed
+*INV:	anything you recall from that story ? 626442_628257
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|recall-Fin-Ind-Pres-S2 adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|6|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+%wor:	anything 626442_626762 you 626782_626862 recall 626882_627302 from 627382_627542 that 627583_627743 story 627843_628257 ?
+*PAR:	(.) no . [+ exc] 632294_632786
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 632294_632786 .
+@G:	George_Questions
+*INV:	okay , do you recall who the story was about ? 638340_640874
+%mor:	intj|okay cm|cm aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|recall-Inf-S pron|who-Int det|the-Def-Art noun|story aux|be-Fin-Ind-Past-S3-irr adp|about ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|5|CCOMP 7|8|DET 8|6|NSUBJ 9|6|COP 10|5|PUNCT 11|5|PUNCT
+%wor:	okay 638340_638512 , do 639032_639072 you 639072_639152 recall 639192_639552 who 639592_639693 the 639753_639813 story 639933_640213 was 640253_640373 about 640433_640874 ?
+*PAR:	(.) no . [+ exc]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what time of year did George move in with his son's family ? 645570_648741
+%mor:	det|what-Def-Int noun|time adp|of noun|year aux|do-Fin-Ind-Past-S3-irr propn|George verb|move-Inf-S adp|in adp|with pron|his-Prs-Gen-S3 noun|son~part|s noun|family ?
+%gra:	1|2|DET 2|7|OBL-UNMARKED 3|4|CASE 4|2|NMOD 5|7|AUX 6|7|NSUBJ 7|13|ROOT 8|7|COMPOUND-PRT 9|13|CASE 10|11|NMOD-POSS 11|13|NMOD-POSS 12|11|CASE 13|7|OBL 14|7|PUNCT
+%wor:	what 645570_645690 time 645730_646011 of 646031_646111 year 646191_646392 did 646452_646592 George 646652_647033 move 647093_647313 in 647373_647474 with 647514_647634 his 647674_647814 son's 647874_648195 family 648255_648741 ?
+*PAR:	I don't know . [+ exc] 650699_651374
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I don't 650699_650880 know 650880_651374 .
+*INV:	what were George's stories about ? 652903_654667
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-P3-irr propn|George~part|s noun|story-Plur adp|about ?
+%gra:	1|6|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|CASE 7|1|PUNCT
+%wor:	what 652903_653024 were 653064_653204 George's 653224_653645 stories 653725_654166 about 654226_654667 ?
+*PAR:	I don't know . [+ exc] 656361_657021
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 656361_656381 don't 656381_656581 know 656641_657021 .
+*INV:	what did Melanie ask George to do ? 659642_661780
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr propn|Melanie verb|ask-Inf-S propn|George part|to verb|do-Inf-S ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|4|PUNCT
+%wor:	what 659642_659762 did 659802_659942 Melanie 660002_660422 ask 660522_660742 George 660823_661203 to 661263_661363 do 661443_661780 ?
+*PAR:	I have no idea . [+ exc] 663545_664309
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|no-Def-Neg noun|idea-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	I 663545_663564 have 663564_663664 no 663704_663784 idea 663944_664309 .
+*INV:	why did George hold Melanie's hand tightly ? 667486_669746
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr propn|George verb|hold-Inf-S propn|Melanie~part|s noun|hand-Acc adv|tightly ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+%wor:	why 667486_667626 did 667646_667786 George 667826_668166 hold 668186_668406 Melanie's 668446_668926 hand 669026_669186 tightly 669246_669746 ?
+*PAR:	to cross the street . 671509_672469
+%mor:	part|to verb|cross-Inf-S det|the-Def-Art noun|street-Acc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	to 671509_671569 cross 671589_671869 the 671869_671929 street 671969_672469 .
+*INV:	okay . 672950_673430
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 672950_673430 .
+*INV:	why didn't Melanie like the city ? 677574_679415
+%mor:	adv|why aux|do-Fin-Ind-Past-S3-irr~part|not propn|Melanie verb|like-Inf-S det|the-Def-Art noun|city-Acc ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	why 677574_677734 didn't 677774_677954 Melanie 678034_678414 like 678475_678695 the 678715_678795 city 678915_679415 ?
+*PAR:	(.) I don't know . [+ exc] 682018_682778
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 682018_682038 don't 682038_682278 know 682278_682778 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

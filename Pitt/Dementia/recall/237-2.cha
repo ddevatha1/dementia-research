@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/a-00089953-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||female|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	237-2, audio
+@G:	George_Immediate
+*PAR:	they wanted to return &+h (.) home . 37122_40619
+%mor:	pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Past-P3 part|to verb|return-Inf-S adv|home .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|ADVMOD 6|2|PUNCT
+%wor:	they 37122_37202 wanted 37322_37582 to 37642_37722 return 37842_38343 home 40125_40619 .
+*PAR:	and his daughter and grandchild . 41967_44109
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|daughter cconj|and noun|grandchild .
+%gra:	1|3|CC 2|3|NMOD-POSS 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+%wor:	and 41967_42308 his 42528_42728 daughter 42949_43329 and 43429_43529 grandchild 43609_44109 .
+*PAR:	<he took the> [//] he held the grandchild's hand . 44951_48235
+%mor:	pron|he-Prs-Nom-S3 verb|hold-Fin-Ind-Past-S3-irr det|the-Def-Art noun|grandchild~part|s noun|hand-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|2|OBJ 7|2|PUNCT
+%wor:	he 44951_45011 took 45111_45271 the 45352_45412 he 46213_46273 held 46333_46553 the 46573_46633 grandchild's 46673_47394 hand 47774_48235 .
+*INV:	but [//] and she became &-uh frightened of the noise . 48515_51900
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|of det|the-Def-Art noun|noise .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	but 48515_48676 and 49457_49557 she 49617_49697 became 49797_50237 uh 50237_50398 frightened 50738_51139 of 51179_51239 the 51279_51359 noise 51419_51900 .
+*PAR:	and &-um (..) &-hm +... 53925_59294
+%mor:	cconj|and +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	and 53925_54185 um 54245_59294 hm +...
+*PAR:	&+s &-um that's all . [+ exc] 62472_64246
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	um 62472_62772 that's 63613_63813 all 63913_64246 .
+*INV:	okay , that's fine . 64493_65674
+%mor:	intj|okay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	okay 64493_64714 , that's 64794_65014 fine 65174_65674 .
+@G:	George_Delayed
+*INV:	can you remember anything from that story ? 784040_785881
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|anything-Ind-S1 adp|from det|that-Def-Dem-Sing noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+%wor:	can 784040_784120 you 784140_784220 remember 784260_784600 anything 784680_785021 from 785061_785201 that 785241_785401 story 785481_785881 ?
+*PAR:	George Miller wanted to visit his (.) &-um home (.) in another city . 786803_793850
+%mor:	propn|George propn|Miller verb|want-Fin-Ind-Past-S3 part|to verb|visit-Inf-S pron|his-Prs-Gen-S3 noun|home-Acc adp|in det|another-Def-Ind noun|city .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|3|PUNCT
+%wor:	George 786803_787183 Miller 787263_787583 wanted 787804_788084 to 788124_788204 visit 788324_788645 his 788705_788945 um 790527_790827 home 791708_792068 in 792809_792889 another 792929_793230 city 793350_793850 .
+*INV:	okay , anything else ? 795893_796794
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	okay , anything 795893_796713 else 796713_796794 ?
+*PAR:	and he (.) took his granddaughter (.) &-uh with him . 796894_802170
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|granddaughter-Acc adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+%wor:	and 796894_796954 he 796974_797034 took 798315_798496 his 798536_798656 granddaughter 798736_799477 uh 801279_801319 with 801480_801700 him 801740_802170 .
+*PAR:	and they held hands as they walked along . 802361_804329
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|hold-Fin-Ind-Past-P3-irr noun|hand-Plur-Acc sconj|as pron|they-Prs-Nom-P3 verb|walk-Fin-Ind-Past-P3 adv|along .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|7|MARK 6|7|NSUBJ 7|3|ADVCL 8|7|ADVMOD 9|3|PUNCT
+%wor:	and 802361_802481 they 802521_802661 held 802741_803002 hands 803042_803402 as 803462_803542 they 803603_803723 walked 803803_804103 along 804163_804329 .
+*PAR:	and she became frightened of the noise . 804664_806547
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr verb|frighten-Part-Past-S adp|of det|the-Def-Art noun|noise .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	and 804664_804764 she 804844_804944 became 805024_805405 frightened 805485_805926 of 805946_806006 the 806066_806126 noise 806206_806547 .
+*PAR:	(.) but I think that's wrong because if he was goin(g) to the country (.) there wouldn't be any noise . [+ exc] 808950_813292
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 sconj|because sconj|if pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|to det|the-Def-Art noun|country pron|there-Int-S1 aux|would-Fin-S~part|not verb|be-Inf-S det|any-Def-Ind noun|noise .
+%gra:	1|3|CC 2|3|NSUBJ 3|20|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|18|MARK 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|18|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|18|EXPL 16|18|AUX 17|18|ADVMOD 18|3|CCOMP 19|20|DET 20|18|NSUBJ 21|3|PUNCT
+%wor:	but 808950_809030 I 809130_809150 think 809170_809310 that's 809330_809530 wrong 809570_809791 because 809811_810031 if 810031_810111 he 810131_810191 was 810231_810351 goin(g) 810391_810672 to 810672_810732 the 810772_810832 country 810892_811313 there 811973_812114 wouldn't 812154_812394 be 812414_812494 any 812594_812734 noise 812835_813292 .
+*PAR:	<so maybe> [//] well , I don't know if he was going to the city . [+ exc] 813496_815835
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|to det|the-Def-Art noun|city .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|13|ROOT 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|6|CCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|6|PUNCT
+%wor:	so 813496_813576 maybe 813676_813876 well 813956_814076 , I 814136_814156 don't 814156_814276 know 814276_814377 if 814397_814457 he 814477_814537 was 814617_814717 going 814777_815017 to 815037_815118 the 815158_815218 city 815358_815835 .
+*PAR:	I forgot . [+ exc] 816180_816799
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Past-S1-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	I 816180_816199 forgot 816299_816799 .
+*PAR:	but either way they were (.) going someplace . 816926_818962
+%mor:	cconj|but cconj|either noun|way pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|go-Part-Pres-S adv|someplace .
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|ADVMOD 8|3|PUNCT
+%wor:	but either 816926_817000 way 817020_817140 they 817180_817300 were 817360_817521 going 818121_818422 someplace 818462_818962 .
+*PAR:	<and &-uh (.) she> [//] but she enjoyed being &-uh there (.) with him . 819884_827189
+%mor:	cconj|but pron|she-Prs-Nom-S3 verb|enjoy-Fin-Ind-Past-S3 aux|be-Part-Pres-S adv|there adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|COP 5|3|XCOMP 6|7|CASE 7|5|OBL 8|3|PUNCT
+%wor:	and 819884_820184 uh 820264_820685 she 822026_822146 but 822807_822927 she 822987_823087 enjoyed 823147_823688 being 823768_824229 uh 824389_824609 there 825610_825951 with 826691_826872 him 826932_827189 .
+*PAR:	they had a good time together . 828654_829929
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr det|a-Ind-Art adj|good-S1 noun|time-Acc adv|together .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|ADVMOD 7|2|PUNCT
+%wor:	they 828654_828754 had 828774_828874 a 828894_828914 good 828974_829114 time 829154_829495 together 829515_829929 .
+*INV:	okay . 830616_830997
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 830616_830997 .
+@End

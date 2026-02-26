@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00090710-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|59;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	107-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	a girl's reachin(g) for a cookie . 420_1930
+%mor:	det|a-Ind-Art noun|girl~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	a 420_440 girl's 460_760 reachin(g) 800_1160 for 1160_1320 a 1340_1360 cookie 1480_1930 .
+*PAR:	the boy's takin(g) a cookie out of the cookie jar . 2881_5874
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|DET 6|4|OBJ 7|11|CASE 8|11|CASE 9|11|DET 10|11|COMPOUND 11|4|OBL 12|4|PUNCT
+%wor:	the 2881_2981 boy's 3101_3461 takin(g) 3841_4182 a 4182_4202 cookie 4322_4682 out 4702_4842 of 4862_4942 the 4962_5102 cookie 5102_5422 jar 5422_5874 .
+*PAR:	the bench is tumblin(g) . 6883_8104
+%mor:	det|the-Def-Art noun|bench aux|be-Fin-Ind-Pres-S3 verb|tumble-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 6883_6963 bench 7083_7343 is 7383_7484 tumblin(g) 7604_8104 .
+*PAR:	the sink is runnin(g) over water . 9666_10886
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	the sink 9666_9825 is 9865_9965 runnin(g) 10005_10285 over 10285_10465 water 10545_10886 .
+*PAR:	the mother's wipin(g) the plate . 11999_15249
+%mor:	det|the-Def-Art noun|mother~part|s verb|wipe-Part-Pres-S det|the-Def-Art noun|plate-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	the 11999_12059 mother's 12059_12419 wipin(g) 14501_14822 the 14822_14882 plate 14982_15249 .
+*PAR:	she's also lookin(g) out the window . 18066_19217
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	she's 18066_18206 also 18226_18406 lookin(g) 18466_18727 out 18727_18847 the 18867_18927 window 18927_19217 .
+*PAR:	and she's standin(g) in water . 22643_23753
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	and she's 22643_22811 standin(g) 22911_23332 in 23332_23432 water 23532_23753 .
+*PAR:	and that's it . [+ exc] 27099_27399
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	and 27099_27161 that's 27161_27366 it 27366_27399 .
+*INV:	okay . 27854_27880
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 27854_27880 .
+@End

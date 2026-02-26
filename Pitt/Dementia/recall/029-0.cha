@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00089840-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|male|ProbableAD||Participant|21||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	029-0, audio
+@G:	George_Immediate
+*PAR:	oh my goodness &=sighs . [+ exc] 10736_11236
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|goodness .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+%wor:	oh 10736_10777 my 10798_10840 goodness 10861_11236 .
+*PAR:	I don't think I can tell you much of it . [+ exc] 15585_17066
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 aux|can-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 adj|much-S1 adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|7|IOBJ 9|7|OBJ 10|11|CASE 11|9|OBL 12|4|PUNCT
+%wor:	I 15585_15605 don't 15665_15785 think 15805_15965 I 16065_16085 can 16125_16265 tell 16405_16565 you 16606_16686 much 16726_16926 of 16966_17066 it .
+*PAR:	I can't &-uh +... [+ exc] 17427_18171
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I 17427_17446 can't 17446_17807 uh 17887_18171 +...
+*PAR:	oh , the little girl's name was Melanie . 19929_22564
+%mor:	intj|oh cm|cm det|the-Def-Art adj|little-S1 noun|girl~part|s noun|name aux|be-Fin-Ind-Past-S3-irr propn|Melanie .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|7|NMOD-POSS 6|5|CASE 7|9|NSUBJ 8|9|COP 9|9|ROOT 10|9|PUNCT
+%wor:	oh 19929_20309 , the 20770_20850 little 20930_21150 girl's 21210_21570 name 21650_21851 was 21871_21991 Melanie 22091_22564 .
+*PAR:	and she was with her grandfather in the country . 22751_25093
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|with pron|her-Prs-Gen-S3 noun|grandfather adp|in det|the-Def-Art noun|country .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|NMOD-POSS 6|9|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|6|PUNCT
+%wor:	and 22751_22892 she 23032_23112 was 23192_23352 with 23512_23652 her 23672_23772 grandfather 23812_24433 in 24473_24533 the 24553_24633 country 24693_25093 .
+*PAR:	&-uh oh dear that's &-uh +... [+ exc] 26595_28017
+%mor:	intj|oh adj|dear-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|NSUBJ 4|2|COP 5|2|PUNCT
+%wor:	uh 26595_26635 oh 26695_26875 dear 26975_27216 that's 27216_27636 uh 27736_28017 +...
+*PAR:	I can't tell you <any much> [//] any more &=sighs . [+ exc] 37013_39077
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|tell-Inf-S pron|you-Prs-Acc-S2 det|any-Def-Ind adj|more-Cmp-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	I 37013_37033 can't 37033_37233 tell 37273_37433 you 37473_37753 any 37753_37874 much 37954_38134 any 38554_38654 more 38714_39077 .
+*PAR:	oh god . [+ exc]
+%mor:	intj|oh propn|god .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

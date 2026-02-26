@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/a-00090695-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|71;00.|female|Control||Participant|||
+@Media:	086-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	just tell me (.) all the action that you see happening there . 160_3440
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|2|IOBJ 4|6|DET-PREDET 5|6|DET 6|2|OBJ 7|10|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|9|XCOMP 11|10|ADVMOD 12|2|PUNCT
+%wor:	just 160_320 tell 1442_1823 me 1923_1963 all 2003_2625 the 2665_2745 action 2785_3366 that 3426_3440 you see happening there .
+*PAR:	well the boy has climbed up on the stool to get some cookies from the cookie jar . 4188_8722
+%mor:	intj|well det|the-Def-Art noun|boy aux|have-Fin-Ind-Pres-S3 verb|climb-Part-Past-S adp|up adp|on det|the-Def-Art noun|stool part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|11|MARK 11|5|ADVCL 12|13|DET 13|11|OBJ 14|17|CASE 15|17|DET 16|17|COMPOUND 17|11|OBL 18|5|PUNCT
+%wor:	well 4188_4288 the 4288_4348 boy 4348_4549 has 4669_4789 climbed 4849_5290 up 5350_5471 on 5571_5671 the 5711_5791 stool 5931_6332 to 6392_6453 get 6513_6713 some 6793_6954 cookies 7014_7495 from 7635_7775 the 7795_7876 cookie 7916_8196 jar 8236_8722 .
+*PAR:	and he's giving his sister the cookies . 9980_11724
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|his-Prs-Gen-S3 noun|sister det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|NMOD-POSS 6|4|IOBJ 7|8|DET 8|4|OBJ 9|4|PUNCT
+%wor:	and 9980_10080 he's 10080_10200 giving 10260_10501 his 10521_10621 sister 10661_11022 the 11062_11142 cookies 11243_11724 .
+*PAR:	and <she is> [//] she isn't actually eating one but she has <her finger> [//] her hand up to her mouth . 11950_16970
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not adv|actually verb|eat-Part-Pres-S num|one cconj|but pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|16|ROOT 7|6|OBJ 8|10|CC 9|10|NSUBJ 10|6|CONJ 11|12|NMOD-POSS 12|10|OBJ 13|10|COMPOUND-PRT 14|16|CASE 15|16|NMOD-POSS 16|10|OBL 17|6|PUNCT
+%wor:	and 11950_12090 she 12771_12891 is 13071_13291 she 13692_13752 isn't 13832_13992 actually 14072_14333 eating 14393_14673 one 14793_14974 but 15054_15194 she 15274_15334 has 15374_15494 her 15514_15595 finger 15635_15875 her 15915_15995 hand 16035_16235 up 16255_16336 to 16376_16416 her 16416_16516 mouth 16616_16970 .
+*PAR:	but the stool is going to fall over . 17538_19462
+%mor:	cconj|but det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|5|PUNCT
+%wor:	but 17538_17637 the 17657_17717 stool 17758_18038 is 18138_18218 going 18278_18519 to 18539_18599 fall 18699_18979 over 19079_19462 .
+*PAR:	and &-uh the mother is washing the dishes . 21083_25748
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 21083_21483 uh 21523_21563 the 23025_23105 mother 23185_23465 is 23606_23766 washing 24547_25068 the 25108_25188 dishes 25248_25748 .
+*PAR:	she's really wiping a dish . 25856_27006
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|really verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	she's 25856_25956 really 25956_26156 wiping 26256_26636 a 26676_26696 dish 26796_27006 .
+*PAR:	and the sink is running over (th)em . 27097_28836
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over pron|they-Prs-Acc-P3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and 27097_27197 the 27217_27297 sink 27437_27697 is 27797_27897 running 27977_28278 over 28378_28618 (th)em 28618_28836 .
+*PAR:	&-um (.) the dishes are on the sink . 29949_34949
+%mor:	det|the-Def-Art noun|dish-Plur aux|be-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	um 29949_30299 the 33863_33943 dishes 34003_34343 are 34403_34483 on 34483_34583 the 34623_34703 sink 34763_34949 .
+*PAR:	you wanna know that sort of thing ? [+ exc] 35024_36290
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|know-Fin-Ind-Pres-S2 det|that-Def-Dem-Sing noun|sort-Acc adp|of noun|thing-Ger ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+%wor:	you 35024_35104 wanna 35104_35244 know 35244_35364 that 35384_35564 sort 35624_35864 of 35884_35925 thing 35985_36290 ?
+*INV:	no just what [//] everything you +/. 36432_37552
+%mor:	intj|no adv|just pron|everything-Tot-S1 pron|you-Prs-Nom-S2 +/.
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|4|ROOT 4|3|VOCATIVE 5|3|PUNCT
+%wor:	no 36432_36985 just 36985_37166 what 37246_37386 everything 37406_37552 you +/.
+*PAR:	+< just what's goin(g) +//? [+ exc]
+%mor:	adv|just pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S +//?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|AUX 4|2|ACL-RELCL 5|2|PUNCT
+*PAR:	<that's all that I> [/] well , that all that I see . [+ exc] 38467_40148
+%mor:	intj|well cm|cm pron|that-Dem det|all-Def-Tot pron|that-Rel pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|4|PUNCT
+%wor:	that's all that 38467_38547 I 38547_38567 well 38967_39067 , that 39067_39227 all 39388_39528 that 39548_39668 I 39808_39828 see 39828_40148 .
+*INV:	+< mhm okay .
+%mor:	intj|mhm intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*INV:	thank you . 40148_40349
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	thank 40148_40248 you 40288_40349 .
+*PAR:	(..) she's standing in the water too . 44415_46085
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water adv|too .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVMOD 8|3|PUNCT
+%wor:	she's 44415_44577 standing 44617_45022 in 45042_45082 the 45103_45184 water 45265_45649 too 45750_46085 .
+*INV:	okay . 46341_46479
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 46341_46479 .
+@End

@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/a-00090625-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|71;|female|ProbableAD||Participant|13||
+@Media:	705-0, audio
+@G:	Cookie
+*INV:	picture okay ?
+%mor:	noun|picture intj|okay ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	can you tell me now ? 3644_4050
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|IOBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	can 3644_4050 you tell me now ?
+*PAR:	well , this one is in the cookie jar . 6507_8980
+%mor:	intj|well cm|cm det|this-Def-Dem-Sing noun|one aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|4|DET 4|9|NSUBJ 5|9|COP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|9|ROOT 10|9|PUNCT
+%wor:	well 6507_6707 , this 6707_6888 one 7028_7168 is 7248_7468 in 8089_8149 the 8189_8249 cookie 8309_8670 jar 8670_8980 .
+*INV:	mhm . 9420_9510
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 9420_9510 .
+*PAR:	and <this is> [//] she tried to climb the &-uh +... 10753_13757
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|try-Fin-Ind-Past-S3 part|to verb|climb-Inf-S det|the-Def-Art +...
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%wor:	and 10753_10953 this 11253_11454 is 11534_11654 she 12455_12555 tried 12635_12875 to 12895_12955 climb 12996_13296 the 13336_13416 uh 13636_13757 +...
+*PAR:	oh , no [/] no . [+ exc] 15500_16030
+%mor:	intj|oh cm|cm intj|no .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%wor:	oh 15500_15580 , no 15600_15680 no 15780_16030 .
+*PAR:	this boy (.) <I think this is the same one huh> [//] (.) tried to get in the cookie jar . 16922_25704
+%mor:	det|this-Def-Dem-Sing noun|boy verb|try-Fin-Ind-Past-S3 part|to verb|get-Inf-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|3|PUNCT
+%wor:	this 16922_17122 boy 17282_17583 I 21228_21248 think 21288_21468 this 21508_21669 is 21729_21829 the 21869_21929 same 22009_22270 one 22370_22530 huh 22550_22710 tried 24052_24353 to 24373_24433 get 24493_24633 in 24693_24773 the 24793_24873 cookie 24954_25334 jar 25354_25704 .
+*PAR:	and she's watching . 26597_27597
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|watch-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	and 26597_26696 she's 26756_26997 watching 27097_27597 .
+*PAR:	and over here must be the mother . 32220_36100
+%mor:	cconj|and adv|over adv|here aux|must-Fin-S aux|be-Inf-S det|the-Def-Art noun|mother .
+%gra:	1|7|CC 2|3|ADVMOD 3|7|ADVMOD 4|7|AUX 5|7|COP 6|7|DET 7|7|ROOT 8|7|PUNCT
+%wor:	and 32220_32340 over 32400_32620 here 32720_33001 must 35203_35444 be 35484_35564 the 35624_35704 mother 35764_36100 .
+*PAR:	I don't know what the heck they're doin(g) here though . [+ exc] 40932_42554
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 det|the-Def-Art noun|heck pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S adv|here adv|though .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|4|OBJ 6|7|DET 7|5|NSUBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|ADVMOD 12|10|ADVMOD 13|4|PUNCT
+%wor:	I don't 40932_41091 know 41111_41191 what 41211_41311 the 41331_41412 heck 41452_41592 they're 41612_41792 doin(g) 41812_42112 here 42112_42333 though 42433_42554 .
+*INV:	can you tell me something else that's going on over here ? 43054_45160
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|something-Ind-S1 adj|else-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|IOBJ 5|3|OBJ 6|5|AMOD 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|9|COMPOUND-PRT 11|12|CASE 12|9|OBL 13|3|PUNCT
+%wor:	can 43054_43134 you 43134_43214 tell 43214_43354 me 43354_43414 something 43494_43795 else 43835_43975 that's 43975_44175 going 44195_44415 on 44455_44536 over 44596_44776 here 44836_45160 ?
+*PAR:	what's goin(g) on ? [+ exc] 45558_46205
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|3|OBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	what's 45558_45737 goin(g) 45777_46078 on 46078_46205 ?
+*INV:	mhm . 46279_46778
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm 46279_46778 .
+*PAR:	<the stool> [//] she [: he] [* s:r] was climbing and the stool tipped over . 46820_50890
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|climb-Part-Pres-S cconj|and det|the-Def-Art noun|stool verb|tip-Fin-Ind-Past-S3 adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|7|CC 5|6|DET 6|7|NSUBJ 7|3|CONJ 8|7|COMPOUND-PRT 9|3|PUNCT
+%wor:	the 46820_46880 stool 46980_47300 he 47921_48001 was 48281_48401 climbing 48481_48982 and 49683_49783 the 49803_49863 stool 49943_50223 tipped 50303_50564 over 50644_50890 .
+*INV:	okay . 51445_51945
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 51445_51945 .
+*INV:	how (a)bout over here ? 56139_56789
+%mor:	adv|how adp|about adp|over adv|here ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|CASE 4|1|OBL 5|1|PUNCT
+%wor:	how 56139_56210 (a)bout 56210_56390 over 56450_56610 here 56691_56789 ?
+*INV:	is there something else going on over here ? 56911_58433
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|something-Ind-S1 adj|else-S1 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|8|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|3|ACL 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|1|PUNCT
+%wor:	is 56911_56951 there 56951_57071 something 57091_57351 else 57411_57572 going 57592_57792 on 57832_57932 over 57992_58152 here 58212_58433 ?
+*PAR:	she was doin(g) the dishes , I think . 62252_64273
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|PUNCT 7|8|NSUBJ 8|3|PARATAXIS 9|3|PUNCT
+%wor:	she 62252_62352 was 62412_62532 doin(g) 62592_62932 the 62932_63032 dishes 63032_63272 , I 63332_63352 think 63773_64273 .
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	she spilled something . 66554_67554
+%mor:	pron|she-Prs-Nom-S3 verb|spill-Fin-Ind-Past-S3 pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	she 66554_66674 spilled 66735_67075 something 67115_67554 .
+*INV:	okay that's fine . 75160_75681
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	okay that's 75160_75400 fine 75480_75681 .
+@End

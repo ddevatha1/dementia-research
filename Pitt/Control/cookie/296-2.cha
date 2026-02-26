@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/a-00090846-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|60;|female|Control||Participant|30||
+@Media:	296-2, audio
+@G:	Cookie
+*INV:	tell me everything that you see happening in that picture . 410_1991
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|10|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	tell 410_550 me 550_690 everything 1150_1991 that you see happening in that picture .
+*INV:	everything that you see going on .
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+*PAR:	alright . [+ exc]
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	boy is getting into the cookie jar . [+ gram] 6334_7928
+%mor:	noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+%wor:	boy 6334_6554 is 6614_6714 getting 6794_7034 into 7074_7234 the 7274_7354 cookie 7414_7715 jar 7735_7928 .
+*PAR:	he's got one in his hand . 8015_8980
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr num|one adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+%wor:	he's 8015_8115 got 8155_8275 one 8355_8435 in 8475_8535 his 8555_8675 hand 8715_8980 .
+*PAR:	the stool is falling over as he's reaching for the cookies . 9196_13278
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|over sconj|as pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|4|COMPOUND-PRT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+%wor:	the 9196_9316 stool 9476_9916 is 10016_10116 falling 10216_10617 over 10697_10977 as 11237_11377 he's 11457_11737 reaching 12098_12438 for 12478_12618 the 12658_12718 cookies 12778_13278 .
+*PAR:	the girl is laughing at him . 14354_17234
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	the 14354_14434 girl 14474_14794 is 16095_16235 laughing 16395_16795 at 16875_16975 him 16995_17234 .
+*PAR:	mother is s:tanding by the kitchen sink drying dishes . 18857_24660
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|by det|the-Def-Art noun|kitchen noun|sink noun|drying-Ger noun|dish-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|9|CASE 5|9|DET 6|9|COMPOUND 7|9|COMPOUND 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+%wor:	mother 18857_19137 is 19297_19417 standing 19817_20778 by 20818_20998 the 21058_21138 kitchen 21458_21779 sink 21979_22299 drying 23620_24080 dishes 24160_24660 .
+*PAR:	the water is on and <it is:> [//] the sink is spilling over . 25760_30990
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 adv|on cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|10|ROOT 5|9|CC 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|CONJ 10|9|ADVMOD 11|4|PUNCT
+%wor:	the 25760_25880 water 26300_26640 is 26760_26880 on 27080_27520 and 27901_28361 it 28441_28521 is 28581_28741 the 29561_29642 sink 29722_29962 is 30022_30122 spilling 30182_30602 over 30722_30990 .
+*PAR:	there is &-uh a window over the sink which shows a [/] a yard . 33164_39346
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window adp|over det|the-Def-Art noun|sink pron|which-Rel-S1 verb|show-Fin-Ind-Pres-S3 det|a-Ind-Art noun|yard-Acc .
+%gra:	1|2|EXPL 2|11|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|NSUBJ 9|4|ACL-RELCL 10|11|DET 11|9|OBJ 12|2|PUNCT
+%wor:	there 33164_33403 is 33544_33804 uh 34284_35144 a 35144_35164 window 35244_35585 over 35685_35885 the 35945_36025 sink 36165_36425 which 36565_36765 shows 36825_37185 a 37285_37305 a 38706_38726 yard 38846_39346 .
+*PAR:	there are curtains . 40361_41141
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur .
+%gra:	1|2|EXPL 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	there 40361_40481 are 40481_40541 curtains 40641_41141 .
+*PAR:	there are looks like two cups and a plate on the sink . 42980_48900
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 verb|look-Fin-Ind-Pres-S3 adp|like num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|12|ROOT 3|2|XCOMP 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|9|CC 8|9|DET 9|6|CONJ 10|12|CASE 11|12|DET 12|9|NMOD 13|2|PUNCT
+%wor:	there 42980_43163 are 43223_43343 looks 45745_45945 like 45985_46185 two 46225_46385 cups 46485_46866 and 47206_47326 a 47366_47386 plate 47486_47866 on 48086_48207 the 48267_48347 sink 48467_48900 .
+*PAR:	&-uh there's a set of kitchen cabinets . 50233_54571
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|set adp|of noun|kitchen noun|cabinet-Plur .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|COMPOUND 7|4|NMOD 8|2|PUNCT
+%wor:	uh 50233_50548 there's 52590_52790 a 52850_52870 set 52970_53130 of 53170_53250 kitchen 53671_53971 cabinets 54071_54571 .
+*PAR:	and the mother has on an apron and a sleeveless dress . 57100_59885
+%mor:	cconj|and det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|apron cconj|and det|a-Ind-Art adj|sleeveless-S1 noun|dress .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|11|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|CC 9|11|DET 10|11|AMOD 11|7|CONJ 12|4|PUNCT
+%wor:	and 57100_57160 the 57160_57220 mother 57260_57501 has 57541_57761 on 57841_58002 an 58062_58162 apron 58222_58543 and 58603_58704 a 58764_58784 sleeveless 58864_59325 dress 59385_59885 .
+*PAR:	&-um (.) &-eh (..) the girl has on a &+s dress or a skirt and blouse . 68116_72802
+%mor:	det|the-Def-Art noun|girl verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|dress cconj|or det|a-Ind-Art noun|skirt cconj|and noun|blouse .
+%gra:	1|2|DET 2|3|NSUBJ 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CC 8|9|DET 9|6|CONJ 10|11|CC 11|9|CONJ 12|3|PUNCT
+%wor:	um 68116_69077 eh 69178_69218 the 69218_69298 girl 69338_69558 has 69618_69818 on 69899_69999 a 70099_70119 dress 71441_71701 or 71761_71841 a 71841_71861 skirt 71922_72162 and 72182_72282 blouse 72302_72802 .
+*PAR:	the boy looks like he's got on short trousers and a shirt with a sweater . 73644_80034
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adp|on adj|short-S1 noun|trousers-Plur cconj|and det|a-Ind-Art noun|shirt adp|with det|a-Ind-Art noun|sweater .
+%gra:	1|2|DET 2|3|NSUBJ 3|16|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|10|CASE 9|10|AMOD 10|7|OBL 11|13|CC 12|13|DET 13|10|CONJ 14|16|CASE 15|16|DET 16|13|NMOD 17|3|PUNCT
+%wor:	the 73644_73664 boy 73704_73884 looks 73925_74105 like 74125_74325 he's 74345_74485 got 74525_74726 on 74826_75026 short 75947_76168 trousers 76208_76949 and 77149_77550 a 77650_77670 shirt 78752_78992 with 79072_79232 a 79272_79292 sweater 79553_80034 .
+*PAR:	cookie jar is full o(f) cookies . [+ gram] 83406_85208
+%mor:	noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|full-S1 adp|of noun|cookie-Plur .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	cookie 83406_83706 jar 83706_83987 is 84007_84087 full 84367_84568 o(f) 84608_84708 cookies 84708_85208 .
+*PAR:	the lid is off . 85307_86077
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adv|off .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	the 85307_85369 lid 85470_85630 is 85670_85770 off 85870_86077 .
+*PAR:	that's it ! [+ exc] 92024_92364
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 !
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 92024_92323 it 92323_92364 !
+@End

@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/a-00090393-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@Options:	bullets
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|74;|female|ProbableAD||Participant|24||
+@Media:	094-1, audio
+@G:	Cookie
+*INV:	okay here's the picture . 1260_2481
+%mor:	intj|okay adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	okay 1260_1540 here's 1540_1781 the 1821_1901 picture 1981_2481 .
+*INV:	just tell me all of the action +/. 2774_4064
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action +/.
+%gra:	1|2|ADVMOD 2|7|ROOT 3|2|IOBJ 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	just 2774_2862 tell 2882_3043 me 3083_3143 all 3223_3323 of 3403_3483 the 3503_3584 action 3744_4064 +/.
+*PAR:	+< and I will tell you what's &+g +/. [+ exc] 3944_4566
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|will-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|IOBJ 6|4|OBJ 7|4|CCOMP 8|4|PUNCT
+%wor:	and 3944_4004 I 4004_4024 will 4044_4144 tell 4144_4245 you 4245_4305 what's 4305_4566 +/.
+*INV:	what's going on in the picture ? 5087_6401
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	what's 5087_5326 going 5346_5647 on 5707_5807 in 5887_5947 the 5968_6028 picture 6088_6401 ?
+*PAR:	oh boy . [+ exc] 6909_7150
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh boy 6909_7150 .
+*PAR:	well , the little boy is reaching for a cookie .
+%mor:	intj|well cm|cm det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*PAR:	and his &+s stool is fallin(g) over . 14372_15461
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and 14372_14452 his 14452_14552 stool 14572_14692 is 14692_14752 fallin(g) 14812_15013 over 15013_15461 .
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR:	and the little girl is beggin(g) him to give her one . 18200_19340
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|begg-Part-Pres-S pron|he-Prs-Acc-S3 part|to verb|give-Inf-S pron|her-Prs-Acc-S3 num|one .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|6|OBJ 8|9|MARK 9|6|XCOMP 10|9|IOBJ 11|9|OBJ 12|6|PUNCT
+%wor:	and the little girl is beggin(g) him 18200_18279 to 18379_18500 give 18560_18700 her 18700_18820 one 18840_19340 .
+*PAR:	and she's pointin(g) to her mouth .
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|point-Part-Pres-S adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*PAR:	she wants to eat it . 25573_26073
+%mor:	pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|eat-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%wor:	she wants to eat it 25573_26073 .
+*PAR:	&-uh their mama is doin(g) the dishes . 29209_30190
+%mor:	pron|their-Prs-Gen-P3 noun|mama aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	uh 29209_29249 their 29249_29369 mama 29369_29609 is 29629_29669 doin(g) 29669_29810 the 29810_29870 dishes 29870_30190 .
+*PAR:	the water's runnin(g) over the sink . 30896_31251
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the water's runnin(g) over 30896_30951 the 30951_31251 sink .
+*PAR:	that's a mess .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mess .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*INV:	hm . 39741_39782
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hm 39741_39782 .
+*PAR:	and then she's not even lookin(g) at them . 40700_43970
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|even verb|look-Part-Pres-S adp|at pron|they-Prs-Acc-P3 .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|9|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+%wor:	and 40700_42862 then 42862_43002 she's 43062_43263 not 43263_43403 even 43423_43523 lookin(g) 43523_43970 at them .
+*PAR:	dryin(g) dishes . [+ gram] 46858_47246
+%mor:	verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	dryin(g) dishes 46858_47246 .
+*PAR:	I think she's lookin(g) out the window . 51171_51671
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|2|PUNCT
+%wor:	I think she's lookin(g) out the window 51171_51671 .
+*PAR:	it's a nice yard out there . 53765_54395
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|yard adp|out adv|there .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|5|ADVMOD 7|5|ADVMOD 8|5|PUNCT
+%wor:	it's a nice yard 53765_53774 out 53774_53994 there 54034_54395 .
+*PAR:	two cups and [/] and a dish finished . [+ gram]
+%mor:	num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish verb|finish-Fin-Ind-Past-S3 .
+%gra:	1|2|NUMMOD 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|6|ROOT 7|6|PUNCT
+*INV:	www .
+*PAR:	xxx anything else ? [+ exc]
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*INV:	no that looks pretty good . 71516_72558
+%mor:	intj|no pron|that-Rel verb|look-Fin-Ind-Pres-S3 adv|pretty adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+%wor:	no 71516_71556 that 71596_71716 looks 71736_71917 pretty 71917_72197 good 72257_72558 .
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+@End
